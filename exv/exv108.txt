@@ -2,23 +2,23 @@
 
 //Hyuga !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Je te la passe !<END>
+//I'll pass it to you !<END>
 
-//Je dois y aller !<END>
+//I have to go !<END>
 
-//C'est ta chance, Hyuga !<END>
+//It's your chance, Hyuga !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Admire le spectacle !<END>
+//Admire the show !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
