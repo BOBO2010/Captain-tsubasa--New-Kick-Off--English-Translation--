@@ -1,41 +1,41 @@
 // FILE: exv337.str containing 14 strings
 
-//Finissons-en !<END>
+//Let's end this !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Attrape-moi si tu peux !<END>
+//Catch me if you can !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Admire le spectacle !<END>
+//Admire the show !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
 //Fire !<END>
 
 //Ah !<END>
 
-//Non-fire !<END>
+//Anti-fire !<END>
 
-//Prépare-toi !<END>
+//Get ready !<END>
 
-//Je ne te laisserai pas passer !<END>
+//I won't let you pass !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Ne t'imagine pas que tu vas<LINE>
-//pouvoir passer si facilement !<END>
+//Don't you think that you<LINE>
+//can pass this easy !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
