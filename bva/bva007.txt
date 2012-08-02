@@ -1,105 +1,105 @@
 // FILE: bva007.str containing 54 strings
 
-//Allez !<END>
+//Come on !<END>
 
-//Prépare-toi !<END>
+//Get ready !<END>
 
-//Admire le travail !<END>
+//Admire the work !<END>
 
-//Tiens !<END>
+//Here you go !<END>
 
-//Admire le spectacle !<END>
+//Admire the show !<END>
 
-//Allez !<END>
+//Come on !<END>
 
-//Laisse-moi passer !<END>
+//Let me pass !<END>
 
-//Admire le travail !<END>
+//Admire the work !<END>
 
-//Amène-toi !<END>
+//Bring yourself !<END>
 
-//Je ne le laisserai pas entrer !<END>
+//I won't let him in !<END>
 
-//Oh non, tu rêves !<END>
+//Oh no, you're dreaming !<END>
 
-//Admire le spectacle !<END>
+//Admire the show !<END>
 
-//C'est fini !<END>
+//It's over !<END>
 
-//Admire le spectacle !<END>
+//Admire the show !<END>
 
-//Je l'ai !<END>
+//I have it !<END>
 
-//Prépare-toi !<END>
+//Get ready !<END>
 
-//Tu n'iras pas plus loin !<END>
+//You won't go any further !<END>
 
-//Je l'ai !<END>
+//I have it !<END>
 
-//je dois l'arrêter !<END>
+//I have to stop it !<END>
 
-//C'est fini !<END>
+//It's over !<END>
 
-//Je vais l'arrêter !<END>
+//I will stop it !<END>
 
-//Oui !<END>
+//Yes !<END>
 
 //Cool !<END>
 
-//Qu'est-ce que tu dis de ça ?<END>
+//What do you say of this ?<END>
 
 //Oh...<END>
 
 //!!!<END>
 
-//Non !<END>
+//No !<END>
 
-//Laissez-moi faire !<END>
+//Let me do it !<END>
 
-//Prends ça !<END>
-
-//Aaaarrrrgh !<END>
-
-//C'est pour toi !<END>
-
-//Admire le spectacle !<END>
-
-//Je dois l'avoir !<END>
-
-//Laisse-moi passer !<END>
-
-//J'y vais !<END>
-
-//Tu ne l'auras pas !<END>
-
-//Je ne le laisserai pas entrer !<END>
-
-//Je ne laisserai pas ça<LINE>
-//arriver !<END>
+//Take this !<END>
 
 //Aaaarrrrgh !<END>
 
-//Je ne la laisserai pas passer !<END>
+//It's for you !<END>
 
-//Je dois l'avoir !<END>
+//Admire the show !<END>
 
-//je dois l'arrêter !<END>
+//I have to have it !<END>
 
-//Prends ça !<END>
+//Let me pass !<END>
 
-//Tu ne passeras pas !<END>
+//I'm going !<END>
+
+//You won't have it !<END>
+
+//I won't let him in !<END>
+
+//I won't let this<LINE>
+//happen !<END>
 
 //Aaaarrrrgh !<END>
 
-//je dois l'arrêter !<END>
+//I won't let it pass !<END>
 
-//Je ne le laisserai pas entrer !<END>
+//I have to have it !<END>
+
+//I have to stop it !<END>
+
+//Take this !<END>
+
+//You won't pass !<END>
 
 //Aaaarrrrgh !<END>
 
-//Oui !<END>
+//I have to stop it !<END>
 
-//J'ai réussi !<END>
+//I won't let him in !<END>
+
+//Aaaarrrrgh !<END>
+
+//Yes !<END>
+
+//I made it !<END>
 
 //Ah !<END>
 
@@ -107,5 +107,5 @@
 
 //Grrr....<END>
 
-//Quoi ? C'est pas vrai...<END>
+//What ? That's impossible...<END>
 
