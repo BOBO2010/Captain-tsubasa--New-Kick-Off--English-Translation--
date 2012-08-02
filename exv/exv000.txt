@@ -1,16 +1,16 @@
 // FILE: exv000.str containing 4 strings
 
-//Tout va bien.<LINE>
-//Je n'ai pas peur !<END>
+//Every thing is alright.<LINE>
+//I am not afraid !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//J'aimerais au moins toucher<LINE>
-//le ballon !<END>
+//I'd like at least to<LINE>
+//touch the ball !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
