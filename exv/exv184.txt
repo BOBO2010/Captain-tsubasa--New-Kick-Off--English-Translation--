@@ -1,15 +1,15 @@
 // FILE: exv184.str containing 4 strings
 
-//Allez, on se bouge !<END>
+//Come on, move it !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Personne ne peut battre<LINE>
-//ma technique !<END>
+//Nobody can defeate<LINE>
+//my technique !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
