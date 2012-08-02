@@ -840,15 +840,15 @@
 
 //DUMMY_F<END>
 
-//Attaque<END>
+//Attack<END>
 
-//Défense<END>
+//Defense<END>
 
-//Force<END>
+//Strength<END>
 
-//Physique<END>
+//Physics<END>
 
-//Vitesse<END>
+//Speed<END>
 
 //Technique<END>
 
@@ -858,50 +858,46 @@
 
 //Dribble<END>
 
-//PASSE<END>
+//PASS<END>
 
-//TIR<END>
+//SHOOT<END>
 
-//Équilibre<END>
+//Balance<END>
 
 //SP<END>
 
-//CRAMPONS<END>
+//STUDS<END>
 
-//GANTS<END>
+//GLOVES<END>
 
-//OBJET 1<END>
+//OBJECT 1<END>
 
-//OBJET 2<END>
+//OBJECT 2<END>
 
-//COUP FRANC<END>
+//FREE KICK<END>
 
 //PENALTYS<END>
 
-//CORNER<END>
+//CORNER KICK<END>
 
-//TOUCHE<END>
+//THROW IN<END>
 
-//Choisissez votre nom.<END>
+//Pick your name.<END>
 
-//Joue un match amical.<END>
+//Play a friendly match.<END>
 
-//Change la formation de l'équipe<LINE>
-//et la stratégie.<END>
+//Change team formation<LINE>
+//and strategy.<END>
 
-//Édite le personnage.<END>
+//Character Edit.<END>
 
-//Retourne à l'écran principal.<END>
-
-//DUMMY_F<END>
-
-//Sauvegarde la partie en cours.<END>
-
-//Charge les données.<END>
+//Return to main screen.<END>
 
 //DUMMY_F<END>
 
-//DUMMY_F<END>
+//Save the current party.<END>
+
+//Load data.<END>
 
 //DUMMY_F<END>
 
@@ -923,87 +919,91 @@
 
 //DUMMY_F<END>
 
-//HISTOIRE "JR. YOUTH"<END>
+//DUMMY_F<END>
 
-//HISTOIRE "TOHO"<END>
+//DUMMY_F<END>
 
-//HISTOIRE "FURANO"<END>
+//"JR. YOUTH" EPISODE<END>
 
-//HISTOIRE "MUSASHI"<END>
+//"TOHO" EPISODE<END>
 
-//HISTOIRE "JE SUIS CAPITAINE"<END>
+//"FURANO" EPISODE<END>
 
-//Non<END>
+//"MUSASHI" EPISODE<END>
 
-//Mon ami, le ballon<END>
+//"I AM CAPTAIN" EPISODE<END>
 
-//Mur corporel<END>
+//No<END>
 
-//Mur de fer<END>
+//My friend, the ball<END>
+
+//Physical Wall<END>
+
+//Wall of steel<END>
 
 //Power defense<END>
 
-//Dribble sur ligne<END>
+//Dribble on lign<END>
 
-//Super longue tête<END>
+//Super long head<END>
 
-//Tête jet<END>
+//Jet head<END>
 
-//But à tout prix<END>
+//Goal no matter what<END>
 
-//Trio de Shutetsu<END>
+//Shutetsu Trio<END>
 
 //Drive pass<END>
 
 //Heel lift<END>
 
-//Dribble brésilien<END>
+//Brazillian Dribble<END>
 
-//Vélo retourné<END>
+//Face down bicycle<END>
 
 //Drive shoot<END>
 
 //Drive overhead<END>
 
-//Dribble artistique<END>
+//Artistic dribble<END>
 
-//Embuscade imprévue<END>
+//Unexpected ambush<END>
 
-//Blocage de face<END>
+//Block face<END>
 
-//Le Quartet d'Otomo<END>
+//Otomo's Quartet<END>
 
-//Tir du faucon<END>
+//Hawk shoot<END>
 
 //Speedy<END>
 
 //Killer pass<END>
 
-//Passe rapide<END>
+//Fast pass<END>
 
-//Prince du terrain<END>
+//Prince of the field<END>
 
-//Tir de verre<END>
+//Glass shoot<END>
 
-//Interception ailée<END>
+//Winged interception<END>
 
-//Tête en force<END>
+//Head strength<END>
 
-//Dribble forcé<END>
+//Forced dribble<END>
 
-//Dribble technique<END>
+//Technical Dribble<END>
 
 //Kamikaze shoot<END>
 
 //Kamikaze check<END>
 
-//Passe en rasoir<END>
+//Razoz pass<END>
 
-//Tir en rasoir<END>
+//Razor shoot<END>
 
 //Snake block<END>
 
-//Tacle en rasoir<END>
+//Razor tackle<END>
 
 //Skylab shoot<END>
 
@@ -1015,45 +1015,45 @@
 
 //Backspin pass<END>
 
-//Tir en force<END>
+//Shoot strength<END>
 
-//Dribble en force<END>
+//Dribble strength<END>
 
-//Comme une plume<END>
+//Like a feather<END>
 
-//Tête surprise<END>
+//Surprise head<END>
 
-//Prise rapide<END>
+//Quick setting<END>
 
-//Âme de Furano<END>
+//Furano's spirit<END>
 
-//Passe de l'aigle<END>
+//Eagle pass<END>
 
-//Garde du ballon<END>
+//Guard of the ball<END>
 
 //Eagle shot<END>
 
-//Tir glacé<END>
+//Ice shot<END>
 
-//Interception glace<END>
+//Ice Interception<END>
 
-//Faux tacle<END>
+//Wrong tackle<END>
 
-//Décision calme<END>
+//Calm decision<END>
 
-//Saut en triangle<END>
+//Triangle assault<END>
 
 //Tégatana defense<END>
 
 //Shoken defense<END>
 
-//Cp de pied mirage<END>
+//Mirage kick<END>
 
-//Étoile filante<END>
+//Shooting star<END>
 
 //Tiger pass<END>
 
-//Dribble en ligne<END>
+//Dribble on lign<END>
 
 //Tiger shot<END>
 
@@ -1061,85 +1061,83 @@
 
 //Sliding tiger<END>
 
-//Le duo de Toho<END>
+//Toho's duo<END>
 
-//Petit technicien<END>
+//Little technician<END>
 
-//Milieu né<END>
+//Middle born<END>
 
 //Fire shot<END>
 
 //SGGK<END>
 
-//Bras-droit en or<END>
+//Golden right arm<END>
 
-//Tir éclair<END>
+//Lightning shot<END>
 
-//Preuve de génie<END>
+//Proof of genius<END>
 
-//Tir banane<END>
+//Banana shot<END>
 
-//Tir acrobatique<END>
+//Freestyle shot<END>
 
-//Bloc acrobatique<END>
+//Freestyle block<END>
 
 //Cissors tackle<END>
 
-//Dribble géant<END>
+//Giant dribble<END>
 
-//Blocage mural<END>
+//Wall blocking<END>
 
-//Coup en l'air<END>
+//Shot in the air<END>
 
 //Canon shoot<END>
 
-//Dribble élégant<END>
+//Elegant dribble<END>
 
 //Slider shoot<END>
 
-//Tacle élégant<END>
+//elegant tackle<END>
 
-//Attaque Eiffel<END>
+//Eiffel attack<END>
 
-//Tête napalm<END>
+//Napalm head<END>
 
-//Tir napalm<END>
+//Napalm shoot<END>
 
-//Dribble mirage<END>
+//Mirage dribble<END>
 
 //Non-fire shot<END>
 
-//Blocage impérial<END>
+//Imperial blocking<END>
 
-//Tacle impérial<END>
+//Imperial tackle<END>
 
-//Passe roulante<END>
+//Rolling pass<END>
 
-//Glissade princière<END>
+//Princely slip<END>
 
-//Tacle en flèche<END>
+//Arrow tackle<END>
 
-//Dribble hérisson<END>
+//Hedgehog dribble<END>
 
 //Lobbing shoot<END>
 
-//Géant de fer<END>
+//Steel giant<END>
 
 //Over throw catch<END>
 
-//Blocage éclair<END>
+//Lightning block<END>
 
-//Passe laser<END>
+//Laser pass<END>
 
-//Changement éclair<END>
+//Lightning switch<END>
 
-//Tir laser<END>
+//Laser shoot<END>
 
-//Super réaction<END>
+//Super reaction<END>
 
-//À l'attaque<END>
-
-//Twin shoot<END>
+//Open fire<END>
 
 //Twin shoot<END>
 
@@ -1149,7 +1147,9 @@
 
 //Twin shoot<END>
 
-//La paire en or<END>
+//Twin shoot<END>
+
+//Golden pair<END>
 
 //Nankatsu<END>
 
@@ -1183,1011 +1183,1007 @@
 
 //Minamiuwa<END>
 
-//Japon<END>
+//Japan<END>
 
-//Japon<END>
+//Japan<END>
 
-//Japon<END>
+//Japan<END>
 
 //Naniwa<END>
 
 //Nakahara<END>
 
-//FC Allemagne<END>
+//FC Germany<END>
 
-//Angleterre<END>
+//England<END>
 
 //Uruguay<END>
 
-//Italie<END>
+//Italy<END>
 
-//Argentine<END>
+//Argentina<END>
 
 //France<END>
 
-//Allemagne<END>
+//Germany<END>
 
-//Passe<END>
+//Pass<END>
 
 //Interception<END>
 
-//Égal<END>
+//Tie<END>
 
-//Blocage<END>
+//Blocking<END>
 
-//Tir<END>
+//Shoot<END>
 
-//Japon<END>
+//Japan<END>
 
-//Japon<END>
+//Japan<END>
 
-//Japon<END>
+//Japan<END>
 
-//Yoichi d'or<END>
+//Golden Yoichi<END>
 
-//Commencer une histoire.<END>
+//Begin an episode.<END>
 
-//Reprendre une partie sauvegardée.<END>
+//Resume a saved party.<END>
 
-//Reprendre la partie interrompue.<END>
+//Resume suspended party.<END>
 
-//Force du gardien<END>
+//GoalKick strength<END>
 
-//Tueur de champions<END>
+//Champions slayer<END>
 
-//Comique<END>
+//Humoristic<END>
 
-//Dévoreur de grands<END>
+//The great Devourer<END>
 
-//Contre-attaque<END>
+//Counter-attack<END>
 
-//Panthère<END>
+//Panther<END>
 
-//Charisme<END>
+//Charisma<END>
 
-//Magnifique prince<END>
+//Magnificent prince<END>
 
-//Rien que l'attaque<END>
+//Nothing but attack<END>
 
-//À l'attaque !<END>
+//To attack !<END>
 
-//Règne royal<END>
+//Royal reign<END>
 
 //Encouragement<END>
 
-//Pression muette<END>
+//Mute pression<END>
 
-//Gardien<END>
+//Goalkick<END>
 
-//En défense !<END>
+//To defense !<END>
 
-//Défense absolue<END>
+//Absolute defense<END>
 
-//Tigre rugissant<END>
+//Roaring Tigre<END>
 
-//Un génie est là<END>
+//A genie is here<END>
 
-//Malin<END>
+//Smart<END>
 
 //Avalanche<END>
 
-//Attaque rapide<END>
+//Fast attack<END>
 
-//Artiste du terrain<END>
+//Field artist<END>
 
-//Football physique<END>
+//Physical football<END>
 
-//Tyran<END>
+//Titan<END>
 
-//Tous en défense<END>
+//All towards defense<END>
 
-//Non<END>
+//No<END>
 
-//Crampons Force<END>
+//Strength Cleats<END>
 
-//Crampons Vitesse<END>
+//Speed Cleats<END>
 
-//Crampons Technique<END>
+//Thechnique Cleats<END>
 
-//Crampons Endurance<END>
+//Endurance Cleats<END>
 
-//Crampons Dribble<END>
+//Dribble Cleats<END>
 
-//Crampons Passe<END>
+//Pass Cleats<END>
 
-//Crampons Tir<END>
+//Shooting Cleats<END>
 
-//Crampons Équilibre<END>
+//Balance Cleats<END>
 
-//Crampons Force+<END>
+//Strength+ Cleats<END>
 
-//Crampons Vitesse+<END>
+//Speed+ Cleats<END>
 
-//Crampons Technique+<END>
+//Thechnique+ Cleats<END>
 
-//Crampons Endurance+<END>
+//Endurance+ Cleats<END>
 
-//Crampons Dribble+<END>
+//Dribble+ Cleats<END>
 
-//Crampons Passe+<END>
+//Pass+ Cleats<END>
 
-//Crampons Tir+<END>
+//Shooting+ Cleats<END>
 
-//Crampons Équilibre+<END>
+//Balance+ Cleats<END>
 
-//Crampons Tir puissant<END>
+//Powerful shooting Cleats<END>
 
-//Crampons Super dribble<END>
+//Super dribble Cleats<END>
 
-//Crampons Passe tech.<END>
+//Pass tech. Cleats<END>
 
-//Crampons Endur. Équi.<END>
+//Endur. Balance Cleats<END>
 
-//Crampons Tir puissant+<END>
+//Powerful shooting+ Cleats<END>
 
-//Crampons Sup. dribble+<END>
+//Super dribble+ Cleats<END>
 
-//Crampons Passe tech.+<END>
+//Pass tech.+ Cleats<END>
 
-//Gants Défense<END>
+//Defense Gloves<END>
 
-//Gants Arrêt<END>
+//Stop Gloves<END>
 
-//Gants Parade<END>
+//Parry Gloves<END>
 
-//Gants Sortie<END>
+//Out Gloves<END>
 
-//Gants Garde<END>
+//Guard Gloves<END>
 
-//Gants Défense+<END>
+//Defense+ Gloves<END>
 
-//Gants Arrêt+<END>
+//Stop+ Gloves<END>
 
-//Gants Parade+<END>
+//Parry+ Gloves<END>
 
-//Gants Sortie+<END>
+//Out+ Gloves<END>
 
-//Gants Garde+<END>
+//Guard+ Gloves<END>
 
-//Gants Défense Arrêt<END>
+//Def. Stop Gloves<END>
 
-//Gants Défense Parade<END>
+//Def. Parry Gloves<END>
 
-//Gants Défense Sortie<END>
+//Def. Out Gloves<END>
 
-//Gants Défense Garde<END>
+//Def. Guard Gloves<END>
 
-//Gants Arrêt Parade+<END>
+//Stop Parry+ Gloves<END>
 
-//Gants Sortie Garde+<END>
+//Out Guard+ Gloves<END>
 
-//Gants Arrêt Parade<END>
+//Stop Parry Gloves<END>
 
-//Gants Sortie Garde<END>
+//Out Guard Gloves<END>
 
-//Bracelet Attaque<END>
+//Attack Bracelet<END>
 
-//Bracelet Défense<END>
+//Defense Bracelet<END>
 
-//Bracelet Tir<END>
+//Shooting Bracelet<END>
 
-//Bracelet Physique<END>
+//Physics Bracelet<END>
 
-//Bracelet Mental<END>
+//Mental Bracelet<END>
 
-//Bracelet SP<END>
+//SP Bracelet<END>
 
-//Bracelet Attaque+<END>
+//Attack+ Bracelet<END>
 
-//Bracelet Défense+<END>
+//Defense+ Bracelet<END>
 
-//Bracelet Tir+<END>
+//Shooting+ Bracelet<END>
 
-//Bracelet Physique+<END>
+//Physics+ Bracelet<END>
 
-//Bracelet Mental+<END>
+//Mental+ Bracelet<END>
 
-//Bracelet SP+<END>
+//SP+ Bracelet<END>
 
-//Bracelet Phys. Ment.<END>
+//Phys. Ment. Bracelet<END>
 
-//Bracelet Défense SP<END>
+//Defense SP Bracelet<END>
 
-//Bracelet Attaque SP<END>
+//Attack SP Bracelet<END>
 
-//Bracelet Attaq. Phys.<END>
+//Atk. Phys. Bracelet<END>
 
-//Bracelet Déf. Phys.<END>
+//Def. Phys. Bracelet<END>
 
-//Bracelet Attaque SP+<END>
+//Attack SP+ Bracelet<END>
 
-//Bracelet Défense SP+<END>
+//Defense SP+ Bracelet<END>
 
-//Bracelet Phys. Ment.+<END>
+//Phys. Ment.+ Bracelet<END>
 
-//Bracelet Attaq. Déf.<END>
+//Atk. Def. Bracelet<END>
 
-//Bandeau Endurance<END>
+//Endurance Headband<END>
 
-//Bandeau Mental<END>
+//Mental Headband<END>
 
-//Bandeau SP<END>
+//SP Headband<END>
 
-//Bandeau Endurance+<END>
+//Endurance+ Headband<END>
 
-//Bandeau Mental+<END>
+//Mental+ Headband<END>
 
-//Bandeau SP+<END>
+//SP+ Headband<END>
 
-//Bandeau Mental SP<END>
+//Mental SP Headband<END>
 
-//Bandeau Endur. Ment.<END>
+//Endur. Ment. Headband<END>
 
-//Bandeau Endurance SP<END>
+//Endurance SP Headband<END>
 
-//Bandeau Mental SP+<END>
+//Mental SP+ Headband<END>
 
-//Protège-tibias Dribble<END>
+//Dribble Shinguards<END>
 
-//P-tibias Physique<END>
+//Physical Shinguards<END>
 
-//P-tibias Équilibre<END>
+//Balance Shinguards<END>
 
-//P-tibias Dribble+<END>
+//Dribble+ Shinguards<END>
 
-//P-tibias Physique+<END>
+//Physique+ Shinguards<END>
 
-//P-tibias Équilibre+<END>
+//Équilibre+ Shinguards<END>
 
-//P-tibias Drib. Équi.<END>
+//Drib. Équi. Shinguards<END>
 
-//P-tibias Phys. Équi.<END>
+//Phys. Équi. Shinguards<END>
 
-//Gri-gri Passe<END>
+//Pass Amulet<END>
 
-//Collier SP<END>
+//SP Necklace<END>
 
-//Gri-gri Recouvrement<END>
+//Restoration Amulet<END>
 
-//Bague Tir<END>
+//Shooting ring<END>
 
-//Bague Dribble<END>
+//Dribble Ring<END>
 
-//Bague Passe<END>
+//Pass Ring<END>
 
-//Bague Coup spécial<END>
+//SP move Ring<END>
 
-//Gri-gri Passe+<END>
+//Pass+ Amulet<END>
 
-//Collier SP+<END>
+//SP+ Necklace<END>
 
-//Gri-gri Recouvrement+<END>
+//Restoration+ Amulet<END>
 
-//Bague Tir+<END>
+//Shooting+ ring<END>
 
-//Bague Dribble+<END>
+//Dribble+ Ring<END>
 
-//Bague Passe+<END>
+//Pass+ Ring<END>
 
-//Bague Coup spécial+<END>
+//SP move+ Ring<END>
 
-//Bague Héros<END>
+//Hero's Ring<END>
 
-//Gri-gri Assaut<END>
+//Assault Amulet<END>
 
-//Gri-gri Esquive<END>
+//Dodge Amulet<END>
 
-//Gri-gri Assistant<END>
+//Assistant Amulet<END>
 
-//Crampons étranges<END>
+//Strange Cleats<END>
 
-//Crampons de rapidité<END>
+//Agility Cleats<END>
 
-//Crampons spéciaux<END>
+//Special Cleats<END>
 
-//Crampons plats<END>
+//Flat Cleats<END>
 
-//Crampons de tir<END>
+//Shooting Cleats<END>
 
-//Crampons sans limites<END>
+//Limitless Cleats<END>
 
-//Crampons talentueux<END>
+//Talent Cleats<END>
 
-//Crampons robustes<END>
+//Robust Cleats<END>
 
-//Gants Arrêt+<END>
+//Stop+ Gloves<END>
 
-//Gants de l'amitié<END>
+//Friendship Gloves<END>
 
-//Gants Kamikaze<END>
+//Kamikaze Gloves<END>
 
-//P-tibias Mur de fer<END>
+//Wall of steel<END>
 
-//Protège-tibias Hercule<END>
+//Hercule Shinguards<END>
 
-//Bracelet ailé<END>
+//Winged Bracelet<END>
 
-//Crampons du désespoir<END>
+//Cleats of despair<END>
 
-//Protège-tibias Jet<END>
+//Jet Shinguards<END>
 
-//Crampons de buteur<END>
+//Striker Cleats<END>
 
-//Crampons de confiance<END>
+//Trust Cleats<END>
 
-//Bracelet du ciel<END>
+//Sky Bracelet<END>
 
-//Bracelet brésilien<END>
+//Brazilian Bracelet<END>
 
-//Crampons renversés<END>
+//Face down Cleats<END>
 
-//Crampons du phénix<END>
+//Pheonix Cleats<END>
 
-//Crampons de Sanae<END>
+//Sanae's Cleats<END>
 
-//Bracelet artistique<END>
+//Artistic Bracelet<END>
 
-//P-tibias embuscade<END>
+//Ambush Shinguards<END>
 
-//Gri-gri du courage<END>
+//Courage Amulet<END>
 
-//Crampons du faucon<END>
+//Hawk Cleats<END>
 
-//Bracelet de l'ouragan<END>
+//Storm Bracelet<END>
 
-//Crampons surprises<END>
+//Surprise Cleats<END>
 
-//Crampons de vitesse<END>
+//Speed Cleats<END>
 
-//Bracelet du prince<END>
+//Prince Bracelet<END>
 
-//Crampons de verre<END>
+//Glass Cleats<END>
 
-//P-tibias vitesse ailée<END>
+//Winged Speed Shinguards<END>
 
-//Crampons de pierre<END>
+//Stone Cleats<END>
 
-//Bracelet du courage<END>
+//Courage Bracelet<END>
 
-//Bracelet de technicité<END>
+//Technicality Bracelet<END>
 
-//Crampons Kamikaze<END>
+//Kamikaze Cleats<END>
 
-//Protège-tibias Meiwa<END>
+//Meiwa's Shinguards<END>
 
-//Crampons courbés<END>
+//Curved Cleats<END>
 
-//Crampons tranchants<END>
+//Sharp Cleats<END>
 
-//P-tibias du serpent<END>
+//Snake's Shinguards<END>
 
-//Tueur de champions<END>
+//Champions Slayer<END>
 
-//Crampons d'ange<END>
+//Angels Cleats<END>
 
-//Crampons à l'envers<END>
+//Reversed Cleats<END>
 
-//Crampons de force<END>
+//Strength Cleats<END>
 
-//Bracelet de force<END>
+//Strength Bracelet<END>
 
-//Bracelet d'acrobate<END>
+//Acrobatic Bracelet<END>
 
-//Crampons furtifs<END>
+//Stealth Cleats<END>
 
-//P-tibias de furtivité<END>
+//Stealth Shinguards<END>
 
-//Crampons de glace<END>
+//Ice Cleats<END>
 
-//Crampons du nord<END>
+//North Cleats<END>
 
-//Bracelet d'obstination<END>
+//Obstinacy Bracelet<END>
 
-//Crampons de l'aigle<END>
+//Eagle's Cleats<END>
 
-//Crampons glacés<END>
+//Frozen Cleats<END>
 
-//Protège-tibias glacés<END>
+//Frozen Shinguards<END>
 
-//Gri-gri d'effort<END>
+//Effort Belay<END>
 
-//Gants de glace<END>
+//Ice Gloves<END>
 
-//Gants de saut<END>
+//Jumping Gloves<END>
 
-//Gants de karaté<END>
+//Karate Gloves<END>
 
-//Gants pourpres<END>
+//Purple Gloves<END>
 
-//Crampons magiques<END>
+//Magic Cleats<END>
 
-//Crampons étoile<END>
+//Star Cleats<END>
 
-//Crampons de tigre<END>
+//Tiger's Cleats<END>
 
-//Bracelet de tigre<END>
+//Tiger's Bracelet<END>
 
-//Crampons d'un tigre<END>
+//Tiger's Cleats<END>
 
-//Crampons du tigre<END>
+//Tiger's Cleats<END>
 
-//P-tibias de tigre<END>
+//Tiger's Shinguards<END>
 
-//Bracelet petit<END>
+//Little Bracelet<END>
 
-//Protège de milieu<END>
+//Middle Protects<END>
 
-//Crampons de feu<END>
+//Fire Cleats<END>
 
-//Casquette Wakabayashi<END>
+//Wakabayashi's Cap<END>
 
-//Gants en or<END>
+//Golden Gloves<END>
 
-//Crampons de foudre<END>
+//Thunder Cleats<END>
 
-//Bracelet de génie<END>
+//Genius's Bracelet<END>
 
-//Crampons banane<END>
+//Banana Cleats<END>
 
-//Crampons d'acrobate<END>
+//Acrobatic Cleats<END>
 
-//Gri-gri d'acrobate<END>
+//Acrobatic Belay<END>
 
-//P-tibias de ciseau<END>
+//Scissors Shinguards<END>
 
-//Bracelet de géant<END>
+//Giant's Bracelet<END>
 
-//Gri-gri de pierre<END>
+//Stone Belay<END>
 
-//Crampons d'en haut<END>
+//Above Cleats<END>
 
-//Crampons de canon<END>
+//Canon Cleats<END>
 
-//Bracelet magnifique<END>
+//Magneficent Bracelet<END>
 
-//Crampons de glisse<END>
+//Sliding Cleats<END>
 
-//Crampons magnifiques<END>
+//Magneficent Cleats<END>
 
-//Crampons explosifs<END>
+//Explosive Cleats<END>
 
-//Crampons de napalm<END>
+//Napalm's Cleats<END>
 
-//Bracelet de liberté<END>
+//Liberty Bracelet<END>
 
-//Crampons de flammes<END>
+//Pyro Cleats<END>
 
-//Collier du père<END>
+//Father's Necklace<END>
 
-//Gri-gri de prince<END>
+//prince Belay<END>
 
-//Crampons de rotation<END>
+//Rotation Cleats<END>
 
-//Bracelet de prince<END>
+//Prince Bracelet<END>
 
-//Crampons d'arc<END>
+//Bow Cleats<END>
 
-//Bracelet de machine<END>
+//Machine Bracelet<END>
 
-//Crampons de lob<END>
+//Lob Cleats<END>
 
-//Gants de fer<END>
+//Steel Gloves<END>
 
-//Gants d'illusion<END>
+//Illusion Gloves<END>
 
-//Gants d'éclair<END>
+//Lightning Gloves<END>
 
-//Crampons d'éclair<END>
+//Lightning Cleats<END>
 
-//Bracelet d'échange<END>
+//Exchange Bracelet<END>
 
-//Crampons laser<END>
+//Laser Cleats<END>
 
-//Protège du 6e sens<END>
+//6th Sens Protects<END>
 
-//Protège-tibias Assaut<END>
+//Assaut Shinguards<END>
 
-//Augmente "Force".<END>
+//Increases "Strength".<END>
 
-//Augmente "Vitesse".<END>
+//Increases "Speed".<END>
 
-//Augmente "Technique".<END>
+//Increases "Technique".<END>
 
-//Augmente "Endurance".<END>
+//Increases "Endurance".<END>
 
-//Augmente "Dribble".<END>
+//Increases "Dribble".<END>
 
-//Augmente "Passe".<END>
+//Increases "Pass".<END>
 
-//Augmente "Tir".<END>
+//Increases "Shoot".<END>
 
-//Diminue la consommation<LINE>
-//de la jauge d'équilibre.<END>
+//Decrease consumption<LINE>
+//of Blance Gauge<END>
 
-//Augmente fortement "Force".<END>
+//Strongly increase<LINE>
+//"Strength".<END>
 
-//Augmente fortement<LINE>
-//"Vitesse".<END>
+//Strongly increase<LINE>
+//"Speed".<END>
 
-//Augmente fortement<LINE>
+//Strongly increase<LINE>
 //"Technique".<END>
 
-//Augmente fortement<LINE>
+//Strongly increase<LINE>
 //"Endurance".<END>
 
-//Augmente fortement<LINE>
+//Strongly increase<LINE>
 //"Dribble".<END>
 
-//Augmente fortement<LINE>
-//"Passe".<END>
+//Strongly increase<LINE>
+//"Pass".<END>
 
-//Augmente fortement "Tir".<END>
+//Strongly increase<LINE>
+//"Shoot".<END>
 
-//Diminue fortement<LINE>
-//la consommation de la jauge<LINE>
-//d'équilibre.<END>
+//Strongly decrease<LINE>
+//consumption of Blance Gauge.<END>
 
-//Augmente "Force" et<LINE>
-//"Tir".<END>
+//Increases "Strength" and<LINE>
+//"Shoot".<END>
 
-//Augmente "Vitesse"<LINE>
-//et "Dribble".<END>
+//Increases "Speed"<LINE>
+//and "Dribble".<END>
 
-//Augmente "Technique"<LINE>
-//et "Passe".<END>
+//Increases "Technique"<LINE>
+//and "Pass".<END>
 
-//Augmente "Endurance"<LINE>
-//et diminue la consommation<LINE>
-//de la jauge d'équilibre.<END>
+//Increases "Endurance"<LINE>
+//and increase consumption<LINE>
+//of Blance Gauge.<END>
 
-//Augmente fortement "Force"<LINE>
-//et "Tir".<END>
+//Strongly increase "Strength"<LINE>
+//and "Shoot".<END>
 
-//Augmente fortement<LINE>
-//"Vitesse" et "Dribble".<END>
+//Strongly increase<LINE>
+//"Speed" and "Dribble".<END>
 
-//Augmente fortement<LINE>
-//"Technique" et "Passe".<END>
+//Strongly increase<LINE>
+//"Technique" and "Pass".<END>
 
-//Augmente "Défense".<END>
+//Increases "Defense".<END>
 
-//Augmente légèrement<LINE>
-//le taux de réussite<LINE>
-//de "Arrêt".<END>
+//Slightly increase<LINE>
+//success rate<LINE>
+//of "Stop".<END>
 
-//Augmente légèrement<LINE>
-//le taux de réussite<LINE>
-//de "Parade".<END>
+//Slightly increase<LINE>
+//success rate<LINE>
+//of "Parry".<END>
 
-//Augmente légèrement<LINE>
-//le taux de réussite<LINE>
-//de "Sortie".<END>
+//Slightly increase<LINE>
+//success rate<LINE>
+//of "Out".<END>
 
-//Augmente légèrement<LINE>
-//le taux de réussite<LINE>
-//de "Garde".<END>
+//Slightly increase<LINE>
+//success rate<LINE>
+//of "Guard".<END>
 
-//Augmente fortement<LINE>
-//"Défense".<END>
+//Strongly increase<LINE>
+//"Defense".<END>
 
-//Augmente fortement le taux<LINE>
-//de réussite de "Arrêt".<END>
+//Strongly increase success<LINE>
+//rate of "Stop".<END>
 
-//Augmente fortement le taux<LINE>
-//de réussite de "Parade".<END>
+//Strongly increase success<LINE>
+//rate of "Parry".<END>
 
-//Augmente fortement le taux<LINE>
-//de réussite de "Sortie".<END>
+//Strongly increase success<LINE>
+//rate of "Out".<END>
 
-//Augmente fortement le taux<LINE>
-//de réussite de "Garde".<END>
+//Strongly increase success<LINE>
+//rate of "Guard".<END>
 
-//Augmente "Défense" et le<LINE>
-//taux de réussite de "Arrêt".<END>
+//Increases "Defense" and<LINE>
+//sucess rate of "Stop".<END>
 
-//Augmente "Défense"<LINE>
-//et le taux de réussite<LINE>
-//de "Parade".<END>
+//Increases "Defense"<LINE>
+//and success rate<LINE>
+//of "Parry".<END>
 
-//Augmente "Défense"<LINE>
-//et le taux de réussite<LINE>
-//de "Sortie".<END>
+//Increases "Defense"<LINE>
+//and success rate<LINE>
+//of "Out".<END>
 
-//Augmente "Défense"<LINE>
-//et le taux de réussite<LINE>
-//de "Garde".<END>
+//Increases "Defense"<LINE>
+//and success rate<LINE>
+//of "Guard".<END>
 
-//Diminue "Défense", mais<LINE>
-//augmente la réussite<LINE>
-//de "Arrêt" et "Parade".<END>
+//Decrease"Defense", but<LINE>
+//increases success<LINE>
+//of "Stop" and "Parry".<END>
 
-//Diminue "Défense", mais<LINE>
-//augmente la réussite<LINE>
-//de "Sortie" et "Garde".<END>
+//Decrease"Defense", but<LINE>
+//increases success<LINE>
+//of "Out" and "Guard".<END>
 
-//Augmente légèrement<LINE>
-//le taux de réussite<LINE>
-//de "Arrêt" et "Parade".<END>
+//Slightly increase<LINE>
+//success rate<LINE>
+//of "Stop" and "Parry".<END>
 
-//Augmente légèrement<LINE>
-//le taux de réussite<LINE>
-//de "Sortie" et "Garde".<END>
+//Slightly increase<LINE>
+//success rate<LINE>
+//of "Out" and "Guard".<END>
 
-//Augmente "Attaque".<END>
+//Increases "Attack".<END>
 
-//Augmente "Défense".<END>
+//Increases "Defense".<END>
 
-//Augmente "Tir".<END>
+//Increases "Shoot".<END>
 
-//Augmente "Physique".<END>
+//Increases "Physic".<END>
 
-//Augmente "Mental".<END>
+//Increases "Mental".<END>
 
-//Augmente le nombre maximum<LINE>
-//de SP.<END>
+//Icreases max number<LINE>
+//of SP.<END>
 
-//Augmente fortement<LINE>
-//"Attaque".<END>
+//Strongly increase<LINE>
+//"Attack".<END>
 
-//Augmente fortement<LINE>
-//"Défense".<END>
+//Strongly increase<LINE>
+//"Defense".<END>
 
-//Augmente fortement "Tir".<END>
+//Strongly increase "Shoot".<END>
 
-//Augmente fortement<LINE>
-//"Physique".<END>
+//Strongly increase<LINE>
+//"Physic".<END>
 
-//Augmente fortement<LINE>
+//Strongly increase<LINE>
 //"Mental".<END>
 
-//Augmente fortement<LINE>
-//le nombre maximum de SP.<END>
+//Strongly increase<LINE>
+//max number of SP.<END>
 
-//Augmente "Physique"<LINE>
-//et "Mental".<END>
+//Increases "Physic"<LINE>
+//and "Mental".<END>
 
-//Augmente "Défense"<LINE>
-//et le nombre maximum de SP.<END>
+//Increases "Defense"<LINE>
+//and max number of SP.<END>
 
-//Augmente "Attaque"<LINE>
-//et le nombre maximum de SP.<END>
+//Increases "Attack"<LINE>
+//and max number of SP.<END>
 
-//Augmente "Attaque"<LINE>
-//et "Physique".<END>
+//Increases "Attack"<LINE>
+//and "Physic".<END>
 
-//Augmente "Défense"<LINE>
-//et "Physique".<END>
+//Increases "Defense"<LINE>
+//and "Physic".<END>
 
-//Augmente fortement<LINE>
-//"Attaque" et le nombre<LINE>
-//maximum de SP.<END>
+//Strongly increase<LINE>
+//"Attack" and the max<LINE>
+//number of SP.<END>
 
-//Augmente "Défense".<LINE>
-//Augmente fortement<LINE>
-//le nombre maximum de SP.<END>
+//Increases "Defense".<LINE>
+//Strongly increase<LINE>
+//max number of SP.<END>
 
-//Augmente fortement "Mental"<LINE>
-//et "Physique", mais diminue<LINE>
-//le nombre maximum de SP.<END>
+//Strongly increase "Mental"<LINE>
+//and "Physic", but decreases<LINE>
+//max number of SP.<END>
 
-//Augmente fortement<LINE>
-//"Défense" et "Attaque", mais<LINE>
-//diminue le maximum de SP.<END>
+//Strongly increase<LINE>
+//"Defense" and "Attack", but<LINE>
+//decreases max SP.<END>
 
-//Augmente "Endurance".<END>
+//Increases "Endurance".<END>
 
-//Augmente "Mental".<END>
+//Increases "Mental".<END>
 
-//Augmente la récupération<LINE>
-//de SP.<END>
+//Increases recovery<LINE>
+//of SP.<END>
 
-//Augmente fortement<LINE>
+//Strongly increase<LINE>
 //"Endurance".<END>
 
-//Augmente fortement<LINE>
+//Strongly increase<LINE>
 //"Mental".<END>
 
-//Augmente fortement<LINE>
-//la récupération de SP.<END>
+//Strongly increase<LINE>
+//revovery of SP.<END>
 
-//Augmente "Mental"<LINE>
-//et la récupération de SP,<LINE>
-//mais diminue "Endurance".<END>
+//Increases "Mental"<LINE>
+//and revovery of SP,<LINE>
+//but decreases "Endurance".<END>
 
-//Augmente "Endurance"<LINE>
-//et "Mental", mais diminue<LINE>
-//la récupération de SP.<END>
+//Increases "Endurance"<LINE>
+//and "Mental", but decreases<LINE>
+//revovery of SP.<END>
 
-//Augmente fortement<LINE>
+//Strongly increase<LINE>
 //"Endurance"<LINE>
-//et la récupération de SP.<END>
+//and revovery of SP.<END>
 
-//Augmente fortement "Mental"<LINE>
-//et la récupération de SP.<END>
+//Strongly increase "Mental"<LINE>
+//and revovery of SP.<END>
 
-//Augmente "Dribble".<END>
+//Increases "Dribble".<END>
 
-//Augmente "Physique".<END>
+//Increases "Physic".<END>
 
-//Diminue la consommation<LINE>
-//de la jauge d'équilibre.<END>
+//Decrease consumption<LINE>
+//of balance gauge.<END>
 
-//Augmente fortement<LINE>
+//Strongly increase<LINE>
 //"Dribble".<END>
 
-//Augmente fortement<LINE>
-//"Physique".<END>
+//Strongly increase<LINE>
+//"Physic".<END>
 
-//Diminue fortement<LINE>
-//la consommation de la jauge<LINE>
-//d'équilibre.<END>
+//Strongly decrease<LINE>
+//consumption of balance<LINE>
+//Gauge.<END>
 
-//Augmente "Dribble"<LINE>
-//et diminue la consommation<LINE>
-//de la jauge d'équilibre.<END>
+//Increases "Dribble"<LINE>
+//and decreases consumption<LINE>
+//of balance gauge.<END>
 
-//Augmente "Endurance"<LINE>
-//et diminue la consommation<LINE>
-//de la jauge d'équilibre.<END>
+//Increases "Endurance"<LINE>
+//and decreases consumption<LINE>
+//of balance gauge.<END>
 
-//Augmente "Passe".<END>
+//Increases "Pass".<END>
 
-//Augmente le nombre maximum<LINE>
-//de SP.<END>
+//Increase max number<LINE>
+//of SP.<END>
 
-//Augmente la récupération<LINE>
-//de SP.<END>
+//Increases recovery<LINE>
+//of SP.<END>
 
-//Augmente le taux<LINE>
-//de réussite de "Tir".<END>
+//Increase success<LINE>
+//rate of "Shoot".<END>
 
-//Augmente le taux<LINE>
-//de réussite de "Dribble".<END>
+//Increase success<LINE>
+//rate of "Dribble".<END>
 
-//Augmente le taux<LINE>
-//de réussite de "Passe".<END>
+//Increase success<LINE>
+//rate of "Pass".<END>
 
-//Augmente le taux de<LINE>
-//réussite de "Coup spécial".<END>
+//Increase success<LINE>
+//rate of "Special move".<END>
 
-//Augmente fortement<LINE>
-//"Passe".<END>
+//Strongly increase<LINE>
+//"Pass".<END>
 
-//Augmente fortement<LINE>
-//le nombre maximum de SP.<END>
+//Strongly increase<LINE>
+//max number of SP.<END>
 
-//Augmente fortement<LINE>
-//la récupération de SP.<END>
+//Strongly increase<LINE>
+//revovery of SP.<END>
 
-//Augmente fortement le taux<LINE>
-//de réussite de "Tir".<END>
+//Strongly increase success<LINE>
+//rate of "Shoot".<END>
 
-//Augmente fortement le taux<LINE>
-//de réussite de "Dribble".<END>
+//Strongly increase success<LINE>
+//rate of "Dribble".<END>
 
-//Augmente fortement le taux<LINE>
-//de réussite de "Passe".<END>
+//Strongly increase success<LINE>
+//rate of "Pass".<END>
 
-//Augmente fortement le taux<LINE>
-//de réussite<LINE>
-//de "Coup spécial".<END>
+//Strongly increase success<LINE>
+//rate<LINE>
+//of "Special move".<END>
 
-//Augmente "Coup spécial" et<LINE>
-//le maximum de SP. Diminue<LINE>
-//la récupération de SP.<END>
+//Increases "Special move" and<LINE>
+//max SP. Decrease<LINE>
+//revovery of SP.<END>
 
-//Augmente le taux<LINE>
-//de réussite de "Dribble"<LINE>
-//et "Tir".<END>
+//Increase success<LINE>
+//rate of "Dribble"<LINE>
+//and "Shoot".<END>
 
-//Augmente le taux<LINE>
-//de réussite de "Dribble"<LINE>
-//et "Passe".<END>
+//Increase success<LINE>
+//rate of "Dribble"<LINE>
+//and "Pass".<END>
 
-//Augmente le taux<LINE>
-//de réussite de "Passe"<LINE>
-//et "Tir".<END>
+//Increase success<LINE>
+//rate of "Pass"<LINE>
+//and "Shoot".<END>
 
-//Permet des tirs<LINE>
-//super puissants.<END>
+//Allow super<LINE>
+//powerful shoots.<END>
 
-//Pénètre les défenses<LINE>
-//adversaires.<END>
+//Penetrate adversary<LINE>
+//defenses.<END>
 
-//Permet de faire<LINE>
-//des passes millimétrées.<END>
+//Allow very<LINE>
+//close passes.<END>
 
-//Obtient un super sens<LINE>
-//de l'équilibre.<END>
+//Obtain a super<LINE>
+//Balance sens.<END>
 
-//Permet des tirs<LINE>
-//super puissants.<END>
+//Allow super<LINE>
+//powerful shoots.<END>
 
-//Pénètre les défenses<LINE>
-//adversaires.<END>
+//Penetrate adversary<LINE>
+//defenses.<END>
 
-//Permet de faire<LINE>
-//des passes millimétrées.<END>
+//Allow very<LINE>
+//close passes.<END>
 
-//Permet de jouer<LINE>
-//plus longtemps.<END>
+//Allow you to<LINE>
+//play longer.<END>
 
-//Augmente fortement le taux<LINE>
-//de réussite de "Arrêt".<END>
+//Strongly increase success<LINE>
+//rate of "Stop".<END>
 
-//Octroie un courage<LINE>
-//sans égal.<LINE>
-//Permet d'utiliser<LINE>
-//"Mon ami, le ballon".<END>
+//Grants matchless<LINE>
+//courage.<LINE>
+//Allow usage of<LINE>
+//"My friend, the ball".<END>
 
-//Octroie un esprit<LINE>
-//de kamikaze.<LINE>
-//Permet d'utiliser<LINE>
-//"Mur corporel".<END>
+//Grants kamikaze<LINE>
+//spirit.<LINE>
+//allow usage of<LINE>
+//"Corporal wall".<END>
 
-//Permet une défense de fer,<LINE>
-//et l'utilisation<LINE>
-//de "Mur de fer".<END>
+//Grant a defense of steel,<LINE>
+//and usage<LINE>
+//of "Wall fo steel".<END>
 
-//Confère une grande force.<LINE>
-//Permet d'utiliser<LINE>
+//Grant huge strength.<LINE>
+//Allow usage of<LINE>
 //"Power Defense".<END>
 
-//Donne envie de déborder par<LINE>
-//l'aile droite. Permet d'utiliser<LINE>
-//"Dribble sur la ligne".<END>
+//Makes you want to outflank on<LINE>
+//the right wing. Allow usage of<LINE>
+//"Dribble on the lign".<END>
 
-//Confère un grand courage.<LINE>
-//Permet d'utiliser "Super<LINE>
-//longue tête".<END>
+//Grant huge courage.<LINE>
+//Allow usage of "Super<LINE>
+//long head".<END>
 
-//Confère le pouvoir de sauter<LINE>
-//très haut dans les airs.<LINE>
-//Permet d'utiliser<LINE>
-//"Tête jet".<END>
+//Grant power to jump<LINE>
+//high in the air.<LINE>
+//Allow usage of<LINE>
+//"Jet Head".<END>
 
-//Donne l'envie de marquer<LINE>
-//un but. Permet d'utiliser<LINE>
-//"But à tout prix".<END>
+//Makes you want to score.<LINE>
+//Allow usage of<LINE>
+//"Goal at any cost".<END>
 
-//Permet de délivrer<LINE>
-//une bonne passe.<LINE>
-//Permet d'utiliser<LINE>
+//Allow delevery<LINE>
+//of great passes.<LINE>
+//Allow usage of<LINE>
 //"Drive pass".<END>
 
-//Donne l'envie de tirer<LINE>
-//jusqu'au ciel.<LINE>
-//Permet d'utiliser<LINE>
+//makes you want to shoot<LINE>
+//with all you got.<LINE>
+//Allow usage of<LINE>
 //"Heel lift".<END>
 
-//Un bracelet imprégné<LINE>
-//de la joie des Brésiliens.<LINE>
-//Permet d'utiliser<LINE>
-//"Dribble brésilien".<END>
+//Imbued bracelet<LINE>
+//of Brazilian's joy.<LINE>
+//Allow usage of<LINE>
+//"Brazilian Dribble".<END>
 
-//Permet de tirer à l'envers,<LINE>
-//et l'utilisation<LINE>
-//de "Bicyclette retournée".<END>
+//Allow inversed shots,<LINE>
+//and usage<LINE>
+//of "Inversed Bike".<END>
 
-//Permet de frapper le ballon<LINE>
-//vers le ciel tel un phénix.<LINE>
-//Permet d'utiliser<LINE>
+//Allow Pheonix style shoots.<LINE>
+//Allow usage of<LINE>
 //"Drive shoot".<END>
 
-//Crampons offerts<LINE>
-//à Tsubasa par Sanae.<LINE>
-//Permet d'utiliser<LINE>
+//Cleats offered<LINE>
+//to Tsubasa by Sanae.<LINE>
+//Allow usage of<LINE>
 //"Drive overhead".<END>
 
-//Un étonnant bracelet d'art.<LINE>
-//Permet d'utiliser<LINE>
-//"Dribble artistique".<END>
+//An amazing artistic bracelet.<LINE>
+//Allow usage of<LINE>
+//"Artistic Dribble".<END>
 
-//Permet d'être difficilement<LINE>
-//repérable, et l'utilisation<LINE>
-//de "Embuscade imprévue".<END>
+//Makes you hard to<LINE>
+//detectable, and usage<LINE>
+//of "Unexpected ambush".<END>
 
-//Permet de faire face<LINE>
-//à sa peur, et l'utilisation<LINE>
-//de "Blocage de face".<END>
+//Allows you to stand up<LINE>
+//to your fear, and usage<LINE>
+//of "Face blocking".<END>
 
-//Permet d'être aussi rapide<LINE>
-//qu'un faucon,<LINE>
-//et l'utilisation<LINE>
-//du "Tir du faucon".<END>
+//Allows you to be<LINE>
+//fast as a hawk,<LINE>
+//and usage<LINE>
+//of "Hawk shoot".<END>
 
-//Permet de devenir<LINE>
-//plus rapide,<LINE>
-//et l'utilisation<LINE>
-//de "Speedy".<END>
+//Makes you faster,<LINE>
+//allow usage<LINE>
+//of "Speedy".<END>
 
-//Permet de prendre<LINE>
-//l'adversaire par surprise,<LINE>
-//et l'utilisation<LINE>
-//de "Killer pass".<END>
+//Allows you to take<LINE>
+//the adversary by surprise,<LINE>
+//and usage<LINE>
+//of "Killer pass".<END>
 
-//Permet de tirer<LINE>
-//plus rapidement,<LINE>
-//et l'utilisation<LINE>
-//de "Passe rapide".<END>
+//Allows you to shoot<LINE>
+//faster,<LINE>
+//and usage<LINE>
+//of "Fast Pass".<END>
 
-//Octroie la prestance<LINE>
-//d'un prince.<LINE>
-//Permet d'utiliser<LINE>
-//"Prince du terrain".<END>
+//Grabts you a prince's<LINE>
+//imposing.<LINE>
+//Allow usage of<LINE>
+//"Prince of the field".<END>
 
-//Une fois chaussés, ces crampons<LINE>
-//confèrent une grande<LINE>
-//détermination. Permet<LINE>
-//d'utiliser "Tir de verre".<END>
+//Once you wear them, these<LINE>
+//spikes gives you a big<LINE>
+//determination. Allow<LINE>
+//usage of "Glass shoot".<END>
 
-//Permet de se sentir<LINE>
-//plus rapide que le son,<LINE>
-//et l'utilisation<LINE>
-//de "Interception ailée".<END>
+//Makes you faster than sound,<LINE>
+//and allow usage<LINE>
+//of "Winged Interception".<END>
 
-//Permet des têtes<LINE>
-//plus puissantes,<LINE>
-//et l'utilisation<LINE>
-//de "Tête en force".<END>
+//Allow stronger<LINE>
+//heads,<LINE>
+//and usage<LINE>
+//of "Strength head".<END>
 
-//Permet de se sentir<LINE>
-//plus fort, et l'utilisation<LINE>
-//de "Dribble forcé".<END>
+//Makes you stronger,<LINE>
+//and allow usage<LINE>
+//of "Forced Dribble".<END>
 
-//Permet de se sentir<LINE>
-//plus technique,<LINE>
-//et l'utilisation<LINE>
-//de "Dribble technique".<END>
+//Increases your technique,<LINE>
+//and allow usage<LINE>
+//of "Technique Dribble".<END>
 
-//Donne l'envie de charger<LINE>
-//sur le ballon.<LINE>
-//Permet d'utiliser<LINE>
+//Makes you want to hit<LINE>
+//the ball.<LINE>
+//Allow usage of<LINE>
 //"Kamikaze sliding".<END>
 
-//Octroie l'expérience<LINE>
-//des joueurs de Meiwa FC.<LINE>
-//Permet d'utiliser<LINE>
+//Grants Meiwa FC<LINE>
+//Players' experience.<LINE>
+//Allow usage of<LINE>
 //"Kamikaze sliding".<END>
 
-//Tord la trajectoire<LINE>
-//du ballon.<LINE>
-//Permet d'utiliser<LINE>
-//"Passe en rasoir".<END>
+//Twist ball trajectory.<LINE>
+//Allow usage of<LINE>
+//"Razor Pass".<END>
 
-//Permet un tir tranchant,<LINE>
-//et l'utilisation<LINE>
-//de "Tir en rasoir".<END>
+//Allow Sharp shooting,<LINE>
+//and usage<LINE>
+//of "Razor Shooting".<END>
 
-//Confère la ténacité<LINE>
-//du serpent.<LINE>
-//Permet d'utiliser<LINE>
+//Gives the tenacity<LINE>
+//of a snake.<LINE>
+//Allow usage of<LINE>
 //"Snake block".<END>
 
-//Protège-tibias rendant plus<LINE>
-//fort face à un champion.<LINE>
-//Permet l'utilisation<LINE>
-//de "Tacle en rasoir".<END>
+//Shinguards Making it<LINE>
+//easier against à champion.<LINE>
+//Allow usage<LINE>
+//of "Razor tackling".<END>
 
-//Donne juste l'envie<LINE>
-//de sauter en l'air.<LINE>
-//Permet d'utiliser<LINE>
+//Gives the desire<LINE>
+//to jump up the air.<LINE>
+//Allow usage of<LINE>
 //"Triangle shoot".<END>
 
-//Permet de mettre de l'effet<LINE>
-//dans la balle,<LINE>
-//et l'utilisation<LINE>
-//de "Backspin pass".<END>
+//Allow set an effect<LINE>
+//on the ball,<LINE>
+//and usage<LINE>
+//of "Backspin pass".<END>
 
-//Une grande force émane<LINE>
-//de ces crampons.<LINE>
-//Permet d'utiliser<LINE>
-//"Tir en force".<END>
+//A huge force emanates<LINE>
+//from these crampons.<LINE>
+//Allow usage of<LINE>
+//"forced Shooting".<END>
 
-//Permet de se sentir<LINE>
-//plus fort, et l'utilisation<LINE>
-//de "Dribble en force".<END>
-
+//Grants a strong feeling<LINE>
+//of power, and usage<LINE>
+//of "Forced Dribble".<END>
+-------------------------------------------------> im here, if you edit, put this bookmark where you stop
 //Permet de se sentir<LINE>
 //plus léger, et l'utilisation<LINE>
 //de "Comme une plume".<END>
