@@ -1,17 +1,17 @@
 // FILE: error.str containing 3 strings
 
-//Chargement échoué.<LINE>
+//Failed loading.<LINE>
 //<LINE>
-//Éteindre la console et réinsérer<LINE>
-//la carte de jeu DS.<END>
+//Turn off the console and reinsert<LINE>
+//the game cartridge.<END>
 
-//Sauvegarde échouée.<LINE>
+//Failed saving.<LINE>
 //<LINE>
-//Éteindre la console et réinsérer<LINE>
-//la carte de jeu DS.<END>
+//Turn off the console and reinsert<LINE>
+//the game cartridge.<END>
 
-//Réinitialisation échouée.<LINE>
+//Reinitialization Failed.<LINE>
 //<LINE>
-//Éteindre la console et réinsérer<LINE>
-//la carte de jeu DS.<END>
+//Turn off the console and reinsert<LINE>
+//the game cartridge.<END>
 
