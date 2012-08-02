@@ -1,48 +1,48 @@
 // FILE: exv009.str containing 18 strings
 
-//En avant, Misaki !<END>
+//Forward, Misaki !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
 //Drive pass !<END>
 
-//Je compte sur toi !<END>
+//Im counting on you !<END>
 
 //!!<END>
 
-//Maintenant !<END>
+//Now !<END>
 
-//C'est ma chance !<END>
+//This is my chance !<END>
 
-//Finissons-en !<END>
+//Let's end this !<END>
 
-//Bicyclette retournée !<END>
+//Reversed Bicycle !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
 //Drive shoot !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Misaki, ici !<END>
+//Misaki, over here !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Allez, Hyuga !<END>
+//Come on, Hyuga !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
 //Drive overhead !<END>
 
-//Allez !<END>
+//Come on !<END>
 
