@@ -1,12 +1,12 @@
 // FILE: exv336.str containing 4 strings
 
-//Prends ça !<END>
+//Take this !<END>
 
-//Je l'ai !<END>
+//I have it !<END>
 
-//Prends mon Tir napalm !<END>
+//Take my Napalm Shoot !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
