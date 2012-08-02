@@ -32,7 +32,7 @@
 
 //Yamazaki<END>
 
-//Ikéda<END>
+//Ikeda<END>
 
 //Nakajima<END>
 
@@ -74,7 +74,7 @@
 
 //Nitta<END>
 
-//Urabé<END>
+//Urabe<END>
 
 //Kishida<END>
 
@@ -94,11 +94,11 @@
 
 //Nakai<END>
 
-//Idé<END>
+//Ide<END>
 
 //Mitsuhashi<END>
 
-//Onodéra<END>
+//Onodera<END>
 
 //DUMMY_F<END>
 
@@ -136,7 +136,7 @@
 
 //Kada<END>
 
-//Takéda<END>
+//Takeda<END>
 
 //Nakamura<END>
 
@@ -156,7 +156,7 @@
 
 //Sano<END>
 
-//Hatakéyama<END>
+//Hatakeyama<END>
 
 //Akizawa<END>
 
@@ -164,15 +164,15 @@
 
 //Soda<END>
 
-//Takéno<END>
+//Takeno<END>
 
 //Nagaoka<END>
 
-//Morisué<END>
+//Morisue<END>
 
 //Nakagi<END>
 
-//Himéji<END>
+//Himeji<END>
 
 //Oda<END>
 
@@ -184,13 +184,13 @@
 
 //Matsuda<END>
 
-//Sasé<END>
+//Sase<END>
 
 //Honda<END>
 
 //Wakamatsu<END>
 
-//Kanéda<END>
+//Kaneda<END>
 
 //Nakagawa<END>
 
@@ -202,11 +202,11 @@
 
 //Takashima<END>
 
-//Koïké<END>
+//Koïke<END>
 
 //Imai<END>
 
-//Kawabé<END>
+//Kawabe<END>
 
 //Matsuki<END>
 
@@ -234,13 +234,13 @@
 
 //Takizawa<END>
 
-//Inoué<END>
+//Inoue<END>
 
 //Misugi<END>
 
 //Nishiyama<END>
 
-//Ichinosé<END>
+//Ichinose<END>
 
 //Honma<END>
 
@@ -298,7 +298,7 @@
 
 //Hori<END>
 
-//Suénaga<END>
+//Suenaga<END>
 
 //Narita<END>
 
@@ -312,7 +312,7 @@
 
 //Nagano<END>
 
-//Kawagoé<END>
+//Kawagoe<END>
 
 //Murasawa<END>
 
@@ -366,7 +366,7 @@
 
 //Itaniwa<END>
 
-//Takéi<END>
+//Takei<END>
 
 //Ishida<END>
 
@@ -650,7 +650,7 @@
 
 //Brown<END>
 
-//Napoléon<END>
+//Napoleon<END>
 
 //Pierre<END>
 
