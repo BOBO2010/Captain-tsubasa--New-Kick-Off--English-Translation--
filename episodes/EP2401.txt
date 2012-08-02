@@ -1,0 +1,51 @@
+// FILE: EP2401.str containing 14 strings
+
+//Approchez-vous tous !<END>
+
+//Sawada, l'autre équipe lit en toi<LINE>
+//comme dans un livre ouvert.<LINE>
+//Fais preuve d'audace et change<LINE>
+//un peu de tactique.<END>
+
+//O-oui, entraîneur.<END>
+
+//Sorimachi, pour la deuxième mi-temps,<LINE>
+//je veux que tu te concentres sur les buts.<LINE>
+//Tu peux tirer de loin tant que tu tires !<END>
+
+//Oui, entraîneur.<END>
+
+//Compris ?<LINE>
+//Nous allons gagner ce match !<END>
+
+//Et comment, entraîneur !<END>
+
+//Ce match serait bien plus facile<LINE>
+//si notre capitaine était sur le terrain.<END>
+
+//J'aurais déjà marqué trois buts<LINE>
+//si j'étais sur le terrain.<LINE>
+//Si je vois que l'autre équipe s'apprête<LINE>
+//à marquer durant la deuxième mi-temps,<LINE>
+//je fonce sur le terrain !<END>
+
+//O.K. ! Vous avez fait du bon travail<LINE>
+//durant la première mi-temps !<LINE>
+//Il ne nous reste plus qu'à marquer<LINE>
+//des buts !<END>
+
+//Si nous maintenons notre tactique<LINE>
+//offensive, nous aurons une vraie chance<LINE>
+//de marquer au moins un but.<LINE>
+//Ne passez pas à côté de l'occasion !<LINE>
+//Continuez à leur mettre la pression<LINE>
+//durant la deuxième mi-temps !<END>
+
+//Ouais !<END>
+
+//Très bien ! Toho, nous voilà !<END>
+
+//Tiens-toi prêt, Wakashimazu !<LINE>
+//Je compte bien te faire encaisser un but<LINE>
+//par tous les moyens !<END>
+

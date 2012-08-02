@@ -1,0 +1,60 @@
+// FILE: EP1358.str containing 22 strings
+
+//Misugi va-t-il tirer ?<END>
+
+//Le défenseur argentin, Garban,<LINE>
+//fonce pour l'empêcher de tirer !<END>
+
+//Je ne vais pas te laisser tirer !<END>
+
+//Oh ! Misugi décide finalement de faire<LINE>
+//une passe !<END>
+
+//Quoi ?!<END>
+
+//Tsubasa est à la réception !<END>
+
+//Belle passe, Misugi !<END>
+
+//Tsubasa s'est jusqu'à maintenant<LINE>
+//concentré sur les passes,<LINE>
+//mais le voilà qui s'apprête à tirer !<END>
+
+//Je ne vais pas te laisser faire !<END>
+
+//Waouh ! Diaz contre le tir de Tsubasa<LINE>
+//par un salto avant !<END>
+
+//Le Japon ne prendra pas l'avantage !<END>
+
+//Ah !<END>
+
+//Hein ?<END>
+
+//Oh la ! Misugi surgit de nulle part !<LINE>
+//Il semblait avoir anticipé le contre<LINE>
+//de Diaz et il est déjà sur le ballon !<END>
+
+//Je dois marquer pour la victoire !<END>
+
+//Pour l'entraîneur, pour mes partenaires<LINE>
+//qui ont gagné jusqu'à maintenant,<LINE>
+//et pour moi-même !<END>
+
+//Allez !<END>
+
+//Misugi exécute une merveilleuse<LINE>
+//Bicyclette retournée !<END>
+
+//Il n'y a que lui et Tsubasa<LINE>
+//qui sont capables d'exécuter<LINE>
+//une telle action technique au Japon !<END>
+
+//Et c'est le buuuuuuuuuuuuuuuuuuut !<LINE>
+//La bicyclette se retrouve<LINE>
+//au fond des filets argentins !<END>
+
+//Misugi !<END>
+
+//On a réussi !<END>
+

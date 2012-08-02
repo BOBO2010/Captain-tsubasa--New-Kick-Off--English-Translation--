@@ -1,0 +1,60 @@
+// FILE: EP0251.str containing 17 strings
+
+//Et le Quartet d'Otomo,<LINE>
+//en excellente condition pour ce tournoi,<LINE>
+//attend Tsubasa !<LINE>
+//Ils sont la pierre angulaire<LINE>
+//de la défense de Otomo !<END>
+
+//Les spectateurs se déchaînent<LINE>
+//devant un tel affrontement !<END>
+
+//Allez viens, Tsubasa !<LINE>
+//Je peux te jurer qu'on va t'arrêter.<END>
+
+//Cette année nos seuls objectifs<LINE>
+//sont vaincre la Nankatsu <LINE>
+//et son capitaine Tsubasa !<END>
+
+//Nous nous sommes entraînés…<END>
+
+//Pour pouvoir être aussi rapides<LINE>
+//que Tsubasa...<END>
+
+//Pour pouvoir contrer la moindre<LINE>
+//de ses feintes...<END>
+
+//Nous n'avons peut-être pas ton talent,<LINE>
+//mais nous n'avons pas à rougir en termes<LINE>
+//d'effort et entraînement !<END>
+
+//Admire un peu le résultat, Tsubasa !<LINE>
+//Tu ne pourras jamais passer !<END>
+
+//Ils sont quatre, mais cette fois,<LINE>
+//je vais passer !<LINE>
+//Je vais leur faire payer<LINE>
+//pour tout à l'heure.<END>
+
+//Et c'est le choc<LINE>
+//entre les deux adversaires !<END>
+
+//!!<END>
+
+//Qu'est-ce que...<LINE>
+//Tsubasa a soudainement changé de position !<END>
+
+//Il a réussi à faire une passe en retrait<LINE>
+//alors qu'il tombait !<END>
+
+//Quelle vitesse de réaction !<LINE>
+//Quelles que soient mes feintes,<LINE>
+//ils ont déjà une longueur d'avance !<END>
+
+//Bien joué, Tsubasa.<END>
+
+//Tu as anticipé notre défense<LINE>
+//et tu as opté pour une passe en retrait...<LINE>
+//Alors tu comprends maintenant ?<LINE>
+//La fuite est ta seule issue.<END>
+

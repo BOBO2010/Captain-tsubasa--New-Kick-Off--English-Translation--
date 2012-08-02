@@ -1,0 +1,21 @@
+// FILE: EP2352.str containing 6 strings
+
+//Très bien. Je vais marquer un autre but !<END>
+
+//Ouah ! Quel superbe tir de Sawada !<END>
+
+//Et le ballon fonce droit dans le filet !<LINE>
+//Le gardien de but n'a pas eu le temps<LINE>
+//de réagir...<END>
+
+//C'est une catastrophe…<LINE>
+//Nous ne pouvons pas vaincre<LINE>
+//une telle équipe.<END>
+
+//Comment je m'en sors, Hyuga ?<LINE>
+//Je remets en place tous ceux qui ont osé<LINE>
+//critiquer Toho !<END>
+
+//Tu t'en sors très bien, Takeshi !<LINE>
+//Le jeu de Toho est unique !<END>
+

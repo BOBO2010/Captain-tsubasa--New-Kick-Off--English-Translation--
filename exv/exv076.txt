@@ -1,0 +1,29 @@
+// FILE: exv076.str containing 10 strings
+
+//Essaie donc !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Tu me fais perdre mon temps !<END>
+
+//Je vais te faire dégager !<END>
+
+//Allez, les frères Tachibana !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Vos petits trucs<LINE>
+//ne marchent pas avec moi !<END>
+
+//Hors de mon chemin !<END>
+
+//Goûtez donc à ma Power defense !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+

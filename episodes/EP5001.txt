@@ -1,0 +1,83 @@
+// FILE: EP5001.str containing 28 strings
+
+//Fin du match !<END>
+
+//Merci pour le match d'aujourd'hui.<LINE>
+//Nous ne l'oublierons jamais !<END>
+
+//Pourquoi ils sourient ? Ils n'ont pas honte<LINE>
+//de s'être inclinés sur un tel score ?<END>
+
+//J'arrête. Je quitte l'équipe.<LINE>
+//J'abandonne le foot.<END>
+
+//Bons déplacements, nº 12 !<END>
+
+//Si tu aimes le foot, ne renonce jamais !<END>
+
+//Les paroles de Tsubasa Ozora m'avaient ému.<LINE>
+//Il était ensuite parti au royaume du<LINE>
+//football, le Brésil, dès la fin du collège<LINE>
+//afin de poursuivre son rêve qui était de<LINE>
+//faire gagner la coupe du monde au Japon.<END>
+
+//Je voulais à tout prix le voir<LINE>
+//avant qu'il ne parte...<END>
+
+//Tsubasa Ozora !<END>
+
+//???<END>
+
+//Tu ne te souviens sans doute pas de moi,<LINE>
+//mais...<END>
+
+//Je te souhaite de faire un malheur<LINE>
+//au Brésil !<END>
+
+//(Nous offrirons un jour ensemble<LINE>
+//la coupe du monde au Japon !)<END>
+
+//Au revoir...<END>
+
+//Le nº 12 de Nakahara !<END>
+
+//Hein ?<END>
+
+//Bon courage, toi aussi !<END>
+
+//Tu te souviens de moi !<END>
+
+//Tiens !<END>
+
+//Qu'est-ce que c'est ?<END>
+
+//Vingt-cinq cents américains, dix francs<LINE>
+//français et cent yens... Mais, c'est... !<END>
+
+//Ce sont les pièces des pays organisateurs :<LINE>
+//les États-Unis, la France... et aussi<LINE>
+//le Japon qui postule pour organiser<LINE>
+//la prochaine coupe du monde.<END>
+
+//J'étais certain que Tsubasa n'avait pas<LINE>
+//menti, qu'il désirait de toute son âme que<LINE>
+//le Japon se qualifie pour la phase finale<LINE>
+//de la coupe du monde et décroche le titre<LINE>
+//mondial.<END>
+
+//C'est pour réaliser ce rêve démesuré,<LINE>
+//et aussi être sélectionné en équipe<LINE>
+//nationale...<END>
+
+//Et devenir encore meilleur que Tsubasa<LINE>
+//pour qui j'ai le plus profond respect...<END>
+
+//C'est pour toutes ces raisons que je suis<LINE>
+//en Italie, le royaume du foot européen !<END>
+
+//Je ne renoncerai jamais à mon rêve<LINE>
+//et je me donnerai à fond<LINE>
+//sous le soleil italien !<END>
+
+//Non ! Je ne renoncerai pas !<END>
+

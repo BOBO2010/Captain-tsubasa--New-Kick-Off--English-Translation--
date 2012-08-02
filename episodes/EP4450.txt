@@ -1,0 +1,49 @@
+// FILE: EP4450.str containing 14 strings
+
+//Meiwa-Higashi va tirer !<END>
+
+//Non !<END>
+
+//Alors que le but paraissait assuré,<LINE>
+//Moriyama, le gardien de Musashi, s'est jeté<LINE>
+//sur la trajectoire du ballon,<LINE>
+//faute de pouvoir réagir à temps !<END>
+
+//Mais même s'il a arrêté le ballon,<LINE>
+//celui-ci est toujours en jeu !<LINE>
+//Il est retombé devant le but !<END>
+
+//Dégage ! Dégage le ballon !<END>
+
+//Qui va reprendre le ballon ?<LINE>
+//Musashi ou Meiwa-Higashi ?<END>
+
+//Prends ça !<LINE>
+//Voici la Kamikaze sliding squad de Meiwa !<END>
+
+//Quoi ?!<END>
+
+//C'est un but !<LINE>
+//L'obstination de Meiwa-Higashi a réussi<LINE>
+//à percer la défense solide de Musashi !<END>
+
+//Est-ce l'attaquant Sawaki qui a touché<LINE>
+//le ballon en dernier ?<LINE>
+//C'est difficile à dire après cette tempête<LINE>
+//de tacles de Meiwa-Higashi !<END>
+
+//Tous les joueurs se sont rués sur le ballon<LINE>
+//pour tirer en glissant, et ils ont marqué<LINE>
+//leur premier but du match !<END>
+
+//Oui, on a marqué !<LINE>
+//Le match est dans la poche !<END>
+
+//Les onze joueurs de Meiwa-Higashi<LINE>
+//sont fous de joie !<END>
+
+//Alors que la défense de Musashi<LINE>
+//ne tenait déjà plus qu'à un fil,<LINE>
+//l'obstination de Meiwa-Higashi<LINE>
+//l'a mise à terre !<END>
+

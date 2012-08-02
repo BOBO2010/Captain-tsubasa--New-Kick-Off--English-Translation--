@@ -1,0 +1,66 @@
+// FILE: EP3456.str containing 21 strings
+
+//Pas question !<LINE>
+//Je ne te laisserai pas me prendre<LINE>
+//le ballon !<END>
+
+//Tu ne passeras pas !<END>
+
+//Tu rêves ! Je vais t'effacer !<END>
+
+//Je t'arrêterai !<LINE>
+//Matsuyama, ce sera ma dernière action<LINE>
+//de ce match !<END>
+
+//Oh ! C'est un violent choc d'épaules<LINE>
+//entre les deux adversaires !<END>
+
+//Tsubasa a subi l'impact sur son épaule<LINE>
+//gauche blessée et se retrouve à terre !<END>
+
+//Mais ce n'était pas une faute !<END>
+
+//C'est Matsuyama qui sort vainqueur<LINE>
+//de ce duel entre les deux capitaines !<END>
+
+//Matsuyama va-t-il faire une passe<LINE>
+//ou tenter un long tir ?<END>
+
+//Oh ! Matsuyama se met en position<LINE>
+//pour tirer !<END>
+
+//Mais Nankatsu fait bloc<LINE>
+//pour contrer son tir !<END>
+
+//Maintenant !<END>
+
+//Ah ! Matsuyama change de position<LINE>
+//pour faire une passe !<LINE>
+//Il centre en avant !<END>
+
+//Matsuyama fait confiance à ses partenaires<LINE>
+//pour la suite de l'action !<END>
+
+//Les joueurs de Furano se ruent<LINE>
+//devant les buts !<END>
+
+//On doit concrétiser sur ce ballon<LINE>
+//de notre capitaine !<END>
+
+//Nous sommes tous liés par la confiance<LINE>
+//et l'amitié !<LINE>
+//Je compte sur vous !<END>
+
+//Morisaki, le gardien de Nankatsu, plonge<LINE>
+//sur le ballon ! <END>
+
+//Allez !<END>
+
+//But !<LINE>
+//Morisaki n'a rien pu faire<LINE>
+//face à cette attaque en masse !<LINE>
+//La ténacité de Furano<LINE>
+//a fini par payer !<END>
+
+//On a réussi !<END>
+

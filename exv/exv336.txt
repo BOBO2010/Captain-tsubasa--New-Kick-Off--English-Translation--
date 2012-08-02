@@ -1,0 +1,12 @@
+// FILE: exv336.str containing 4 strings
+
+//Prends ça !<END>
+
+//Je l'ai !<END>
+
+//Prends mon Tir napalm !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+

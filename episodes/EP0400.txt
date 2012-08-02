@@ -1,0 +1,43 @@
+// FILE: EP0400.str containing 13 strings
+
+//Comme vous le savez, vous devrez vous<LINE>
+//méfier des techniques aériennes<LINE>
+//des frères Tachibana de Hanawa.<LINE>
+//Et avec Ishizaki au centre,<LINE>
+//la défense sera la clé.<END>
+
+//Entendu.<END>
+
+//OK, les gars !<LINE>
+//Ne perdez pas le rythme d'hier.<LINE>
+//Je veux vous voir vous donner à fond<LINE>
+//aujourd'hui également !<END>
+
+//Ouais !<END>
+
+//Bien, les deux équipes sont sur le terrain.<END>
+
+//Hé hé, ça faisait un bail, Tsubasa.<END>
+
+//Oui, trois ans.<END>
+
+//Aujourd'hui, on va te montrer<LINE>
+//de quoi on est vraiment capables.<END>
+
+//Oui, désolé, mais votre série de victoires<LINE>
+//va s'arrêter ici.<END>
+
+//Vraiment ?<LINE>
+//Votre foot aérien ne marchera pas<LINE>
+//contre nous !<END>
+
+//Toujours aussi vantard...<LINE>
+//Tu vas encore marquer<LINE>
+//contre ton camp aujourd'hui ?<END>
+
+//Répète un peu ?<END>
+
+//Et c'est à Nankatsu de frapper<LINE>
+//le coup d'envoi de ce match<LINE>
+//qui s'annonce très excitant.<END>
+

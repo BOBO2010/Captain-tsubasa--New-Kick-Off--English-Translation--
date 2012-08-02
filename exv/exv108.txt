@@ -1,0 +1,24 @@
+// FILE: exv108.str containing 8 strings
+
+//Hyuga !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Je te la passe !<END>
+
+//Je dois y aller !<END>
+
+//C'est ta chance, Hyuga !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Admire le spectacle !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+

@@ -1,0 +1,28 @@
+// FILE: EP5052.str containing 10 strings
+
+//Il reste encore du temps.<LINE>
+//La prochaine fois, je...<END>
+
+//Remplacement du nº 12 !<END>
+
+//Hein ?<END>
+
+//Comment...<LINE>
+//Je peux encore jouer...<END>
+
+//Ce n'est rien, cette blessure, entraîneur.<LINE>
+//Je peux encore jouer.<END>
+
+//Tu es remplacé non pas à cause<LINE>
+//de ta blessure, mais parce que tu n'as pas<LINE>
+//respecté les consignes de match !<END>
+
+//C'est pas vrai...<END>
+
+//Entraîneur, Shingo s'est blessé<LINE>
+//à la jambe…<END>
+
+//Hein ?<END>
+
+//*coup de sifflet*<END>
+

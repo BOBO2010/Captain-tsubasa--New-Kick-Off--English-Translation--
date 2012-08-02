@@ -1,0 +1,50 @@
+// FILE: EP0760.str containing 16 strings
+
+//Non, Hyuga !<LINE>
+//Si tu tires de là, ça ne marchera pas !<END>
+
+//Oh ! Sawada s'est élancé pour empêcher<LINE>
+//son coéquipier Hyuga de tirer !<END>
+
+//C'est... C'est ça !<LINE>
+//Takeshi, ta jambe ! Par ici !<END>
+
+//Hein ?<END>
+
+//Oh... Que se passe-t-il ?<END>
+
+//Hyuga utilise la jambe de Sawada<LINE>
+//pour sauter, alors que ce dernier arrivait<LINE>
+//sur lui avec un tacle glissé !<END>
+
+//Et il saute par dessus la défense<LINE>
+//de Nankatsu pour atterrir sans encombre !<END>
+
+//Là, en un clin d'œil, il tire à la volée !<END>
+
+//Allez ! Un lob... Tiger shot !<END>
+
+//Le ballon fonce droit vers le gardien !<LINE>
+//Mais la balle est assez puissante<LINE>
+//pour repousser Morisaki dans les buts !<END>
+
+//Or, Tsubasa est devant le but !<LINE>
+//Il plonge pour rattraper Morisaki !<END>
+
+//Ouuuaah !<END>
+
+//Et une fois encore, nous assistons<LINE>
+//à une prouesse de Tsubasa !<LINE>
+//Un magnifique plongeon<LINE>
+//du capitaine Tsubasa !<END>
+
+//Il l'a eu !<LINE>
+//Tsubasa a rattrapé Morisaki<LINE>
+//avant qu'il ne tombe dans le but !<END>
+
+//Oh non !<LINE>
+//Ils ont finalement tous les deux <LINE>
+//été entraînés dans les cages !<END>
+
+//Et c'est un but ! Un but pour Toho !<END>
+

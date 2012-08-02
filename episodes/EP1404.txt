@@ -1,0 +1,36 @@
+// FILE: EP1404.str containing 11 strings
+
+//Pierre.<END>
+
+//Misaki.<END>
+
+//J'espère qu'on aura l'occasion<LINE>
+//de s'affronter à nouveau dans le futur.<END>
+
+//Moi aussi.<END>
+
+//Roberto, le Japon ayant gagné,<LINE>
+//remettons notre discussion au sujet<LINE>
+//du recrutement de Tsubasa Ozora<LINE>
+//à la fin du match de demain...<END>
+
+//Entraîneur Barbas, qui va l'emporter<LINE>
+//demain ?<END>
+
+//J'ai bien peur que ce soit l'Allemagne.<LINE>
+//Même si le Japon possède Tsubasa Ozora,<LINE>
+//je ne pense pas qu'ils aient les moyens<LINE>
+//de l'emporter sur l'Allemagne.<END>
+
+//Dans ce cas…<LINE>
+//Si le Japon remporte le match de demain,<LINE>
+//tu devras abandonner l'idée de recruter<LINE>
+//Tsubasa. D'accord ?<END>
+
+//Quoi ?<END>
+
+//Je suis désolé, mais je compte recruter<LINE>
+//Tsubasa pour mon équipe brésilienne.<END>
+
+//Roberto !<END>
+

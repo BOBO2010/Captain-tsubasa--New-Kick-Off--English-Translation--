@@ -1,0 +1,17 @@
+// FILE: adi_logo.str containing 1 strings
+
+//  2010 adidas AG. adidas,<LINE>
+//the Trefoil and the 3-Stripes<LINE>
+//mark are registered trademarks<LINE>
+//of the adidas Group.<LINE>
+//<LINE>
+//“adidas”, the 3-Bars logo,<LINE>
+//the 3-Stripe trade mark and<LINE>
+//TUNiT are registered trade marks<LINE>
+//of the adidas Group, used with<LINE>
+//permission. adiPURE is a trade<LINE>
+//mark of the adidas Group,<LINE>
+//used with permission.<LINE>
+//<LINE>
+<END>
+

@@ -1,0 +1,113 @@
+// FILE: bvd999.str containing 54 strings
+
+//Fonce !<END>
+
+//Il arrive !<END>
+
+//Arrrrgh !<END>
+
+//Tiens !<END>
+
+//Admire le spectacle !<END>
+
+//Fonce !<END>
+
+//Laisse-moi passer !<END>
+
+//Admire le travail !<END>
+
+//Amène-toi !<END>
+
+//Dans tes rêves !<END>
+
+//Tu ne me passeras pas !<END>
+
+//Admire le spectacle !<END>
+
+//C'est fini !<END>
+
+//Admire le spectacle !<END>
+
+//Je l'ai !<END>
+
+//C'est bon !<END>
+
+//Ne t'imagine pas que tu vas<LINE>
+//passer !<END>
+
+//Arrrrgh !<END>
+
+//je dois l'arrêter !<END>
+
+//C'est fini !<END>
+
+//Je dois l'arrêter !<END>
+
+//Ouaiiiis !<END>
+
+//Cool !<END>
+
+//Qu'est-ce que tu dis de ça ?<END>
+
+//Hein, quoi ?<END>
+
+//!!!<END>
+
+//Non !<END>
+
+//Je l'ai !<END>
+
+//Prends ça !<END>
+
+//Aaaarrrrgh !<END>
+
+//C'est pour toi !<END>
+
+//Admire le spectacle !<END>
+
+//Je dois l'avoir !<END>
+
+//Laisse-moi passer !<END>
+
+//Oui !<END>
+
+//Tu ne l'auras pas !<END>
+
+//Dans tes rêves !<END>
+
+//Ne t'imagine pas que tu vas<LINE>
+//passer !<END>
+
+//Aaaarrrrgh !<END>
+
+//Ne t'imagine pas que tu vas<LINE>
+//passer !<END>
+
+//Je dois l'avoir !<END>
+
+//je dois l'arrêter !<END>
+
+//Prends ça !<END>
+
+//Tu ne passeras pas !<END>
+
+//Aaaarrrrgh !<END>
+
+//je dois l'arrêter !<END>
+
+//Plus rien ne passera !<END>
+
+//Aaaarrrrgh !<END>
+
+//Ouaiiiis !<END>
+
+//J'ai réussi !<END>
+
+//Ah !<END>
+
+//Hein ?<END>
+
+//Grrr....<END>
+
+//Quoi ? C'est pas vrai...<END>
+

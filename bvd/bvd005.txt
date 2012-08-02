@@ -1,0 +1,110 @@
+// FILE: bvd005.str containing 54 strings
+
+//Fonce !<END>
+
+//Il arrive !<END>
+
+//Argh !<END>
+
+//Argh !<END>
+
+//Admire le spectacle !<END>
+
+//Fonce !<END>
+
+//Laisse-moi passer !<END>
+
+//Tu n'es pas plus fort que moi !<END>
+
+//Amène-toi !<END>
+
+//Dans tes rêves !<END>
+
+//Tu ne me passeras pas !<END>
+
+//Admire le spectacle !<END>
+
+//C'est fini !<END>
+
+//Admire le spectacle !<END>
+
+//Je l'ai !<END>
+
+//C'est bon !<END>
+
+//Faudra me passer sur le corps !<END>
+
+//Argh !<END>
+
+//je dois l'arrêter !<END>
+
+//C'est fini !<END>
+
+//Je dois l'arrêter !<END>
+
+//Oui !<END>
+
+//Cool !<END>
+
+//Qu'est-ce que tu dis de ça ?<END>
+
+//Hein, quoi ?<END>
+
+//Grrrr !<END>
+
+//Non !<END>
+
+//Je l'ai !<END>
+
+//Prends ça !<END>
+
+//Aaaarrrrgh !<END>
+
+//C'est pour toi !<END>
+
+//Admire le spectacle !<END>
+
+//Je dois l'avoir !<END>
+
+//Tu n'es pas plus fort que moi !<END>
+
+//Oui !<END>
+
+//Tu ne l'auras pas !<END>
+
+//Dans tes rêves !<END>
+
+//Je vais l'arrêter !<END>
+
+//Aaaarrrrgh !<END>
+
+//Je crois que tu rêves !<END>
+
+//Je dois l'avoir !<END>
+
+//je dois l'arrêter !<END>
+
+//Prends ça !<END>
+
+//Tu ne passeras pas !<END>
+
+//Aaaarrrrgh !<END>
+
+//je dois l'arrêter !<END>
+
+//Plus rien ne passera !<END>
+
+//Aaaarrrrgh !<END>
+
+//Ouaiiiis !<END>
+
+//J'ai réussi !<END>
+
+//Ah !<END>
+
+//Hein ?<END>
+
+//Grrr....<END>
+
+//Quoi ? C'est pas vrai...<END>
+

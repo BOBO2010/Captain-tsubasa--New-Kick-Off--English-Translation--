@@ -1,0 +1,257 @@
+// FILE: HELP.str containing 94 strings
+
+//Commence le match<LINE>
+//avec la formation actuelle.<END>
+
+//Change la formation de l'équipe<LINE>
+//et la stratégie.<END>
+
+//Retourne à l'écran Sélectionner match<LINE>
+//pour l'histoire en cours.<END>
+
+//Configure les titulaires pour le match.<END>
+
+//Règle le type de formation et les modes<LINE>
+//des défenseurs, milieux de terrain<LINE>
+//et attaquants.<END>
+
+//Attribue la position des joueurs<LINE>
+//sur le terrain.<END>
+
+//Désigne le capitaine de l'équipe.<LINE>
+//La compétence du capitaine dépend<LINE>
+//du joueur sélectionné.<END>
+
+//Attribuer<LINE>
+//les numéros<LINE>
+//de maillot<LINE>
+//aux joueurs.<END>
+
+//Règle la stratégie pendant le match.<LINE>
+//La stratégie influe sur les résultats<LINE>
+//des duels.<END>
+
+//Attribue un joueur pour les corners,<LINE>
+//coups francs, penaltys et les touches.<END>
+
+//Veuillez sélectionner la fente<LINE>
+//où sauvegarder les données.<END>
+
+//Veuillez sélectionner<LINE>
+//les données à charger.<END>
+
+//DUMMY_F<END>
+
+//Équipe les joueurs<LINE>
+//avec les objets obtenus.<END>
+
+//Les données sont corrompues.<END>
+
+//Les données sont réinitialisées.<END>
+
+//Chargement des données échoué.<LINE>
+//Éteindre la console et réinsérer<LINE>
+//la carte de jeu DS.<END>
+
+//Réinitialisation des données...<END>
+
+//Réinitialisation des données terminée.<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//Régler le volume des effets sonores.<END>
+
+//Régler le volume de la musique.<END>
+
+//Régler le volume des spectateurs.<END>
+
+//Activer/désactiver les voix<LINE>
+//des personnages dans les séquences<LINE>
+//animées et les matchs.<END>
+
+//DUMMY_F<END>
+
+//Se focaliser sur l'attaque et augmenter<LINE>
+//les paramètres liés aux commandes<LINE>
+//d'attaque.<END>
+
+//Se focaliser sur la défense et augmenter<LINE>
+//les paramètres liés aux commandes<LINE>
+//de défense.<END>
+
+//Se focaliser sur les passes et augmenter<LINE>
+//les paramètres de "PASSE".<END>
+
+//Se focaliser sur les tirs et augmenter<LINE>
+//les paramètres de "TIR".<END>
+
+//Se focaliser sur les dribbles et<LINE>
+//augmenter les paramètres de "FEINTE".<END>
+
+//Se focaliser sur l'interception<LINE>
+//des passes et augmenter les paramètres<LINE>
+//de "INTERCEPTION".<END>
+
+//Se focaliser sur le blocage des tirs et<LINE>
+//augmenter les paramètres de "BLOCAGE".<END>
+
+//Se focaliser sur l'interception<LINE>
+//des adversaires et augmenter<LINE>
+//les paramètres de "TACLE".<END>
+
+//Préserver son endurance et se lancer<LINE>
+//dans une ultime offensive.<LINE>
+//Les paramètres augmentent<LINE>
+//seulement lors de l'utilisation<LINE>
+//d'un coup spécial,<LINE>
+//et baissent dans un cas contraire.<END>
+
+//Se focaliser sur un jeu simple<LINE>
+//et basique, et augmenter<LINE>
+//tous les paramètres.<LINE>
+//Lors de l'utilisation d'un coup spécial,<LINE>
+//les paramètres baissent.<END>
+
+//Se focaliser sur l'utilisation des coups<LINE>
+//spéciaux et augmenter le recouvrement<LINE>
+//de SP. Quelques paramètres baissent.<END>
+
+//L'évolution du personnage sera<LINE>
+//propre à cette histoire.<END>
+
+//L'adversaire place<LINE>
+//son tir.<END>
+
+//Retourne à l'écran de configuration<LINE>
+//du match.<END>
+
+//Chargement des données<LINE>
+//de la partie interrompue...<LINE>
+//Ne pas éteindre la console<LINE>
+//et ne pas retirer la carte de jeu DS.<END>
+
+//Sauvegarde des données de la partie<LINE>
+//interrompue...<LINE>
+//<LINE>
+//Ne pas éteindre la console et ne pas<LINE>
+//retirer la carte de jeu DS.<END>
+
+//Retourne au MENU VS.<END>
+
+//Retourne à l'écran de sélection de<LINE>
+//l'équipe.<END>
+
+//Sauvegarder avec ces<LINE>
+//paramètres ?<END>
+
+//Sauvegarder<LINE>
+//la partie ?<END>
+
+//Sauvegarde…<END>
+
+//Sauvegarde terminée.<END>
+
+//Chargement...<END>
+
+//Chargement terminé.<END>
+
+//Écraser<LINE>
+//les données ?<END>
+
+//La partie en cours<LINE>
+//ne sera pas<LINE>
+//sauvegardée.<LINE>
+//Continuer ?<END>
+
+//Accéde à l'écran de sauvegarde.<END>
+
+//Continue sans sauvegarder.<END>
+
+//Voir l'épilogue ?<END>
+
+//Voir l'épilogue.<END>
+
+//Passer l'épilogue.<END>
+
+//Retourner à l'écran<LINE>
+//principal ?<END>
+
+//Interrompre<LINE>
+//la partie<LINE>
+//et retourner<LINE>
+//à l'écran titre ?<END>
+
+//Le match ne sera pas<LINE>
+//sauvegardé.<LINE>
+//Continuer ?<END>
+

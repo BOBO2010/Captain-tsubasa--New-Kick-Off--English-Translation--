@@ -1,0 +1,28 @@
+// FILE: EP4552.str containing 9 strings
+
+//Entraîneur ! Je vais jouer !<END>
+
+//Misugi...<END>
+
+//Nankatsu est un adversaire sérieux !<LINE>
+//Si ça continue, ils vont creuser le score !<END>
+
+//Mais Misugi...<END>
+
+//Je vais bien.<LINE>
+//Je sortirai au bout de trente minutes.<LINE>
+//Laissez-moi jouer !<END>
+
+//Oh ! Musashi demande un remplacement.<LINE>
+//Misugi entre sur le terrain !<END>
+
+//Oui, Musashi Junior High School fait entrer<LINE>
+//Misugi !<END>
+
+//Misugi !<END>
+
+//Viens, Tsubasa !<LINE>
+//Ce n'est pas parce que tu m'as battu<LINE>
+//en championnat national à l'école primaire<LINE>
+//que je vais te laisser gagner aujourd'hui !<END>
+

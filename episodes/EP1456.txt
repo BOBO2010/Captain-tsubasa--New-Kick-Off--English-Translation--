@@ -1,0 +1,125 @@
+// FILE: EP1456.str containing 44 strings
+
+//Misaki fait une passe en direction de Hyuga<LINE>
+//devant le but !<END>
+
+//Kojiro !<END>
+
+//N-non !<END>
+
+//C'est bon ! Je vais marquer le but<LINE>
+//de la victoire !<END>
+
+//Quoi ?!<END>
+
+//Oh non ! Le ballon est stoppé<LINE>
+//par une flaque d'eau !<LINE>
+//Hyuga ne va pas pouvoir tirer !<END>
+
+//Quelle chance pour la France !<END>
+
+//Ouf, on l'a échappé belle.<END>
+
+//Napoléon récupère le ballon.<END>
+
+//Pierre, à nous de jouer !<LINE>
+//Les dieux du football sont avec nous !<END>
+
+//Napoléon !<END>
+
+//C'est parti pour l'Attaque Eiffel !<END>
+
+//L'Attaque Eiffel ? C'est une sorte<LINE>
+//de technique aérienne comme la nôtre ?<END>
+
+//Non, on dirait pas !<END>
+
+//La France fonce vers les buts japonais<LINE>
+//avec un jeu de passes impressionnant !<END>
+
+//Ce sont des enchaînements d’une-deux<LINE>
+//entre Napoléon et Pierre !<END>
+
+//Ce jeu de passes est bâti sur le modèle<LINE>
+//architectural de la Tour Eiffel,<LINE>
+//ce qui lui a valu le nom d'Attaque Eiffel.<END>
+
+//Il faut se mettre en travers !<END>
+
+//Il faut intercepter la passe !<END>
+
+//Impressionnant !<LINE>
+//Pierre fait une passe en hauteur<LINE>
+//qui passe par-dessus la tête du défenseur !<LINE>
+//On voit bien là qu'il ne suffit pas<LINE>
+//de se mettre entre eux !<END>
+
+//La distance entre leurs passes se resserre.<END>
+
+//Je dois les arrêter !<END>
+
+//Là !<END>
+
+//Misaki effectue un tacle au moment où<LINE>
+//Pierre reçoit le ballon de Napoléon.<END>
+
+//Oh ! Pierre reprend le ballon du gauche<LINE>
+//et non du droit !<LINE>
+//Misaki rate son tacle !<END>
+
+//Le jeu de passes atteint maintenant<LINE>
+//le sommet de cette tour imaginaire !<LINE>
+//On assiste à un jeu de passes courtes<LINE>
+//entre les deux joueurs !<END>
+
+//Il ne reste plus que Misugi en défense !<END>
+
+//J'ai dit à Tsubasa que je m'occupais<LINE>
+//de la défense ! Je dois les arrêter !<END>
+
+//Misugi fonce sur Pierre !<END>
+
+//Les deux joueurs touchent le ballon<LINE>
+//en même temps !<LINE>
+//La balle est projetée dans les airs !<END>
+
+//Pierre retourne le ballon vers Napoléon<LINE>
+//à l'aide d'une superbe tête !<END>
+
+//Rhaaa !<END>
+
+//Un contre un !<LINE>
+//Wakashimazu sort des cages sans hésiter !<END>
+
+//Napoléon, tire !<END>
+
+//D'accord !<END>
+
+//Napoléon s'apprête à tirer,<LINE>
+//mais Wakashimazu plonge sur le ballon.<END>
+
+//Tégatana defense !<END>
+
+//Arghhhhhh !<END>
+
+//Napoléon frappe un puissant Canon shoot !<LINE>
+//Le ballon est dévié par Wakashimazu,<LINE>
+//mais pas assez et fonce droit<LINE>
+//vers les buts japonais !<END>
+
+//Ohhhhhhhh ! Wakashimazu a réussi à dévier<LINE>
+//la balle sur la barre transversale !<END>
+
+//Je vais marquer !<LINE>
+//L'Attaque Eiffel est imparable !<END>
+
+//Oh ! La balle est toujours en jeu<LINE>
+//et Pierre la reprend d'une magnifique<LINE>
+//reprise de volée aérienne !<END>
+
+//Buuuuuuuuuuuuuut !<LINE>
+//La défense japonaise n'a pas su venir<LINE>
+//à bout de l'Attaque Eiffel !<END>
+
+//Oui !<END>
+

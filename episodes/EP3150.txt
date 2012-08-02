@@ -1,0 +1,27 @@
+// FILE: EP3150.str containing 8 strings
+
+//Allez les gars !<LINE>
+//On va leur montrer<LINE>
+//de quoi on est capables !<END>
+
+//C'est une Avalanche !<END>
+
+//Oh... On dirait que Matsuyama pousse<LINE>
+//les joueurs de Furano à l'attaque !<END>
+
+//C'est parti !<END>
+
+//Matsuyama fait une longue passe<LINE>
+//vers l'avant !<END>
+
+//C'est le tournant du match !<END>
+
+//Oda tire en direction<LINE>
+//des filets de Satsunishi !<LINE>
+//Le gardien n'a pas pu bloquer la balle !<LINE>
+//But !<END>
+
+//Bien joué, les gars !<LINE>
+//Le travail collectif de Furano<LINE>
+//a fait ses preuves !<END>
+

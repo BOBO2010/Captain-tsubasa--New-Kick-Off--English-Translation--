@@ -1,0 +1,60 @@
+// FILE: EP3502.str containing 18 strings
+
+//Le match vient juste de s'achever !<LINE>
+//Furano, qui représente Hokkaido, a battu<LINE>
+//l'équipe formidable de Toho Gakuen,<LINE>
+//remportant ainsi son premier championnat !<END>
+
+//Le vainqueur du National Junior<LINE>
+//High School Championship cette année<LINE>
+//n'est ni Nankatsu, ni Toho,<LINE>
+//mais Furano, le champion<LINE>
+//des terres enneigées !<END>
+
+//Nous avons réussi...<LINE>
+//Nous avons gagné...<END>
+
+//Capitaine !<END>
+
+//Nous avons réussi, capitaine !<END>
+
+//Victoire !<LINE>
+//Nous sommes les champions !<END>
+
+//Oui !<END>
+
+//Le trophée du vainqueur a été remis<LINE>
+//au capitaine de Furano, Matsuyama !<END>
+
+//Furano a pris d'assaut le championnat,<LINE>
+//et a su créer la surprise cette année<LINE>
+//grâce à son excellent jeu collectif.<END>
+
+//Matsuyama brandit le trophée du vainqueur !<END>
+
+//Tsubasa, j'ai réussi !<LINE>
+//J'ai tenu ma promesse !<LINE>
+//J'ai gagné !<END>
+
+//Le match est terminé !<LINE>
+//Furano et Toho ont tous deux gagné !<LINE>
+//Un match nul qui fait champions<LINE>
+//les deux équipes ! <END>
+
+//Match nul...<END>
+
+//Capitaine !<END>
+
+//Capitaine, nous avons réussi !<END>
+
+//Oui…<LINE>
+//Bien que ce soit un match nul,<LINE>
+//une victoire est une victoire !<LINE>
+//Et la victoire est bien à nous !<END>
+
+//Oui !<END>
+
+//Tsubasa, même si nous avons terminé<LINE>
+//sur un match nul, j'ai tenu ma promesse<LINE>
+//en remportant la victoire !<END>
+

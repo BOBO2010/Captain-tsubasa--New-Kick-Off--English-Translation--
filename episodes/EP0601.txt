@@ -1,0 +1,44 @@
+// FILE: EP0601.str containing 13 strings
+
+//Nankatsu contre Furano.<LINE>
+//Les deux équipes très équilibrées<LINE>
+//ont mérité leur place en demi-finale.<END>
+
+//OK, c'est du bon travail, les gars.<LINE>
+//Essuyez votre sueur et battez-vous encore<LINE>
+//en seconde mi-temps !<LINE>
+//Un dernier effort !<END>
+
+//Ouais !<END>
+
+//Tsubasa, tu peux continuer ?<END>
+
+//Oui, sans problème.<END>
+
+//Je ne vais pas perdre !<LINE>
+//Je refuse de perdre au Japon !<END>
+
+//OK, continue comme ça en seconde mi-temps.<LINE>
+//Tiens bon et la victoire est assurée !<END>
+
+//Oui !<END>
+
+//Nankatsu est fort…<LINE>
+//Et leur défense est vraiment très serrée.<LINE>
+//Mais en combinant toutes nos forces,<LINE>
+//on doit pouvoir les briser !<END>
+
+//Voici enfin la seconde mi-temps.<LINE>
+//Les trente dernières minutes<LINE>
+//d'un combat acharné !<END>
+
+//Et voici enfin la seconde mi-temps<LINE>
+//du match !<END>
+
+//Je vais me montrer digne de la confiance<LINE>
+//de mes camarades, et sceller le cours<LINE>
+//du match avec ma maîtrise du Drive shoot !<END>
+
+//Et à l'instant critique,<LINE>
+//je marquerai un but !<END>
+

@@ -1,0 +1,15 @@
+// FILE: exv147.str containing 4 strings
+
+//Kamikaze sliding squad,<LINE>
+//en avant !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//En avant, Sliding squad !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+

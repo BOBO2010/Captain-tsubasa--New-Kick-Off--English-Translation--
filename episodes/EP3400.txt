@@ -1,0 +1,137 @@
+// FILE: EP3400.str containing 46 strings
+
+//Nous allons finalement affronter Nankatsu.<END>
+
+//Non seulement Nankatsu bénéficie<LINE>
+//de la présence de Tsubasa, mais<LINE>
+//il a aussi un excellent jeu collectif.<END>
+
+//Mais... pour ce qui est du jeu collectif,<LINE>
+//aucune équipe n'arrive à la cheville<LINE>
+//de Furano ! <END>
+
+//Il faut que Matsuyama et Furano<LINE>
+//gagnent ce match.<END>
+
+//OK, les gars, venez tous ici !<END>
+
+//Oui, entraîneur !<END>
+
+//Le match d'aujourd'hui pourrait bien être<LINE>
+//le plus dur de tous pour vous.<LINE>
+//Ne pensez pas à demain,<LINE>
+//mais concentrez-vous sur ce match.<END>
+
+//Oui, entraîneur !<END>
+
+//Nankatsu est un adversaire coriace…<LINE>
+//Et même si Tsubasa Ozora est blessé,<LINE>
+//il reste un joueur clé.  <END>
+
+//Si vous pouvez arrêter Tsubasa,<LINE>
+//tout ira bien pour nous.<LINE>
+//Pour cela, je compte sur toi, Matsuyama,<LINE>
+//pour le marquer de très près.<END>
+
+//Oui, comptez sur moi.<END>
+
+//Bien !<LINE>
+//N'oubliez pas votre boisson énergétique,<LINE>
+//et au travail ! <END>
+
+//Oui, entraîneur !<END>
+
+//Manager ?<END>
+
+//Yoshiko...<END>
+
+//Mais...<END>
+
+//Qu'est-ce qu'il y a, Manager?<END>
+
+//Yoshiko a confectionné des bandeaux<LINE>
+//pour l'équipe.<END>
+
+//Des bandeaux ?<END>
+
+//Mais, personne n'en porte<LINE>
+//dans les autres équipes...<END>
+
+//Fais-voir ça.<END>
+
+//Oh...<END>
+
+//Tu as dû travailler dur<LINE>
+//pour faire tout ça.<END>
+
+//Au fait, Fujisawa, tu pars toujours<LINE>
+//aux États-Unis au second semestre ?<END>
+
+//Oui.<END>
+
+//Ah, bon... ?<END>
+
+//...<END>
+
+//Puisque Fujisawa s'est donné tant de mal<LINE>
+//pour confectionner ces bandeaux,<LINE>
+//on va tous les porter sur le terrain !<END>
+
+//D'accord !<END>
+
+//On nous reconnaîtra mieux comme ça,<LINE>
+//hahaha !<END>
+
+//Matsuyama...<END>
+
+//Yoshiko a brodé chacun de nos numéros.<END>
+
+//C'est le mien ?<END>
+
+//Oui, Matsuyama.<END>
+
+//Oh, merci !<END>
+
+//Super !<END>
+
+//S'il te plaît, Matsuyama,<LINE>
+//gagne le match...<END>
+
+//Et c'est sous les acclamations de la foule<LINE>
+//que les deux équipes pénètrent<LINE>
+//sur le terrain !<END>
+
+//On dirait que tous les joueurs de Furano<LINE>
+//portent un bandeau !<LINE>
+//Il leur faudra beaucoup d'acharnement<LINE>
+//pour battre Nankatsu aujourd'hui !<END>
+
+//Bien que tu sois blessé,<LINE>
+//je ne te ferai pas de cadeau, Tsubasa !<END>
+
+//Encore deux matches !<LINE>
+//Nous allons gagner !<LINE>
+//Je ne dois pas perdre au Japon !<END>
+
+//Tsubasa, Furano a travaillé dur<LINE>
+//en attendant ce jour.<LINE>
+//Nous allons atteindre notre objectif<LINE>
+//et battre Nankatsu !<END>
+
+//Matsuyama, je ne perdrai pas ce match !<END>
+
+//Deuxième demi-finale,<LINE>
+//Nankatsu contre Furano.<LINE>
+//Les deux capitaines se serrent la main<LINE>
+//avant de prendre leur poste<LINE>
+//sur le terrain.<END>
+
+//Quelle équipe jouera la finale ?<LINE>
+//Furano, forte de son excellent travail<LINE>
+//collectif, ou Nankatsu au jeu parfaitement<LINE>
+//équilibré ?<END>
+
+//L'arbitre a sifflé<LINE>
+//le début de la rencontre !<LINE>
+//La demi-finale commence !<END>
+

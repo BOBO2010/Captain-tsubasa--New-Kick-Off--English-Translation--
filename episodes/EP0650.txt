@@ -1,0 +1,26 @@
+// FILE: EP0650.str containing 9 strings
+
+//Allez, Tsubasa !<END>
+
+//Oh ! Tsubasa est violemment attaqué<LINE>
+//par Matsuyama !<END>
+
+//Je ne peux pas faire de passe,<LINE>
+//ni en avant ni en arrière...<END>
+
+//Matsuyama tente un tacle glissé !<END>
+
+//Mais Tsubasa l'évite de justesse !<END>
+
+//Bien joué, Tsubasa.<LINE>
+//Tu as senti que tu ne pourrais jamais<LINE>
+//faire de passe…<LINE>
+//Mais ce premier tacle était une feinte !<END>
+
+//Voici le vrai !<END>
+
+//Oh ! Matsuyama a changé de direction<LINE>
+//en plein tacle pour en faire un autre !<END>
+
+//Matsuyama prend la balle !<END>
+

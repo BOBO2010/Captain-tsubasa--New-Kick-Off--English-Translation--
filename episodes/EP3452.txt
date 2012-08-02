@@ -1,0 +1,41 @@
+// FILE: EP3452.str containing 12 strings
+
+//Furano a retourné la situation<LINE>
+//grâce à sa technique spéciale !<LINE>
+//Les joueurs repartent à l'attaque<LINE>
+//avec une succession de passes rapides !<END>
+
+//Et Matsuyama récupère le ballon !<END>
+
+//Je m'en charge !<END>
+
+//Matsuyama est démarqué<LINE>
+//et s'apprête à tirer.<END>
+
+//C'est maintenant que je dois marquer !<END>
+
+//Je n'ai pas le talent inné de Tsubasa<LINE>
+//ou Hyuga…<LINE>
+//C'est pourquoi je dois m'entraîner dur !<END>
+
+//Matsuyama a mis toute sa force<LINE>
+//dans ce long tir !<END>
+
+//Le long tir très puissant de Matsuyama<LINE>
+//rase le sol ! <END>
+
+//BUT !<LINE>
+//Il a marqué ! <LINE>
+//Le gardien Morisaki a réagi trop tard !<END>
+
+//Un puissant tir que Matsuyama<LINE>
+//n'a pu réussir que<LINE>
+//grâce aux heures d'entraînement passées<LINE>
+//dans les conditions difficiles d'Hokkaido !<END>
+
+//Furano a marqué sur ce long tir<LINE>
+//de Matsuyama,<LINE>
+//juste après l'Avalanche.<END>
+
+//Nous avons marqué, les gars !<END>
+

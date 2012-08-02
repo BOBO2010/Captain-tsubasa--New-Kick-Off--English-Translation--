@@ -1,0 +1,68 @@
+// FILE: EP4454.str containing 21 strings
+
+//Oui !<LINE>
+//Une contre-attaque !<END>
+
+//Hori récupère le ballon,<LINE>
+//et fait une longue passe en avant !<END>
+
+//Depuis que Misugi est sur le terrain,<LINE>
+//Musashi joue de manière très agressive !<LINE>
+//Meiwa-Higashi essaie peut-être de profiter<LINE>
+//de l'allégement de leur défense !<END>
+
+//Maintenant !<END>
+
+//Cette longue passe file vers Sawaki<LINE>
+//qui est juste devant les buts !<LINE>
+//Vont-ils réussir<LINE>
+//une nouvelle contre-attaque ?<END>
+
+//Très bien ! Maintenant, à moi de...<END>
+
+//*coup de sifflet*<END>
+
+//Quoi ?!<END>
+
+//Oh ! Sawaki est hors-jeu !<LINE>
+//Il est complètement seul sur la gauche !<LINE>
+//Il est tombé dans le piège tendu<LINE>
+//par Misugi !<END>
+
+//Musashi qui avait surpris un peu <LINE>
+//plus tôt par une contre-attaque a<LINE>
+//cette fois préparé son action <LINE>
+//favorite : le piège du hors-jeu !<END>
+
+//Grr...<END>
+
+//OK ! Nous avons bloqué la contre-attaque<LINE>
+//de Meiwa-Higashi !<END>
+
+//Suénaga récupère le ballon,<LINE>
+//et fait une longue passe en avant !<END>
+
+//Narita récupère le ballon,<LINE>
+//et fait une longue passe en avant !<END>
+
+//Enomoto récupère le ballon,<LINE>
+//et fait une longue passe en avant !<END>
+
+//Sakamoto récupère le ballon,<LINE>
+//et fait une longue passe en avant !<END>
+
+//Takagi récupère le ballon,<LINE>
+//et fait une longue passe en avant !<END>
+
+//Ishii récupère le ballon,<LINE>
+//et fait une longue passe en avant !<END>
+
+//Nagano récupère le ballon,<LINE>
+//et fait une longue passe en avant !<END>
+
+//Kawagoé récupère le ballon,<LINE>
+//et fait une longue passe en avant !<END>
+
+//Murasawa récupère le ballon,<LINE>
+//et fait une longue passe en avant !<END>
+

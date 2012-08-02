@@ -1,0 +1,150 @@
+// FILE: EP4153.str containing 50 strings
+
+//Je peux vous prendre tous en même temps !<END>
+
+//Je vais marquer Hyuga !<LINE>
+//Et si j'ai le ballon,<LINE>
+//on lance une contre-attaque !<END>
+
+//D'accord !<END>
+
+//Je t'attends, Hyuga.<LINE>
+//Je te promets que je vais t'arrêter,<LINE>
+//c'est la clé de notre égalisation !<END>
+
+//C'est ça que je voulais !<LINE>
+//Prépare-toi, Misugi !<END>
+
+//Misugi fonce sur Hyuga pour l'arrêter !<LINE>
+//Mais il ne va pas se laisser prendre<LINE>
+//le ballon si facilement !<LINE>
+//Les deux joueurs se battent !<END>
+
+//Hyuga va-t-il réussir à continuer<LINE>
+//vers les buts ?<LINE>
+//Misugi va-t-il réussir à l'arrêter ?<END>
+
+//Hors de mon chemin !<END>
+
+//Tu ne passeras...<END>
+
+//… pas !<END>
+
+//!!<END>
+
+//Misugi !<END>
+
+//Que se passe-t-il ?<LINE>
+//Misugi s'est effondré en laissant<LINE>
+//Hyuga prendre le contrôle du ballon !<END>
+
+//Les gars !<END>
+
+//Que se passe-t-il ?<END>
+
+//Ouah ! Misugi a envoyé le ballon loin<LINE>
+//de Hyuga tout en tombant !<END>
+
+//Misugi !<LINE>
+//OK !<END>
+
+//Musashi récupère le ballon !<END>
+
+//Musashi se lance dans une offensive<LINE>
+//rapide, mais Misugi est toujours au sol !<END>
+
+//Écoutez Misugi !<LINE>
+//On doit frapper rapidement !<END>
+
+//Toho se replie pour arrêter<LINE>
+//l'offensive de Musashi !<END>
+
+//Amenez-vous, bande de microbes !<LINE>
+//Misugi est le seul à pouvoir me marquer<LINE>
+//un but !<END>
+
+//Est-ce que Musashi va réussir à égaliser<LINE>
+//ou est-ce que la défense de Toho va<LINE>
+//tenir ? Le match va peut-être basculer !<END>
+
+//Regardez ça !<LINE>
+//Musashi fait une série de passes<LINE>
+//éblouissantes !<END>
+
+//Ils font des passes instantanées<LINE>
+//les uns après les autres !<END>
+
+//Mais il y a Wakashimazu dans les cages !<LINE>
+//Il ne laissera jamais passer un tir<LINE>
+//à longue distance !<END>
+
+//D'accord !<END>
+
+//Il semble que Musashi a été influencé<LINE>
+//par la ténacité de Misugi.<END>
+
+//Les défenseurs de Toho ne peuvent pas<LINE>
+//toucher la balle !<END>
+
+//Voilà notre chance !<LINE>
+//À toi de jouer, Honma !<END>
+
+//Ouah !<LINE>
+//Est-ce une passe décisive de Musashi ?<END>
+
+//Wakashimazu se précipite<LINE>
+//mais Honma est déjà en position de tir !<END>
+
+//Je vais marquer !<END>
+
+//Ah ! Honma est un petit peu plus rapide !<LINE>
+//Le ballon file vers les buts de Toho !<END>
+
+//!!<END>
+
+//Wakashimazu fait demi-tour en urgence<LINE>
+//et fonce vers le ballon !<LINE>
+//Va-t-il l'atteindre à temps ?<END>
+
+//Non, il n'a pas réussi !<LINE>
+//Le ballon fond dans le filet !<LINE>
+//Musashi a égalisé à la dernière minute !<END>
+
+//Oui, on a réussi !<END>
+
+//Non ! Capitaine !<END>
+
+//...<END>
+
+//Misugi !<LINE>
+//Misugi, ça va ?<END>
+
+//Je vais bien.<LINE>
+//Quel est le score ?<END>
+
+//Nous avons transformé ta passe en un but !<LINE>
+//Nous sommes à égalité !<END>
+
+//Tant mieux...<LINE>
+//Bon, on peut y arriver,<LINE>
+//on peut gagner ce match !<LINE>
+//Encore un... On va marquer encore un but !<END>
+
+//Mais Misugi... Tu es malade...<END>
+
+//Ne t'en fais pas pour moi,<LINE>
+//je peux encore jouer !<LINE>
+//Je vais jouer avec vous jusqu'au bout !<LINE>
+//Nous allons aller au tournoi national<LINE>
+//et affronter Tsubasa !<END>
+
+//Allons-y !<END>
+
+//Oui !<END>
+
+//Rapprochez-vous autant que possible<LINE>
+//et tirez de toutes vos forces !<LINE>
+//C'est la seule solution !<END>
+
+//Hyuga refuse de passer le ballon !<END>
+

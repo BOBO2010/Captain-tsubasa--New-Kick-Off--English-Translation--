@@ -1,0 +1,48 @@
+// FILE: EP3453.str containing 18 strings
+
+//Tsubasa se met en position de tir !<LINE>
+//Est-ce que ce sera un Drive shoot ?<END>
+
+//Je t'en empêcherai !<END>
+
+//Matsuyama le contre !<END>
+
+//Matsuyama fait preuve de ténacité.<LINE>
+//Il ne laissera jamais Tsubasa marquer !<LINE>
+//Le ballon s'élève dans les airs.<END>
+
+//Quoi ?<END>
+
+//Et voilà...une Bicyclette retournée !<END>
+
+//Matsuyama ne peut rien faire non plus<LINE>
+//contre cette technique !<END>
+
+//Kato !<END>
+
+//Non !<END>
+
+//Kato a plongé mais il ne peut atteindre<LINE>
+//la balle !<END>
+
+//But !<LINE>
+//Tsubasa marque<LINE>
+//sur un superbe coup de pied retourné !<END>
+
+//Oh ! Tsubasa retombe<LINE>
+//sur son épaule blessée !<END>
+
+//Tsubasa !<END>
+
+//Ah ! Matsuyama a plongé au sol<LINE>
+//pour amortir la chute de Tsubasa !<END>
+
+//Matsuyama !<END>
+
+//Ça va, Tsubasa ?<END>
+
+//Merci, Matsuyama.<END>
+
+//Pas de quoi !<LINE>
+//Je préfère t'affronter en forme !<END>
+

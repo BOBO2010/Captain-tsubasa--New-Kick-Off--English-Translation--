@@ -1,0 +1,47 @@
+// FILE: EP4555.str containing 15 strings
+
+//Même avec l'entrée de Misugi, Musashi<LINE>
+//n'arrive toujours pas à suivre !<LINE>
+//Ils ont intérêt à marquer et rapidement !<END>
+
+//Si nous n'arrivons pas à marquer<LINE>
+//maintenant, la suite sera très difficile...<LINE>
+//Face à Nankatsu, je ne pourrai pas gagner<LINE>
+//si je m'inquiète pour mon cœur...<END>
+
+//Je dois me battre !<END>
+
+//Misugi accélère !<LINE>
+//Il avance dans la moitié de terrain<LINE>
+//de Nankatsu !<END>
+
+//Il est rapide !<END>
+
+//Là ! J'ai vu une ouverture !<END>
+
+//Il tire !<LINE>
+//Malheureusement le ballon file tout droit<LINE>
+//sur Morisaki !<END>
+
+//Morisaki ! Tu peux l'arrêter !<END>
+
+//Oui !<END>
+
+//?<END>
+
+//Oh ! C'est son tir fantôme !<END>
+
+//Morisaki a perdu le ballon des yeux !<LINE>
+//Et il s'écrase dans les filets !<END>
+
+//C'est...<LINE>
+//Le ballon a continué à tourner<LINE>
+//très rapidement dans les mains du gardien !<END>
+
+//Tsubasa...<LINE>
+//Tu as compris l'astuce de mon tir...<END>
+
+//C'est trop dangereux.<LINE>
+//Je ne peux pas laisser Misugi tirer<LINE>
+//une nouvelle fois !<END>
+

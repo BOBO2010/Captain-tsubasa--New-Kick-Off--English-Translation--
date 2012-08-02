@@ -1,0 +1,62 @@
+// FILE: EP0553.str containing 22 strings
+
+//Je vais les achever.<END>
+
+//Le libéro Jito est monté au milieu<LINE>
+//du terrain, là où la bataille fait rage.<END>
+
+//Donne-moi la balle !<END>
+
+//Et passe pour Jito.<END>
+
+//Ils vont encore faire une combinaison !<LINE>
+//Ne laissez pas Sano libre !<END>
+
+//Hmm... J'y vais, Sano...<END>
+
+//Navré, mais le troisième but est pour nous.<END>
+
+//Moi, Hiroshi Jito, je vais mettre fin<LINE>
+//au règne de Nankatsu !<END>
+
+//Et c'est encore un tir à longue distance<LINE>
+//de Jito !<END>
+
+//Mais cette fois, c'est un simple tir<LINE>
+//qui n'a pas la puissance habituelle.<END>
+
+//Et Sano ne peut pas se démarquer<LINE>
+//des trois joueurs devant les buts<LINE>
+//pour modifier la trajectoire<LINE>
+//au dernier instant !<END>
+
+//OK !<END>
+
+//Morisaki sort de ses buts et s'apprête<LINE>
+//à ramasser le ballon.<END>
+
+//Maintenant !<END>
+
+//Hein ?<END>
+
+//Oh ! Quand le ballon a touché le sol,<LINE>
+//il est reparti en arrière !<LINE>
+//Comme lors d'un backspin au golf !<END>
+
+//Jito a réussi à mettre un backspin<LINE>
+//dans le ballon sur ce tir<LINE>
+//à longue distance !<END>
+
+//Oh non !<END>
+
+//Sano plonge en direction du ballon !<END>
+
+//Alors que Morisaki est toujours<LINE>
+//devant les buts !<END>
+
+//Et c'est le troisième but !<END>
+
+//Ce but est décisif pour Hirado !<LINE>
+//Les champions de Nankatsu ont concédé<LINE>
+//un troisième but !<END>
+

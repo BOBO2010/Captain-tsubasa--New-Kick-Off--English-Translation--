@@ -1,0 +1,16 @@
+// FILE: EP1403.str containing 6 strings
+
+//Nous n'avons pas réussi à gagner...<END>
+
+//C'est fini...<END>
+
+//On a tenu le coup...<END>
+
+//Bien joué, les gars.<END>
+
+//On s'est bien battus jusqu'à maintenant !<END>
+
+//Place aux tirs au but maintenant.<LINE>
+//Il ne faut pas qu'on se relâche,<LINE>
+//c'est la dernière ligne droite !<END>
+

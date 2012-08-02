@@ -1,0 +1,83 @@
+// FILE: EP1151.str containing 29 strings
+
+//Ne te crois pas invincible, Wakabayashi !<LINE>
+//Mon Tiger shot va transpercer tes filets !<END>
+
+//C'est ce qu'on va voir, Hyuga !<END>
+
+//!!!<END>
+
+//Aahhh...<END>
+
+//Je n'arrive pas à le croire !<LINE>
+//Hyuga a été projeté dans les airs !<END>
+
+//Schneider...<END>
+
+//Mais que vient-il de se passer ?<LINE>
+//Ah, voilà Karl Heinz Schneider,<LINE>
+//le Kaizer !<END>
+
+//Quelle feinte !<END>
+
+//Quelle vitesse !<END>
+
+//Schneider vient d'effacer Nitta et<LINE>
+//Tachibana en un clin d'œil !<END>
+
+//Cette sensation...<END>
+
+//Je ressens la même chose <LINE>
+//que face à Tsubasa !<END>
+
+//Schneider fonce droit<LINE>
+//vers les buts japonais !<END>
+
+//Mais Sawada et Matsuyama se dressent<LINE>
+//en travers de son chemin !<END>
+
+//Waah !<END>
+
+//Argh...<END>
+
+//Pas de feinte cette fois-ci, il passe<LINE>
+//en plein milieu et les deux défenseurs<LINE>
+//se voient foudroyés au passage !<END>
+
+//M-mais, c'est le Dribble en ligne droite<LINE>
+//de Hyuga !<END>
+
+//Schneider fonce à grande vitesse<LINE>
+//vers les buts adverses et se déjoue<LINE>
+//de ses adversaires à l'aide de dribbles<LINE>
+//foudroyants !<END>
+
+//On doit l'arrêter !<END>
+
+//Takasugi et Jito, les deux défenseurs<LINE>
+//géants du Japon, se replacent<LINE>
+//pour l'arrêter !<END>
+
+//Oh ! Il passe la balle en retrait et<LINE>
+//contourne le duo défensif par la gauche !<END>
+
+//Kaltz, qui le suivait, va-t-il tirer ?<END>
+
+//Schneider !<END>
+
+//Non ! Il ne tire pas et repasse le ballon<LINE>
+//à Schneider !<END>
+
+//Schneider reprend la passe de Kaltz<LINE>
+//dans les airs et y décrochent<LINE>
+//un Jumping high volley shoot !<END>
+
+//Buuuuuuuuuuuuuuuuuuut !<END>
+
+//Wakashimazu, la vision bloquée<LINE>
+//par les gigantesques Jito et Takasugi,<LINE>
+//n'a pas pu anticiper l'action de Schneider<LINE>
+//et est resté impuissant face à son tir !<END>
+
+//!!!<END>
+

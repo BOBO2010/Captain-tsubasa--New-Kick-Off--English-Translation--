@@ -1,0 +1,96 @@
+// FILE: EP4154.str containing 30 strings
+
+//Toho ne va quand même pas perdre<LINE>
+//face à un type qui est dans cet état !<END>
+
+//Oh, un tacle très violent de Hyuga !<LINE>
+//Misugi n'étant pas au meilleur de sa forme,<LINE>
+//pourra-t-il l'éviter ?<END>
+
+//Je dois bouger...<LINE>
+//Pourvu que mon cœur tienne...<LINE>
+//Juste encore un peu,<LINE>
+//au moins le temps de marquer un autre but !<END>
+
+//Misugi évite le tacle !<LINE>
+//On a du mal à croire,<LINE>
+//après l'avoir vu éviter le tacle<LINE>
+//avec ce magnifique jeu de jambes,<LINE>
+//que ce garçon était exténué<LINE>
+//à peine quelques instants plus tôt.<END>
+
+//C'est impossible !<END>
+
+//Misugi remonte avec le ballon<LINE>
+//dans la moitié de terrain de Toho.<END>
+
+//Je vais en finir !<LINE>
+//Je vais me créer un occasion décisive<LINE>
+//et marquer contre Wakashimazu !<END>
+
+//Je ne te laisserai pas passer !<END>
+
+//Misugi, attention !<END>
+
+//!!!<END>
+
+//Tu ne t'en sortiras pas si facilement !<END>
+
+//Misugi est pris en sandwich<LINE>
+//entre Sawada et Hyuga !<LINE>
+//Comment va-t-il se tirer<LINE>
+//de ce mauvais pas ?<END>
+
+//Je... Je dois marquer !<END>
+
+//!!<END>
+
+//Misugi s'apprête à tirer !<LINE>
+//Il ignore complètement<LINE>
+//la pression de Hyuga et Sawada !<LINE>
+//Misugi tente le tout pour le tout<LINE>
+//avec cette action !<END>
+
+//!!<END>
+
+//Il a réussi à tirer !<LINE>
+//Misugi vient de frapper un tir<LINE>
+//incroyablement rapide<LINE>
+//avant que Hyuga et Sawada<LINE>
+//ne le rejoignent !<END>
+
+//Le ballon fonce vers les buts de Toho...<END>
+
+//!!<END>
+
+//BUUUT !<LINE>
+//Je n'arrive pas à y croire !<LINE>
+//Le tir de Misugi a disparu<LINE>
+//juste devant Wakashimazu !<END>
+
+//Mais il y a clairement but !<END>
+
+//C'est impossible !<LINE>
+//Un tir qui disparaît ?<END>
+
+//Wakashimazu a été comme assommé !<LINE>
+//Il n'a pas pu bouger d'un cheveu !<END>
+
+//Alors ? Il est rentré ?<END>
+
+//Misugi vient de s'effondrer sur le sol !<END>
+
+//Misugi !<END>
+
+//...<END>
+
+//Je vais bien...<LINE>
+//Mon cœur bat toujours...<LINE>
+//Il bat toujours !<END>
+
+//Capitaine !<END>
+
+//Ces deux années de rééducation ont rendu<LINE>
+//mon cœur plus fort !<LINE>
+//Hyuga, je peux me battre contre toi !<END>
+

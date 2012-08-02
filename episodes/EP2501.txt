@@ -1,0 +1,82 @@
+// FILE: EP2501.str containing 22 strings
+
+//Nankatsu, fais gaffe à toi<LINE>
+//durant la deuxième mi-temps.<LINE>
+//J'ai le soleil avec moi !<END>
+
+//Ils seront complètement épuisés<LINE>
+//durant la deuxième mi-temps.<LINE>
+//La chaleur et les nombreux matchs<LINE>
+//auront raison d'eux.<END>
+
+//Je me suis entraîné sans relâche<LINE>
+//sous le soleil ardent d'Okinawa.<LINE>
+//Je suis plus résistant qu'eux.<END>
+
+//Et c'est le premier match du tournoi<LINE>
+//auquel je participe.<END>
+
+//Tous les éléments sont en ma faveur !<LINE>
+//Je vais te battre à plates coutures<LINE>
+//durant la deuxième mi-temps, Nankatsu !<END>
+
+//Vous avez bien joué jusqu'à présent,<LINE>
+//les gars.<LINE>
+//Mais Nankatsu ne sera pas facile à vaincre.<LINE>
+//Ne faites pas l'erreur fatale de laisser<LINE>
+//trop de liberté à Tsubasa Ozora !<LINE>
+//Marquez-le avec Wakashimazu au centre !<END>
+
+//Envoyez le ballon à Hyuga durant<LINE>
+//la deuxième mi-temps et attaquez !<LINE>
+//Nous sommes sûrs de gagner<LINE>
+//si vous vous en tenez à cette tactique !<END>
+
+//Entraîneur !<END>
+
+//L'entraîneur aussi...<LINE>
+//Lui aussi reconnaît le talent de Hyuga !<END>
+
+//Takeshi, Wakashimazu, je compte sur vous<LINE>
+//durant la deuxième mi-temps également !<END>
+
+//Oui, capitaine !<END>
+
+//Ça marche, Hyuga !<END>
+
+//Oh, j'allais oublier.<LINE>
+//Comment va ton bras, Wakashimazu ?<END>
+
+//Je défendrai les buts de Toho<LINE>
+//quoiqu'il m'en coûte.<LINE>
+//Quoiqu'il m'en coûte !<END>
+
+//Wakashimazu ?<END>
+
+//Euh... Non, oublie ça.<LINE>
+//Allons gagner ce match, capitaine !<LINE>
+//Nous allons gagner ce match et remporter<LINE>
+//le championnat, capitaine !<END>
+
+//Oui !<END>
+
+//Bien, la deuxième mi-temps va commencer !<LINE>
+//Nous allons vaincre Toho et gagner<LINE>
+//notre tout premier championnat !<END>
+
+//Oui !<END>
+
+//Eh bien, la deuxième mi-temps du match<LINE>
+//de championnat pour le National Junior<LINE>
+//High School Soccer Tournament est<LINE>
+//sur le point de commencer !<END>
+
+//Nankatsu va-t-elle devenir<LINE>
+//la première équipe de l'histoire<LINE>
+//à remporter trois championnats de suite ?<LINE>
+//Ou est-ce Toho qui gagnera enfin<LINE>
+//sa première victoire ?<END>
+
+//Que nous réserve la deuxième mi-temps ?<LINE>
+//Le coup d'envoi revient à Nankatsu !<END>
+

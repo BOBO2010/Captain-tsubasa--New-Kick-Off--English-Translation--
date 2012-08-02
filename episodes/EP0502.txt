@@ -1,0 +1,30 @@
+// FILE: EP0502.str containing 7 strings
+
+//On a gagné...<END>
+
+//Ouais ! On a gagné, Tsubasa !<END>
+
+//Le combat fut difficile mais Nankatsu<LINE>
+//a encore réussi à entrer dans le top 4<LINE>
+//pour la troisième année consécutive !<LINE>
+//Ils ne sont plus qu'à deux matchs<LINE>
+//de leur troisième victoire historique !<END>
+
+//Hirado étaient peut-être des nouveaux<LINE>
+//venus mais ils ont donné <LINE>
+//du fil à retordre aux champions <LINE>
+//de Nankatsu, pour finalement <LINE>
+//s'incliner devant eux !<END>
+
+//Grrr...<END>
+
+//Ca fait longtemps que nous <LINE>
+//n'avions pas perdu.<LINE>
+//Et même si c'est décevant,<LINE>
+//je me sens plutôt bien.<END>
+
+//Tsubasa Ozora…<LINE>
+//Je ne pensais jouer qu'une année,<LINE>
+//mais finalement je ne m'arrêterai pas<LINE>
+//tant que je ne t'aurais pas battu !<END>
+

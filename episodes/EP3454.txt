@@ -1,0 +1,51 @@
+// FILE: EP3454.str containing 16 strings
+
+//Je ne te laisserai pas tirer !<END>
+
+//C'est une occasion que l'équipe a créée<LINE>
+//juste pour moi…<LINE>
+//Même si je ne peux pas tirer,<LINE>
+//je dois au moins faire une passe.<END>
+
+//Izawa !<END>
+
+//Quoi ?<END>
+
+//Tsubasa a été le plus rapide,<LINE>
+//mais il ne peut pas tirer !<END>
+
+//Il passe en retrait pour Izawa !<LINE>
+//Et c'est une tête plongeante d'Izawa !<END>
+
+//Oh, non !<END>
+
+//But !<LINE>
+//Izawa, profitant de son élan, a fait<LINE>
+//un plongeon de 5 mètres !<END>
+
+//Matsuyama était au coude à coude <LINE>
+//avec Tsubasa mais n'a pas réussi à <LINE>
+//lui reprendre le ballon.<LINE>
+//C'était une très belle passe pour Izawa,<LINE>
+//qui est allé au devant du ballon !<END>
+
+//C'est comme ça que l'équipe Nankatsu joue !<END>
+
+//Également grâce à un excellent travail<LINE>
+//collectif, Nankatsu a pu marquer un but !<END>
+
+//Comme on s'y attendait,<LINE>
+//Nankatsu est vraiment très fort.<LINE>
+//On risque de ne pas pouvoir les battre,<LINE>
+//même avec notre jeu collectif.<END>
+
+//Qu'est-ce que c'est que ça ?<LINE>
+//Vous baissez les bras alors que<LINE>
+//nous ne sommes menés que d'un but !<END>
+
+//Capitaine !<END>
+
+//Allons-y ! Le match vient de commencer.<END>
+
+//Oui, capitaine !<END>
+

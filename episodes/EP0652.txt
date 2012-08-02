@@ -1,0 +1,55 @@
+// FILE: EP0652.str containing 18 strings
+
+//Matsuyama et Tsubasa courent tous les deux<LINE>
+//vers le ballon !<LINE>
+//Qui va l'atteindre en premier ?<END>
+
+//Capitaine, laisse-le nous !<END>
+
+//OK.<END>
+
+//Matsuyama part vers la droite !<END>
+
+//Grrr...<END>
+
+//C'est maintenant une course entre Tsubasa<LINE>
+//et Kanéda qui a surgi de l'aile !<END>
+
+//Tsubasa ne va pas s'en sortir.<LINE>
+//Kanéda fait une passe en le taclant !<END>
+
+//Oh non !<END>
+
+//OK, je l'ai.<END>
+
+//Matsuyama est démarqué et déja en position<LINE>
+//de tir.<END>
+
+//Maintenant... Je vais marquer !<END>
+
+//Je ne suis pas aussi doué pour le football<LINE>
+//que Tsubasa ou Hyuga...<LINE>
+//C'est pour ça que je m'entraîne.<LINE>
+//La seule façon de toujours s'améliorer<LINE>
+//est de travailler !<END>
+
+//Matsuyama a mis toute sa puissance<LINE>
+//dans ce long tir !<END>
+
+//Le tir de Matsuyama reste très près du<LINE>
+//sol !<END>
+
+//But ! Il a marqué !<LINE>
+//Le gardien Morisaki a mis trop de temps<LINE>
+//à réagir !<END>
+
+//Un splendide tir à longue distance<LINE>
+//de Matsuyama !<LINE>
+//L'entraînement dans les dures conditions<LINE>
+//de Hokkaido l'a rendu très fort !<END>
+
+//Matsuyama a marqué avec un long tir<LINE>
+//après l'Avalanche move de Furano !<END>
+
+//On a marqué, les gars !<END>
+

@@ -1,0 +1,23 @@
+// FILE: exv098.str containing 8 strings
+
+//Yaaaaah !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Tégatana !<END>
+
+//Tu ne marqueras pas<LINE>
+//si facilement !<END>
+
+//Shoken defense !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Wakado style special technique!<END>
+
+//Coup de pied mirage !<END>
+

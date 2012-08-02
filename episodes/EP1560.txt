@@ -1,0 +1,97 @@
+// FILE: EP1560.str containing 35 strings
+
+//Le ballon sera toujours mon ami.<END>
+
+//Je dois envoyer cet ami à mon partenaire,<LINE>
+//Tsubasa, qui a confiance en moi, et qui<LINE>
+//court seul vers les buts allemands.<LINE>
+//C'est pour ça qu'on forme la paire en or.<END>
+
+//C'est un tacle appuyé des Allemands !<LINE>
+//Ils essaient de l'empêcher de centrer !<END>
+
+//À toi de jouer !<END>
+
+//Misaki est touché par le tacle<LINE>
+//mais arrive quand même à centrer !<END>
+
+//Le buteur vedette des All Japan Jr. Youth,<LINE>
+//Kojiro Hyuga, court à la réception !<END>
+
+//Bien !<END>
+
+//Je vais l'arrêter !<END>
+
+//Oh ! Il laisse passer le ballon !<END>
+
+//Quoi ?<END>
+
+//Hyuga a feinté la réception !<LINE>
+//Mais à qui est destinée la passe ?<END>
+
+//Nous nous sommes promis de devenir<LINE>
+//les meilleurs au monde…<LINE>
+//Tout repose sur toi maintenant,<LINE>
+//Capitaine Tsubasa !<END>
+
+//Tsubasa saute pour reprendre<LINE>
+//le centre de Misaki !<LINE>
+//Il n'est pas marqué et s'apprête<LINE>
+//à faire une reprise de volée aérienne !<END>
+
+//Oh ! Mais voilà que Schneider revient !<END>
+
+//Il bloque lui-même Tsubasa<LINE>
+//par une reprise de volée !<END>
+
+//Je ne vais pas renoncer !<END>
+
+//Le tir a été bloqué,<LINE>
+//mais le danger n'est pas écarté !<END>
+
+//Le ballon est toujours en jeu !<END>
+
+//Les deux capitaines bondissent<LINE>
+//pour s'emparer du ballon qui retombe !<END>
+
+//Aaah !<END>
+
+//Waouh ! Tsubasa remporte le duel !<END>
+
+//Il tire avant que Schneider<LINE>
+//ait eu l'occasion de le bloquer !<END>
+
+//Mueller plonge sur le ballon,<LINE>
+//mais il n'arrive pas à s'en emparer !<LINE>
+//La balle s'envole dans le ciel !<END>
+
+//Qu-quoi ?<END>
+
+//Drive shoot !<END>
+
+//Tsubasa a réussi à mettre de l'effet dans<LINE>
+//son tir !<END>
+
+//Ce jeune homme est un génie du ballon<LINE>
+//rond ! C'est le Jumping drive shoot<LINE>
+//de Tsubasa Ozora !<END>
+
+//Oh non ! Son tir percute<LINE>
+//la barre transversale !<END>
+
+//Mais attendez ! Tsubasa reprend le ballon !<END>
+
+//Son tir rase le sol ! C'est le Super low<LINE>
+//overhead shot de Tsubasa !<END>
+
+//C'est ma frappe ultime !<END>
+
+//Muller réagit à temps<LINE>
+//et plonge sur le ballon !<END>
+
+//Quoi ?!<END>
+
+//Mais la balle rebondit !<END>
+
+//Buuuuuuuuuut !<END>
+

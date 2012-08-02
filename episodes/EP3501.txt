@@ -1,0 +1,33 @@
+// FILE: EP3501.str containing 10 strings
+
+//Mince, les efforts ne serviraient-ils<LINE>
+//à rien face au talent ?<LINE>
+//Je n'arriverai donc jamais à battre Hyuga ?<END>
+
+//Pas question de baisser les bras ! <LINE>
+//Je suis le capitaine !<END>
+
+//Je dois avoir entière confiance<LINE>
+//en mes partenaires et nos capacités.<LINE>
+//On s'est tant entraînés !<END>
+
+//Allez, les gars !<LINE>
+//Hyuga est fort, mais il reste<LINE>
+//un adversaire qu'on peut battre !<END>
+
+//Nous gagnerons certainement ce match<LINE>
+//grâce à notre jeu collectif !<END>
+
+//Oui, capitaine !<END>
+
+//Oda !<END>
+
+//?<END>
+
+//Je te passerai la balle<LINE>
+//en seconde mi-temps.<LINE>
+//Fais leur voir ce dont est capable<LINE>
+//l'avant-centre de Furano !<END>
+
+//Oui, capitaine !<END>
+

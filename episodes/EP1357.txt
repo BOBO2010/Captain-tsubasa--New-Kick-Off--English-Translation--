@@ -1,0 +1,50 @@
+// FILE: EP1357.str containing 16 strings
+
+//Diaz, je ne suis peut-être pas aussi doué<LINE>
+//que toi, mais avec de l'entraînement j'ai<LINE>
+//pu tenir face au meilleur joueur japonais,<LINE>
+//Tsubasa Ozora !<END>
+
+//Je ne me laisserai pas faire<LINE>
+//aussi facilement !<END>
+
+//Hein ?<END>
+
+//Oh ! Matsuyama protège le ballon<LINE>
+//en se mettant à genoux !<END>
+
+//Tsubasa, à toi de jouer !<LINE>
+//Je compte sur toi pour marquer !<END>
+
+//Il passe la balle à Tsubasa !<LINE>
+//C'est une passe Eagle shot de Matsuyama !<END>
+
+//Merci, Matsuyama !<LINE>
+//Tu peux compter sur moi !<END>
+
+//À toi, Hyuga !<END>
+
+//Tsubasa réussit à centrer<LINE>
+//malgré le marquage de deux défenseurs !<END>
+
+//C'est une passe pour Hyuga<LINE>
+//qui fonce droit au but !<END>
+
+//Si je ne marque pas, je ne pourrai jamais<LINE>
+//prétendre être le buteur vedette<LINE>
+//des All Japan !<END>
+
+//Hyuga est serré de prêt<LINE>
+//par deux défenseurs !<END>
+
+//Mais par sa vitesse fulgurante,<LINE>
+//Hyuga se démarque de ces derniers !<END>
+
+//Je vais mettre ce ballon<LINE>
+//au fond des filets !<END>
+
+//Tiger Diving Header !<END>
+
+//Buuuuuuuuuuuuuut ! Les compteurs sont<LINE>
+//de nouveau remis à zéro !<END>
+

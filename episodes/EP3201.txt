@@ -1,0 +1,25 @@
+// FILE: EP3201.str containing 7 strings
+
+//Pas de problème avec la chaleur ?<END>
+
+//Ça va.<LINE>
+//Ça ne va pas m'empêcher de continuer !<END>
+
+//J'ai pris une boisson énergétique !<LINE>
+//Rien de mieux pour prévenir la fatique !<END>
+
+//Hahaha ! <LINE>
+//Nous avions un bon rythme<LINE>
+//lors de la première mi-temps.<LINE>
+//Il faudra pour la suite conduire la balle<LINE>
+//devant leurs buts dès que possible<LINE>
+//pour marquer. <END>
+
+//Oui, entraîneur !<END>
+
+//Si une opportunité se présentait,<LINE>
+//est-ce que je devrais tenter ce tir ?<END>
+
+//Non, j'attendrai.<LINE>
+//Nous pouvons gagner sans ça !<END>
+

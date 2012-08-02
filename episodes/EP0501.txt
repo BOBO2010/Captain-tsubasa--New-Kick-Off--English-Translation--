@@ -1,0 +1,69 @@
+// FILE: EP0501.str containing 20 strings
+
+//La première mi-temps vient de s'achever<LINE>
+//et Nankatsu a perdu son avantage.<LINE>
+//On peut dire que le chemin<LINE>
+//vers un troisième titre consécutif<LINE>
+//est devenu un peu plus escarpé.<END>
+
+//OK, c'est bon.<LINE>
+//On va simplement jouer la seconde mi-temps<LINE>
+//sans concéder de but comme d'habitude.<LINE>
+//Hmmm... Il n'y en pas un seul<LINE>
+//qui soit aussi fort que moi.<END>
+
+//C'est foutu, on ne peut pas gagner.<END>
+
+//Tsubasa... Taki et Kisugi...<LINE>
+//Tous blessés...<END>
+
+//Les gars, ce n'est pas le moment<LINE>
+//d'abandonner !<LINE>
+//Nous ne sommes qu'à mi-chemin !<END>
+
+//Taki, Kisugi, comment vous sentez-vous ?<END>
+
+//Ça ira. Juste quelques égratignures.<LINE>
+//Nous sommes prêts pour la seconde mi-temps.<END>
+
+//Mais Tsubasa n'est pas encore remis.<END>
+
+//Tu ne veux quand même pas jeter l'éponge ?<END>
+
+//Jamais ! Je n'abandonnerai pas !<LINE>
+//Il est trop tôt pour baisser les bras.<END>
+
+//En plus, je n'ai pas encore utilisé<LINE>
+//mon Drive shoot.<END>
+
+//Hmm...<END>
+
+//OK, les gars.<LINE>
+//C'est parti pour la seconde mi-temps.<END>
+
+//Ah... Tsubasa...<END>
+
+//Il a raison. On doit aller de l'avant !<LINE>
+//La première mi-temps n'a aucune<LINE>
+//importance, peu importe le score.<END>
+
+//On va devoir tout donner tous ensemble !<END>
+
+//Un seul sourire de Tsubasa et le moral<LINE>
+//des autres joueurs remonte.<LINE>
+//Même blessé, Tsubasa reste le pilier<LINE>
+//de l'équipe.<END>
+
+//OK, c'est parti !<END>
+
+//Et les deux équipes sont de retour<LINE>
+//sur le terrain !<LINE>
+//La seconde mi-temps débute enfin !<END>
+
+//Il y avait quelques inquiétudes<LINE>
+//sur la santé du capitaine Tsubasa,<LINE>
+//mais il est bien sur le terrain<LINE>
+//pour le début de la seconde mi-temps.<LINE>
+//Et c'est à Nankatsu de frapper le coup<LINE>
+//d'envoi.<END>
+

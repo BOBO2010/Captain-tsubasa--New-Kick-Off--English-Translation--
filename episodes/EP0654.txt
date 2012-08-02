@@ -1,0 +1,27 @@
+// FILE: EP0654.str containing 7 strings
+
+//Izawa !<END>
+
+//Quoi ?<END>
+
+//Tsubasa n'a touché le ballon qu'un instant<LINE>
+//mais il n'a pas pu l'envoyer vers le but !<END>
+
+//Tsubasa est blessé, mais il arrive<LINE>
+//malgré tout à produire ce niveau de jeu !<LINE>
+//Je dois absolument réussir moi aussi !<END>
+
+//C'est une passe en retrait pour Izawa !<LINE>
+//Izawa se jette devant les buts<LINE>
+//dans une tentative de tête plongeante<LINE>
+//désespérée !<END>
+
+//But !<LINE>
+//Izawa s'est servi de sa détente prodigieuse<LINE>
+//pour réaliser un plongeon de cinq mètres !<END>
+
+//Tout en se battant avec Matsuyama,<LINE>
+//Tsubasa a réussi une passe<LINE>
+//incroyable, cadrée au millimètre<LINE>
+//près dans les pieds d'Izawa !<END>
+

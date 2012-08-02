@@ -1,0 +1,5 @@
+// FILE: info_txt.str containing 1 strings
+
+//La suite<LINE>
+//dans la version complète !<END>
+

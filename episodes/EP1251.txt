@@ -1,0 +1,56 @@
+// FILE: EP1251.str containing 20 strings
+
+//À vous !<END>
+
+//La relance est effectuée rapidement et<LINE>
+//l'Italie va repartir en attaque !<END>
+
+//Attendez ! Le ballon arrive droit<LINE>
+//sur Tsubasa !<END>
+
+//Viens...<END>
+
+//!!!<END>
+
+//Allez, approche !<END>
+
+//Quoi ? Mais qu'est-ce qu'il fait ?<END>
+
+//Il m'invite à frapper un Drive shoot ?<END>
+
+//Allez ! Tire ton Drive shoot !<END>
+
+//Très bien !<END>
+
+//On va voir si tu es capable d'arrêter<LINE>
+//mon Drive shoot !<END>
+
+//Tsubasa tire !<LINE>
+//C'est son fameux Drive shoot !<END>
+
+//Driiiiive shoot !<END>
+
+//Plongeon du gardien !<LINE>
+//Gino Hernandez plonge pour l'arrêt !<END>
+
+//Incroyable ! Il arrête le ballon<LINE>
+//d'une main !<END>
+
+//Il a attrapé le ballon d'une main<LINE>
+//comme il l'avait fait<LINE>
+//pour le tir de Matsuyama !<END>
+
+//Oh ! Mais attendez, le tir de Tsubasa<LINE>
+//est trop puissant et repousse le gardien<LINE>
+//dans les cages !<END>
+
+//Aaah ! Hernandez utilise sa main gauche<LINE>
+//pour envelopper le ballon<LINE>
+//et l'arrête ainsi d'un trait !<END>
+
+//Quel arrêt ! Le ballon n'a pas passé<LINE>
+//la ligne de but !<END>
+
+//Hernandez s'est défait du Drive shoot<LINE>
+//de Tsubasa !<END>
+

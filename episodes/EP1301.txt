@@ -1,0 +1,54 @@
+// FILE: EP1301.str containing 16 strings
+
+//Qu'est-ce qu'il vous arrive ?<LINE>
+//Vous comptez trop sur Diaz !<END>
+
+//Vous faites tous partie<LINE>
+//de la sélection argentine !<LINE>
+//Vous devez avoir plus confiance en vous !<LINE>
+//Ne vous reposez pas uniquement sur Diaz !<END>
+
+//Ce n'est pas de leur faute.<END>
+
+//J'endosse l'entière responsabilité<LINE>
+//de ce qui se passe sur le terrain.<LINE>
+//C'est pour ça que je porte<LINE>
+//le brassard de capitaine.<END>
+
+//Et puis... Je pense que le nº 10 n'a pas<LINE>
+//encore montré de quoi il était vraiment<LINE>
+//capable.<END>
+
+//Désolé, Diaz...<END>
+
+//On nous appelle la paire en or,<LINE>
+//mais je n'arrive pas<LINE>
+//à te suivre en vitesse.<END>
+
+//Ne t'en fais pas, Pascual.<LINE>
+//Ce n'est pas un problème.<END>
+
+//Après tout, on ne voit des génies comme moi<LINE>
+//que tous les dix ans...<END>
+
+//Tant que je serai sur les terrains,<LINE>
+//l'Argentine ne perdra pas !<LINE>
+//On peut jouer sans s'inquiéter !<END>
+
+//Tsubasa et Diaz,<LINE>
+//le match repose en partie<LINE>
+//sur vous deux.<END>
+
+//Je sais.<END>
+
+//Tu es un génie du ballon rond…<LINE>
+//Et ne pense pas que Diaz<LINE>
+//soit meilleur que toi.<LINE>
+//Aie plus confiance en toi.<END>
+
+//D'accord.<END>
+
+//Allez, les gars. On y va !<END>
+
+//Oui !<END>
+

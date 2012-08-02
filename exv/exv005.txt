@@ -1,0 +1,14 @@
+// FILE: exv005.str containing 4 strings
+
+//Je vais l'arrêter !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Tu n'es pas plus fort que moi !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+

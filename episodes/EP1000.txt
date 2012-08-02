@@ -1,0 +1,120 @@
+// FILE: EP1000.str containing 38 strings
+
+//Après le championnat national, les joueurs<LINE>
+//sélectionnés se sont entrainés en vue<LINE>
+//de la tournée européenne.<END>
+
+//Tsubasa Ozora, capitaine de Nankatsu<LINE>
+//Junior High et vainqueur du championnat<LINE>
+//national, a dû se résigner à<LINE>
+//ne pas participer à la tournée européenne<LINE>
+//à cause de la blessure contractée pendant<LINE>
+//le championnat.<END>
+
+//Hé, c'est Tsubasa !<END>
+
+//Salut Ishizaki, salut tout le monde.<END>
+
+//Ta blessure, ça va ?<END>
+
+//Oui, c'est presque guéri.<LINE>
+//Mais le médecin ne m'autorise toujours<LINE>
+//pas à m'entraîner.<END>
+
+//Je vois...<END>
+
+//Comme je n'en pouvais plus de me tenir<LINE>
+//éloigné des terrains, je suis venu <LINE>
+//assisté à l'entraînement en tant<LINE>
+//que spectateur.<END>
+
+//Tu es évidemment le bienvenu, mais<LINE>
+//ne penses-tu pas que nous regarder <LINE>
+//va te donner encore plus envie <LINE>
+//de jouer ?<END>
+
+//Hmm... Je n'avais pas pensé à ça !<END>
+
+//Tu ne changeras jamais !<END>
+
+//Ha ha ha ha !<END>
+
+//Bon, puisque Tsubasa est là...<LINE>
+//Misugi, pourquoi tu ne lui donnerais pas<LINE>
+//ce dont nous avons parlé tout à l'heure ?<END>
+
+//Ah oui !<END>
+
+//Hein ?<END>
+
+//Voici le maillot des All Japan Jr. Youth...<END>
+
+//On était libres de prendre le numéro<LINE>
+//qu'on voulait, mais personne n'a voulu<LINE>
+//du nº 10.<END>
+
+//Mais... Je ne vais même pas participer<LINE>
+//au stage d'entraînement.<END>
+
+//En plus, Hyuga et Matsuyama portent<LINE>
+//le nº 10 d'habitude... <END>
+
+//Ne t'en fais pas. Le nº 10 des All Japan<LINE>
+//te revient.<END>
+
+//Oui.<END>
+
+//Hyuga...<END>
+
+//Tsubasa, tu es le seul qui mérite de porter<LINE>
+//ce numéro.<END>
+
+//Vous... vous tous...<END>
+
+//Ah...<END>
+
+//Tsubasa ?<END>
+
+//Qu'est-ce que j'ai envie d'aller<LINE>
+//à la tournée européenne !<END>
+
+//Même si tu n'as pas l'occasion de porter<LINE>
+//ce maillot cette fois-ci, tu le porteras<LINE>
+//sûrement une prochaine fois...<END>
+
+//Aujourd'hui s'achève le stage<LINE>
+//d'entraînement.<LINE>
+//Je vais maintenant dévoiler la liste<LINE>
+//des 17 joueurs sélectionnés pour la tournée<LINE>
+//européenne !<END>
+
+//!!!<END>
+
+//...<END>
+
+//Rien n'est facile dans le foot...<END>
+
+//Sur les 24 joueurs sélectionnés en équipe<LINE>
+//nationale, il ne reste à présent que 17<LINE>
+//titulaires. Et au final, seulement 11 de<LINE>
+//ces 17 joueurs seront sur le terrain.<END>
+
+//Le football est vraiment un sport très dur.<END>
+
+//Tsubasa, j'ai un message de la part de<LINE>
+//Katagiri pour toi. Il attend de te voir<LINE>
+//complètement rétabli et en bonne forme<LINE>
+//pour le 1st Annual French International<LINE>
+//Jr. Youth Tournament.<END>
+
+//La All Japan Jr. Youth Team ne peut pas<LINE>
+//se passer de la paire en or<LINE>
+//formée par Tsubasa Ozora et Taro Misaki.<END>
+
+//Hein ! Misaki a été sélectionné ?<END>
+
+//Deux jours plus tard,<LINE>
+//les All Japan Jr. Youth Team décollèrent<LINE>
+//pour l'Allemagne, la première étape<LINE>
+//de la tournée européenne !<END>
+

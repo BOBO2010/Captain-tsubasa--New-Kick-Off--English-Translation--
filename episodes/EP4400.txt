@@ -1,0 +1,60 @@
+// FILE: EP4400.str containing 15 strings
+
+//Meiwa-Higashi est composée de joueurs<LINE>
+//qui sont ensemble depuis l'école primaire,<LINE>
+//comme vous.<END>
+
+//Leurs points forts sont grosso-modo<LINE>
+//les mêmes que les nôtres.<LINE>
+//Honma, Sanada et Ichinosé,<LINE>
+//vous serez en attaque.<END>
+
+//Oui, monsieur !<END>
+
+//Ce match va sans doute être difficile.<LINE>
+//Misugi, je veux que tu te tiennes prêt<LINE>
+//à entrer en jeu n'importe quand.<END>
+
+//Oui, monsieur !<END>
+
+//Si nous réussissons à verrouiller le jeu<LINE>
+//en défense pendant la première mi-temps,<LINE>
+//nous gagnerons facilement<LINE>
+//en seconde mi-temps<LINE>
+//en faisant entrer Misugi en attaque.<END>
+
+//Bonne chance pour la première mi-temps !<LINE>
+//Je compte sur vous, les gars !<END>
+
+//Oui, capitaine !<END>
+
+//Et voici arrivée la demi-finale<LINE>
+//du National Junior High School Tournament.<END>
+
+//Musashi et Meiwa-Higashi sont<LINE>
+//toutes les deux composées en partie<LINE>
+//de joueurs habitués à jouer ensemble<LINE>
+//depuis l'école primaire.<END>
+
+//Musashi a obtenu le droit de représenter<LINE>
+//la région de Tokyo<LINE>
+//en éliminant Toho Gakuen,<LINE>
+//les champions de leur région.<END>
+
+//Il se trouve justement que certains joueurs<LINE>
+//de Toho Gakuen - Hyuga, Sawada et<LINE>
+//Wakashimazu - ont autrefois joué<LINE>
+//avec des joueurs de Meiwa-Higashi<LINE>
+//au sein de Meiwa FC.<END>
+
+//Est-ce une chance pour ces joueurs de<LINE>
+//Meiwa-Higashi de venger la défaite de<LINE>
+//Hyuga et de leurs anciens coéquipiers ?<END>
+
+//Ou est-ce que Musashi va continuer<LINE>
+//en finale en éliminant Meiwa-Higashi<LINE>
+//comme ils ont éliminé Toho ?<END>
+
+//Ce match pour une place en finale<LINE>
+//va bientôt commencer !<END>
+

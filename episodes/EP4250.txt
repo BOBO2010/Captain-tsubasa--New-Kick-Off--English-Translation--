@@ -1,0 +1,18 @@
+// FILE: EP4250.str containing 5 strings
+
+//Musashi échange quelques passes rapides<LINE>
+//et se prépare à tirer !<END>
+
+//Le trio formé par Honma, Sanada et Ichinosé<LINE>
+//existe depuis Musashi FC.<LINE>
+//Ils font aujourd'hui la démonstration<LINE>
+//de la perfection de leurs combinaisons !<END>
+
+//Allez !<END>
+
+//But !<LINE>
+//Les magnifiques combinaisons de Musashi<LINE>
+//ont abouti à un but sublime !<END>
+
+//Ça, c'est le football de Musashi !<END>
+

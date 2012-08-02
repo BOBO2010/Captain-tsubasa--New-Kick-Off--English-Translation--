@@ -1,0 +1,49 @@
+// FILE: EP4151.str containing 14 strings
+
+//On ne peut pas perdre maintenant, pas avant<LINE>
+//d'avoir atteint le tournoi national<LINE>
+//et d'avoir affronté Tsubasa !<END>
+
+//Il va falloir les marquer à la culotte !<LINE>
+//Ne les laissez pas approcher des buts !<LINE>
+//Et surtout ne lâchez pas des yeux Ichinosé,<LINE>
+//Honma et Sanada !<END>
+
+//Wakashimazu, l'homme clé de la défense<LINE>
+//de Toho Gakuen et certainement<LINE>
+//le meilleur gardien du football collégien,<LINE>
+//donne ses instructions.<END>
+
+//Les trois joueurs du trio d'attaquants<LINE>
+//de Musashi jouent avec Misugi<LINE>
+//depuis l'école primaire.<LINE>
+//Si l'un de ses trois-là a la balle,<LINE>
+//l'équipe adverse peut trembler !<END>
+
+//Toho marque les attaquants.<END>
+
+//Comment ?!<END>
+
+//Mais Misugi n'a pas encore passé le ballon.<END>
+
+//Ouah ! Alors ça, c'est inattendu !<LINE>
+//Misugi a effacé le dernier défenseur,<LINE>
+//et est arrivé seul devant les buts<LINE>
+//sans avoir fait une seule passe !<END>
+
+//Non ! Ils nous ont bernés !<END>
+
+//Le gardien Wakashimazu tente une sortie !<END>
+
+//Et c'est un duel entre Misugi et lui !<END>
+
+//La sortie du gardien ne l'a pas perturbé.<LINE>
+//Il tire !<END>
+
+//But !<LINE>
+//Juste après son arrivée sur le terrain,<LINE>
+//Misugi marque sur une contre-attaque !<END>
+
+//OK, les gars !<LINE>
+//Ça ne fait que commencer !<END>
+

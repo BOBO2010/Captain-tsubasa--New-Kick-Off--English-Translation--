@@ -1,0 +1,111 @@
+// FILE: EP2552.str containing 31 strings
+
+//Arrêtez-le ! Formez un mur !<LINE>
+//Ne le laissez pas tirer !<END>
+
+//Toho essaie d'empêcher un but<LINE>
+//en formant un mur devant Tsubasa !<END>
+
+//Amène-toi, Tsubasa !<LINE>
+//Fais-moi ton Drive shoot !<LINE>
+//J'ai trouvé un moyen de l'arrêter !<END>
+
+//Pour un tir ordinaire, le gardien doit<LINE>
+//sortir pour réduire l'angle vers lequel<LINE>
+//le ballon devrait se diriger.<LINE>
+//Mais pour le Drive shoot,<LINE>
+//il faut faire l'inverse...<END>
+
+//Si je sors, le ballon me passera<LINE>
+//au-dessus de la tête.<LINE>
+//Même en réagissant rapidement,<LINE>
+//je ne pourrai pas l'atteindre !<END>
+
+//Pour arrêter un Drive shoot,<LINE>
+//je dois rester devant la cage de but<LINE>
+//et attraper le ballon<LINE>
+//au moment de sa descente !<END>
+
+//C'est le moment ! Drive shoot !<LINE>
+//Il faut briser ce mur !<END>
+
+//Ça y est !<LINE>
+//Tsubasa nous fait son super tir,<LINE>
+//le Drive shoot !<END>
+
+//Moi, Ken Wakashimazu, jure d'arrêter<LINE>
+//ce Drive shoot !<END>
+
+//Tsubasa tire toujours vers la gauche<LINE>
+//ou vers la droite,<LINE>
+//d'un côté ou de l'autre.<END>
+
+//Je vais d'abord me tenir<LINE>
+//devant la ligne de but,<LINE>
+//puis réagir rapidement<LINE>
+//en fonction de son angle de tir !<END>
+
+//Wakashimazu ne sort pas de la cage<LINE>
+//et choisit de rester<LINE>
+//devant la ligne de but !<END>
+
+//Tout ce qu'il me reste à faire,<LINE>
+//c'est de réagir rapidement<LINE>
+//quand il tirera !<END>
+
+//Ragh !<END>
+
+//Wakashimazu saute pour atteindre la balle !<END>
+
+//Il estime maintenant le temps qu'il dispose<LINE>
+//alors que le ballon descend !<LINE>
+//Il semble qu'il ait réfléchi à cette action<LINE>
+//après le premier Drive shoot !<END>
+
+//Oh ! Il... il l'a arrêté !<END>
+
+//Le gardien de but, Wakashimazu,<LINE>
+//attrape le ballon d'une seule main<LINE>
+//devant la ligne de but !<LINE>
+//Le Drive shoot a été vaincu !<END>
+
+//Quoi !<END>
+
+//Wakashimazu !<END>
+
+//Non ! Une... minute !<END>
+
+//Ce Drive shoot de Tsubasa<LINE>
+//n'a pas été arrêté,<LINE>
+//car le ballon continue de tourner,<LINE>
+//emporté par la puissance du tir !<END>
+
+//Le gardien de but, Wakashimazu,<LINE>
+//est emporté par la balle !<END>
+
+//Zut ! Je pensais l'avoir stoppé !<END>
+
+//Tu y étais presque, Wakashimazu.<LINE>
+//Ta tactique pour arrêter le Drive shoot<LINE>
+//est la bonne.<END>
+
+//Capitaine !<END>
+
+//Tu es le premier à avoir su réagir<LINE>
+//face à ce tir et à avoir attrapé<LINE>
+//le ballon. Garde confiance en toi !<END>
+
+//D'accord !<END>
+
+//Tsubasa !<LINE>
+//Compte sur moi pour l'arrêter<LINE>
+//la prochaine fois !<END>
+
+//Wakashimazu est peut-être capable<LINE>
+//d'arrêter le Drive shoot de Tsubasa.<END>
+
+//Mais personne n'a jamais réussi<LINE>
+//à bloquer mon Tiger shot !<LINE>
+//Il me suffit de récupérer le ballon<LINE>
+//pour marquer !<END>
+

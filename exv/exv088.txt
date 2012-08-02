@@ -1,0 +1,37 @@
+// FILE: exv088.str containing 12 strings
+
+//Tiens, à toi de jouer<LINE>
+//maintenant !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Je n'abandonnerai jamais<LINE>
+//le ballon !<END>
+
+//Je ne perdrai jamais !<END>
+
+//Prends donc mon Eagle shot !<END>
+
+//Je vais te montrer de quoi<LINE>
+//nous sommes capables !<END>
+
+//Tu peux arrêter ça ?<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Je te tiens !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Je ne rigole plus !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+

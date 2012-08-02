@@ -1,0 +1,15 @@
+// FILE: exv037.str containing 4 strings
+
+//Cette passe sera décisive !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Je vais l'arrêter<LINE>
+//à tout prix !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+

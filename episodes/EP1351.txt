@@ -1,0 +1,51 @@
+// FILE: EP1351.str containing 17 strings
+
+//Va-t-on assister à un duel<LINE>
+//entre Tsubasa et Diaz ?<END>
+
+//Un milieu de terrain sait quand il faut<LINE>
+//attaquer et quand il faut passer le ballon.<LINE>
+//Notre duel peut attendre.<END>
+
+//Quoi ?!<END>
+
+//Pascual !<END>
+
+//Diaz a évité le un contre un avec Tsubasa<LINE>
+//et a fait une passe à Pascual !<END>
+
+//La passe effectuée, il fonce aussitôt<LINE>
+//vers les buts des All Japan !<END>
+
+//Pascual prolonge pour Diaz qui se présente<LINE>
+//face au but !<END>
+
+//Allez !<END>
+
+//Très bien.<END>
+
+//Saut périlleux avant de la part de Diaz !<LINE>
+//Profitant de son élan, il tire<LINE>
+//en plein saut !<END>
+
+//Mais Wakashimazu a tout anticipé<LINE>
+//et se trouve sur la trajectoire du ballon !<END>
+
+//Oh ! C'est une frappe enroulée !<END>
+
+//Non !<END>
+
+//Buuuuuuut !<LINE>
+//Diaz avait donné un puissant effet<LINE>
+//au ballon lors de son salto avant !<END>
+
+//Ressaisissez-vous !<LINE>
+//N'oubliez pas<LINE>
+//que vous représentez le Japon !<END>
+
+//Wakabayashi...<END>
+
+//Tout est de ma faute.<LINE>
+//Je suis obsédé par la présence de Roberto…<LINE>
+//Je dois me ressaisir...<END>
+

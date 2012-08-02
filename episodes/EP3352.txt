@@ -1,0 +1,19 @@
+// FILE: EP3352.str containing 7 strings
+
+//C'est un centre pour Oda, l'avant-centre !<END>
+
+//Cette fois-ci, c'est la bonne !<END>
+
+//Oda reprend le ballon de la tête,<LINE>
+//en visant les buts !<END>
+
+//Mais le gardien bloque le ballon !<END>
+
+//Ah...<END>
+
+//C'est dur à avaler ! <LINE>
+//C'est la deuxième fois<LINE>
+//qu'Oda manque son tir !<END>
+
+//Oda...<END>
+

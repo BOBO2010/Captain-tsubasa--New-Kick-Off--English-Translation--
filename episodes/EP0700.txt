@@ -1,0 +1,23 @@
+// FILE: EP0700.str containing 7 strings
+
+//C'est mon dernier match au Japon...<LINE>
+//Et le dernier de mes années de collège.<END>
+
+//Et notre dernier match ensemble !<END>
+
+//Aujourd'hui la victoire sera mienne !<LINE>
+//Je ne perdrai pas, Tsubasa.<END>
+
+//Hyuga.<END>
+
+//Les joueurs des deux équipes sont<LINE>
+//sur le terrain.<END>
+
+//C'est à Toho Gakuen de donner<LINE>
+//le coup d'envoi.<END>
+
+//Le capitaine Hyuga, qui fait<LINE>
+//sa première apparition dans le tournoi,<LINE>
+//attend le coup de sifflet<LINE>
+//avec son coéquipier Sawada.<END>
+

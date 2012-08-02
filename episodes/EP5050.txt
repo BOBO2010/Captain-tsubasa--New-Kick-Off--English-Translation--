@@ -1,0 +1,39 @@
+// FILE: EP5050.str containing 13 strings
+
+//Ce n'est pas possible…<LINE>
+//Je n'ai jamais le ballon !<END>
+
+//Le capitaine a dit qu'il y remédierait,<LINE>
+//mais rien n'y fait...<LINE>
+<END>
+
+//Quoi de plus logique quand on est battus<LINE>
+//avant de commencer un match ?<LINE>
+//Comment avoir la maîtrise du ballon<LINE>
+//face à Nankatsu ?<END>
+
+//Hé Shingo, tu ne respectes pas<LINE>
+//les consignes de match !<END>
+
+//Si je compte sur vous, je n'aurai jamais<LINE>
+//le ballon !<END>
+
+//Quoi ? Shingo !<END>
+
+//Qu'est-ce qu'il leur prend ?<LINE>
+//Ils se disputent, maintenant ?<END>
+
+//Attention Izawa !<END>
+
+//Quoi ? Izawa s'est fait déposséder<LINE>
+//du ballon ?<END>
+
+//Le Trio de Shutetsu va venger Izawa !<END>
+
+//Hein ?<END>
+
+//Quoi ?<END>
+
+//Ça passe ! Mon dribble est efficace<LINE>
+//même face à Nankatsu !<END>
+

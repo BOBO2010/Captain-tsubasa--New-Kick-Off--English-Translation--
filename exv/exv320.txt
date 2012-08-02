@@ -1,0 +1,20 @@
+// FILE: exv320.str containing 6 strings
+
+//Hop, hop, hop !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Tu n'iras pas plus loin !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Tu es trop faible !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+

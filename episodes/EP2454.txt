@@ -1,0 +1,116 @@
+// FILE: EP2454.str containing 37 strings
+
+//Foncez !<END>
+
+//Oh ! Meiwa-Higashi prend le ballon<LINE>
+//et l'envoie à l'autre bout du terrain !<END>
+
+//Toho s'est dispersée durant l'attaque,<LINE>
+//laissant une énorme faille dans sa défense.<LINE>
+//Le ballon vole droit au travers !<END>
+
+//Le ballon va-t-il arriver jusqu'à<LINE>
+//l'avant-centre de Meiwa-Higashi ?<LINE>
+//Sawaki tente le tout pour le tout !<END>
+
+//Grrr !<END>
+
+//Oh ! Et la passe est bonne !<END>
+
+//D'accord !<END>
+
+//Meiwa-Higashi met le paquet et lance<LINE>
+//une contre-attaque sur ses adversaires !<END>
+
+//Et ça marche !<LINE>
+//Personne ne court après Sawaki !<END>
+
+//Je ne vais pas te laisser marquer !<END>
+
+//Hein !<END>
+
+//Wakashimazu quitte son poste et vole<LINE>
+//le ballon avec un terrible tacle glissé !<END>
+
+//Un gardien de but devient un joueur<LINE>
+//comme un autre lorsqu'il quitte la zone<LINE>
+//de penalty !<LINE>
+//Je joue pour gagner, pas pour égaliser !<END>
+
+//Il se moque de nous ou quoi ?<LINE>
+//Occupez-vous de lui !<END>
+
+//Si nous parvenons à prendre le ballon<LINE>
+//à Wakashimazu, nous serons libres<LINE>
+//de marquer !<LINE>
+//C'est le moment ou jamais !<LINE>
+//C'est parti ! Allons-y !<END>
+
+//Si je parviens à attirer<LINE>
+//certains de leurs joueurs,<LINE>
+//cela créera une faille dans leur défense !<END>
+
+//C'est incroyable !<LINE>
+//Wakashimazu remonte le terrain et passe<LINE>
+//devant les joueurs de Meiwa !<END>
+
+//Attrape, Takeshi !<END>
+
+//Sawada envoie le ballon sur le côté<LINE>
+//du terrain !<END>
+
+//C'est Sorimachi <LINE>
+//qui le réceptionne !<END>
+
+//Parfait !<END>
+
+//Sorimachi va-t-il tirer ?<LINE>
+//Non ! Il renvoie la balle une fois encore !<END>
+
+//Ouah ! Wakashimazu fonce sur le ballon !<END>
+
+//Prends ça !<END>
+
+//But !<LINE>
+//La célèbre puissance de tir de Wakashimazu<LINE>
+//lui permet d'envoyer le ballon<LINE>
+//droit dans les buts !<END>
+
+//Nous venons d'assister à un renversement<LINE>
+//de situation ! Toho mène Meiwa-Higashi<LINE>
+//de 2 buts à 1 ! La chance semble tourner<LINE>
+//en faveur de Toho !<END>
+
+//Tu as réussi, Wakashimazu !<END>
+
+//Oh ! Hori prend le ballon et l'envoie<LINE>
+//le plus loin possible !<END>
+
+//Oh ! Suénaga prend le ballon et l'envoie<LINE>
+//le plus loin possible !<END>
+
+//Oh ! Narita prend le ballon et l'envoie<LINE>
+//le plus loin possible !<END>
+
+//Oh ! Enomoto prend le ballon et l'envoie<LINE>
+//le plus loin possible !<END>
+
+//Oh ! Sakamoto prend le ballon et l'envoie<LINE>
+//le plus loin possible !<END>
+
+//Oh ! Takagi prend le ballon et l'envoie<LINE>
+//le plus loin possible !<END>
+
+//Oh ! Ishii prend le ballon et l'envoie<LINE>
+//le plus loin possible !<END>
+
+//Oh ! Nagano prend le ballon et l'envoie<LINE>
+//le plus loin possible !<END>
+
+//Oh ! Kawagoé prend le ballon et l'envoie<LINE>
+//le plus loin possible !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+

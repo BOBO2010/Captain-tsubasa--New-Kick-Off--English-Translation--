@@ -1,0 +1,24 @@
+// FILE: EP3100.str containing 6 strings
+
+//Nous sommes aujourd'hui réunis à Hokkaido<LINE>
+//pour la finale régionale<LINE>
+//du National Junior High School<LINE>
+//Soccer Tournament.<END>
+
+//Les collèges qualifiés pour cette finale<LINE>
+//régionale sont Satsunishi et Furano,<LINE>
+//le favori du championnat !<END>
+
+//Furano pourra-t-il faire souffler à nouveau<LINE>
+//la tourmente sur le terrain ?<END>
+
+//C'est le match final !<LINE>
+//Remportons la victoire,<LINE>
+//et le chemin sera ouvert<LINE>
+//pour le championnat national !<END>
+
+//Oui !<END>
+
+//Les deux équipes sont sur le terrain.<LINE>
+//Le match va bientôt commencer !<END>
+

@@ -1,0 +1,39 @@
+// FILE: EP0757.str containing 11 strings
+
+//Laisse-moi faire !<END>
+
+//Une passe croisée d'Ishizaki !<END>
+
+//Désolé les amis, mais j'ai joué<LINE>
+//avec le grand Tsubasa Ozora plus longtemps<LINE>
+//que n'importe lequel d'entre vous.<LINE>
+//Tsubasa, gagnons ce match !<LINE>
+//Gagnons-le ensemble !<END>
+
+//Ishizaki saute vers le ballon !<LINE>
+//Mais Hyuga est déjà de retour près des buts<LINE>
+//et bondit au même moment !<END>
+
+//Tu t'imagines que je vais<LINE>
+//te laisser marquer ?<END>
+
+//Oh ! La tête d'Ishizaki n'est pas passée !<LINE>
+//Hyuga s'est dressé devant tel un mur !<END>
+
+//Quoi ?!<END>
+
+//Ishizaki renvoie le ballon en plein vol !<END>
+
+//Ishizaki... Et vous tous les gars...<END>
+
+//Et maintenant Tsubasa vole vers le ballon !<LINE>
+//Les actions de Nankatsu se terminent<LINE>
+//toujours avec leur capitaine Tsubasa !<END>
+
+//Et c'est le but !<LINE>
+//Les magnifiques passes de Nankatsu<LINE>
+//et la courageuse <LINE>
+//retournée acrobatique de Tsubasa<LINE>
+//ont finalement poussé le ballon<LINE>
+//au fond des buts !<END>
+

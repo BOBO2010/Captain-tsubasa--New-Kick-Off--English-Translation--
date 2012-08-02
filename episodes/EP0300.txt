@@ -1,0 +1,85 @@
+// FILE: EP0300.str containing 22 strings
+
+//Azumaichi School est notre premier<LINE>
+//adversaire dans le tournoi national.<LINE>
+//Souda, leur capitaine, joue en défense.<LINE>
+//Cette équipe est donc particulièrement<LINE>
+//défensive.<END>
+
+//Marquer le capitaine de l'équipe adverse<LINE>
+//n'est pas la seule force de Souda.<LINE>
+//Lors du tournoi d'Osaka, contre l'équipe<LINE>
+//Naniwa School menée par Nakanishi,<LINE>
+//ce sont ses tirs à longue distance<LINE>
+//qui ont massacré l'équipe adverse.<END>
+
+//Méfiez-vous des tirs à longue distance<LINE>
+//de Souda et de leurs contre-attaques !<END>
+
+//Écoutez-moi bien !<LINE>
+//Nankatsu se résume à Tsubasa Ozora !<LINE>
+//Bloquez-le et la victoire est à nous !<END>
+
+//Souda, ce sera ton boulot <LINE>
+//de marquer Tsubasa !<LINE>
+//Nous comptons sur toi !<END>
+
+//Je m'en occupe.<LINE>
+//Je brûle d'impatience de pouvoir abattre<LINE>
+//Tsubasa Ozora devant toute cette foule !<END>
+
+//Je vais leur montrer ce qu'est<LINE>
+//un vrai défenseur !<END>
+
+//Et c'est donc sous les regards admiratifs<LINE>
+//de la foule que le match du jour va <LINE>
+//commencer. Nankatsu contre <LINE>
+//Azumaichi !<END>
+
+//Nous sommes là pour vous soutenir<LINE>
+//comme promis !<END>
+
+//Oh ! Mais c'est Urabé !<END>
+
+//Vous nous avez battus pour représenter<LINE>
+//la préfecture de Shizuoka !<LINE>
+//Alors vous avez intérêt <LINE>
+//à gagner aujourd'hui !<LINE>
+//Je n'accepterais pas une défaite !<END>
+
+//Ça marche ! Admire le spectacle !<END>
+
+//Hé, les gars.<LINE>
+//Fermez-la, et dépêchez-vous de venir<LINE>
+//sur le terrain !<END>
+
+//Quoi ?!<END>
+
+//J'en ai assez d'entendre<LINE>
+//que vous êtes champions depuis deux ans.<LINE>
+//Venez-vous mettre en ligne en vitesse.<END>
+
+//Attends, tu...<END>
+
+//Ishizaki !<END>
+
+//...<END>
+
+//C'est donc toi, Tsubasa Ozora ?<LINE>
+//Tu n'es pas si grand que ça en vrai.<LINE>
+//Pour info, c'est moi qui vais te marquer<LINE>
+//aujourd'hui.<END>
+
+//Tsubasa, c'est Souda.<LINE>
+//Il a marqué le but de la victoire<LINE>
+//lors de la finale d'Osaka contre Nakanishi.<END>
+
+//Je vois.<END>
+
+//Les joueurs se sont mis en place<LINE>
+//sur le terrain.<LINE>
+//Nankatsu et Azumaichi vont ouvrir<LINE>
+//le National Junior High School Soccer<LINE>
+//Tournament.<LINE>
+//Le match va commencer !<END>
+

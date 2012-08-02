@@ -1,0 +1,40 @@
+// FILE: EP1154.str containing 14 strings
+
+//Le ballon est pour Hyuga,<LINE>
+//l'avant-centre et capitaine<LINE>
+//des All Japan !<END>
+
+//Vas-y, Hyuga !<END>
+
+//(Tsubasa...)<END>
+
+//Montre-moi de quoi tu es capable, Hyuga !<END>
+
+//Il ne reste pas beaucoup de temps !<LINE>
+//Est-ce que les All Japan vont réussir<LINE>
+//au moins à marquer un but ?<END>
+
+//Wakabayashi, j'arrive !<END>
+
+//Oh ! Hyuga fonce droit vers le but !<END>
+
+//Il a effacé tous les défenseurs<LINE>
+//de FC Allemagne et se retrouve seul<LINE>
+//face au gardien !<LINE>
+//C'est une occasion en or !<END>
+
+//Prends ça, Wakabayashi !<END>
+
+//Hyuga tire de toutes ses forces<LINE>
+//à bout portant !<END>
+
+//Buuuuuuuuuuuuuuut ! Wakabayashi est resté<LINE>
+//planté sur place ! Les All Japan sauvent<LINE>
+//l'honneur en marquant un but !<END>
+
+//Super tir, Hyuga !<END>
+
+//Wakabayashi...<END>
+
+//…<END>
+

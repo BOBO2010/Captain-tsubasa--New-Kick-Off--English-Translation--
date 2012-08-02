@@ -1,0 +1,77 @@
+// FILE: EP2153.str containing 26 strings
+
+//Oh non !<END>
+
+//Très bien !<END>
+
+//Misugi fait une passe courte<LINE>
+//vers la cage de but.<LINE>
+//Allons-nous assister à un une-deux<LINE>
+//des attaquants ?<END>
+
+//C'est parti !<END>
+
+//Non ! Honma opte pour une passe longue !<END>
+
+//Le ballon passe juste derrière<LINE>
+//Wakashimazu ! Le grand Sanada<LINE>
+//se précipite dessus !<END>
+
+//Tu es fichu !<END>
+
+//Pas encore !<END>
+
+//Quoi ?!<END>
+
+//Oh, c'est raté !<LINE>
+//Wakashimazu se dépêche de revenir<LINE>
+//et éloigne le ballon !<END>
+
+//Ça va le faire !<END>
+
+//Et Misugi court après le ballon<LINE>
+//renvoyé par Wakashimazu !<END>
+
+//Quoi !<END>
+
+//Je dois tenter ma chance<LINE>
+//avec une reprise de volée<LINE>
+//avant que Sawada ne l'attrape !<LINE>
+//Je n'ai pas le choix...<END>
+
+//Je dois y arriver !<END>
+
+//Ouah ! Misugi lifte le ballon<LINE>
+//en milieu de course et s'apprête<LINE>
+//à faire un retourné acrobatique !<END>
+
+//Le gardien de but, Wakashimazu,<LINE>
+//n'a toujours pas repris son poste !<LINE>
+//Il vient d'être pris à contre-pied !<END>
+
+//Tu crois vraiment que je vais te laisser<LINE>
+//marquer un autre but ?<END>
+
+//Sérieusement ?<END>
+
+//Allez, en plein dans le mille !<END>
+
+//Wakashimazu plonge comme à son habitude<LINE>
+//en dehors de la cage de but !<LINE>
+//Va-t-il y arriver ?<END>
+
+//Il échoue ! Un autre but pour Musashi !<LINE>
+//Wakashimazu vient de laisser passer<LINE>
+//deux buts !<END>
+
+//Grrr !<END>
+
+//Deux buts...<END>
+
+//Quelle fantastique Bicyclette retournée<LINE>
+//de Misugi, et quel superbe amorti<LINE>
+//pour envoyer le ballon<LINE>
+//dans la lucarne droite du but !<END>
+
+//Voilà le travail !<END>
+

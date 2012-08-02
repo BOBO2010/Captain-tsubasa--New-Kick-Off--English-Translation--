@@ -1,0 +1,240 @@
+// FILE: Staff.str containing 119 strings
+
+//Captain Tsubasa New Kick Off<END>
+
+//"CAPTAIN TSUBASA"<END>
+
+//by Yoichi Takahashi<END>
+
+//First published in Japan in 1981<END>
+
+//by SHUEISHA Inc., Tokyo.<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//PRODUCER<END>
+
+//Nobuya Nakazato<END>
+
+//DIRECTOR<END>
+
+//Ko-G!<END>
+
+//SOUND PRODUCER<END>
+
+//Nobuhiko Matsufuji<END>
+
+//SOUND DIRECTOR<END>
+
+//Toshihisa Furusawa<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//PACKAGING & SOFTWARE MANUAL DESIGN<END>
+
+//Toru Murakami<END>
+
+//DEVELOPMENT COOPERATION<END>
+
+//Digitalware,Inc.<END>
+
+//DEVELOPMENT PRODUCER<END>
+
+//Toshihiko Momoi<END>
+
+//DEVELOPMENT DIRECTOR<END>
+
+//Takashi Jikumaru<END>
+
+//Yoshiyuki Kitano<END>
+
+//PLANNING<END>
+
+//Junichi Ikehata<END>
+
+//Yoshiyuki Kitano<END>
+
+//Sadahiro Takada<END>
+
+//Ryo Kanbara<END>
+
+//SCENARIO<END>
+
+//Junichi Ikehata<END>
+
+//Yoshiyuki Kitano<END>
+
+//Tatsuyoshi Satou<END>
+
+//MAIN PROGRAM<END>
+
+//Mitsuru Iwasaki<END>
+
+//PROGRAM<END>
+
+//Hironori Ishimoto<END>
+
+//Yasutaka Amemiya<END>
+
+//Masayoshi Oonuki<END>
+
+//MAIN DESIGN<END>
+
+//Junko Hirota<END>
+
+//DESIGN<END>
+
+//Kazuhiro Fukushi<END>
+
+//Masahiro Suga<END>
+
+//Ayumi Uematsu<END>
+
+//Minami Ohkawara<END>
+
+//SiYoung Choi<END>
+
+//Yousuke Uchino<END>
+
+//Rie Kaneda<END>
+
+//Takao Yonechika<END>
+
+//MUSIC & SOUND EFFECTS<END>
+
+//Tsuyoshi Yukawa<END>
+
+//Yasushi Asada<END>
+
+//Ichiro Ebisu<END>
+
+//Hideki Sakamoto<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//QA TESTING<END>
+
+//KDE Monitoring Group<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//DUMMY<END>
+
+//EXECUTIVE PRODUCER<END>
+
+//Hirotaka Ishikawa<END>
+
+//PRESENTED By…<END>
+
+//Konami Digital Entertainment<END>
+
+//LOCALIZATION (European)<END>
+
+//Unicon Products Inc.<END>
+
+//Mike Sakamoto<END>
+
+//Riyoko Sakemoto<END>
+
+//Hayden Hughes<END>
+
+//Charles Shaki Masuda<END>
+
+//Kumiko Nakamura<END>
+
+//Yasushi Nishijo<END>
+
+//Konami Digital Entertainment<END>
+
+//Kazuya Hamakawa<END>
+
+//Hiroki Muraoka<END>
+
+//Norio Kawamoto<END>
+

@@ -1,0 +1,47 @@
+// FILE: EP0554.str containing 16 strings
+
+//J'arrive, Hirado !<LINE>
+//Vous allez être les premiers à subir<LINE>
+//les effets de mon Drive shoot !<END>
+
+//Tsubasa, dès que tu vois les buts, tire !<END>
+
+//OK... Roberto !<END>
+
+//Tsubasa est à peine rentré<LINE>
+//dans la moitié du terrain de Hirado<LINE>
+//qu'il s'apprête déjà à tirer !<END>
+
+//Argh !<END>
+
+//Drive shoot !<END>
+
+//Tsubasa a mis toutes ses forces<LINE>
+//dans ce tir à longue distance !<END>
+
+//Hmm... Pas de panique, le gardien.<LINE>
+//Peu importe la puissance de son tir...<LINE>
+//Il ne va pas vers les buts.<END>
+
+//Le ballon passe au-dessus de la tête<LINE>
+//du gardien... Il va passer par-dessus<LINE>
+//la barre et...<END>
+
+//Quoi ?!<END>
+
+//Il... Il est rentré !<END>
+
+//Comment ?!<END>
+
+//J'ai marqué...<END>
+
+//Le tir de Tsubasa semblait parti<LINE>
+//pour passer loin au-dessus des buts,<LINE>
+//mais...<END>
+
+//Grâce à un effet plongeant, il a terminé<LINE>
+//sa course au fond des filets adverses !<END>
+
+//Quelle poisse !<LINE>
+//Ce tir, c'était juste un coup de bol !<END>
+

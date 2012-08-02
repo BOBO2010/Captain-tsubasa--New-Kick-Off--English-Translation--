@@ -1,0 +1,21 @@
+// FILE: exv339.str containing 6 strings
+
+//Je vais t'arrêter !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Lâche-moi !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Un tir n'a pas forcément besoin<LINE>
+//d'être puissant !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+

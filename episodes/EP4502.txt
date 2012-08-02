@@ -1,0 +1,102 @@
+// FILE: EP4502.str containing 30 strings
+
+//Oh... L'arbitre a sifflé la fin du match !<LINE>
+//Le vainqueur est le représentant de Tokyo,<LINE>
+//Musashi Junior High !<LINE>
+//Les espoirs de troisième titre consécutif<LINE>
+//de Nankatsu ont été balayés !<END>
+
+//Nous... Nous avons gagné !<LINE>
+//Nous avons gagné un titre national !<LINE>
+<END>
+
+//Capitaine !<END>
+
+//Misugi !<END>
+
+//Je m'étais toujours battu<LINE>
+//pour pouvoir affronter Tsubasa et Nankatsu<LINE>
+//dans un tournoi national...<END>
+
+//Mais j'y ai gagné<LINE>
+//la plus belle des récompenses,<LINE>
+//un titre de champion !<END>
+
+//Bravo, Misugi.<LINE>
+//C'était une belle victoire !<END>
+
+//Merci, Tsubasa.<LINE>
+//Et toi, tu es toujours un adversaire<LINE>
+//aussi redoutable.<LINE>
+//Tu n'as pas changé depuis nos matchs<LINE>
+//à l'école primaire...<END>
+
+//Ton cœur est guéri ?<END>
+
+//Non, pas complètement.<LINE>
+//Mon médecin m'a défendu de faire<LINE>
+//plus de trente minutes<LINE>
+//d'effort intensif d'affilée...<END>
+
+//Mais je veux continuer à jouer au foot !<LINE>
+//Et ça n'a pas de sens si je ne peux pas<LINE>
+//jouer un match en entier...<END>
+
+//Misugi...<END>
+
+//Promets-moi que nous rejouerons l'un<LINE>
+//contre l'autre quand mon cœur sera guéri.<END>
+
+//Oui, et ce jour-là,<LINE>
+//ça ne se passera pas comme aujourd'hui,<LINE>
+//ce sera sans handicap<LINE>
+//et je ne perdrai pas !<END>
+
+//J'attendrai ça avec impatience.<END>
+
+//Le coup de sifflet final a retenti !<LINE>
+//Musashi et Nankatsu sont à égalité !<LINE>
+//La finale se termine sur un match nul !<LINE>
+//Les deux équipes sont victorieuses !<END>
+
+//Nous sommes à égalité...<LINE>
+//C'est un match nul...<END>
+
+//Un match nul...<END>
+
+//Misugi !<END>
+
+//Je m'étais toujours battu pour pouvoir<LINE>
+//affronter Tsubasa et Nankatsu<LINE>
+//dans un tournoi national...<END>
+
+//Et même si je dois partager mon titre...<LINE>
+//J'ai pu me battre !<END>
+
+//Misugi !<END>
+
+//Merci, Tsubasa.<LINE>
+//Et toi, tu es toujours un adversaire<LINE>
+//aussi redoutable.<LINE>
+//Tu n'as pas changé depuis nos matchs<LINE>
+//à l'école primaire...<END>
+
+//Ton cœur est guéri ?<END>
+
+//Non, pas complètement.<LINE>
+//Mais je veux continuer à jouer au football.<END>
+
+//Misugi...<END>
+
+//Promets-moi que nous rejouerons l'un<LINE>
+//contre l'autre quand mon cœur sera guéri.<END>
+
+//OK !<END>
+
+//Ça s'est terminé sur un match nul<LINE>
+//cette fois-ci.<LINE>
+//Mais la prochaine fois, je te battrai !<END>
+
+//Et ça n'a pas de sens si je ne peux pas<LINE>
+//jouer un match en entier...<END>
+

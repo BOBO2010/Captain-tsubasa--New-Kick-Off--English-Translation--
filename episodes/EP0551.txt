@@ -1,0 +1,61 @@
+// FILE: EP0551.str containing 20 strings
+
+//Oh, pendant que Sano garde la balle,<LINE>
+//Jito fait un appel croisé<LINE>
+//depuis l'aile opposée !<END>
+
+//Les gars, Jito remonte le terrain !<END>
+
+//Hein ?<END>
+
+//Hé hé hé, vous voulez vraiment me laisser<LINE>
+//tout seul ? C'est moi qui ai le ballon,<LINE>
+//vous avez oublié ?<END>
+
+//Sano traverse juste devant les buts,<LINE>
+//se donnant une occasion de tirer !<END>
+
+//Attention ! Ne le laissez pas tirer !<END>
+
+//Hmm... Je crois que je vais plutôt passer.<END>
+
+//Hein ?<END>
+
+//Sano a préféré faire une passe !<LINE>
+//Il s'amuse avec les champions de Nankatsu !<END>
+
+//Mais Jito n'est pas pour <LINE>
+//autant libre de ses mouvements.<LINE>
+//Il est marqué par Oda.<END>
+
+//Vous ne comprenez pas ?<LINE>
+//Vous pouvez venir autant que vous voulez,<LINE>
+//ça ne changera rien !<END>
+
+//Hein ? Malgré son marquage,<LINE>
+//Jito tire en force !<END>
+
+//Cependant, ce n'est pas cette fois-ci<LINE>
+//un tir à longue distance,<LINE>
+//mais un tir à pleine puissance<LINE>
+//à bout portant !<LINE>
+//Morisaki va-t-il réussir à l'arrêter ?<END>
+
+//!!<END>
+
+//Il... Il l'a eu !<LINE>
+//Morisaki s'est placé juste devant le ballon<LINE>
+//pour l'arrêter !<END>
+
+//Bien joué, Morisaki !<END>
+
+//Argh...<END>
+
+//Hein ?<END>
+
+//Mo... Morisaki !<END>
+
+//Non ! On dirait que le gardien est tombé<LINE>
+//dans les buts avec le ballon !<LINE>
+//Quelle puissance incroyable !<END>
+

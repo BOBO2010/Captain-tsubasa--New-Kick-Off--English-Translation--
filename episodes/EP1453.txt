@@ -1,0 +1,86 @@
+// FILE: EP1453.str containing 29 strings
+
+//C'est pour moi !<END>
+
+//C'est le buuuuuuuuuuuuuuut !<LINE>
+//Le Tiger shot de Hyuga s'écrase<LINE>
+//au fond des filets !<END>
+
+//Super tir, Hyuga !<END>
+
+//Quoi ?<END>
+
+//At-attendez ! Le but est refusé !<LINE>
+//Hyuga était en position de hors-jeu<LINE>
+//au début de l'action !<END>
+
+//Quoi ?<END>
+
+//Mais ce n'est pas possible !<LINE>
+//La défense est remontée après la passe !<LINE>
+//Ce n'est pas un hors-jeu !<END>
+
+//Hyuga conteste ardemment<LINE>
+//la décision de l'arbitre !<END>
+
+//Mais la France a déjà effectué<LINE>
+//la remise en jeu !<END>
+
+//Hein ?<END>
+
+//Revenez tous en défense !<END>
+
+//Toute l'équipe du Japon se replie<LINE>
+//maintenant en défense, mais l'offensive<LINE>
+//française est trop rapide.<END>
+
+//Ils sont déjà devant les buts japonais !<LINE>
+//C'est une action dangereuse pour le Japon !<END>
+
+//Pierre fait une passe millimétrée<LINE>
+//pour Napoléon qui est en position de tir !<END>
+
+//Le but est à moi !<END>
+
+//Ne le laissez pas tirer !<END>
+
+//Napoléon, laisse passer !<END>
+
+//Hein ?<END>
+
+//Napoléon ne tire pas ! Il laisse filer<LINE>
+//le ballon entre ses jambes !<END>
+
+//Bossis, l'autre attaquant français,<LINE>
+//est sur la balle ! L'expulsion de Souda<LINE>
+//a laissé un vide dans la défense !<END>
+
+//Bien !<END>
+
+//Bossis tire à portée des buts !<END>
+
+//Mais Wakashimazu repousse le ballon !<LINE>
+//Quel arrêt réflexe de la part du gardien !<END>
+
+//Bien joué, Wakashimazu !<END>
+
+//Attendez, ce n'est pas fini !<LINE>
+//Le ballon est toujours en jeu<LINE>
+//et revient droit dans les pieds<LINE>
+//de Napoléon !<END>
+
+//Je vais marquer pour de bon !<END>
+
+//Napoléon tire !<END>
+
+//Buuuuuuuuuuuuuuuuuuut !<LINE>
+//Le gardien était sur la frappe,<LINE>
+//mais il n'a pas pu arrêter<LINE>
+//le tir de Napoléon d'une seule main !<END>
+
+//L'équipe du Japon réduite à 10<LINE>
+//a finalement cédé !<LINE>
+//Leurs chances d'avancer en finale<LINE>
+//se voient de plus en plus réduites !<LINE>
+//Vont-ils pouvoir se reprendre ?<END>
+

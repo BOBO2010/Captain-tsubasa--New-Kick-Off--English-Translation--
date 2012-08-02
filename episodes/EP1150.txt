@@ -1,0 +1,66 @@
+// FILE: EP1150.str containing 23 strings
+
+//Je vais marquer !<END>
+
+//Nitta déclenche son fameux Tir du faucon !<END>
+
+//Impressionnant ! Le gardien l'a arrêté !<END>
+
+//Quoi ?!<END>
+
+//Quel arrêt de la part de Wakabayashi !<LINE>
+//Ce gardien est tout simplement<LINE>
+//exceptionnel !<LINE>
+//Normalement ce tir était destiné à aller<LINE>
+//tout droit au fond des filets !<END>
+
+//À mon tour !<END>
+
+//Souda remonte le terrain et tire !<END>
+
+//Une frappe enroulée...<END>
+
+//Waouh ! Wakabayashi a parfaitement lu<LINE>
+//la trajectoire du ballon et a effectué<LINE>
+//un arrêt impeccable !<END>
+
+//Il a deviné la trajectoire<LINE>
+//de mon Tir en rasoir du premier coup !<LINE>
+//Comment a-t-il fait ?<END>
+
+//Très bien, à mon tour de défier<LINE>
+//le grand Wakabayashi !<END>
+
+//Matsuyama frappe au but ! C'est le fameux<LINE>
+//Eagle shot qu'il a ramené tout droit des<LINE>
+//plaines enneigées de Hokkaido !<END>
+
+//Aah ! Rien n'y fait !<LINE>
+//Wakabayashi s'est emparé du ballon<LINE>
+//qui filait à ras de terre vers le but !<END>
+
+//Allons-y !<END>
+
+//Oh ! Masao effectue une glissade<LINE>
+//dos au sol !<END>
+
+//On assiste là au jeu aérien<LINE>
+//des frères jumeaux Tachibana !<END>
+
+//Allez, Kazuo !<END>
+
+//Leur Skylab hurricane s'élève<LINE>
+//dans le ciel germanique !<END>
+
+//Attrape-moi ça, Wakabayashi !<END>
+
+//Ahhhh ! Nouvel arrêt de Wakabayashi !<END>
+
+//Quel arrêt réflexe !<END>
+
+//Mais existe-t-il un tir<LINE>
+//que Wakabayashi ne puisse arrêter ?<END>
+
+//Tel un rideau de fer, rien ne passe<LINE>
+//à travers SGGK, Genzo Wakabayashi !<END>
+

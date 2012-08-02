@@ -1,0 +1,88 @@
+// FILE: EP4152.str containing 31 strings
+
+//Je vais t'en empêcher !<END>
+
+//Wakashimazu est revenu en un éclair<LINE>
+//et a repoussé le ballon en le frappant<LINE>
+//avec le poing !<END>
+
+//À moi de jouer !<END>
+
+//Et Misugi court vers le ballon repoussé<LINE>
+//par Wakashimazu !<END>
+
+//C'est une blague ?<END>
+
+//Mais Sawada de Toho arrive, lui aussi !<END>
+
+//Je vais devoir tirer à la volée<LINE>
+//avant que Sawada me rattrape !<LINE>
+//Et pour ça...<END>
+
+//Je vais devoir faire ça !<END>
+
+//Ouah ! Misugi pivote en pleine course<LINE>
+//et se prépare pour une retournée<LINE>
+//acrobatique !<END>
+
+//Allez !<END>
+
+//Misugi a fait une Bicyclette retournée<LINE>
+//avant que Sawada ne le rattrape !<END>
+
+//Le gardien Wakashimazu est toujours<LINE>
+//hors de ses buts !<LINE>
+//Le ballon passe derrière lui !<END>
+
+//Tu crois que je vais te laisser marquer<LINE>
+//encore une fois ?<END>
+
+//Tu le crois vraiment ?<END>
+
+//Wakashimazu fait son fameux plongeon<LINE>
+//avec appui sur le poteau !<LINE>
+//Va-t-il arriver à temps ?<END>
+
+//Allez ! Rentre !<END>
+
+//Il n'a pas réussi à l'atteindre !<LINE>
+//Un autre but pour Musashi !<END>
+
+//J'ai été trop lent !<END>
+
+//Après un magnifique contrôle du ballon,<LINE>
+//cette Bicyclette retournée de Misugi a fini<LINE>
+//sa course dans la partie droite du but !<END>
+
+//Et voilà le travail !<END>
+
+//Argh...<END>
+
+//Capitaine !<END>
+
+//Misugi, ça ne va pas ?<END>
+
+//Ça a l'air très grave !<LINE>
+//Je te remplace immédiatement !<LINE>
+//C'est trop risqué pour ta santé<LINE>
+//de te laisser jouer davantage.<END>
+
+//Entraîneur, attendez !<END>
+
+//?<END>
+
+//Je vais bien, je peux encore jouer.<END>
+
+//Mais...<END>
+
+//Ça ira.<LINE>
+//Je me suis reposé pendant la pause,<LINE>
+//et puis je connais mon corps<LINE>
+//mieux que quiconque.<END>
+
+//Laissez-moi une dernière chance !<LINE>
+//Je vous en prie, entraîneur !<END>
+
+//Il m'avait semblé que Misugi allait être<LINE>
+//remplacé. Mais il continue le match.<END>
+

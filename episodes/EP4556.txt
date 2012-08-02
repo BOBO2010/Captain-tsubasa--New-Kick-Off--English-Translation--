@@ -1,0 +1,95 @@
+// FILE: EP4556.str containing 27 strings
+
+//Ok, fonce, Sanada !<END>
+
+//Misugi n'a pas attaqué !<LINE>
+//Au lieu de ça, il a passé le ballon<LINE>
+//à Sanada !<END>
+
+//Là !<END>
+
+//OK !<END>
+
+//Ils vont à une vitesse effarante !<LINE>
+//Passe de Sanada à Ichinosé.<LINE>
+//Vont-ils tirer ?<END>
+
+//Non, ils ne l'ont pas fait !<LINE>
+//Le ballon a été passé à Honma<LINE>
+//sur l'autre aile !<END>
+
+//Ça, c'est une attaque de Musashi !<LINE>
+//Prends-ça !<END>
+
+//Honma tire directement !<LINE>
+//But !<END>
+
+//Ils ont marqué grâce à leur jeu de passes<LINE>
+//incroyablement rapide.<LINE>
+//Ils ont toujours été les trois meilleurs<LINE>
+//même à l'école primaire !<LINE>
+//On reconnait bien là l'expérience<LINE>
+//de Musashi en matière de passes rapides !<END>
+
+//Ok, fonce, Ichinosé !<END>
+
+//Misugi n'a pas attaqué !<LINE>
+//Au lieu de ça, il a passé le ballon<LINE>
+//à Ichinosé !<END>
+
+//Là !<END>
+
+//OK !<END>
+
+//Ils vont à une vitesse effarante !<LINE>
+//Passe d'Ichinosé à Honma.<LINE>
+//Vont-ils tirer ?<END>
+
+//Non, ils ne l'ont pas fait !<LINE>
+//Le ballon a été passé à Sanada<LINE>
+//sur l'autre aile !<END>
+
+//Ça, c'est une attaque de Musashi !<LINE>
+//Prends-ça !<END>
+
+//Sanada tire directement !<LINE>
+//But !<END>
+
+//Ils ont marqué grâce à leur jeu de passes<LINE>
+//incroyablement rapide.<LINE>
+//Ils ont toujours été les trois meilleurs<LINE>
+//même à l'école primaire !<LINE>
+//On reconnait bien là l'expérience<LINE>
+//de Musashi en matière de passes rapides !<END>
+
+//Ok, fonce, Honma !<END>
+
+//Misugi n'a pas attaqué !<LINE>
+//Au lieu de ça, il a passé le ballon<LINE>
+//à Honma !<END>
+
+//Là !<END>
+
+//OK !<END>
+
+//Ils vont à une vitesse effarante !<LINE>
+//Passe de Honma à Sanada.<LINE>
+//Vont-ils tirer ?<END>
+
+//Non, ils ne l'ont pas fait !<LINE>
+//Le ballon a été passé à Ichinosé<LINE>
+//sur l'autre aile !<END>
+
+//Ça, c'est une attaque de Musashi !<LINE>
+//Prends-ça !<END>
+
+//Ichinosé tire directement !<LINE>
+//But !<END>
+
+//Ils ont marqué grâce à leur jeu de passes<LINE>
+//incroyablement rapide.<LINE>
+//Ils ont toujours été les trois meilleurs<LINE>
+//même à l'école primaire !<LINE>
+//On reconnait bien là l'expérience<LINE>
+//de Musashi en matière de passes rapides !<END>
+

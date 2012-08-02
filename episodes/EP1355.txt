@@ -1,0 +1,75 @@
+// FILE: EP1355.str containing 26 strings
+
+//Hyuga s'apprête à tirer !<END>
+
+//Tu penses que je vais te laisser tirer<LINE>
+//aussi facilement ?<END>
+
+//Hein ?<END>
+
+//L'Argentine ne se montre pas vaincue !<LINE>
+//Pascual bloque la tentative de tir<LINE>
+//de Hyuga par un tacle fantastique !<END>
+
+//Bien joué, Pascual !<END>
+
+//Ce n'est pas fini !<END>
+
+//N'oublions pas que le ballon<LINE>
+//est toujours en jeu...<END>
+
+//Hyuga effectue un retourné<LINE>
+//et fait une passe !<END>
+
+//Tsubasa !<END>
+
+//En tant que capitaine de l'équipe,<LINE>
+//je me dois de mettre cette passe<LINE>
+//au fond des filets...<END>
+
+//Sinon, je ne suis pas digne<LINE>
+//de porter le brassard de capitaine !<END>
+
+//Tsubasa effectue un geste technique<LINE>
+//d'une rare finesse<LINE>
+//et accomplit une bicyclette <LINE>
+//retournée dos à la passe !<END>
+
+//Je vais pas te laisser faire !<END>
+
+//Fan Diaz, le capitaine de All Argentina Jr.<LINE>
+//Youth Team, bloque le tir !<END>
+
+//C'est une occasion de but ratée !<END>
+
+//Fan Diaz... C'est vrai que tu es doué...<END>
+
+//Mais même si tu as bloqué mon tir,<LINE>
+//je ne vais pas laisser passer<LINE>
+//cette occasion !<LINE>
+//Je dois récupérer ce ballon avant toi...<END>
+
+//Tsubasa !<END>
+
+//Oh ! Misaki surgit<LINE>
+//aux côtés des deux joueurs !<END>
+
+//Je compte sur toi, Misaki !<END>
+
+//Quoi ?!<END>
+
+//Magnifique ! Tsubasa récupère le ballon<LINE>
+//après le contre de Diaz<LINE>
+//et le passe directement à Misaki !<END>
+
+//Belle passe, Tsubasa !<END>
+
+//Quelle reprise de volée<LINE>
+//de la part de Misaki !<END>
+
+//Et c'est le buuuuuuuuuuuuuut !<END>
+
+//Misaki remet les deux équipes à égalité !<LINE>
+//Quelle action magnifique<LINE>
+//de la part de Misaki et Tsubasa !<END>
+

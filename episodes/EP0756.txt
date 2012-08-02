@@ -1,0 +1,39 @@
+// FILE: EP0756.str containing 14 strings
+
+//En avant, l'équipe des tacleurs de Toho !<END>
+
+//Mais Nankatsu est plus fort !<END>
+
+//Jamais vous ne me la prendrez !<END>
+
+//J'arrive !<END>
+
+//Nankatsu file vers les buts de Toho<LINE>
+//avec détermination !<END>
+
+//On ne perdra pas !<LINE>
+//Vous aurez beau jouer avec la plus<LINE>
+//grande détermination possible,<LINE>
+//ça n'aura aucun effet sur moi !<END>
+
+//Malgré la bonne volonté de Nankatsu,<LINE>
+//Hyuga ne recule pas d'un centimètre !<END>
+
+//Oh ! Et il se met en position de tir !<END>
+
+//Prenez ça !<END>
+
+//Le Tiger shot file tout droit.<LINE>
+//Si je me positionne face à Hyuga,<LINE>
+//le ballon viendra droit sur moi !<END>
+
+//Drive shoot !<END>
+
+//Et... C'est un but !<LINE>
+//Le gardien Wakashimazu n'a pas eu<LINE>
+//la moindre chance !<END>
+
+//...<END>
+
+//Ce... Ce n'est pas possible...<END>
+

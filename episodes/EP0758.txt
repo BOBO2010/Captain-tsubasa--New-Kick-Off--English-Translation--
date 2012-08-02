@@ -1,0 +1,115 @@
+// FILE: EP0758.str containing 37 strings
+
+//Drive shoot !<END>
+
+//Je ne te laisserai pas entrer<LINE>
+//dans les buts de Toho !<LINE>
+//Tiger shot !<END>
+
+//Hyuga est face au ballon !<LINE>
+//Va-t-il réussir à repousser le Drive shoot<LINE>
+//avec un Tiger shot ?<END>
+
+//C'est un duel ! Un face-à-face !<END>
+
+//C'est... C'est incroyable !<LINE>
+//Les deux joueurs ont frappé au même instant<LINE>
+//et avec la même force le ballon<LINE>
+//qui n'a pas bougé d'un centimètre !<LINE>
+//Tsubasa et Hyuga ont été repoussés<LINE>
+//par la violence de l'impact !<END>
+
+//Oh, Tsubasa se relève !<END>
+
+//Allez ! Mon rêve dépend de toi !<LINE>
+//Sois ma victoire !<LINE>
+//Drive shoot !<END>
+
+//Le Drive shoot de Tsubasa file<LINE>
+//dans les airs.<END>
+
+//Je vais l'arrêter !<LINE>
+//Je vais vous montrer<LINE>
+//que je peux l'arrêter !<END>
+
+//Tégatana defense !<END>
+
+//Oh ! Il l'a bloqué !<LINE>
+//Nankatsu n'a pas marqué !<END>
+
+//Mais après avoir arrêté le tir,<LINE>
+//Wakashimazu a perdu l'équilibre,<LINE>
+//et a percuté le poteau de but<LINE>
+//avec l'épaule droite !<END>
+
+//Le ballon roule maintenant vers Tsubasa !<END>
+
+//Mais Tsubasa est tombé à genoux !<LINE>
+//Que se passe-t-il ?<END>
+
+//Le ballon... Mon ami revient vers moi.<END>
+
+//Je vais marquer ! Oui, je vais marquer !<END>
+
+//Je continuerai d'utiliser mon Drive shoot<LINE>
+//jusqu'à ce qu'on ait brisé<LINE>
+//la défense de la Toho.<LINE>
+//Jusqu'à la victoire de la Nankatsu !<END>
+
+//Allez ! Je dois bouger !<END>
+
+//Rrraagh ! Tiger...<END>
+
+//Shot !<END>
+
+//Il l'a renvoyé !<END>
+
+//Pense-t-il sérieusement profiter du rebond<LINE>
+//du Drive shoot de Tsubasa sur le poteau<LINE>
+//pour viser les buts de Nankatsu ?<END>
+
+//C'est... C'est le dernier tir !<END>
+
+//Quoi ?!<END>
+
+//Il est renvoyé à nouveau !<END>
+
+//Tsubasa le renvoie avec un Drive shoot !<END>
+
+//Il a effectué un Jumping high volley kick<LINE>
+//pour tirer le ballon<LINE>
+//que Hyuga lui avait déjà renvoyé !<END>
+
+//Cette fois, c'est sûr !<LINE>
+//Il va marquer et ce sera<LINE>
+//la troisième victoire de Nankatsu !<END>
+
+//Rrraaagh!<END>
+
+//Oh ! Wakashimazu est debout !<LINE>
+//Alors qu'il était blessé à terre,<LINE>
+//il tente maintenant un plongeon<LINE>
+//en prenant appui sur le poteau !<END>
+
+//Il a pris le tir en pleine poitrine !<END>
+
+//Mais ça ne suffit pas !<LINE>
+//Même s'il a attrapé la balle,<LINE>
+//il va tomber avec dans les buts.<END>
+
+//Allez !<END>
+
+//Je vais l'arrêter !<LINE>
+//Je ne laisserai pas Tsubasa…<LINE>
+//Je ne laisserai pas Nankatsu<LINE>
+//marquer un autre but !<END>
+
+//Il l'a arrêté ! Il l'a encore arrêté !<END>
+
+//Alors que Wakashimazu allait tomber<LINE>
+//dans le but, Hyuga a plongé<LINE>
+//pour le rattraper !<END>
+
+//Le ballon a fini sa course<LINE>
+//juste devant la ligne de but !<END>
+

@@ -1,0 +1,113 @@
+// FILE: bvc271.str containing 54 strings
+
+//Fonce !<END>
+
+//Il arrive !<END>
+
+//Prenez ça !<END>
+
+//Facile !<END>
+
+//Admire le spectacle !<END>
+
+//Fonce !<END>
+
+//Laisse-moi passer !<END>
+
+//Hors de mon chemin !<END>
+
+//Amène-toi !<END>
+
+//Je vais t'en empêcher !<END>
+
+//Tu ne me passeras pas !<END>
+
+//Admire le spectacle !<END>
+
+//C'est fini !<END>
+
+//Admire le spectacle !<END>
+
+//Je l'ai !<END>
+
+//Il arrive !<END>
+
+//Je ne laisserai pas ça<LINE>
+//arriver !<END>
+
+//Je vais t'en empêcher !<END>
+
+//je dois l'arrêter !<END>
+
+//C'est fini !<END>
+
+//Je ne le laisserai pas entrer !<END>
+
+//Oui !<END>
+
+//Cool !<END>
+
+//Qu'est-ce que tu dis de ça ?<END>
+
+//Hein, quoi ?<END>
+
+//!!!<END>
+
+//Non !<END>
+
+//Je l'ai !<END>
+
+//Prends ça !<END>
+
+//Ah !<END>
+
+//C'est pour toi !<END>
+
+//Admire le spectacle !<END>
+
+//Fonce !<END>
+
+//Tu crois pouvoir m'arrêter ?<END>
+
+//Hors de mon chemin !<END>
+
+//Tu ne l'auras pas !<END>
+
+//Tu ne passeras pas !<END>
+
+//Je ne laisserai pas ça<LINE>
+//arriver !<END>
+
+//Aaaarrrrgh !<END>
+
+//Je ne laisserai pas ça<LINE>
+//arriver !<END>
+
+//Je dois l'avoir !<END>
+
+//je dois l'arrêter !<END>
+
+//Prends ça !<END>
+
+//Tu ne passeras pas !<END>
+
+//Aaaarrrrgh !<END>
+
+//je dois l'arrêter !<END>
+
+//Je ne te laisserai pas marquer !<END>
+
+//Aaaarrrrgh !<END>
+
+//Oui !<END>
+
+//J'ai réussi !<END>
+
+//Ah !<END>
+
+//C'est pas vrai !<END>
+
+//Grrr....<END>
+
+//Quoi ? C'est pas vrai...<END>
+

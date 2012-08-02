@@ -1,0 +1,43 @@
+// FILE: EP3550.str containing 13 strings
+
+//Prends garde, Hyuga !<LINE>
+//Je vais te faire payer l'école primaire !<LINE>
+//Et c'est nous qui allons gagner<LINE>
+//cette fois !<END>
+
+//Faites de votre mieux !<LINE>
+//Mais n'oubliez pas que pour Toho,<LINE>
+//le mot "perdre" n'existe pas !<END>
+
+//Matsuyama dribble en se rapprochant<LINE>
+//de Hyuga qui ne le laisse pas passer !<END>
+
+//C'est un duel intense<LINE>
+//entre les deux capitaines !<END>
+
+//Mince ! Hyuga... comme je m'y attendais...<LINE>
+//Il ne me laissera pas passer facilement !<END>
+
+//C'est un joueur puissant…<LINE>
+//mais seul Tsubasa peut me mettre<LINE>
+//en difficulté !<END>
+
+//Tiens, c'est pour toi !<END>
+
+//Oh ! Hyuga est passé le premier<LINE>
+//à l'attaque !<LINE>
+//Il effectue un puissant tacle glissé<LINE>
+//pour s'emparer du ballon !<END>
+
+//Je savais que tu ferais ça !<END>
+
+//Quoi ?<END>
+
+//On dirait que Matsuyama s'y attendait !<LINE>
+//Il évite le tacle en sautant !<END>
+
+//Matsuyama sort vainqueur de la mêlée<LINE>
+//entre les capitaines !<END>
+
+//Bien, je vais maintenant marquer !<END>
+

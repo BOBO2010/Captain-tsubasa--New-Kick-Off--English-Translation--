@@ -1,0 +1,23 @@
+// FILE: EP4350.str containing 5 strings
+
+//Musashi tente le tout pour le tout<LINE>
+//dans cette seconde mi-temps.<LINE>
+//On dirait que Misugi va enfin entrer<LINE>
+//sur le terrain !<END>
+
+//Son rôle a été déterminant<LINE>
+//lors de la qualification de son équipe<LINE>
+//au détriment de Toho.<LINE>
+//On ne l'avait plus vu jouer<LINE>
+//au niveau national depuis trois ans !<END>
+
+//Misugi, le joueur de génie, le Prince<LINE>
+//du terrain, quel spectacle<LINE>
+//va-t-il nous offrir ?<LINE>
+<END>
+
+//C'est maintenant que le match commence !<LINE>
+//Montrons-leur le football de Musashi !<END>
+
+//Oui, capitaine !<END>
+

@@ -1,0 +1,113 @@
+// FILE: bva010.str containing 54 strings
+
+//Allez !<END>
+
+//Prépare-toi !<END>
+
+//Admire le travail !<END>
+
+//Tiens !<END>
+
+//Admire le spectacle !<END>
+
+//Ouais, tiens !<END>
+
+//Laisse-moi passer !<END>
+
+//Admire le travail !<END>
+
+//Amène-toi !<END>
+
+//Allez, essaie un peu pour voir !<END>
+
+//Je vais te bloquer !<END>
+
+//Admire le spectacle !<END>
+
+//C'est fini !<END>
+
+//Admire le spectacle !<END>
+
+//Je l'ai !<END>
+
+//Prépare-toi !<END>
+
+//Je ne laisserai pas ça<LINE>
+//arriver !<END>
+
+//Laissez-moi faire !<END>
+
+//je dois l'arrêter !<END>
+
+//C'est fini !<END>
+
+//Je vais l'arrêter !<END>
+
+//Oui !<END>
+
+//Cool !<END>
+
+//Qu'est-ce que tu dis de ça ?<END>
+
+//Oh...<END>
+
+//!!!<END>
+
+//Non !<END>
+
+//Je l'ai !<END>
+
+//Prends ça !<END>
+
+//Aaaarrrrgh !<END>
+
+//C'est pour toi !<END>
+
+//Admire le spectacle !<END>
+
+//Je dois l'avoir !<END>
+
+//C'est tout ce que tu as ?<END>
+
+//Oui !<END>
+
+//Tu ne l'auras pas !<END>
+
+//Tu peux faire mieux que ça !<END>
+
+//Je ne laisserai pas ça<LINE>
+//arriver !<END>
+
+//Aaaarrrrgh !<END>
+
+//Pas question de la laisser<LINE>
+//passer !<END>
+
+//Je dois l'avoir !<END>
+
+//Je vais t'arrêter !<END>
+
+//Prends ça !<END>
+
+//Tu n'iras pas plus loin !<END>
+
+//Aaaarrrrgh !<END>
+
+//je dois l'arrêter !<END>
+
+//Je ne le laisserai pas entrer !<END>
+
+//Aaaarrrrgh !<END>
+
+//Oui !<END>
+
+//J'ai réussi !<END>
+
+//Ah !<END>
+
+//Impossible !<END>
+
+//Grrr....<END>
+
+//Non !<END>
+

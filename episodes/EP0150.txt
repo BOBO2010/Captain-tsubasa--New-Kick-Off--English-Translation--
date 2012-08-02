@@ -1,0 +1,15 @@
+// FILE: EP0150.str containing 4 strings
+
+//Allons-y !<END>
+
+//Une frappe héroïque du numéro 10<LINE>
+//de Nankatsu, Tsubasa Ozora !<END>
+
+//Oui !<END>
+
+//Tsubasa marque le premier but du tournoi<LINE>
+//pour le collège Nankatsu.<LINE>
+//Un premier pas éblouissant<LINE>
+//vers leur troisième titre national<LINE>
+//consécutif !<END>
+

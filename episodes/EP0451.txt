@@ -1,0 +1,47 @@
+// FILE: EP0451.str containing 16 strings
+
+//Là.<END>
+
+//Ono est déjà devant les buts.<END>
+
+//C'est la même chose pour vous deux.<LINE>
+//On va vous déséquilibrer tous les deux !<END>
+
+//Kazuo, maintenant !<END>
+
+//OK !<END>
+
+//Hein ?<END>
+
+//Oh, que se passe-t-il ?<LINE>
+//Masao Tachibana s'est jeté au sol<LINE>
+//et glisse sur le dos !<LINE>
+//Qu'est-ce que ça veut dire ?<END>
+
+//Tu es prêt, Masao ?<END>
+
+//Ouais !<END>
+
+//Hein ? Qu'est-ce que...<END>
+
+//C'est parti pour notre nouvelle technique<LINE>
+//aérienne !<END>
+
+//Le Skylab hurricane !<END>
+
+//Oh ! Les frères Tachibana utilisent<LINE>
+//leurs propres jambes comme tremplin<LINE>
+//pour s'élancer dans les airs !<END>
+
+//Suivi d'une tête en plein air !<END>
+
+//But !<LINE>
+//Cette nouvelle technique aérienne<LINE>
+//des frères Tachibana est incroyable !<LINE>
+//Ce sont vraiment les dieux du football<LINE>
+//acrobatique !<END>
+
+//Ha ha ha !<LINE>
+//Vous avez vu ça, Nankatsu ?<LINE>
+//C'était le Skylab hurricane !<END>
+

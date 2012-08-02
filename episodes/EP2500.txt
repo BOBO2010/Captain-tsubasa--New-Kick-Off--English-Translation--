@@ -1,0 +1,179 @@
+// FILE: EP2500.str containing 57 strings
+
+//Capitaine !<END>
+
+//Hyuga.<END>
+
+//Entraîneur Kitazumé, veuillez accepter<LINE>
+//cela s'il vous plaît !<END>
+
+//...<END>
+
+//...<END>
+
+//Si on m'avait dit que j'en arriverais là<LINE>
+//un jour, mais...<END>
+
+//C'est le moins que je puisse faire<LINE>
+//pour  vous.<LINE>
+//Par pitié ! Je vous supplie de me laisser<LINE>
+//jouer lors du prochain match !<END>
+
+//Regarde-moi, Hyuga !<END>
+
+//J'ai toujours entraîné l'équipe à ma façon.<END>
+
+//Et c'est pourquoi, j'ai décidé de ne pas<LINE>
+//te faire participer à ce tournoi.<LINE>
+//Tu comprends, Hyuga ?<END>
+
+//Je vois... Rien à foutre de tout ça.<LINE>
+//Je joue demain, point final !<END>
+
+//Peu importe si je dois me battre<LINE>
+//contre vous ou m'imposer sur le terrain,<LINE>
+//mais je jouerai dans l'équipe demain !<END>
+
+//Toho n'appartient pas à un seul homme !<LINE>
+//Je ne vous laisserai pas m'évincer<LINE>
+//par caprice !<END>
+
+//Tu es le seul à avoir toujours agi<LINE>
+//par caprice !<END>
+
+//Grrr !<END>
+
+//Une minute, capitaine !<LINE>
+//Vous aussi, entraîneur !<END>
+
+//Écoutez-moi, entraîneur !<LINE>
+//Laissez jouer Hyuga, s'il vous plaît !<END>
+
+//Le capitaine a eu tort de quitter<LINE>
+//l'équipe sans votre autorisation.<END>
+
+//Mais durant son séjour à Okinawa,<LINE>
+//il s'est entraîné avec plus d'acharnement<LINE>
+//que quiconque ici, dans le seul but<LINE>
+//de battre Nankatsu !<END>
+
+//Entraîneur, s'il vous plaît !<LINE>
+//Faites entrer notre capitaine !<END>
+
+//Les gars...<END>
+
+//Vous voulez vraiment que Hyuga participe<LINE>
+//au match, hein ?<END>
+
+//Cette boule de fierté, Hyuga,<LINE>
+//s'est agenouillé devant moi et m'a supplié.<END>
+
+//Et ses coéquipiers le réclament<LINE>
+//alors qu'il les a laissés tomber...<LINE>
+//Sans compter qu'il n'a pas joué<LINE>
+//un seul match de ce tournoi...<END>
+
+//Mais j'ai... j'ai décidé en mon âme<LINE>
+//et conscience qu'il ne participerait pas<LINE>
+//au tournoi.<LINE>
+//Je ne peux pas revenir sur ma décision.<END>
+
+//Que quelqu'un m'apporte un ballon.<LINE>
+//Et de la lumière aussi.<END>
+
+//Hein ?<END>
+
+//Hyuga, tu as dit que Toho<LINE>
+//ne m'appartenait pas.<LINE>
+//Mais c'est pourtant moi, l'entraîneur,<LINE>
+//qui dirige cette équipe.<END>
+
+//Et Toho s'est démenée pour parvenir<LINE>
+//en finale sans toi.<END>
+
+//Nous pouvons remercier Sorimachi, Sawada<LINE>
+//et Wakashimazu.<LINE>
+//Peux-tu marquer un but en les affrontant<LINE>
+//sur le terrain ?<END>
+
+//Vous promettez de me laisser jouer<LINE>
+//si j'y arrive ?<END>
+
+//Mais s'ils font exprès de laisser passer<LINE>
+//le but pour que tu puisses participer<LINE>
+//au match, je ne te laisserai pas entrer<LINE>
+//sur le terrain ! Compris ?<END>
+
+//Je vais jouer ! Je vais vaincre Tsubasa<LINE>
+//grâce à mon Tiger shot !<END>
+
+//Hein !<END>
+
+//Wakashimazu n'a pas bougé d'un centimètre !<END>
+
+//N-non ! Je ne l'ai pas fait exprès !<LINE>
+//C'est... c'est allé trop vite pour moi !<END>
+
+//Voici la composition de l'équipe<LINE>
+//pour le match de demain contre Nankatsu !<END>
+
+//Avant-centre... Hyuga Kojiro !<END>
+
+//Super !<END>
+
+//Entraîneur Kitazumé de Toho Gakuen ?<LINE>
+//Je m'appelle Kira Kozo.<END>
+
+//Entraîneur Kira !<END>
+
+//Je vous demande de faire jouer Kojiro<LINE>
+//durant le match d'aujourd'hui !<END>
+
+//...<END>
+
+//M. Kira, je vous prie de bien vouloir<LINE>
+//m'écouter.<LINE>
+//Soyez sans crainte, je compte faire jouer<LINE>
+//Hyuga durant tout le match.<END>
+
+//Vraiment ?<END>
+
+//Hyuga a fait hier ce que vous venez<LINE>
+//de faire maintenant.<END>
+
+//Oh ? Kojiro ?<END>
+
+//Entraîneur...<END>
+
+//Quoiqu'il en soit, bonne chance !<LINE>
+//Vous avez de grandes chances de gagner<LINE>
+//avec une telle équipe !<END>
+
+//Nous allons battre Nankatsu et ramener<LINE>
+//le drapeau du championnat à Toho Gakuen,<LINE>
+//là où est sa vraie place !<END>
+
+//Oui !<END>
+
+//Finalement je remettrai ma lettre<LINE>
+//de démission après le match.<END>
+
+//Très bien ! C'est parti, les gars !<LINE>
+//Allons écraser Nankatsu !<END>
+
+//Cela fait longtemps que nous n'avons pas<LINE>
+//joué ensemble, Hyuga, mais je suis sûr<LINE>
+//que nous formerons un bon duo !<END>
+
+//Enfin de retour sur le terrain !<LINE>
+//J'ai besoin de vous, les gars.<LINE>
+//Je ne veux pas encore perdre contre<LINE>
+//Tsubasa !<END>
+
+//Tsubasa…<LINE>
+//J'ai consacré les quatre dernières années<LINE>
+//de ma vie à me préparer pour ce moment…<LINE>
+//Mon dernier match en ligue des collèges !<END>
+
+//Une demande de rencontre ?<END>
+

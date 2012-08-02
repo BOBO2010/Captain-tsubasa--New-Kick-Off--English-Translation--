@@ -1,0 +1,27 @@
+// FILE: EP4252.str containing 8 strings
+
+//Matsukami tire !<LINE>
+//Il a pris cette décision en un éclair<LINE>
+//alors que la défense de Musashi s'avançait<LINE>
+//pour le mettre sous pression !<END>
+
+//Oh non !<END>
+
+//Sano, tu peux l'avoir ! Coupe !<END>
+
+//D'accord !<END>
+
+//Sano suit les instructions de Misugi<LINE>
+//et plonge sur le ballon !<LINE>
+//Va-t-il parvenir à l'intercepter ?<END>
+
+//Oui !<END>
+
+//Sano a réussi ! Misugi dirige l'action<LINE>
+//sur le terrain en donnant ses instructions<LINE>
+//depuis le banc de touche.<END>
+
+//Voilà !<LINE>
+//Maintenant montrez-leur ce que vaut<LINE>
+//réellement l'attaque de Musashi !<END>
+

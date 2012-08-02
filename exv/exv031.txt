@@ -1,0 +1,8 @@
+// FILE: exv031.str containing 2 strings
+
+//On va t'arrêter net !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+

@@ -1,0 +1,34 @@
+// FILE: EP4554.str containing 13 strings
+
+//Oh ! Misugi centre ! Le ballon semble<LINE>
+//aller vers le grand Sanada !<END>
+
+//Misugi !<END>
+
+//Quoi?<END>
+
+//Oh ? Sanada ne va pas tirer !<END>
+
+//Attendez, le ballon est trop haut<LINE>
+//pour que ce soit une passe...<LINE>
+//Aurait-il raté son tir ?<END>
+
+//Bien joué, Sanada !<END>
+
+//Non ! C'était une passe pour Misugi !<END>
+
+//Misugi va tenter un tir retourné !<END>
+
+//Misugi frappe le ballon<LINE>
+//avec une magnifique Bicyclette retournée !<LINE>
+//Morisaki ne pourra pas réagir à temps !<END>
+
+//Quoi ?!<END>
+
+//Oh ! Tsubasa a renvoyé le ballon à Misugi<LINE>
+//avec un tir retourné !<END>
+
+//Pff...<END>
+
+//La bataille va être rude...<END>
+

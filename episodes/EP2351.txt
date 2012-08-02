@@ -1,0 +1,22 @@
+// FILE: EP2351.str containing 5 strings
+
+//Impressionnant ! Encore un but !<LINE>
+//L'équipe adverse encaisse les buts<LINE>
+//de Toho les uns après les autres !<LINE>
+//On dirait que rien ne peut les arrêter !<END>
+
+//Que dites-vous de ça ?<LINE>
+//Je ne compte pas en rester là !<LINE>
+//Essayez de prendre le dessus après ça !<LINE>
+//Vous sembliez bien sûr de vous avant<LINE>
+//le match pourtant !<END>
+
+//Nous jouons pour gagner !<END>
+
+//Nous écraserons toutes les équipes<LINE>
+//qui estiment pouvoir nous battre<LINE>
+//simplement parce que Hyuga n'est pas<LINE>
+//sur le terrain !<END>
+
+//Hum ! Il est bien présomptueux...<END>
+

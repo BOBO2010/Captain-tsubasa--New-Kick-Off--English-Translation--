@@ -1,0 +1,43 @@
+// FILE: EP1454.str containing 14 strings
+
+//Je ne peux pas laisser<LINE>
+//passer cette occasion.<LINE>
+//Je dois tirer à tout prix !<END>
+
+//Tsubasa s'apprête à tirer<LINE>
+//un boulet de canon !<END>
+
+//!!!<END>
+
+//Non, il fait une talonnade <LINE>
+//après une feinte de tir !<END>
+
+//À toi de jouer, Hyuga !<END>
+
+//Hyuga court en direction du ballon !<END>
+
+//C'est pas d'ici qu'on pourra siffler<LINE>
+//une faute ou un hors-jeu !<LINE>
+//Hein, M. l'arbitre ?<END>
+
+//Hyuga est en position de tir !<END>
+
+//Mais Pierre surgit par le côté<LINE>
+//pour le stopper !<END>
+
+//Je ne vais pas te laisser tirer !<END>
+
+//Prends ça ! Ce Tiger shot est rempli<LINE>
+//de toute la rage du Japon !<END>
+
+//Pierre ne tacle pas à temps !<LINE>
+//Telle une fusée, le tir de Hyuga<LINE>
+//fonce vers les buts adversaires !<END>
+
+//Buuuuuuuuuuuuuuuuuuuut !<LINE>
+//Le Tiger shot de Hyuga se trouve<LINE>
+//au fond des filets !<END>
+
+//Vous avez vu ?<LINE>
+//Mon but est net et sans bavure !<END>
+

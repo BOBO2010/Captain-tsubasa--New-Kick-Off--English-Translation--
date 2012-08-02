@@ -1,0 +1,32 @@
+// FILE: EP3450.str containing 11 strings
+
+//Prend garde, Tsubasa !<LINE>
+//Tes deux avants sont marqués !<END>
+
+//Si jamais tu fais une passe en retrait,<LINE>
+//toute notre équipe montera<LINE>
+//vers les buts de Nankatsu !<END>
+
+//Matsuyama engage le combat contre Tsubasa<LINE>
+//avec détermination !<END>
+
+//Je ne peux pas faire de passe...<END>
+
+//Matsuyama tente un tacle glissé !<END>
+
+//Mais Tsubasa l'évite de justesse !<END>
+
+//Tsubasa a l'œil partout, et il a compris<LINE>
+//qu'il ne pourrait pas faire de passe.<LINE>
+//Mais ce tacle n'était qu'une ruse !<END>
+
+//Cette fois-ci, c'est le vrai !<END>
+
+//Son premier tacle est aussitôt suivi<LINE>
+//d'un second, Matsuyama ayant pivoté ! <END>
+
+//Matsuyama reprend possession du ballon !<END>
+
+//Oui ! La nouvelle Feinte sur tacle<LINE>
+//que Matsuyama avait imaginée a réussi !<END>
+

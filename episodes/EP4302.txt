@@ -1,0 +1,32 @@
+// FILE: EP4302.str containing 6 strings
+
+//Le match est terminé !<LINE>
+//L'affrontement entre Musashi et Konishi<LINE>
+//a tourné à l'avantage de Musashi !<LINE>
+//Misugi a brillé aussi bien en défense<LINE>
+//qu'en attaque aujourd'hui !<END>
+
+//Comme prévu, l'entrée du capitaine<LINE>
+//de Musashi, Misugi, a fait basculé<LINE>
+//le cours de cette bataille acharnée.<END>
+
+//Musashi a immédiatement repris le match<LINE>
+//en main et s'est approprié la victoire.<END>
+
+//Misugi a fait basculer le cours du match<LINE>
+//à lui tout seul.<LINE>
+//Sans lui, nous aurions peut-être gagner !<END>
+
+//Cette victoire, ce n'est pas uniquement<LINE>
+//grâce à moi.<LINE>
+//Vous avez tous beaucoup progressé.<LINE>
+//Et moi, je suis en pleine forme.<LINE>
+//Nous pouvons le faire, les amis...<LINE>
+//Nous pouvons gagner ce tournoi !<END>
+
+//Si nous continuons à gagner,<LINE>
+//nous rencontrerons Nankatsu en finale !<LINE>
+//Nous serons l'équipe qui réussira<LINE>
+//à empêcher Nankatsu de gagner<LINE>
+//un troisième titre consécutif !<END>
+

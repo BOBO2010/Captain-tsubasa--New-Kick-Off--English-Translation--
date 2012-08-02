@@ -1,0 +1,15 @@
+// FILE: EP3200.str containing 3 strings
+
+//Écoutez bien !<LINE>
+//C'est maintenant le championnat national !<LINE>
+//Même si c'est le premier match,<LINE>
+//pas question de se relâcher ! <END>
+
+//Quelques-uns parmi vous<LINE>
+//risquent d'être tendus.<LINE>
+//Mais n'oubliez pas que vous pouvez gagner<LINE>
+//si vous jouez comme d'habitude !<LINE>
+//Montrez-leur votre jeu collectif !<END>
+
+//Oui, entraîneur !<END>
+

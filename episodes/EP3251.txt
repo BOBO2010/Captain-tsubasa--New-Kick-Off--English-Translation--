@@ -1,0 +1,17 @@
+// FILE: EP3251.str containing 3 strings
+
+//On assiste à un jeu de passes rapides<LINE>
+//de Furano !<LINE>
+//Ces 11 joueurs évoluent ensemble<LINE>
+//depuis l'école primaire !<LINE>
+//Pas de doute, mesdames et messieurs,<LINE>
+//c'est ce qu'on appelle un travail d'équipe. <END>
+
+//Furano possède le meilleur jeu collectif <LINE>
+//du Japon !<LINE>
+//Personne ne peut les arrêter !<END>
+
+//Après quelques passes rapides,<LINE>
+//c'est un tir impressionnant de Furano 11<LINE>
+//qui marque un but mérité ! <END>
+

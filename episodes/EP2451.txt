@@ -1,0 +1,102 @@
+// FILE: EP2451.str containing 33 strings
+
+//Et Meiwa-Higashi se met<LINE>
+//en position de tir !<END>
+
+//Non !<END>
+
+//Oh ! Mais Wakashimazu repousse la balle !<END>
+
+//C'est incroyable !<LINE>
+//Wakashimazu a réagi à temps<LINE>
+//en bloquant le tir.<LINE>
+//Sans cela, l'équipe adverse<LINE>
+//aurait marqué un but !<END>
+
+//Le ballon a été repoussé,<LINE>
+//mais il reste en jeu.<LINE>
+//L'action se déroule dans<LINE>
+//la surface de réparation !<END>
+
+//Éloigne le ballon ! Envoie-le loin !<END>
+
+//Quel joueur parviendra à l'atteindre<LINE>
+//en premier ?<END>
+
+//Celui de Toho ?<LINE>
+//Ou celui de Meiwa-Higashi ?<END>
+
+//Prends ça !<LINE>
+//Kamikaze sliding squad de Meiwa,<LINE>
+//nous voilà !<END>
+
+//Quoi !<END>
+
+//Ouah ! But ! But !<LINE>
+//La ténacité de Meiwa a fini par payer !<END>
+
+//Hein...<END>
+
+//Il semblerait que l'avant-centre Sawaki<LINE>
+//soit le dernier à avoir touché le ballon.<LINE>
+//Dans tous les cas, nous avons assisté<LINE>
+//à une tempête de tacles glissés<LINE>
+//de Meiwa-Higashi !<END>
+
+//Tous ceux qui se trouvaient<LINE>
+//près du ballon repoussé par Wakashimazu<LINE>
+//ont misé sur des tirs glissés pour marquer<LINE>
+//le premier but !<END>
+
+//Très bien ! Nous avons marqué un but !<LINE>
+//Nous dominons le match dorénavant !<END>
+
+//...<END>
+
+//Attends, Hyuga !<END>
+
+//Qu'est-ce que tu fais ?<LINE>
+//Je n'ai aucune intention de te faire<LINE>
+//participer à ce match !<END>
+
+//...<END>
+
+//Assieds-toi, Hyuga !<LINE>
+//C'est un ordre de ton entraîneur !<END>
+
+//Des ordres, des ordres,<LINE>
+//toujours des ordres...<END>
+
+//Vous vous prenez pour le maître du monde ?<LINE>
+//Vous avez toujours raison ?<END>
+
+//Que dis-tu ?<END>
+
+//Pourquoi... pourquoi ne puis-je pas jouer ?<END>
+
+//Attends, Hyuga !<END>
+
+//Venez ici, les gars !<LINE>
+//Ce n'est qu'un but !<LINE>
+//Vous pouvez revenir, j'en suis sûr !<END>
+
+//Gagnez ce match sans moi !<LINE>
+//Vous devez gagner, les gars !<END>
+
+//Hyuga...<END>
+
+//Capitaine...<END>
+
+//Hyuga...<END>
+
+//Je jouerai la finale !<END>
+
+//Très bien…<LINE>
+//En place, les gars ! Ce n'est qu'un but,<LINE>
+//tout comme le capitaine l'a dit !<LINE>
+//Nous allons le leur reprendre !<END>
+
+//Ouais ! Nous sommes arrivés ici<LINE>
+//sans le capitaine ! Nous allons leur<LINE>
+//montrer de quel bois Toho se chauffe !<END>
+

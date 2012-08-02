@@ -1,0 +1,24 @@
+// FILE: EP4353.str containing 8 strings
+
+//Misugi est devant le ballon<LINE>
+//et il est démarqué...<LINE>
+//Mais le ballon semble trop haut.<END>
+
+//Maintenant... Je dois essayer !<END>
+
+//Capitaine !<END>
+
+//Misugi se retourne et tente sa spécialité,<LINE>
+//la Bicyclette retournée !<END>
+
+//Le gardien peut trembler !<END>
+
+//Allez !<END>
+
+//Misugi tire sa Bicyclette retournée !<END>
+
+//Il est dedans !<LINE>
+//Le gardien n'a pas pu bouger un muscle !<LINE>
+//Musashi a mis le ballon au fond des filets<LINE>
+//sur un magnifique tir de Misugi !<END>
+

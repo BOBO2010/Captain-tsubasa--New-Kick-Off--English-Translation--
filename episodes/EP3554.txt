@@ -1,0 +1,62 @@
+// FILE: EP3554.str containing 19 strings
+
+//Furano souhaite définitivement<LINE>
+//marquer plusieurs buts !<LINE>
+//Leur objectif principal est de faire <LINE>
+//parvenir le ballon à Matsuyama.<END>
+
+//Mince ! L'avant est marqué.<LINE>
+//Même si j'arrive à éviter Hyuga,<LINE>
+//il reste leur gardien Wakashimazu ! <END>
+
+//Si je n'arrive pas à me positionner,<LINE>
+//je n'arriverai pas à marquer !<END>
+
+//Qu'est-ce que je peux faire ?<END>
+
+//Hyuga se précipite vers Matsuyama !<LINE>
+//Il semblerait que les deux capitaines<LINE>
+//vont s'affronter en face-à-face.<END>
+
+//À ce stade du match, je dois marquer,<LINE>
+//en tant que capitaine de l'équipe !<END>
+
+//C'est tout ou rien... Je tente ma chance !<LINE>
+//Ce tir a marché à l'entraînement !<END>
+
+//Oh ! Matsuyama semblait vouloir dribbler<LINE>
+//jusqu'au buts,<LINE>
+//mais il a finalement préféré tirer !<END>
+
+//Je ne vais pas te laisser marquer !<END>
+
+//Allons-y !<LINE>
+//Les tempêtes de neige de Hokkaido<LINE>
+//n'ont rien pu faire contre ce tir !<LINE>
+//Alors, gagnons !<END>
+
+//Le tir de Matsuyama a été plus rapide !<LINE>
+//Hyuga n'a pas pu le bloquer !<END>
+
+//Ah ! Wakashimazu !<END>
+
+//Oui, on peut lui faire confiance...<END>
+
+//Quoi ?<END>
+
+//Oh ! Le ballon ondule !<LINE>
+//Surpris, Wakashimazu n'arrive pas<LINE>
+//à l'arrêter.<END>
+
+//Le ballon est entré dans les cages !<END>
+
+//Furano et Matsuyama ont marqué<LINE>
+//en donnant de l'effet au ballon<LINE>
+//grâce à une technique surprenante ! <END>
+
+//Nous avons réussi !<END>
+
+//Bien, les gars !<LINE>
+//Si nous continuons à marquer,<LINE>
+//nous gagnerons !<END>
+

@@ -1,0 +1,78 @@
+// FILE: EP0759.str containing 27 strings
+
+//Hyuga a été un peu plus rapide !<LINE>
+//Il dégage le ballon !<END>
+
+//Quoi ?!<END>
+
+//Tsubasa... Nous sommes amis, n'est-ce pas ?<END>
+
+//Ishizaki... Et vous autres...<LINE>
+//Mes amis...<END>
+
+//Tiens, Tsubasa !<END>
+
+//Ishizaki renvoie le ballon à Tsubasa !<END>
+
+//Le numéro onze de Nankatsu<LINE>
+//suivait Tsubasa !<LINE>
+//Ishizaki de Nankatsu passe le ballon<LINE>
+//à Tsubasa alors qu'il est toujours au sol !<END>
+
+//Une passe d'Ishizaki... De tout le monde...<END>
+
+//Ils sont là !<LINE>
+//Mes amis sont toujours derrière moi !<LINE>
+//Tout le monde est là pour moi !<LINE>
+//Je ne suis pas tout seul !<END>
+
+//Tsubasa ! À toi de jouer maintenant !<END>
+
+//Ohhhh ! Tsubasa s'est relevé !<END>
+
+//Mais le ballon vient de derrière lui !<LINE>
+//Tsubasa ne peut pas le voir...<END>
+
+//Bats-toi, Tsubasa !<END>
+
+//Mon dernier tir au Japon !<LINE>
+//Mon but d'adieu !<END>
+
+//Tsubasa met toute son énergie dans son tir.<END>
+
+//C'est un tir bas, pas un Drive shoot !<END>
+
+//Allez, Tsubasa !<LINE>
+//Je vais l'arrêter d'une main !<END>
+
+//Mais le ballon a de l'effet !<LINE>
+//Il a obliqué !<LINE>
+//Serait-ce... un Drive shoot ?<END>
+
+//Mais il tourne trop.<LINE>
+//Et il ne se dirige plus vers le but !<END>
+
+//Comment ?!<END>
+
+//Le ballon a obliqué vers le sol,<LINE>
+//et rebondit maintenant avec un backspin<LINE>
+//qui l'envoie directement dans le filet.<LINE>
+//C'est un but !<END>
+
+//C'est…c'est un tir littéralement <LINE>
+//miraculeux ! Tsubasa a effectué <LINE>
+//un Drive shoot pour réaliser <LINE>
+//un tir inédit !<END>
+
+//Un tir ! Il me faut juste un tir !<END>
+
+//Allez, Tsubasa ! Amène-toi !<END>
+
+//Mais le ballon n'est pas perdu !<LINE>
+//Ishizaki a repris le ballon<LINE>
+//envoyé par Hyuga !<END>
+
+//Oui ! J'ai réussi !<END>
+
+<END>
+

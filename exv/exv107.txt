@@ -1,0 +1,49 @@
+// FILE: exv107.str containing 16 strings
+
+//J'ai quelque chose pour toi !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Fonce, Takeshi !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Je ne te laisserai pas<LINE>
+//me barrer la route !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Tiger shot !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Voici mon vrai Tiger shot !<END>
+
+//Neo tiger shot !<END>
+
+//Tsubasa ! Allons-y !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Maintenant, Takeshi !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Tu ne me passeras pas !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+

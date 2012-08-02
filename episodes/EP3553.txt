@@ -1,0 +1,48 @@
+// FILE: EP3553.str containing 15 strings
+
+//Ce Sawada... Les combinaisons<LINE>
+//entre lui et Hyuga m'inquiètent…<LINE>
+//Je ne le laisserai pas passer !<END>
+
+//Matsuyama est engagé dans un duel<LINE>
+//avec Sawada ! <END>
+
+//Avec Matsuyama dans cette position,<LINE>
+//Huyga ne peut pas évoluer librement<LINE>
+//à l'avant !<LINE>
+//Je ferai tout ce que je peux<LINE>
+//pour lui passer le ballon !<END>
+
+//Quelle féroce mêlée !<LINE>
+//Ce combat entre les milieux de terrain<LINE>
+//pourrait bien être un moment décisif<LINE>
+//pour la suite du match.<END>
+
+//Incroyable, ce marquage !<LINE>
+//Je n'ai plus d'espace pour évoluer !<END>
+
+//Il faut absolument que je reprenne<LINE>
+//le ballon et fasse avancer les choses !<END>
+
+//C'est tout ou rien !<END>
+
+//Oh ! Sawada a essayé de forcer le blocus<LINE>
+//mais a perdu l'équilibre !<END>
+
+//Takeshi !<END>
+
+//C'est le moment ! Maintenant !<END>
+
+//Ici, Hyuga !<END>
+
+//Quoi ?<END>
+
+//Toujours déséquilibré, Sawada a fait<LINE>
+//une passe à Hyuga !<END>
+
+//Mais, il... utilise la même technique<LINE>
+//que Tsubasa... !<END>
+
+//Bien joué, Takeshi !<LINE>
+//OK, on marque maintenant !<END>
+

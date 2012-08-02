@@ -1,0 +1,80 @@
+// FILE: EP3500.str containing 30 strings
+
+//Qu'ils gagnent ou qu'ils perdent,<LINE>
+//c'est aujourd'hui le dernier jour.<LINE>
+//Nous partirons après la fin du match.<END>
+
+//...<END>
+
+//Fujisawa !<END>
+
+//?<END>
+
+//Ça va ?<END>
+
+//Ça va, Yoshiko ?<END>
+
+//Oui, ça va.<END>
+
+//Bien, dans ce cas préparez-nous de<LINE>
+//la boisson énergétique s'il vous plaît ?<END>
+
+//D'accord.<END>
+
+//Notre adversaire d'aujourd'hui<LINE>
+//est Toho Gakuen.<LINE>
+//Nous ne savons pas encore<LINE>
+//si Hyuga participera au match,<LINE>
+//mais même sans lui,<LINE>
+//ils sont capables de rivaliser<LINE>
+//ou même surpasser Nankatsu. <END>
+
+//Nous ne devons pas perdre de vue<LINE>
+//le joueur clé, Sawada !<LINE>
+//Ne le laissez pas toucher le ballon !<END>
+
+//OK ! Alors, bon courage !<END>
+
+//Oui !<END>
+
+//Euh... Matsuyama...<END>
+
+//Hein ?<END>
+
+//Et bien... Euh...<END>
+
+//Qu'est-ce qui ne va pas ?<END>
+
+//Oh... Rien.<END>
+
+//Vraiment ? <END>
+
+//Gagne le match…<LINE>
+//Fais ce qu'il faut pour ça.<END>
+
+//Ne t'inquiète pas.<LINE>
+//Je ramènerai le trophée national.<END>
+
+//?<END>
+
+//C'est lui... Hyuga !<END>
+
+//Ouais.<END>
+
+//J'ai une dette envers toi, je m'en<LINE>
+//acquitterai avec ce match !<END>
+
+//Comme tu veux. Toho joue pour gagner.<END>
+
+//Je ne comptais sur personne d'autre que<LINE>
+//Tsubasa pour me donner du fil à retordre !<END>
+
+//Quoi ?<END>
+
+//J'ai promis à Tsubasa que je ramènerai<LINE>
+//le trophée du vainqueur en son nom<LINE>
+//et celui de Nankatsu !<END>
+
+//C'est moi, au lieu de Tsubasa,<LINE>
+//qui te vaincrai .<END>
+

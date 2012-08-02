@@ -1,0 +1,51 @@
+// FILE: EP3455.str containing 17 strings
+
+//C'est le choc entre Matsuyama et Kisugi !<END>
+
+//Quoi ?<END>
+
+//Matsuyama gagne la bataille !<LINE>
+//Le ballon est en jeu ! <END>
+
+//Malheureusement pour Furano,<LINE>
+//le ballon est arrivé aux pieds<LINE>
+//de l'as de Nankatsu, Tsubasa ! <END>
+
+//Oui !<END>
+
+//Oh, non !<END>
+
+//Depuis que Matsuyama marque Kisugi, Tsubasa<LINE>
+//a le champ libre!<END>
+
+//Drive shoot !<END>
+
+//Tsubasa démarqué a tenté <LINE>
+//son Drive shoot !<END>
+
+//Argh !<END>
+
+//Matsuyama n'abandonne pas<LINE>
+//et se place sur la trajectoire du ballon<LINE>
+//encore dans les airs !<LINE>
+//Mais le tir de Tsubasa est trop puissant !<END>
+
+//Matsuyama est propulsé avec le ballon<LINE>
+//dans ses cages !<END>
+
+//Capitaine !<END>
+
+//Ah ! Plusieurs des joueurs de Furano<LINE>
+//qui se trouvaient à proximité<LINE>
+//se sont précipités derrière Matsuyama<LINE>
+//pour l'empêcher d'entrer dans les buts !<END>
+
+//Furano a réussi à protéger ses buts<LINE>
+//du Drive shoot de Tsubasa<LINE>
+//au prix d'un bel effort collectif !<END>
+
+//Merci !<END>
+
+//OK, les gars ! Dépêchons-nous !<LINE>
+//Il faut attaquer pour renverser le score !<END>
+

@@ -1,0 +1,30 @@
+// FILE: EP4201.str containing 7 strings
+
+//Votre style de jeu est un peu tendu,<LINE>
+//ce doit être parce que<LINE>
+//c'est votre premier match...<LINE>
+//Quoi qu'il en soit, vous n'avez<LINE>
+//rien à craindre de Matsukami,<LINE>
+//pas plus leur défense que leur attaque.<END>
+
+//En seconde mi-temps, je veux voir Honma,<LINE>
+//Sanada et Ichinosé attaquer !<END>
+
+//Les amis, oubliez la pression<LINE>
+//et contentez-vous de jouer<LINE>
+//votre football habituel.<END>
+
+//Montrez à tout le pays le niveau<LINE>
+//du football de Musashi !<END>
+
+//Oui !<END>
+
+//Peut-être est-ce la pression du premier<LINE>
+//match, mais je les sens un peu nerveux...<LINE>
+//Vont-ils réussir à se ressaisir ?<END>
+
+//Les instructions qu'ils ont reçues<LINE>
+//pendant la pause vont-elles modifier<LINE>
+//leur style de jeu ?<LINE>
+//La seconde mi-temps commence.<END>
+

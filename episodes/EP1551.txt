@@ -1,0 +1,31 @@
+// FILE: EP1551.str containing 12 strings
+
+//Je vais tirer !<END>
+
+//!!!<END>
+
+//Oh ! Nitta ne tire pas, il passe la balle<LINE>
+//sur le côté !<END>
+
+//Nitta !<END>
+
+//Il fait la passe à Hyuga !<END>
+
+//À moi de jouer !<END>
+
+//Et voilà le Tiger shot !<END>
+
+//Quoi ?!<END>
+
+//Le gardien allemand, Dieter Muller,<LINE>
+//effectue un arrêt impeccable !<END>
+
+//Il a arrêté le puissant Tiger shot de Hyuga<LINE>
+//sans sourciller !<END>
+
+//Comment est-ce...<END>
+
+//J'en attendais pas moins de Muller,<LINE>
+//mais ce n'est qu'en persévérant ainsi<LINE>
+//qu'on finira par gagner !<END>
+

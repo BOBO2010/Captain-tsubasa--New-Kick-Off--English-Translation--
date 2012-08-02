@@ -1,0 +1,45 @@
+// FILE: EP0656.str containing 16 strings
+
+//Allez !<END>
+
+//Tsubasa...<LINE>
+//Tu n'abandonnes donc jamais ?<END>
+
+//Tsubasa se prépare à tirer !<END>
+
+//Drive shoot ! Fend les airs !<END>
+
+//Le long tir de Tsubasa est incroyable !<END>
+
+//Matsuyama plonge pour l'arrêter<LINE>
+//mais ce tir semble imparable !<END>
+
+//Tel le phénix...<END>
+
+//Le ballon a changé de trajectoire<LINE>
+//pour s'abattre dans les buts !<END>
+
+//Le gardien ne pourra jamais réagir à temps.<LINE>
+//Est-ce qu'il y a but ?<END>
+
+//Non ! Le Drive shoot de Tsubasa<LINE>
+//s'est écrasé sur le poteau !<LINE>
+//Il n'y a pas but.<END>
+
+//Quoi ?!<END>
+
+//Le ballon a rebondi sur le poteau<LINE>
+//et se retrouve à présent sur le terrain.<END>
+
+//D'ordinaire, la balle aurait rebondi<LINE>
+//dans la direction opposée…<LINE>
+//Mais elle a conservé la puissance du tir !<END>
+
+//La voilà qui termine<LINE>
+//finalement dans les buts !<END>
+
+//Et c'est le but...<END>
+
+//Tel le phénix, le ballon de Tsubasa<LINE>
+//ne meurt jamais !<END>
+

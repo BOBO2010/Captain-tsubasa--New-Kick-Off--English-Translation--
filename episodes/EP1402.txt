@@ -1,0 +1,21 @@
+// FILE: EP1402.str containing 7 strings
+
+//Vous avez bien joué.<END>
+
+//Donnez tout ce que vous avez dans le ventre<LINE>
+//dans ces dix dernières minutes !<END>
+
+//Jouez et imposez votre football<LINE>
+//jusqu'à la fin !<END>
+
+//Oui !<END>
+
+//Ne pense pas à demain.<LINE>
+//Donnez-vous à fond aujourd'hui<LINE>
+//pour vaincre le Japon !<END>
+
+//On ne doit pas se retenir !<END>
+
+//On va donner notre maximum pour les vaincre<LINE>
+//et remporter cette demi-finale !<END>
+

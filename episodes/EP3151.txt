@@ -1,0 +1,30 @@
+// FILE: EP3151.str containing 8 strings
+
+//Vas-y Oda !<LINE>
+//Il faut marquer un maximum de buts !<END>
+
+//Une fois encore, une attaque rapide<LINE>
+//débute par une passe spectaculaire !<END>
+
+//Il n'y a rien à redire<LINE>
+//sur le magnifique jeu collectif de Furano !<END>
+
+//Bien entendu, la qualité du jeu repose<LINE>
+//essentiellement sur le fait<LINE>
+//que la plupart des joueurs de l'équipe<LINE>
+//évoluent ensemble depuis l'école primaire.<END>
+
+//Pour ce qui est donc du jeu collectif<LINE>
+//et de l'esprit d'équipe,<LINE>
+//Furano est sans doute<LINE>
+//la meilleure équipe du pays !<END>
+
+//Vas-y, tire !<END>
+
+//Oui !<END>
+
+//But !<LINE>
+//Furano fait vraiment souffler<LINE>
+//la tourmente sur Hokkaido !<LINE>
+//Ils ont déjà gagné le match ! <END>
+

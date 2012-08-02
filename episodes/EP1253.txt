@@ -1,0 +1,79 @@
+// FILE: EP1253.str containing 28 strings
+
+//Ah ! Misaki s'est fait crocheter le pied<LINE>
+//par un défenseur. Il perd l'équilibre !<END>
+
+//Et voilà qu'Hernandez s'élance<LINE>
+//sur le ballon.<END>
+
+//Misaki.<END>
+
+//Tsubasa.<END>
+
+//Misaki va sûrement me faire la passe !<END>
+
+//Tsubasa, à toi !<END>
+
+//Oh ! Passe de Misaki ! C'était sans doute<LINE>
+//parce qu'il sentait Hernandez trop proche<LINE>
+//pour tirer, et étant déséquilibré,<LINE>
+//il a préféré passer le ballon à Tsubasa !<END>
+
+//Tsubasa est dans les airs !<END>
+
+//Et réceptionne parfaitement la passe de<LINE>
+//Misaki ! C'est tout simplement incroyable !<LINE>
+//On voit bien là que ces deux joueurs<LINE>
+//se connaissent parfaitement<LINE>
+//l'un et l'autre !<END>
+
+//Et voici la Bicyclette retournée<LINE>
+//de Tsubasa !<END>
+
+//Mais Hernandez revient à une vitesse<LINE>
+//impressionnante ! Il est presque<LINE>
+//nez à nez avec Tsubasa !<END>
+
+//Je vais arrêter ce tir !<END>
+
+//Misaki !<END>
+
+//Hein !<END>
+
+//Formidable ! Tsubasa fait une passe<LINE>
+//en plein retourné !<END>
+
+//Tsubasa !<END>
+
+//Misaki court récupérer le ballon !<LINE>
+//Hernandez est pris à contre-pied !<END>
+
+//Je vais marquer !<END>
+
+//Misaki effectue une tête plongeante<LINE>
+//dans les cages vides !<END>
+
+//Nooooon ! Ce n'est pas fini !<LINE>
+//Hernandez ne s'avoue pas vaincu !<LINE>
+//Il plonge dans la direction de Misaki !<END>
+
+//Je ne vais pas te laisser marquer !<END>
+
+//Tsubasa !<END>
+
+//Qu-quoi ?<END>
+
+//Mon Dieu !<LINE>
+//Misaki a renvoyé le ballon à Tsubasa !<END>
+
+//Tsubasa effectue une superbe tête<LINE>
+//plongeante et marque !<END>
+
+//La paire en or, l'incroyable jeu d'équipe<LINE>
+//de Tsubasa et Misaki,<LINE>
+//est de classe mondiale !<END>
+
+//Belle passe, Misaki !<END>
+
+//Beau tir, Tsubasa !<END>
+

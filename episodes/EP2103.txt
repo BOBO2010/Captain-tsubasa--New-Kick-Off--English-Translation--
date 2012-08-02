@@ -1,0 +1,68 @@
+// FILE: EP2103.str containing 22 strings
+
+//Oh ! L'arbitre vient de siffler<LINE>
+//la fin du match. Toho Gakuen se qualifie<LINE>
+//pour le championnat national<LINE>
+//pour la troisième année consécutive !<END>
+
+//Nous avons gagné !<END>
+
+//Ouais !<END>
+
+//Le championnat national.<LINE>
+//On s'y verra, Tsubasa !<END>
+
+//On y était presque, Misugi.<END>
+
+//Oui...<END>
+
+//En trois ans, je n'ai pas affronté<LINE>
+//Tsubasa une seule fois.<END>
+
+//Très bien !<END>
+
+//Hein ?<END>
+
+//Entraîneur Kira !<END>
+
+//Kojiro, tu t'es ramolli<LINE>
+//depuis la dernière fois que je t'ai vu !<END>
+
+//Quoi ?<END>
+
+//On dirait un tigre en cage !<END>
+
+//Un tigre en cage ?<END>
+
+//Oui. Toute ton attention était tournée<LINE>
+//vers Misugi, même lorsque<LINE>
+//tu étais sur le terrain.<END>
+
+//Je ne me souviens pas t'avoir appris<LINE>
+//à jouer comme ça.<END>
+
+//Kojiro ! Avant d'entrer sur le terrain,<LINE>
+//tu dois laisser tes sentiments<LINE>
+//aux vestiaires. Tu dois garder<LINE>
+//la tête froide !<END>
+
+//Si tu ne changes pas d'attitude,<LINE>
+//Takeshi, Wakashimazu et les autres<LINE>
+//qui te vénèrent et t'ont suivi à Toho,<LINE>
+//te laisseront tomber.<END>
+
+//Tsubasa Ozora s'entraîne<LINE>
+//sans relâche pour réaliser son rêve.<LINE>
+//Tu risques de passer à côté <LINE>
+//de la chance de ta vie.<END>
+
+//Je travaille comme entraîneur<LINE>
+//dans une école de football d'Okinawa.<END>
+
+//Si tu ne veux pas passer une troisième<LINE>
+//année, voire une quatrième si tu comptes<LINE>
+//l'école primaire, à perdre du terrain<LINE>
+//face à Tsubasa, viens me voir.<END>
+
+//...<END>
+

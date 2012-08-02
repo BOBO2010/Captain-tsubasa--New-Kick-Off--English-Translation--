@@ -1,0 +1,42 @@
+// FILE: EP0550.str containing 14 strings
+
+//OK, il est temps de vous révéler<LINE>
+//la véritable puissance de Hirado !<END>
+
+//Hmm... Ils cachent quelque chose.<END>
+
+//C'est parti !<END>
+
+//Morisaki ! Attention, il va tirer !<END>
+
+//Hein ?<END>
+
+//Quoi ? Jito a tiré du milieu du terrain<LINE>
+//sans réfléchir !<END>
+
+//Son tir est très puissant !<LINE>
+//Le ballon file tout droit<LINE>
+//vers les buts de Nankatsu.<END>
+
+//Mais Morisaki, le gardien de Nankatsu,<LINE>
+//a vu venir ce tir, et se prépare<LINE>
+//à l'arrêter.<LINE>
+//Je crois qu'il va l'avoir.<END>
+
+//OK, je l'ai.<END>
+
+//... Quoi ?<END>
+
+//Hein ? Sano a sauté du côté du but<LINE>
+//et a dévié la trajectoire du ballon !<END>
+
+//Il est rentré ! C'est un but !<END>
+
+//Ah ah ah ! Vous avez vu ça ?<LINE>
+//On peut modifier la trajectoire du ballon<LINE>
+//juste devant le but !<LINE>
+//C'est notre combinaison de jeu !<END>
+
+//Les champions de Nankatsu se sont laissés<LINE>
+//berner par une technique toute simple !<END>
+

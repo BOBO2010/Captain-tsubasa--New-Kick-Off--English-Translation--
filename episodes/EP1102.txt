@@ -1,0 +1,60 @@
+// FILE: EP1102.str containing 21 strings
+
+//Tu te défiles.<END>
+
+//Quoi ! Qu'est-ce que tu viens de dire ?<END>
+
+//Je pensais que tu voulais tirer<LINE>
+//hors de la surface de réparation.<END>
+
+//Tu savais que vous n'aviez plus<LINE>
+//aucune chance de gagner, mais tu voulais<LINE>
+//tout simplement marquer un but.<LINE>
+//Hein, Hyuga ?<END>
+
+//Comment ?!<END>
+
+//Peu importe... Considère ce but<LINE>
+//comme un cadeau. Il ne faut pas non plus<LINE>
+//que vous soyez venus du Japon pour rien.<END>
+
+//Hyuga, capitaine des All Japan Jr. Youth<LINE>
+//Team...<END>
+
+//Avec un capitaine aussi pathétique et<LINE>
+//une équipe qui n'en vaut pas plus...<END>
+
+//Je ne pense pas que vous allez gagner<LINE>
+//un seul de vos matchs<LINE>
+//pendant cette tournée !<END>
+
+//Espèce de... !<END>
+
+//Tu es allé trop loin !<END>
+
+//Je vois. Tu ne peux pas me battre<LINE>
+//à la loyale, alors tu veux en venir<LINE>
+//aux poings ? Comme tu veux,<LINE>
+//je suis à ta disposition !<END>
+
+//Espèce de...<END>
+
+//Espèce d'imbécile !<END>
+
+//Hyuga !<LINE>
+//Wakabayashi !<END>
+
+//Matsuyama...<LINE>
+//Voici le brassard de capitaine.<END>
+
+//Hyuga...<END>
+
+//Hyuga.<END>
+
+//C'est...<END>
+
+//C'est ce que vous vouliez, M. Mikami ?<END>
+
+//Comment est-ce que l'équipe va gérer<LINE>
+//tout ça ?<END>
+

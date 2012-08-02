@@ -1,0 +1,61 @@
+// FILE: EP0202.str containing 18 strings
+
+//Pour la troisième année consécutive,<LINE>
+//la préfecture de Shizuoka est représentée<LINE>
+//par Nankatsu Junior High !<END>
+
+//C'est l'occasion de discuter avec Tsubasa,<LINE>
+//leur capitaine.<END>
+
+//Vous allez bientôt participer<LINE>
+//au tournoi national.<LINE>
+//Dites-moi, contre qui avez-vous<LINE>
+//le plus envie de jouer ?<END>
+
+//Le joueur que j'ai le plus envie<LINE>
+//d'affronter, c'est sans doute...<END>
+
+//Taro Misaki.<END>
+
+//Misaki ? Le garçon qui jouait<LINE>
+//avec vous à l'école primaire ?<END>
+
+//Oui, tout à fait.<END>
+
+//Les rumeurs racontent que sa blessure<LINE>
+//à la jambe ne lui permettra plus jamais<LINE>
+//de jouer au football.<END>
+
+//Non, ce n'est pas le genre de Misaki.<LINE>
+//Il trouvera toujours un moyen de jouer,<LINE>
+//j'en suis sûr.<END>
+
+//Nous avons perdu. Comme promis,<LINE>
+//nous ferons tout ce que vous voudrez<LINE>
+//pendant une journée.<END>
+
+//Ne t'en fais pas pour ça, Urabé.<LINE>
+//Laisse tomber.<END>
+
+//Hé, Ishizaki !<LINE>
+//Nous avions juré sur notre honneur !<LINE>
+//On ne peut pas tirer un trait là-dessus !<END>
+
+//D'accord.<LINE>
+//Dans ce cas vous nous soutiendrez<LINE>
+//pendant le tournoi national.<LINE>
+//Ça fera l'affaire.<END>
+
+//Hein ? Vous ne demandez rien d'autre ?<END>
+
+//OK, on va le faire.<LINE>
+//Vous aurez tout notre soutien.<LINE>
+//Mais en échange, promettez-nous de gagner !<LINE>
+//Vous représentez la préfecture de Shizuoka.<END>
+
+//B-bien sûr.<END>
+
+//Je t'interdis de perdre, Tsubasa.<END>
+
+//Nous allons gagner !<END>
+

@@ -1,0 +1,106 @@
+// FILE: EP1557.str containing 39 strings
+
+//Tsubasa s'apprête à tirer !<END>
+
+//Mais l'avant-centre Schneider<LINE>
+//est déjà revenu !<END>
+
+//Il a dû réaliser ce qui se passait<LINE>
+//et est revenu en défense !<END>
+
+//Tsubasa va pour la frappe !<LINE>
+//C'est un duel entre les deux capitaines !<END>
+
+//Aucun des deux joueurs ne semble vouloir<LINE>
+//lâcher prise !<END>
+
+//On peut réaliser l'intensité du choc<LINE>
+//entre ces deux joueurs quand on voit<LINE>
+//à quelle vitesse tourne le ballon !<END>
+
+//Oh, mais Kaltz vient par-derrière<LINE>
+//et s'empare de la balle !<END>
+
+//Hein ?<END>
+
+//Mais il en perd le contrôle<LINE>
+//à cause de son effet !<END>
+
+//Le ballon est mon ami !<END>
+
+//Tsubasa récupère le ballon.<LINE>
+//Celui-ci lui colle littéralement au pied !<END>
+
+//Regarde, Roberto ! Je vais marquer !<END>
+
+//Non !<END>
+
+//Tsubasa s'apprête à tirer !<END>
+
+//Aaah !<END>
+
+//Quoi qu'il arrive <LINE>
+//je ne te laisserai pas marquer !<END>
+
+//Argh ! Mon pied... Je me suis sans doute<LINE>
+//blessé pendant le choc avec Schneider<LINE>
+//tout à l'heure !<END>
+
+//Mon tir risque de ne pas être<LINE>
+//assez puissant...<END>
+
+//Muller sort de ses cages ! Mais pourquoi<LINE>
+//Tsubasa ne tire pas ?<END>
+
+//Oh ! Tsubasa va finalement tirer !<END>
+
+//Quoi ?!<END>
+
+//Attendez, ce n'est pas un tir !<END>
+
+//Le ballon est comme collé au pied.<LINE>
+//Il fait une rotation arrière,<LINE>
+//puis passe la balle en retrait !<LINE>
+//C'est impressionnant !<END>
+
+//À toi de jouer, Hyuga !<END>
+
+//L'avant-centre vedette du Japon,<LINE>
+//Kojiro Hyuga, est à la réception !<END>
+
+//Vous allez voir !<END>
+
+//Je ne peux pas gâcher cette occasion !<LINE>
+//Je vais frapper un Neo tiger shot !<END>
+
+//Je vais tirer de toutes mes forces !<END>
+
+//Je ne vais pas te laisser marquer !<END>
+
+//Schneider, tu ferais mieux<LINE>
+//de ne pas te mettre sur mon passage,<LINE>
+//sinon tu vas te faire mal !<END>
+
+//Ah... mon pied...<END>
+
+//Neo tiger shot !<END>
+
+//La frappe de Hyuga passe à travers<LINE>
+//la défense de Schneider !<END>
+
+//Aaaah !<END>
+
+//Buuuuuuuuuuuuuut !<END>
+
+//Mueller était sur le point d'arrêter<LINE>
+//le ballon, mais il n'a pas pu le retenir<LINE>
+//très longtemps ! Le Neo tiger shot de Hyuga<LINE>
+//va droit dans le but !<END>
+
+//Super tir, Hyuga !<END>
+
+//J'ai réussi !<END>
+
+//C'est pour des moments comme ceux-là<LINE>
+//que je suis sur le terrain !<END>
+

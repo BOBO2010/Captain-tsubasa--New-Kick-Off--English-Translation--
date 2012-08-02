@@ -1,0 +1,80 @@
+// FILE: EP2560.str containing 28 strings
+
+//Tiens !<END>
+
+//Oh ! Sorimachi ne tire pas !<LINE>
+//Il passe le ballon à Hyuga !<END>
+
+//Tire, capitaine !<END>
+
+//Ouais ! De retour parmi nous, capitaine !<END>
+
+//Le but de la victoire...<LINE>
+//Le but du championnat !<LINE>
+//À toi de le marquer pour Toho, Hyuga !<END>
+
+//Les gars !<END>
+
+//Hyuga réceptionne la passe.<LINE>
+//Il est seul face au gardien de Nankatsu !<LINE>
+//Et voici le Tiger shot de Hyuga !<END>
+
+//C'est parti, les gars !<END>
+
+//Oh, mais voici qu'un autre joueur charge<LINE>
+//sur le côté !<END>
+
+//C'est Tsubasa Ozora de Nankatsu !<END>
+
+//Tsubasa !<END>
+
+//Mais Hyuga ne change rien à ses habitudes<LINE>
+//et tire !<LINE>
+//Place au Tiger shot !<END>
+
+//Quoi ?!<END>
+
+//Il s'arrête !<LINE>
+//Hyuga ne tire pas !<END>
+
+//Je n'ai pas stoppé mon action à cause<LINE>
+//de l'état de santé de Tsubasa !<END>
+
+//Je veux seulement que toutes les passes<LINE>
+//de mon équipe se concluent par un vrai but<LINE>
+//de leur capitaine !<END>
+
+//C'est pourquoi je me suis arrêté !<END>
+
+//Ragh ! Ce n'est pas fini !<END>
+
+//Ouah ! Et Ishizaki plonge<LINE>
+//devant le Tiger shot de Hyuga !<END>
+
+//Ishizaki va-t-il nous faire<LINE>
+//son célèbre Blocage de face ?<END>
+
+//Quoi ?!<END>
+
+//Bon sang ! Hyuga ne tire toujours pas !<END>
+
+//Ishizaki, je savais que tu allais<LINE>
+//intervenir !<END>
+
+//Et maintenant...<LINE>
+//Il n'y a plus personne pour défendre<LINE>
+//les buts de Nankatsu !<END>
+
+//Et voici le Tiger shot !<LINE>
+//But !<LINE>
+//Hyuga avait anticipé les moindres gestes<LINE>
+//de Nankatsu !<END>
+
+//Toho Gakuen mène Nankatsu d'un but.<LINE>
+//L'équipe se rapproche de la victoire !<END>
+
+//Hyuga !<END>
+
+//J'ai réussi, les gars !<LINE>
+//Vos passes m'ont permis de marquer !<END>
+

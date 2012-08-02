@@ -1,0 +1,113 @@
+// FILE: bvb303.str containing 54 strings
+
+//Fonce !<END>
+
+//Prépare-toi !<END>
+
+//Voilà !<END>
+
+//Tiens !<END>
+
+//C'est parti !<END>
+
+//Fonce !<END>
+
+//Laisse-moi passer !<END>
+
+//Prépare-toi !<END>
+
+//Amène-toi !<END>
+
+//Je ne laisserai pas passer ça !<END>
+
+//Tu ne me passeras pas !<END>
+
+//Admire le spectacle !<END>
+
+//Je l'ai !<END>
+
+//Admire le spectacle !<END>
+
+//Je dois l'avoir !<END>
+
+//Prépare-toi !<END>
+
+//Je vais te le prendre !<END>
+
+//Ah !<END>
+
+//Amène-toi !<END>
+
+//Je l'ai !<END>
+
+//Je vais arrêter ça !<END>
+
+//Oui !<END>
+
+//Cool !<END>
+
+//Qu'est-ce que tu dis de ça ?<END>
+
+//Oh...<END>
+
+//!!!<END>
+
+//Non !<END>
+
+//Fonce !<END>
+
+//C'est ça !<END>
+
+//Ici !<END>
+
+//Tu dois marquer !<END>
+
+//Je te laisse faire !<END>
+
+//Je dois l'avoir !<END>
+
+//Laisse-moi passer !<END>
+
+//Oui !<END>
+
+//Tu ne l'auras pas !<END>
+
+//Je ne laisserai pas passer ça !<END>
+
+//Je ne laisserai pas ça<LINE>
+//arriver !<END>
+
+//je dois l'arrêter !<END>
+
+//Je ne laisserai pas ça<LINE>
+//arriver !<END>
+
+//Tu ne l'auras pas !<END>
+
+//je dois l'arrêter !<END>
+
+//Tu t'arrêtes là !<END>
+
+//Tu n'iras pas plus loin !<END>
+
+//Ah !<END>
+
+//je dois l'arrêter !<END>
+
+//Je ne peux pas le laisser<LINE>
+//entrer !<END>
+
+//Je dois  y arriver à temps !<END>
+
+//Oui !<END>
+
+//J'ai réussi !<END>
+
+//Ah !<END>
+
+//Impossible !<END>
+
+//Quoi !<END>
+
+//Quoi ? C'est pas vrai...<END>
+

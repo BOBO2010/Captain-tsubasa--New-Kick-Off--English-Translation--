@@ -1,0 +1,19 @@
+// FILE: exv340.str containing 6 strings
+
+//C'est tout ?<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Tu penses pouvoir me marquer<LINE>
+//un but avec ça ?<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Ici !<END>
+
+//Ah !<END>
+

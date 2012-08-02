@@ -1,0 +1,42 @@
+// FILE: EP2556.str containing 15 strings
+
+//Oh ! Hyuga s'apprête déjà à tirer !<END>
+
+//Il prévoit un autre Tiger shot<LINE>
+//directement dans la cage de but !<END>
+
+//Prenez ça ! Un autre but pour nous !<END>
+
+//Le Tiger shot fonce comme une flèche !<LINE>
+//Avis à ceux qui se trouvent devant Hyuga,<LINE>
+//vous n'allez pas être épargnés !<END>
+
+//Vas-y ! Tiger shot !<END>
+
+//Drive shoot !<END>
+
+//Incroyable ! Tsubasa se positionne<LINE>
+//devant Hyuga et renvoie le ballon !<END>
+
+//Quoi ?<END>
+
+//Buuuuut ! Buuuuut !<LINE>
+//Le gardien de but, Wakashimazu,<LINE>
+//n'a pas eu le temps de réagir<LINE>
+//face au Drive shoot de Tsubasa !<END>
+
+//...<END>
+
+//C'est... impossible !<END>
+
+//Seul Tsubasa sait faire ça...<LINE>
+//Et je suis incapable de lui faire face !<END>
+
+//Courage, les gars !<END>
+
+//Le match... le match n'est pas terminé !<LINE>
+//Nous allons battre Nankatsu !<LINE>
+//Et remporter notre premier championnat !<END>
+
+//Oui !<END>
+

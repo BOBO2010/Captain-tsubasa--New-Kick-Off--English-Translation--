@@ -1,0 +1,3473 @@
+// FILE: ui_txt.str containing 1343 strings
+
+//Morisaki<END>
+
+//Nakazato<END>
+
+//Nagano<END>
+
+//Oda<END>
+
+//Iwami<END>
+
+//Takasugi<END>
+
+//Taki<END>
+
+//Izawa<END>
+
+//Kisugi<END>
+
+//Tsubasa<END>
+
+//Ishizaki<END>
+
+//Okawa<END>
+
+//Yamamori<END>
+
+//Misaki<END>
+
+//Shimizu<END>
+
+//Yamazaki<END>
+
+//Ikéda<END>
+
+//Nakajima<END>
+
+//Fuji<END>
+
+//Kaneko<END>
+
+//Miyamoto<END>
+
+//Muraida<END>
+
+//Masuda<END>
+
+//Okada<END>
+
+//Sugano<END>
+
+//Noguchi<END>
+
+//Sakurai<END>
+
+//Kikuda<END>
+
+//Ichijo<END>
+
+//Yoshikawa<END>
+
+//Nishio<END>
+
+//Nakayama<END>
+
+//Kawada<END>
+
+//Hiraoka<END>
+
+//Tadami<END>
+
+//Nakao<END>
+
+//Nitta<END>
+
+//Urabé<END>
+
+//Kishida<END>
+
+//Soda<END>
+
+//Yamada<END>
+
+//Tsuji<END>
+
+//Sasaki<END>
+
+//Hayashi<END>
+
+//Yoshida<END>
+
+//Kuramochi<END>
+
+//Nakai<END>
+
+//Idé<END>
+
+//Mitsuhashi<END>
+
+//Onodéra<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//Masao<END>
+
+//Kazuo<END>
+
+//Yoshikura<END>
+
+//Kada<END>
+
+//Takéda<END>
+
+//Nakamura<END>
+
+//Murasawa<END>
+
+//Aimoto<END>
+
+//Shioda<END>
+
+//Tamai<END>
+
+//Ono<END>
+
+//Daimaru<END>
+
+//Jito<END>
+
+//Sano<END>
+
+//Hatakéyama<END>
+
+//Akizawa<END>
+
+//Noda<END>
+
+//Soda<END>
+
+//Takéno<END>
+
+//Nagaoka<END>
+
+//Morisué<END>
+
+//Nakagi<END>
+
+//Himéji<END>
+
+//Oda<END>
+
+//Matsuyama<END>
+
+//Kato<END>
+
+//Kondo<END>
+
+//Matsuda<END>
+
+//Sasé<END>
+
+//Honda<END>
+
+//Wakamatsu<END>
+
+//Kanéda<END>
+
+//Nakagawa<END>
+
+//Yamamuro<END>
+
+//Wakashimazu<END>
+
+//Furuta<END>
+
+//Takashima<END>
+
+//Koïké<END>
+
+//Imai<END>
+
+//Kawabé<END>
+
+//Matsuki<END>
+
+//Shimano<END>
+
+//Sorimachi<END>
+
+//Hyuga<END>
+
+//Sawada<END>
+
+//Higashi<END>
+
+//Moriyama<END>
+
+//Mukai<END>
+
+//Kido<END>
+
+//Sano<END>
+
+//Suzuki<END>
+
+//Yoshida<END>
+
+//Takizawa<END>
+
+//Inoué<END>
+
+//Misugi<END>
+
+//Nishiyama<END>
+
+//Ichinosé<END>
+
+//Honma<END>
+
+//Sanada<END>
+
+//Seki<END>
+
+//Date<END>
+
+//Kawai<END>
+
+//Moriya<END>
+
+//Takeuchi<END>
+
+//Arita<END>
+
+//Hamaguchi<END>
+
+//Tanioka<END>
+
+//Kakimoto<END>
+
+//Takida<END>
+
+//Iino<END>
+
+//Kan<END>
+
+//Takahashi<END>
+
+//Omori<END>
+
+//Kiyosaki<END>
+
+//Murata<END>
+
+//Mizuno<END>
+
+//Iwamoto<END>
+
+//Makabe<END>
+
+//Miyasaka<END>
+
+//Ito<END>
+
+//Sakuraba<END>
+
+//Akashi<END>
+
+//Suzukawa<END>
+
+//Sawaki<END>
+
+//Hori<END>
+
+//Suénaga<END>
+
+//Narita<END>
+
+//Enomoto<END>
+
+//Sakamoto<END>
+
+//Takagi<END>
+
+//Ishii<END>
+
+//Nagano<END>
+
+//Kawagoé<END>
+
+//Murasawa<END>
+
+//Iguchi<END>
+
+//Fukayama<END>
+
+//Shibata<END>
+
+//Tokunaga<END>
+
+//Nagano<END>
+
+//Hamazaki<END>
+
+//Kashiwagi<END>
+
+//Tsujimoto<END>
+
+//Takeda<END>
+
+//Hosoya<END>
+
+//Uemura<END>
+
+//Kamada<END>
+
+//Yoshinaga<END>
+
+//Matsumoto<END>
+
+//Shimakawa<END>
+
+//Fukamizu<END>
+
+//Kadota<END>
+
+//Yamazato<END>
+
+//Katsumura<END>
+
+//Ishibe<END>
+
+//Urushibata<END>
+
+//Shimomoto<END>
+
+//Hayashibara<END>
+
+//Goto<END>
+
+//Itaniwa<END>
+
+//Takéi<END>
+
+//Ishida<END>
+
+//Tobe<END>
+
+//Kakimoto<END>
+
+//Yagi<END>
+
+//Nishihama<END>
+
+//Mikami<END>
+
+//Kusakawa<END>
+
+//Arai<END>
+
+//Kubo<END>
+
+//Iyo<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//Nakanishi<END>
+
+//Ikuno<END>
+
+//Nishinari<END>
+
+//Sumiyoshi<END>
+
+//Tsurumi<END>
+
+//Taisho<END>
+
+//Fukushima<END>
+
+//Minato<END>
+
+//Konohana<END>
+
+//Suminoe<END>
+
+//Asahi<END>
+
+//Abeno<END>
+
+//Yodogawa<END>
+
+//Joto<END>
+
+//Shinki<END>
+
+//Kasama<END>
+
+//Saito<END>
+
+//Kamishiro<END>
+
+//Shiga<END>
+
+//Aoi<END>
+
+//Hamada<END>
+
+//Sugiyama<END>
+
+//Shizukawa<END>
+
+//Harada<END>
+
+//Iwashita<END>
+
+//Kijima<END>
+
+//Akasaka<END>
+
+//Tokita<END>
+
+//Lintz<END>
+
+//Gongers<END>
+
+//Hans<END>
+
+//Mayer<END>
+
+//Kaltz<END>
+
+//Inmel<END>
+
+//Briegel<END>
+
+//Schneider<END>
+
+//Klaus<END>
+
+//Jaller<END>
+
+//Wakabayashi<END>
+
+//Richard<END>
+
+//Robson<END>
+
+//Frank<END>
+
+//Tom<END>
+
+//Sam<END>
+
+//Jonathan<END>
+
+//David<END>
+
+//Steve<END>
+
+//Dean<END>
+
+//Joe<END>
+
+//Light<END>
+
+//Kevin<END>
+
+//Henry<END>
+
+//Chris<END>
+
+//Gonzalez<END>
+
+//Daniel<END>
+
+//Rodrigo<END>
+
+//Miguel<END>
+
+//Leonardo<END>
+
+//Joaquin<END>
+
+//Raul<END>
+
+//Cain<END>
+
+//Victorino<END>
+
+//Junior<END>
+
+//Renato<END>
+
+//Victor<END>
+
+//Juninho<END>
+
+//Denilson<END>
+
+//Gino<END>
+
+//Tardelli<END>
+
+//Marinho<END>
+
+//Federico<END>
+
+//Francesco<END>
+
+//Gentile<END>
+
+//Conti<END>
+
+//Mateo<END>
+
+//Golbate<END>
+
+//Torino<END>
+
+//Andrea<END>
+
+//Diaz<END>
+
+//Pascual<END>
+
+//Galtoni<END>
+
+//Senbero<END>
+
+//Pasaro<END>
+
+//Gareya<END>
+
+//Garban<END>
+
+//Rugeri<END>
+
+//Jeites<END>
+
+//Pals<END>
+
+//Brown<END>
+
+//Napoléon<END>
+
+//Pierre<END>
+
+//Amoro<END>
+
+//De Gaulle<END>
+
+//Bravo<END>
+
+//Rust<END>
+
+//Bergerus<END>
+
+//Ferreri<END>
+
+//Georges<END>
+
+//Marcel<END>
+
+//Bossis<END>
+
+//Margas<END>
+
+//Schneider<END>
+
+//Schester<END>
+
+//Kaltz<END>
+
+//Dieter<END>
+
+//Hardwig<END>
+
+//Mayer<END>
+
+//Max<END>
+
+//Magathu<END>
+
+//Mireus<END>
+
+//Hein<END>
+
+//Kitano<END>
+
+//Tazaka<END>
+
+//Imaoka<END>
+
+//Itahara<END>
+
+//Otsuka<END>
+
+//Sasaoka<END>
+
+//Nakazaki<END>
+
+//Nagao<END>
+
+//Hojo<END>
+
+//Eshima<END>
+
+//Kanda<END>
+
+//Nose<END>
+
+//Torii<END>
+
+//Mazawa<END>
+
+//Iwazaki<END>
+
+//Yamane<END>
+
+//Kitamoto<END>
+
+//Higo<END>
+
+//Sakuragi<END>
+
+//Nakatsu<END>
+
+//Bando<END>
+
+//Matsudaira<END>
+
+//Masaoka<END>
+
+//Nomoto<END>
+
+//Minami<END>
+
+//Kohinata<END>
+
+//Furuhata<END>
+
+//Kosakai<END>
+
+//Tsukada<END>
+
+//Inamoto<END>
+
+//Hatano<END>
+
+//Toyama<END>
+
+//Kuramoto<END>
+
+//Tani<END>
+
+//Obata<END>
+
+//Baba<END>
+
+//Funaki<END>
+
+//Kuribayashi<END>
+
+//Usami<END>
+
+//Iizumi<END>
+
+//Tomochika<END>
+
+//Ichinomiya<END>
+
+//Ishimoto<END>
+
+//Nozaka<END>
+
+//Amemiya<END>
+
+//Tojima<END>
+
+//Maekawa<END>
+
+//Morizawa<END>
+
+//Kohatsu<END>
+
+//Nishihara<END>
+
+//Senzu<END>
+
+//Hashida<END>
+
+//Horibe<END>
+
+//Sada<END>
+
+//Jikumaru<END>
+
+//Sudo<END>
+
+//Momoi<END>
+
+//Otaki<END>
+
+//Kojima<END>
+
+//Abe<END>
+
+//Kobayashi<END>
+
+//Sato<END>
+
+//Arai<END>
+
+//Daigo<END>
+
+//Yamamoto<END>
+
+//Ogura<END>
+
+//Chiba<END>
+
+//Ikehata<END>
+
+//Fukushi<END>
+
+//Asano<END>
+
+//Roberto<END>
+
+//Basarero<END>
+
+//DUMMY_F<END>
+
+//Attaque<END>
+
+//Défense<END>
+
+//Force<END>
+
+//Physique<END>
+
+//Vitesse<END>
+
+//Technique<END>
+
+//Endurance<END>
+
+//Mental<END>
+
+//Dribble<END>
+
+//PASSE<END>
+
+//TIR<END>
+
+//Équilibre<END>
+
+//SP<END>
+
+//CRAMPONS<END>
+
+//GANTS<END>
+
+//OBJET 1<END>
+
+//OBJET 2<END>
+
+//COUP FRANC<END>
+
+//PENALTYS<END>
+
+//CORNER<END>
+
+//TOUCHE<END>
+
+//Choisissez votre nom.<END>
+
+//Joue un match amical.<END>
+
+//Change la formation de l'équipe<LINE>
+//et la stratégie.<END>
+
+//Édite le personnage.<END>
+
+//Retourne à l'écran principal.<END>
+
+//DUMMY_F<END>
+
+//Sauvegarde la partie en cours.<END>
+
+//Charge les données.<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//HISTOIRE "JR. YOUTH"<END>
+
+//HISTOIRE "TOHO"<END>
+
+//HISTOIRE "FURANO"<END>
+
+//HISTOIRE "MUSASHI"<END>
+
+//HISTOIRE "JE SUIS CAPITAINE"<END>
+
+//Non<END>
+
+//Mon ami, le ballon<END>
+
+//Mur corporel<END>
+
+//Mur de fer<END>
+
+//Power defense<END>
+
+//Dribble sur ligne<END>
+
+//Super longue tête<END>
+
+//Tête jet<END>
+
+//But à tout prix<END>
+
+//Trio de Shutetsu<END>
+
+//Drive pass<END>
+
+//Heel lift<END>
+
+//Dribble brésilien<END>
+
+//Vélo retourné<END>
+
+//Drive shoot<END>
+
+//Drive overhead<END>
+
+//Dribble artistique<END>
+
+//Embuscade imprévue<END>
+
+//Blocage de face<END>
+
+//Le Quartet d'Otomo<END>
+
+//Tir du faucon<END>
+
+//Speedy<END>
+
+//Killer pass<END>
+
+//Passe rapide<END>
+
+//Prince du terrain<END>
+
+//Tir de verre<END>
+
+//Interception ailée<END>
+
+//Tête en force<END>
+
+//Dribble forcé<END>
+
+//Dribble technique<END>
+
+//Kamikaze shoot<END>
+
+//Kamikaze check<END>
+
+//Passe en rasoir<END>
+
+//Tir en rasoir<END>
+
+//Snake block<END>
+
+//Tacle en rasoir<END>
+
+//Skylab shoot<END>
+
+//Skylab cut<END>
+
+//Triangle shoot<END>
+
+//Skylab twin shoot<END>
+
+//Backspin pass<END>
+
+//Tir en force<END>
+
+//Dribble en force<END>
+
+//Comme une plume<END>
+
+//Tête surprise<END>
+
+//Prise rapide<END>
+
+//Âme de Furano<END>
+
+//Passe de l'aigle<END>
+
+//Garde du ballon<END>
+
+//Eagle shot<END>
+
+//Tir glacé<END>
+
+//Interception glace<END>
+
+//Faux tacle<END>
+
+//Décision calme<END>
+
+//Saut en triangle<END>
+
+//Tégatana defense<END>
+
+//Shoken defense<END>
+
+//Cp de pied mirage<END>
+
+//Étoile filante<END>
+
+//Tiger pass<END>
+
+//Dribble en ligne<END>
+
+//Tiger shot<END>
+
+//Neo tiger shot<END>
+
+//Sliding tiger<END>
+
+//Le duo de Toho<END>
+
+//Petit technicien<END>
+
+//Milieu né<END>
+
+//Fire shot<END>
+
+//SGGK<END>
+
+//Bras-droit en or<END>
+
+//Tir éclair<END>
+
+//Preuve de génie<END>
+
+//Tir banane<END>
+
+//Tir acrobatique<END>
+
+//Bloc acrobatique<END>
+
+//Cissors tackle<END>
+
+//Dribble géant<END>
+
+//Blocage mural<END>
+
+//Coup en l'air<END>
+
+//Canon shoot<END>
+
+//Dribble élégant<END>
+
+//Slider shoot<END>
+
+//Tacle élégant<END>
+
+//Attaque Eiffel<END>
+
+//Tête napalm<END>
+
+//Tir napalm<END>
+
+//Dribble mirage<END>
+
+//Non-fire shot<END>
+
+//Blocage impérial<END>
+
+//Tacle impérial<END>
+
+//Passe roulante<END>
+
+//Glissade princière<END>
+
+//Tacle en flèche<END>
+
+//Dribble hérisson<END>
+
+//Lobbing shoot<END>
+
+//Géant de fer<END>
+
+//Over throw catch<END>
+
+//Blocage éclair<END>
+
+//Passe laser<END>
+
+//Changement éclair<END>
+
+//Tir laser<END>
+
+//Super réaction<END>
+
+//À l'attaque<END>
+
+//Twin shoot<END>
+
+//Twin shoot<END>
+
+//Twin shoot<END>
+
+//Twin shoot<END>
+
+//Twin shoot<END>
+
+//La paire en or<END>
+
+//Nankatsu<END>
+
+//Ito<END>
+
+//Otomo<END>
+
+//Azumaichi<END>
+
+//Toho<END>
+
+//Hanawa<END>
+
+//Hirado<END>
+
+//Furano<END>
+
+//Toho<END>
+
+//Musashi<END>
+
+//Matsukami<END>
+
+//Konishi<END>
+
+//Meiwa-Higashi<END>
+
+//Satsunishi<END>
+
+//Suwa<END>
+
+//Minamiuwa<END>
+
+//Japon<END>
+
+//Japon<END>
+
+//Japon<END>
+
+//Naniwa<END>
+
+//Nakahara<END>
+
+//FC Allemagne<END>
+
+//Angleterre<END>
+
+//Uruguay<END>
+
+//Italie<END>
+
+//Argentine<END>
+
+//France<END>
+
+//Allemagne<END>
+
+//Passe<END>
+
+//Interception<END>
+
+//Égal<END>
+
+//Blocage<END>
+
+//Tir<END>
+
+//Japon<END>
+
+//Japon<END>
+
+//Japon<END>
+
+//Yoichi d'or<END>
+
+//Commencer une histoire.<END>
+
+//Reprendre une partie sauvegardée.<END>
+
+//Reprendre la partie interrompue.<END>
+
+//Force du gardien<END>
+
+//Tueur de champions<END>
+
+//Comique<END>
+
+//Dévoreur de grands<END>
+
+//Contre-attaque<END>
+
+//Panthère<END>
+
+//Charisme<END>
+
+//Magnifique prince<END>
+
+//Rien que l'attaque<END>
+
+//À l'attaque !<END>
+
+//Règne royal<END>
+
+//Encouragement<END>
+
+//Pression muette<END>
+
+//Gardien<END>
+
+//En défense !<END>
+
+//Défense absolue<END>
+
+//Tigre rugissant<END>
+
+//Un génie est là<END>
+
+//Malin<END>
+
+//Avalanche<END>
+
+//Attaque rapide<END>
+
+//Artiste du terrain<END>
+
+//Football physique<END>
+
+//Tyran<END>
+
+//Tous en défense<END>
+
+//Non<END>
+
+//Crampons Force<END>
+
+//Crampons Vitesse<END>
+
+//Crampons Technique<END>
+
+//Crampons Endurance<END>
+
+//Crampons Dribble<END>
+
+//Crampons Passe<END>
+
+//Crampons Tir<END>
+
+//Crampons Équilibre<END>
+
+//Crampons Force+<END>
+
+//Crampons Vitesse+<END>
+
+//Crampons Technique+<END>
+
+//Crampons Endurance+<END>
+
+//Crampons Dribble+<END>
+
+//Crampons Passe+<END>
+
+//Crampons Tir+<END>
+
+//Crampons Équilibre+<END>
+
+//Crampons Tir puissant<END>
+
+//Crampons Super dribble<END>
+
+//Crampons Passe tech.<END>
+
+//Crampons Endur. Équi.<END>
+
+//Crampons Tir puissant+<END>
+
+//Crampons Sup. dribble+<END>
+
+//Crampons Passe tech.+<END>
+
+//Gants Défense<END>
+
+//Gants Arrêt<END>
+
+//Gants Parade<END>
+
+//Gants Sortie<END>
+
+//Gants Garde<END>
+
+//Gants Défense+<END>
+
+//Gants Arrêt+<END>
+
+//Gants Parade+<END>
+
+//Gants Sortie+<END>
+
+//Gants Garde+<END>
+
+//Gants Défense Arrêt<END>
+
+//Gants Défense Parade<END>
+
+//Gants Défense Sortie<END>
+
+//Gants Défense Garde<END>
+
+//Gants Arrêt Parade+<END>
+
+//Gants Sortie Garde+<END>
+
+//Gants Arrêt Parade<END>
+
+//Gants Sortie Garde<END>
+
+//Bracelet Attaque<END>
+
+//Bracelet Défense<END>
+
+//Bracelet Tir<END>
+
+//Bracelet Physique<END>
+
+//Bracelet Mental<END>
+
+//Bracelet SP<END>
+
+//Bracelet Attaque+<END>
+
+//Bracelet Défense+<END>
+
+//Bracelet Tir+<END>
+
+//Bracelet Physique+<END>
+
+//Bracelet Mental+<END>
+
+//Bracelet SP+<END>
+
+//Bracelet Phys. Ment.<END>
+
+//Bracelet Défense SP<END>
+
+//Bracelet Attaque SP<END>
+
+//Bracelet Attaq. Phys.<END>
+
+//Bracelet Déf. Phys.<END>
+
+//Bracelet Attaque SP+<END>
+
+//Bracelet Défense SP+<END>
+
+//Bracelet Phys. Ment.+<END>
+
+//Bracelet Attaq. Déf.<END>
+
+//Bandeau Endurance<END>
+
+//Bandeau Mental<END>
+
+//Bandeau SP<END>
+
+//Bandeau Endurance+<END>
+
+//Bandeau Mental+<END>
+
+//Bandeau SP+<END>
+
+//Bandeau Mental SP<END>
+
+//Bandeau Endur. Ment.<END>
+
+//Bandeau Endurance SP<END>
+
+//Bandeau Mental SP+<END>
+
+//Protège-tibias Dribble<END>
+
+//P-tibias Physique<END>
+
+//P-tibias Équilibre<END>
+
+//P-tibias Dribble+<END>
+
+//P-tibias Physique+<END>
+
+//P-tibias Équilibre+<END>
+
+//P-tibias Drib. Équi.<END>
+
+//P-tibias Phys. Équi.<END>
+
+//Gri-gri Passe<END>
+
+//Collier SP<END>
+
+//Gri-gri Recouvrement<END>
+
+//Bague Tir<END>
+
+//Bague Dribble<END>
+
+//Bague Passe<END>
+
+//Bague Coup spécial<END>
+
+//Gri-gri Passe+<END>
+
+//Collier SP+<END>
+
+//Gri-gri Recouvrement+<END>
+
+//Bague Tir+<END>
+
+//Bague Dribble+<END>
+
+//Bague Passe+<END>
+
+//Bague Coup spécial+<END>
+
+//Bague Héros<END>
+
+//Gri-gri Assaut<END>
+
+//Gri-gri Esquive<END>
+
+//Gri-gri Assistant<END>
+
+//Crampons étranges<END>
+
+//Crampons de rapidité<END>
+
+//Crampons spéciaux<END>
+
+//Crampons plats<END>
+
+//Crampons de tir<END>
+
+//Crampons sans limites<END>
+
+//Crampons talentueux<END>
+
+//Crampons robustes<END>
+
+//Gants Arrêt+<END>
+
+//Gants de l'amitié<END>
+
+//Gants Kamikaze<END>
+
+//P-tibias Mur de fer<END>
+
+//Protège-tibias Hercule<END>
+
+//Bracelet ailé<END>
+
+//Crampons du désespoir<END>
+
+//Protège-tibias Jet<END>
+
+//Crampons de buteur<END>
+
+//Crampons de confiance<END>
+
+//Bracelet du ciel<END>
+
+//Bracelet brésilien<END>
+
+//Crampons renversés<END>
+
+//Crampons du phénix<END>
+
+//Crampons de Sanae<END>
+
+//Bracelet artistique<END>
+
+//P-tibias embuscade<END>
+
+//Gri-gri du courage<END>
+
+//Crampons du faucon<END>
+
+//Bracelet de l'ouragan<END>
+
+//Crampons surprises<END>
+
+//Crampons de vitesse<END>
+
+//Bracelet du prince<END>
+
+//Crampons de verre<END>
+
+//P-tibias vitesse ailée<END>
+
+//Crampons de pierre<END>
+
+//Bracelet du courage<END>
+
+//Bracelet de technicité<END>
+
+//Crampons Kamikaze<END>
+
+//Protège-tibias Meiwa<END>
+
+//Crampons courbés<END>
+
+//Crampons tranchants<END>
+
+//P-tibias du serpent<END>
+
+//Tueur de champions<END>
+
+//Crampons d'ange<END>
+
+//Crampons à l'envers<END>
+
+//Crampons de force<END>
+
+//Bracelet de force<END>
+
+//Bracelet d'acrobate<END>
+
+//Crampons furtifs<END>
+
+//P-tibias de furtivité<END>
+
+//Crampons de glace<END>
+
+//Crampons du nord<END>
+
+//Bracelet d'obstination<END>
+
+//Crampons de l'aigle<END>
+
+//Crampons glacés<END>
+
+//Protège-tibias glacés<END>
+
+//Gri-gri d'effort<END>
+
+//Gants de glace<END>
+
+//Gants de saut<END>
+
+//Gants de karaté<END>
+
+//Gants pourpres<END>
+
+//Crampons magiques<END>
+
+//Crampons étoile<END>
+
+//Crampons de tigre<END>
+
+//Bracelet de tigre<END>
+
+//Crampons d'un tigre<END>
+
+//Crampons du tigre<END>
+
+//P-tibias de tigre<END>
+
+//Bracelet petit<END>
+
+//Protège de milieu<END>
+
+//Crampons de feu<END>
+
+//Casquette Wakabayashi<END>
+
+//Gants en or<END>
+
+//Crampons de foudre<END>
+
+//Bracelet de génie<END>
+
+//Crampons banane<END>
+
+//Crampons d'acrobate<END>
+
+//Gri-gri d'acrobate<END>
+
+//P-tibias de ciseau<END>
+
+//Bracelet de géant<END>
+
+//Gri-gri de pierre<END>
+
+//Crampons d'en haut<END>
+
+//Crampons de canon<END>
+
+//Bracelet magnifique<END>
+
+//Crampons de glisse<END>
+
+//Crampons magnifiques<END>
+
+//Crampons explosifs<END>
+
+//Crampons de napalm<END>
+
+//Bracelet de liberté<END>
+
+//Crampons de flammes<END>
+
+//Collier du père<END>
+
+//Gri-gri de prince<END>
+
+//Crampons de rotation<END>
+
+//Bracelet de prince<END>
+
+//Crampons d'arc<END>
+
+//Bracelet de machine<END>
+
+//Crampons de lob<END>
+
+//Gants de fer<END>
+
+//Gants d'illusion<END>
+
+//Gants d'éclair<END>
+
+//Crampons d'éclair<END>
+
+//Bracelet d'échange<END>
+
+//Crampons laser<END>
+
+//Protège du 6e sens<END>
+
+//Protège-tibias Assaut<END>
+
+//Augmente "Force".<END>
+
+//Augmente "Vitesse".<END>
+
+//Augmente "Technique".<END>
+
+//Augmente "Endurance".<END>
+
+//Augmente "Dribble".<END>
+
+//Augmente "Passe".<END>
+
+//Augmente "Tir".<END>
+
+//Diminue la consommation<LINE>
+//de la jauge d'équilibre.<END>
+
+//Augmente fortement "Force".<END>
+
+//Augmente fortement<LINE>
+//"Vitesse".<END>
+
+//Augmente fortement<LINE>
+//"Technique".<END>
+
+//Augmente fortement<LINE>
+//"Endurance".<END>
+
+//Augmente fortement<LINE>
+//"Dribble".<END>
+
+//Augmente fortement<LINE>
+//"Passe".<END>
+
+//Augmente fortement "Tir".<END>
+
+//Diminue fortement<LINE>
+//la consommation de la jauge<LINE>
+//d'équilibre.<END>
+
+//Augmente "Force" et<LINE>
+//"Tir".<END>
+
+//Augmente "Vitesse"<LINE>
+//et "Dribble".<END>
+
+//Augmente "Technique"<LINE>
+//et "Passe".<END>
+
+//Augmente "Endurance"<LINE>
+//et diminue la consommation<LINE>
+//de la jauge d'équilibre.<END>
+
+//Augmente fortement "Force"<LINE>
+//et "Tir".<END>
+
+//Augmente fortement<LINE>
+//"Vitesse" et "Dribble".<END>
+
+//Augmente fortement<LINE>
+//"Technique" et "Passe".<END>
+
+//Augmente "Défense".<END>
+
+//Augmente légèrement<LINE>
+//le taux de réussite<LINE>
+//de "Arrêt".<END>
+
+//Augmente légèrement<LINE>
+//le taux de réussite<LINE>
+//de "Parade".<END>
+
+//Augmente légèrement<LINE>
+//le taux de réussite<LINE>
+//de "Sortie".<END>
+
+//Augmente légèrement<LINE>
+//le taux de réussite<LINE>
+//de "Garde".<END>
+
+//Augmente fortement<LINE>
+//"Défense".<END>
+
+//Augmente fortement le taux<LINE>
+//de réussite de "Arrêt".<END>
+
+//Augmente fortement le taux<LINE>
+//de réussite de "Parade".<END>
+
+//Augmente fortement le taux<LINE>
+//de réussite de "Sortie".<END>
+
+//Augmente fortement le taux<LINE>
+//de réussite de "Garde".<END>
+
+//Augmente "Défense" et le<LINE>
+//taux de réussite de "Arrêt".<END>
+
+//Augmente "Défense"<LINE>
+//et le taux de réussite<LINE>
+//de "Parade".<END>
+
+//Augmente "Défense"<LINE>
+//et le taux de réussite<LINE>
+//de "Sortie".<END>
+
+//Augmente "Défense"<LINE>
+//et le taux de réussite<LINE>
+//de "Garde".<END>
+
+//Diminue "Défense", mais<LINE>
+//augmente la réussite<LINE>
+//de "Arrêt" et "Parade".<END>
+
+//Diminue "Défense", mais<LINE>
+//augmente la réussite<LINE>
+//de "Sortie" et "Garde".<END>
+
+//Augmente légèrement<LINE>
+//le taux de réussite<LINE>
+//de "Arrêt" et "Parade".<END>
+
+//Augmente légèrement<LINE>
+//le taux de réussite<LINE>
+//de "Sortie" et "Garde".<END>
+
+//Augmente "Attaque".<END>
+
+//Augmente "Défense".<END>
+
+//Augmente "Tir".<END>
+
+//Augmente "Physique".<END>
+
+//Augmente "Mental".<END>
+
+//Augmente le nombre maximum<LINE>
+//de SP.<END>
+
+//Augmente fortement<LINE>
+//"Attaque".<END>
+
+//Augmente fortement<LINE>
+//"Défense".<END>
+
+//Augmente fortement "Tir".<END>
+
+//Augmente fortement<LINE>
+//"Physique".<END>
+
+//Augmente fortement<LINE>
+//"Mental".<END>
+
+//Augmente fortement<LINE>
+//le nombre maximum de SP.<END>
+
+//Augmente "Physique"<LINE>
+//et "Mental".<END>
+
+//Augmente "Défense"<LINE>
+//et le nombre maximum de SP.<END>
+
+//Augmente "Attaque"<LINE>
+//et le nombre maximum de SP.<END>
+
+//Augmente "Attaque"<LINE>
+//et "Physique".<END>
+
+//Augmente "Défense"<LINE>
+//et "Physique".<END>
+
+//Augmente fortement<LINE>
+//"Attaque" et le nombre<LINE>
+//maximum de SP.<END>
+
+//Augmente "Défense".<LINE>
+//Augmente fortement<LINE>
+//le nombre maximum de SP.<END>
+
+//Augmente fortement "Mental"<LINE>
+//et "Physique", mais diminue<LINE>
+//le nombre maximum de SP.<END>
+
+//Augmente fortement<LINE>
+//"Défense" et "Attaque", mais<LINE>
+//diminue le maximum de SP.<END>
+
+//Augmente "Endurance".<END>
+
+//Augmente "Mental".<END>
+
+//Augmente la récupération<LINE>
+//de SP.<END>
+
+//Augmente fortement<LINE>
+//"Endurance".<END>
+
+//Augmente fortement<LINE>
+//"Mental".<END>
+
+//Augmente fortement<LINE>
+//la récupération de SP.<END>
+
+//Augmente "Mental"<LINE>
+//et la récupération de SP,<LINE>
+//mais diminue "Endurance".<END>
+
+//Augmente "Endurance"<LINE>
+//et "Mental", mais diminue<LINE>
+//la récupération de SP.<END>
+
+//Augmente fortement<LINE>
+//"Endurance"<LINE>
+//et la récupération de SP.<END>
+
+//Augmente fortement "Mental"<LINE>
+//et la récupération de SP.<END>
+
+//Augmente "Dribble".<END>
+
+//Augmente "Physique".<END>
+
+//Diminue la consommation<LINE>
+//de la jauge d'équilibre.<END>
+
+//Augmente fortement<LINE>
+//"Dribble".<END>
+
+//Augmente fortement<LINE>
+//"Physique".<END>
+
+//Diminue fortement<LINE>
+//la consommation de la jauge<LINE>
+//d'équilibre.<END>
+
+//Augmente "Dribble"<LINE>
+//et diminue la consommation<LINE>
+//de la jauge d'équilibre.<END>
+
+//Augmente "Endurance"<LINE>
+//et diminue la consommation<LINE>
+//de la jauge d'équilibre.<END>
+
+//Augmente "Passe".<END>
+
+//Augmente le nombre maximum<LINE>
+//de SP.<END>
+
+//Augmente la récupération<LINE>
+//de SP.<END>
+
+//Augmente le taux<LINE>
+//de réussite de "Tir".<END>
+
+//Augmente le taux<LINE>
+//de réussite de "Dribble".<END>
+
+//Augmente le taux<LINE>
+//de réussite de "Passe".<END>
+
+//Augmente le taux de<LINE>
+//réussite de "Coup spécial".<END>
+
+//Augmente fortement<LINE>
+//"Passe".<END>
+
+//Augmente fortement<LINE>
+//le nombre maximum de SP.<END>
+
+//Augmente fortement<LINE>
+//la récupération de SP.<END>
+
+//Augmente fortement le taux<LINE>
+//de réussite de "Tir".<END>
+
+//Augmente fortement le taux<LINE>
+//de réussite de "Dribble".<END>
+
+//Augmente fortement le taux<LINE>
+//de réussite de "Passe".<END>
+
+//Augmente fortement le taux<LINE>
+//de réussite<LINE>
+//de "Coup spécial".<END>
+
+//Augmente "Coup spécial" et<LINE>
+//le maximum de SP. Diminue<LINE>
+//la récupération de SP.<END>
+
+//Augmente le taux<LINE>
+//de réussite de "Dribble"<LINE>
+//et "Tir".<END>
+
+//Augmente le taux<LINE>
+//de réussite de "Dribble"<LINE>
+//et "Passe".<END>
+
+//Augmente le taux<LINE>
+//de réussite de "Passe"<LINE>
+//et "Tir".<END>
+
+//Permet des tirs<LINE>
+//super puissants.<END>
+
+//Pénètre les défenses<LINE>
+//adversaires.<END>
+
+//Permet de faire<LINE>
+//des passes millimétrées.<END>
+
+//Obtient un super sens<LINE>
+//de l'équilibre.<END>
+
+//Permet des tirs<LINE>
+//super puissants.<END>
+
+//Pénètre les défenses<LINE>
+//adversaires.<END>
+
+//Permet de faire<LINE>
+//des passes millimétrées.<END>
+
+//Permet de jouer<LINE>
+//plus longtemps.<END>
+
+//Augmente fortement le taux<LINE>
+//de réussite de "Arrêt".<END>
+
+//Octroie un courage<LINE>
+//sans égal.<LINE>
+//Permet d'utiliser<LINE>
+//"Mon ami, le ballon".<END>
+
+//Octroie un esprit<LINE>
+//de kamikaze.<LINE>
+//Permet d'utiliser<LINE>
+//"Mur corporel".<END>
+
+//Permet une défense de fer,<LINE>
+//et l'utilisation<LINE>
+//de "Mur de fer".<END>
+
+//Confère une grande force.<LINE>
+//Permet d'utiliser<LINE>
+//"Power Defense".<END>
+
+//Donne envie de déborder par<LINE>
+//l'aile droite. Permet d'utiliser<LINE>
+//"Dribble sur la ligne".<END>
+
+//Confère un grand courage.<LINE>
+//Permet d'utiliser "Super<LINE>
+//longue tête".<END>
+
+//Confère le pouvoir de sauter<LINE>
+//très haut dans les airs.<LINE>
+//Permet d'utiliser<LINE>
+//"Tête jet".<END>
+
+//Donne l'envie de marquer<LINE>
+//un but. Permet d'utiliser<LINE>
+//"But à tout prix".<END>
+
+//Permet de délivrer<LINE>
+//une bonne passe.<LINE>
+//Permet d'utiliser<LINE>
+//"Drive pass".<END>
+
+//Donne l'envie de tirer<LINE>
+//jusqu'au ciel.<LINE>
+//Permet d'utiliser<LINE>
+//"Heel lift".<END>
+
+//Un bracelet imprégné<LINE>
+//de la joie des Brésiliens.<LINE>
+//Permet d'utiliser<LINE>
+//"Dribble brésilien".<END>
+
+//Permet de tirer à l'envers,<LINE>
+//et l'utilisation<LINE>
+//de "Bicyclette retournée".<END>
+
+//Permet de frapper le ballon<LINE>
+//vers le ciel tel un phénix.<LINE>
+//Permet d'utiliser<LINE>
+//"Drive shoot".<END>
+
+//Crampons offerts<LINE>
+//à Tsubasa par Sanae.<LINE>
+//Permet d'utiliser<LINE>
+//"Drive overhead".<END>
+
+//Un étonnant bracelet d'art.<LINE>
+//Permet d'utiliser<LINE>
+//"Dribble artistique".<END>
+
+//Permet d'être difficilement<LINE>
+//repérable, et l'utilisation<LINE>
+//de "Embuscade imprévue".<END>
+
+//Permet de faire face<LINE>
+//à sa peur, et l'utilisation<LINE>
+//de "Blocage de face".<END>
+
+//Permet d'être aussi rapide<LINE>
+//qu'un faucon,<LINE>
+//et l'utilisation<LINE>
+//du "Tir du faucon".<END>
+
+//Permet de devenir<LINE>
+//plus rapide,<LINE>
+//et l'utilisation<LINE>
+//de "Speedy".<END>
+
+//Permet de prendre<LINE>
+//l'adversaire par surprise,<LINE>
+//et l'utilisation<LINE>
+//de "Killer pass".<END>
+
+//Permet de tirer<LINE>
+//plus rapidement,<LINE>
+//et l'utilisation<LINE>
+//de "Passe rapide".<END>
+
+//Octroie la prestance<LINE>
+//d'un prince.<LINE>
+//Permet d'utiliser<LINE>
+//"Prince du terrain".<END>
+
+//Une fois chaussés, ces crampons<LINE>
+//confèrent une grande<LINE>
+//détermination. Permet<LINE>
+//d'utiliser "Tir de verre".<END>
+
+//Permet de se sentir<LINE>
+//plus rapide que le son,<LINE>
+//et l'utilisation<LINE>
+//de "Interception ailée".<END>
+
+//Permet des têtes<LINE>
+//plus puissantes,<LINE>
+//et l'utilisation<LINE>
+//de "Tête en force".<END>
+
+//Permet de se sentir<LINE>
+//plus fort, et l'utilisation<LINE>
+//de "Dribble forcé".<END>
+
+//Permet de se sentir<LINE>
+//plus technique,<LINE>
+//et l'utilisation<LINE>
+//de "Dribble technique".<END>
+
+//Donne l'envie de charger<LINE>
+//sur le ballon.<LINE>
+//Permet d'utiliser<LINE>
+//"Kamikaze sliding".<END>
+
+//Octroie l'expérience<LINE>
+//des joueurs de Meiwa FC.<LINE>
+//Permet d'utiliser<LINE>
+//"Kamikaze sliding".<END>
+
+//Tord la trajectoire<LINE>
+//du ballon.<LINE>
+//Permet d'utiliser<LINE>
+//"Passe en rasoir".<END>
+
+//Permet un tir tranchant,<LINE>
+//et l'utilisation<LINE>
+//de "Tir en rasoir".<END>
+
+//Confère la ténacité<LINE>
+//du serpent.<LINE>
+//Permet d'utiliser<LINE>
+//"Snake block".<END>
+
+//Protège-tibias rendant plus<LINE>
+//fort face à un champion.<LINE>
+//Permet l'utilisation<LINE>
+//de "Tacle en rasoir".<END>
+
+//Donne juste l'envie<LINE>
+//de sauter en l'air.<LINE>
+//Permet d'utiliser<LINE>
+//"Triangle shoot".<END>
+
+//Permet de mettre de l'effet<LINE>
+//dans la balle,<LINE>
+//et l'utilisation<LINE>
+//de "Backspin pass".<END>
+
+//Une grande force émane<LINE>
+//de ces crampons.<LINE>
+//Permet d'utiliser<LINE>
+//"Tir en force".<END>
+
+//Permet de se sentir<LINE>
+//plus fort, et l'utilisation<LINE>
+//de "Dribble en force".<END>
+
+//Permet de se sentir<LINE>
+//plus léger, et l'utilisation<LINE>
+//de "Comme une plume".<END>
+
+//Crampons qui risquent<LINE>
+//de surprendre l'adversaire.<LINE>
+//Permet d'utiliser<LINE>
+//"Tête surprise".<END>
+
+//Permet de subtiliser<LINE>
+//plus facilement le ballon,<LINE>
+//et l'utilisation<LINE>
+//de "Prise rapide".<END>
+
+//Crampons pour ne pas glisser<LINE>
+//sur la glace.<LINE>
+//Permet d'utiliser<LINE>
+//"Âme de Furano".<END>
+
+//Crampons pour terrain<LINE>
+//irrégulier.<LINE>
+//Permet d'utiliser<LINE>
+//"Passe de l'aigle".<END>
+
+//Confère un moral<LINE>
+//à toute épreuve.<LINE>
+//Permet d'utiliser<LINE>
+//"Garde du ballon".<END>
+
+//Permet de tirer tel un aigle<LINE>
+//qui s'envole,<LINE>
+//et l'utilisation<LINE>
+//de "Eagle shot".<END>
+
+//Permet un tir aussi puissant<LINE>
+//que le blizzard,<LINE>
+//et l'utilisation<LINE>
+//de "Tir glacé".<END>
+
+//Protège-tibias qui<LINE>
+//garderaient même d'un<LINE>
+//blizzard. Permet d'utiliser<LINE>
+//"Interception glace".<END>
+
+//Ce porte-bonheur permet<LINE>
+//de faciliter un effort.<LINE>
+//Permet d'utiliser<LINE>
+//"Faux tacle".<END>
+
+//Gants très chauds.<LINE>
+//Permet d'utiliser<LINE>
+//"Décision calme".<END>
+
+//Rend plus agile.<LINE>
+//Permet d'utiliser<LINE>
+//"Saut en triangle".<END>
+
+//Gants d'un maître du karaté.<LINE>
+//Permet d'utiliser<LINE>
+//"Tégatana defense".<END>
+
+//Permet de plonger sur la<LINE>
+//balle de toutes ses forces.<LINE>
+//Permet d'utiliser<LINE>
+//"Shoken defense".<END>
+
+//Crampons imprégnés du style<LINE>
+//Wakado.<LINE>
+//Permet d'utiliser<LINE>
+//"Coup de pied mirage".<END>
+
+//Permet des actions aériennes<LINE>
+//telle une étoile filante.<LINE>
+//Permet d'utiliser<LINE>
+//"Étoile filante".<END>
+
+//Permet de tirer aussi vite<LINE>
+//qu'un tigre fond sur<LINE>
+//sa proie, et l'utilisation<LINE>
+//de "Tiger pass".<END>
+
+//Permet de courir aussi vite<LINE>
+//qu'un tigre féroce,<LINE>
+//et l'utilisation de<LINE>
+//"Dribble en ligne droite".<END>
+
+//Permet de tirer<LINE>
+//avec la fureur d'un tigre,<LINE>
+//et l'utilisation<LINE>
+//de "Tiger shot".<END>
+
+//Permet de tirer avec la<LINE>
+//fureur d'un tigre vorace,<LINE>
+//et l'utilisation<LINE>
+//de "Neo tiger shot".<END>
+
+//Confère la puissance<LINE>
+//de l'esprit du tigre.<LINE>
+//Permet d'utiliser<LINE>
+//"Sliding tiger".<END>
+
+//Rend plus petit.<LINE>
+//Permet d'utiliser<LINE>
+//"Petit technicien".<END>
+
+//Protège-tibias d'un milieu<LINE>
+//de terrain de génie.<LINE>
+//Permet d'utiliser<LINE>
+//"Milieu né".<END>
+
+//Enflamme l'esprit.<LINE>
+//Permet d'utiliser<LINE>
+//"Fire shot".<END>
+
+//La casquette du SGGK<LINE>
+//Wakabayashi.<LINE>
+//Permet d'utiliser<LINE>
+//"SGGK".<END>
+
+//Gants qui dégagent<LINE>
+//un halo lumineux.<LINE>
+//Permet d'utiliser<LINE>
+//"Bras-droit en or".<END>
+
+//Tirer une balle éclair.<LINE>
+//Permet d'utiliser<LINE>
+//"Tir éclair".<END>
+
+//Bracelet pour génie<LINE>
+//du ballon rond.<LINE>
+//Permet d'utiliser<LINE>
+//"Preuve de génie".<END>
+
+//Tirer avec un effet courbé.<LINE>
+//Permet d'utiliser<LINE>
+//"Tir banane".<END>
+
+//Permet de se mouvoir<LINE>
+//tel un acrobate,<LINE>
+//et l'utilisation<LINE>
+//de "Tir acrobatique".<END>
+
+//Porte-bonheur d'acrobate.<LINE>
+//Permet d'utiliser<LINE>
+//"Bloc acrobatique".<END>
+
+//Permet une plus grande<LINE>
+//aisance à attraper avec<LINE>
+//les pieds, et l'utilisation<LINE>
+//de "Cissors tackle".<END>
+
+//Rend plus grand.<LINE>
+//Permet d'utiliser<LINE>
+//"Dribble géant".<END>
+
+//Fait paraître<LINE>
+//comme un mur de pierre.<LINE>
+//Permet d'utiliser<LINE>
+//"Blocage mural".<END>
+
+//Permet de dégager le ballon<LINE>
+//en l'air,<LINE>
+//et l'utilisation<LINE>
+//de "Coup en l'air".<END>
+
+//Permet de tirer avec<LINE>
+//la puissance d'un canon,<LINE>
+//et l'utilisation<LINE>
+//de "Canon shoot".<END>
+
+//Permet des déplacements<LINE>
+//plus élégants,<LINE>
+//et l'utilisation<LINE>
+//de "Dribble élégant".<END>
+
+//Permet un bel effet<LINE>
+//dans la frappe,<LINE>
+//et l'utilisation<LINE>
+//de "Slider shoot".<END>
+
+//Permet de voler le ballon<LINE>
+//et peut-être des cœurs.<LINE>
+//Permet d'utiliser<LINE>
+//"Tacle élégant".<END>
+
+//Permet d'effectuer<LINE>
+//de meilleures têtes,<LINE>
+//et l'utilisation<LINE>
+//de "Tête napalm".<END>
+
+//Donnent la puissance d'une<LINE>
+//bombe incendiaire à un tir.<LINE>
+//Permet d'utiliser<LINE>
+//"Tir napalm".<END>
+
+//Permet de contrôler<LINE>
+//librement le ballon,<LINE>
+//et l'utilisation<LINE>
+//de "Dribble mirage".<END>
+
+//Transforme son tir en une<LINE>
+//flamme bleue silencieuse.<LINE>
+//Permet d'utiliser<LINE>
+//"Non-fire shot".<END>
+
+//Collier de Schneider.<LINE>
+//Permet d'utiliser<LINE>
+//"Blocage impérial".<END>
+
+//Porte-bonheur qui proclame<LINE>
+//empereur.<LINE>
+//Permet d'utiliser<LINE>
+//"Tacle impérial".<END>
+
+//Crampons qui donnent envie<LINE>
+//de tourner sur soi-même.<LINE>
+//Permet d'utiliser<LINE>
+//"Passe roulante".<END>
+
+//Bracelet qui donne<LINE>
+//l'élégance d'un prince.<LINE>
+//Permet d'utiliser<LINE>
+//"Glissade princière".<END>
+
+//Permet d'être aussi rapide<LINE>
+//qu'une flèche.<LINE>
+//Permet d'utiliser<LINE>
+//"Tacle en flèche".<END>
+
+//Bracelet qui éloigne<LINE>
+//les autres.<LINE>
+//Permet d'utiliser<LINE>
+//"Dribble du hérisson".<END>
+
+//Permet de trouver les<LINE>
+//failles dans le jeu adverse.<LINE>
+//Permet d'utiliser<LINE>
+//"Lobbing shoot".<END>
+
+//Permet d'ériger une défense<LINE>
+//telle un mur de fer,<LINE>
+//et l'utilisation<LINE>
+//de "Géant de fer".<END>
+
+//Gants pour attraper<LINE>
+//même un fantôme.<LINE>
+//Permet d'utiliser<LINE>
+//"Over throw catch".<END>
+
+//Permet de se sentir très<LINE>
+//rapide dans ses mouvements,<LINE>
+//et l'utilisation<LINE>
+//de "Blocage éclair".<END>
+
+//Permet une passe <LINE>
+//à la vitesse de la lumière,<LINE>
+//et l'utilisation<LINE>
+//de "Passe laser".<END>
+
+//Change le rythme rapidement,<LINE>
+//désoriantant l'adversaire.<LINE>
+//Permet d'utiliser<LINE>
+//"Changement éclair".<END>
+
+//Permet de tirer<LINE>
+//comme jamais vu.<LINE>
+//Permet d'utiliser<LINE>
+//"Tir laser".<END>
+
+//Aiguise les sens.<LINE>
+//Permet d'utiliser<LINE>
+//"Super réaction".<END>
+
+//Fait bouillir le sang.<LINE>
+//Permet d'utiliser<LINE>
+//"À l'attaque".<END>
+
+//Donne des ordres précis<LINE>
+//depuis la ligne de fond<LINE>
+//pour augmenter "Mental"<LINE>
+//et stabiliser l'équipe.<END>
+
+//Marque individuellement<LINE>
+//le joueur clé pour<LINE>
+//diminuer les paramètres<LINE>
+//des joueurs adversaires.<END>
+
+//Augmente fortement<LINE>
+//tous les paramètres<LINE>
+//des joueurs lorsqu'ils sont<LINE>
+//dans le camp adverse.<END>
+
+//Augmente<LINE>
+//tous les paramètres lors<LINE>
+//d'une confrontation avec<LINE>
+//un adversaire plus fort.<END>
+
+//Augmente "Attaque"<LINE>
+//et "Défense" pour faciliter<LINE>
+//les contre-attaques.<END>
+
+//Augmente la vitesse<LINE>
+//des équipiers et motive<LINE>
+//l'équipe pour courir<LINE>
+//comme une panthère.<END>
+
+//Augmente<LINE>
+//tous les paramètres<LINE>
+//des joueurs<LINE>
+//grâce à ton charisme.<END>
+
+//Réduit par deux<LINE>
+//la consommation de la jauge<LINE>
+//d'équilibre par un jeu<LINE>
+//efficace et élégant.<END>
+
+//Augmente "Attaque",<LINE>
+//"Vitesse" et "Physique"<LINE>
+//en attaquant<LINE>
+//avec toute l'équipe.<END>
+
+//Augmente "Attaque"<LINE>
+//des équipiers, mais diminue<LINE>
+//"Défense" par une stratégie<LINE>
+//d'attaque.<END>
+
+//Augmente<LINE>
+//tous les paramètres<LINE>
+//des joueurs par un contrôle<LINE>
+//parfait du jeu.<END>
+
+//Augmente sensiblement<LINE>
+//tous les paramètres<LINE>
+//des équipiers<LINE>
+//en les encourageant.<END>
+
+//Permet de gagner plus<LINE>
+//facilement les Command<LINE>
+//Battles par un contrôle<LINE>
+//calme du jeu.<END>
+
+//Augmente<LINE>
+//tous les paramètres<LINE>
+//des joueurs dans leur camp<LINE>
+//avec un gardien sûr.<END>
+
+//Augmente "Défense",<LINE>
+//mais diminue "Attaque"<LINE>
+//par une stratégie<LINE>
+//de défense.<END>
+
+//Crée un mur devant ton but<LINE>
+//et augmente les paramètres<LINE>
+//de tes équipiers dans<LINE>
+//ta surface de réparation.<END>
+
+//Améliore l'attaque<LINE>
+//de l'équipe en la motivant<LINE>
+//avec la fureur du tigre.<END>
+
+//Augmente les effets<LINE>
+//des coups spéciaux des<LINE>
+//équipiers par les conseils<LINE>
+//d'un génie du football.<END>
+
+//Les coups spéciaux sont<LINE>
+//plus efficaces lorsqu'ils<LINE>
+//sont utilisés en attaque<LINE>
+//par l'équipe entière.<END>
+
+//Augmente les paramètres et<LINE>
+//le taux de réussite de<LINE>
+//"Passe" et "Interception"<LINE>
+//lors d'un combat complet.<END>
+
+//Augmente "Défense",<LINE>
+//"Vitesse" et "Passe"<LINE>
+//grâce à une formation<LINE>
+//d'attaque rapide.<END>
+
+//L'équipe joue un jeu<LINE>
+//plus technique<LINE>
+//avec le joueur clé<LINE>
+//le plus artistique.<END>
+
+//Augmente "Défense" de<LINE>
+//l'équipe par une stratégie<LINE>
+//utilisant toute<LINE>
+//la puissance du corps.<END>
+
+//Augmente "Tir"<LINE>
+//des équipiers par un jeu<LINE>
+//plus violent.<END>
+
+//Augmente "Défense"<LINE>
+//de l'équipe en dirigeant<LINE>
+//efficacement la défense<LINE>
+//depuis la ligne de but.<END>
+
+//? ? ?<END>
+
+//Morisaki<END>
+
+//Nakazato<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//Takasugi<END>
+
+//Taki<END>
+
+//Izawa<END>
+
+//Kisugi<END>
+
+//Tsubasa<END>
+
+//Ishizaki<END>
+
+//Okawa<END>
+
+//Yamamori<END>
+
+//Urabé<END>
+
+//Kishida<END>
+
+//Nishio<END>
+
+//Nakayama<END>
+
+//Nitta<END>
+
+//Soda<END>
+
+//Nakanishi<END>
+
+//Masao<END>
+
+//Kazuo<END>
+
+//Jito<END>
+
+//Sano<END>
+
+//Matsuyama<END>
+
+//Oda<END>
+
+//Kato<END>
+
+//Hyuga<END>
+
+//Sorimachi<END>
+
+//Sawada<END>
+
+//Koïké<END>
+
+//Wakashimazu<END>
+
+//Misaki<END>
+
+//Wakabayashi<END>
+
+//Misugi<END>
+
+//Gino<END>
+
+//Diaz<END>
+
+//Pascual<END>
+
+//Garban<END>
+
+//Pierre<END>
+
+//Napoléon<END>
+
+//Margas<END>
+
+//Schester<END>
+
+//Schneider<END>
+
+//Kaltz<END>
+
+//Dieter<END>
+
+//Sawaki<END>
+
+//Ishida<END>
+
+//Takéi<END>
+
+//Dean<END>
+
+//Light<END>
+
+//Robson<END>
+
+//Victorino<END>
+
+//Cain<END>
+
+//Daniel<END>
+
+//Aoi<END>
+
+//Roberto<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//Capitaine d'Otomo Jr. High<LINE>
+//et pierre angulaire<LINE>
+//du Quartet d'Otomo.<END>
+
+//Milieu de terrain d'Otomo<LINE>
+//Jr. High et membre<LINE>
+//du Quartet d'Otomo.<END>
+
+//Défenseur d'Otomo Jr. High.<LINE>
+//Membre du Quartet d'Otomo.<LINE>
+//Il défend avec Nakayama.<END>
+
+//Défenseur d'Otomo Jr. High.<LINE>
+//Membre du Quartet d'Otomo.<LINE>
+//Il s'occupe de la défense.<END>
+
+//Avant-centre d'Otomo Jr.<LINE>
+//High spécialisé dans<LINE>
+//le redoutable Tir du faucon.<END>
+
+//Capitaine et défenseur<LINE>
+//d'Azumaichi, craint<LINE>
+//comme le "Rasoir".<END>
+
+//Gardien géant de Naniwa.<LINE>
+//Il a affronté autrefois<LINE>
+//Tsubasa et Nankatsu SC.<END>
+
+//Membre de Hanawa Junior<LINE>
+//High. Son jeu aérien avec<LINE>
+//Kazuo est impressionnant.<END>
+
+//Membre de Hanawa Junior<LINE>
+//High et parfaite combinaison<LINE>
+//avec son frère jumeau Masao.<END>
+
+//Défenseur coriace de Hirado<LINE>
+//Junior High, il mène aussi<LINE>
+//de puissantes attaques.<END>
+
+//Technicien de Hirado Junior<LINE>
+//High qui combine<LINE>
+//ses attaques avec Jito.<END>
+
+//Capitaine de Furano Junior<LINE>
+//High à la force de caractère<LINE>
+//inébranlable.<END>
+
+//Avant-centre de Furano<LINE>
+//Junior High dont il est l'un<LINE>
+//des buteurs avec Matsuyama.<END>
+
+//Gardien de Furano Junior<LINE>
+//High dont il protège<LINE>
+//les buts avec sang-froid.<END>
+
+//Avant-centre de Toho<LINE>
+//Gakuen, le "Tigre" est<LINE>
+//le grand rival de Tsubasa.<END>
+
+//Avant-centre de Toho<LINE>
+//Gakuen où son talent est<LINE>
+//reconnu par ses pairs.<END>
+
+//Milieu de terrain de Toho<LINE>
+//Gakuen, il forme un bon duo<LINE>
+//avec Hyuga.<END>
+
+//Milieu de terrain de Toho<LINE>
+//Gakuen où il assiste les<LINE>
+//attaques de Hyuga et Sawada.<END>
+
+//Le gardien karatéka<LINE>
+//de Toho Gakuen. Il combine<LINE>
+//le karaté au football.<END>
+
+//L'artiste du terrain Misaki<LINE>
+//est le meilleur partenaire<LINE>
+//de Tsubasa. <END>
+
+//"SGGK" du Japon.<LINE>
+//Il est allé en Allemagne<LINE>
+//après l'école primaire.<END>
+
+//Capitaine de Musashi Jr.<LINE>
+//High où il est surnommé<LINE>
+//le Prince du terrain.<END>
+
+//Gardien d'Italie. Son "Bras-<LINE>
+//droit en or" fait de lui<LINE>
+//un gardien parfait.<END>
+
+//Capitaine de l'Argentine<LINE>
+//où il est considéré<LINE>
+//comme un génie du ballon.<END>
+
+//Avant-centre de l'Argentine<LINE>
+//qui joue aux côtés de Diaz<LINE>
+//depuis tout jeune.<END>
+
+//Immense défenseur argentin.<LINE>
+//Non seulement puissant, il<LINE>
+//surprend aussi ses adversaires.<END>
+
+//Capitaine français, Pierre<LINE>
+//est au centre de la célèbre<LINE>
+//attaque de son équipe.<END>
+
+//Avant-centre français connu<LINE>
+//pour son jeu avec Pierre<LINE>
+//et son Canon shoot.<END>
+
+//Avant-centre de l'Allemagne.<LINE>
+//Il est grand et utilise<LINE>
+//un efficace jeu de tête.<END>
+
+//Le champion allemand du<LINE>
+//milieu de terrain attaque<LINE>
+//aussi bien qu'il défend.<END>
+
+//Le "King", le buteur vedette<LINE>
+//de l'Allemagne. Il est<LINE>
+//rapide, puissant, technique.<END>
+
+//Milieu de terrain de<LINE>
+//l'Allemagne qui débloque<LINE>
+//rapidement les situations.<END>
+
+//Le mystérieux Géant de fer<LINE>
+//qui protège<LINE>
+//les buts allemands.<END>
+
+//Avant-centre<LINE>
+//de Meiwa-Higashi, il vient<LINE>
+//du Meiwa FC comme Hyuga.<END>
+
+//Capitaine de Minamiuwa,<LINE>
+//il a une bonne vision du jeu<LINE>
+//et est très technique.<END>
+
+//Avant-centre de Minamiuwa,<LINE>
+//il peut jouer agressivement<LINE>
+//grâce à sa grande taille.<END>
+
+//Avant-centre de l'Angleterre,<LINE>
+//il possède un excellent <LINE>
+//jeu de tête.<END>
+
+//Avant-centre de l'Angleterre<LINE>
+//connu pour être un véritable<LINE>
+//renard des surfaces.<END>
+
+//Capitaine de l'Angleterre,<LINE>
+//essentiellement défensif.<END>
+
+//Avant-centre de l'Uruguay,<LINE>
+//la "Panthère sud-américaine"<LINE>
+//marque beaucoup de buts.<END>
+
+//Milieu de terrain de<LINE>
+//l'Uruguay très habile<LINE>
+//en interceptions et passes.<END>
+
+//Défenseur de l'Uruguay,<LINE>
+//il crée des ouvertures<LINE>
+//en attaque.<END>
+
+//Fan de Tsubasa Ozora<LINE>
+//à l'excellente endurance.<END>
+
+//L'ex nº 10 du Brésil.<LINE>
+//Il a entraîné Tsubasa qui<LINE>
+//lui voue un profond respect.<END>
+
+//Non<END>
+
+//Arrêt/180 SP : permet de<LINE>
+//surmonter la peur du ballon<LINE>
+//et de plonger sur la balle.<END>
+
+//Parade/200 SP : permet de<LINE>
+//se jeter sur la balle comme<LINE>
+//Morisaki contre Hanawa.<END>
+
+//Blocage/120 SP : permet de<LINE>
+//bloquer une attaque grâce à<LINE>
+//un corps plus puissant.<END>
+
+//Tacle/80 SP : permet de<LINE>
+//pousser son adversaire<LINE>
+//pour lui prendre le ballon.<END>
+
+//Dribble/80 SP : permet de<LINE>
+//déborder par les ailes<LINE>
+//comme Taki.<END>
+
+//Tir/80 SP : permet de faire<LINE>
+//de longues têtes<LINE>
+//plongeantes comme Izawa.<END>
+
+//Interception/80 SP : permet<LINE>
+//de sauter très haut<LINE>
+//pour intercepter une passe.<END>
+
+//Tir/80 SP : permet de tirer<LINE>
+//comme un excellent buteur<LINE>
+//de Nankatsu.<END>
+
+//Passe/100 SP : permet<LINE>
+//des passes<LINE>
+//comme le Trio de Shutetsu.<END>
+
+//Passe/80 SP : permet<LINE>
+//des passes depuis un Drive<LINE>
+//shoot, dures à intercepter.<END>
+
+//Feinte/60 SP : permet de<LINE>
+//dribbler la balle au-dessus<LINE>
+//de l'adversaire.<END>
+
+//Feinte/60 SP : permet<LINE>
+//un style de dribble<LINE>
+//brésilien.<END>
+
+//Tir/120 SP : permet<LINE>
+//un retourné acrobatique<LINE>
+//dans les airs.<END>
+
+//Tir/180 SP : permet<LINE>
+//un tir brossé qui fait<LINE>
+//plonger la balle.<END>
+
+//Tir/200 SP : Bicyclette<LINE>
+//retournée de Tsubasa lors<LINE>
+//du match contre l'Allemagne.<END>
+
+//Feinte/60 SP : permet de<LINE>
+//passer l'adversaire<LINE>
+//de manière artistique.<END>
+
+//Interception/80 SP : permet<LINE>
+//d'intercepter le ballon<LINE>
+//de façon imprévue.<END>
+
+//Blocage/120 SP : permet<LINE>
+//d'intercepter un tir<LINE>
+//comme Ishizaki.<END>
+
+//Tacle/60 SP : subtilise le<LINE>
+//ballon grâce au travail<LINE>
+//d'équipe du Quartet d'Otomo.<END>
+
+//Tir/100 SP : un tir rapide<LINE>
+//exécuté grâce à l'agilité<LINE>
+//de Nitta.<END>
+
+//Feinte/60 SP : permet de<LINE>
+//dribbler si rapidement que<LINE>
+//l'adversaire ne peut réagir.<END>
+
+//Passe/60 SP : faire une<LINE>
+//passe millimétrée qui peut<LINE>
+//inverser le cours du jeu.<END>
+
+//Passe/60 SP : passe rapide<LINE>
+//que l'adversaire ne peut pas<LINE>
+//intercepter.<END>
+
+//Feinte/70 SP : dribbler<LINE>
+//avec habileté et finesse<LINE>
+//comme Misugi.<END>
+
+//Tir/200 SP : un tir<LINE>
+//miraculeux de Misugi<LINE>
+//qui disparaît.<END>
+
+//Interception/80 SP :<LINE>
+//récupère le ballon<LINE>
+//avec vitesse et agilité.<END>
+
+//Tir/120 SP : faire une tête<LINE>
+//de toutes ses forces.<END>
+
+//Dribble/80 SP : permet de<LINE>
+//forcer le passage à travers<LINE>
+//ses adversaires.<END>
+
+//Feinte/60 SP : dribbler<LINE>
+//avec finesse.<END>
+
+//Tir/100 SP : permet de<LINE>
+//marquer avec tout le monde<LINE>
+//qui glisse.<END>
+
+//Tacle/80 SP : prendre<LINE>
+//la balle en faisant<LINE>
+//tacle sur tacle.<END>
+
+//Passe/60 SP : une passe<LINE>
+//avec effet du Tir en rasoir<LINE>
+//difficile à intercepter.<END>
+
+//Tir/120 SP : tir brossé<LINE>
+//de Souda.<END>
+
+//Blocage/80 SP : bloquer<LINE>
+//l'adversaire en le marquant<LINE>
+//de très près.<END>
+
+//Tacle/100 SP : un tacle<LINE>
+//imprévisible<LINE>
+//pour l'adversaire.<END>
+
+//Tir/120 SP : tir acrobatique<LINE>
+//des frères Tachibana<LINE>
+//dévoilé à Nankatsu.<END>
+
+//Interception/120 SP :<LINE>
+//intercepter les passes<LINE>
+//avec Skylab Hurricane.<END>
+
+//Tir/140 SP : utiliser<LINE>
+//les poteaux pour sauter<LINE>
+//dans les airs et tirer.<END>
+
+//Tir/200 SP : Twin shoot<LINE>
+//aérien des frères Tachibana<LINE>
+//projetés par Jito.<END>
+
+//Passe/70 SP : prendre<LINE>
+//la défense par surprise<LINE>
+//avec une passe brossée.<END>
+
+//Tir/120 SP : frapper<LINE>
+//de toutes ses forces.<END>
+
+//Feinte/80 SP : dribbler<LINE>
+//tout simplement.<END>
+
+//Dribble/80 SP : passer<LINE>
+//ses adversaires avec<LINE>
+//les dribbles agiles de Sano.<END>
+
+//Tir/100 SP : déstabiliser<LINE>
+//l'adversaire en changeant<LINE>
+//soudainement de direction.<END>
+
+//Interception/80 SP : trouver<LINE>
+//une brèche dans la défense<LINE>
+//pour prendre le ballon.<END>
+
+//Tir/80 SP : tir nourri<LINE>
+//de l'esprit<LINE>
+//des terres enneigées.<END>
+
+//Passe/80 SP : une passe<LINE>
+//variante du Eagle shot<LINE>
+//difficile à intercepter.<END>
+
+//Feinte/60 SP : tenir<LINE>
+//au ballon avec obstination.<END>
+
+//Tir/140 SP : un tir<LINE>
+//qui rase le sol.<END>
+
+//Tir/200 SP : un tir capable<LINE>
+//de transpercer une tempête<LINE>
+//de neige.<END>
+
+//Interception/100 SP : une<LINE>
+//interception rapide faite<LINE>
+//à la force des jambes.<END>
+
+//Tacle/80 SP : subtiliser<LINE>
+//le ballon après voir feinté<LINE>
+//un tacle.<END>
+
+//Arrêt/120 SP : attraper<LINE>
+//le ballon avec sang-froid.<END>
+
+//Arrêt/140 SP : attraper<LINE>
+//le ballon en se servant<LINE>
+//du poteau.<END>
+
+//Parade/120 SP : dégager<LINE>
+//un ballon normalement<LINE>
+//imparable.<END>
+
+//Parade/140 SP : repousser<LINE>
+//un puissant ballon<LINE>
+//grâce à une prise de karaté.<END>
+
+//Tir/140 SP : une variante<LINE>
+//du tir de karatéka<LINE>
+//de Wakashimazu.<END>
+
+//Tir/100 SP : une puissante<LINE>
+//reprise de volée<LINE>
+//depuis les airs.<END>
+
+//Passe/80 SP : puissante<LINE>
+//passe variante<LINE>
+//du Tiger shot.<END>
+
+//Feinte/80 SP : foncer<LINE>
+//tout droit en éjectant<LINE>
+//ses adversaires.<END>
+
+//Tir/120 SP : un tir puissant<LINE>
+//créé par Hyuga à Okinawa,<LINE>
+//qui transperce les vagues.<END>
+
+//Tir/200 SP : une version<LINE>
+//améliorée du Tiger shot.<END>
+
+//Tacle/80 SP : tacler avec<LINE>
+//la force d'un Tiger shot.<END>
+
+//Passe/100 SP : une-deux<LINE>
+//du Duo de Toho formé<LINE>
+//par Hyuga et Sawada.<END>
+
+//Feinte/80 SP : feinter<LINE>
+//avec l'adresse relative<LINE>
+//à un corps de petite taille.<END>
+
+//Interception/80 SP : prendre<LINE>
+//la balle en utilisant son<LINE>
+//instinct de milieu.<END>
+
+//Tir/140 SP : frapper<LINE>
+//comme Schneider et délivrer<LINE>
+//une boule de feu.<END>
+
+//Arrêt/180 SP : aborder tous<LINE>
+//les tirs avec une analyse<LINE>
+//rapide et de super réflexes.<END>
+
+//Arrêt/180 SP : attraper<LINE>
+//le ballon d'une main comme<LINE>
+//l'excellent gardien Gino.<END>
+
+//Tir/140 SP : faire un tir<LINE>
+//aussi rapide que l'éclair.<END>
+
+//Feinte/80 SP : dribbler<LINE>
+//ses adversaires<LINE>
+//comme le prodige Diaz.<END>
+
+//Tir/120 SP : frapper<LINE>
+//avec un effet courbé.<END>
+
+//Tir/140 SP : faire une roue<LINE>
+//et un salto arrière, puis<LINE>
+//une Bicyclette retournée.<END>
+
+//Blocage/120 SP : arrêter<LINE>
+//le tir avec le genou<LINE>
+//après un saut acrobatique.<END>
+
+//Tacle/80 SP : subtiliser<LINE>
+//le ballon des deux pieds.<END>
+
+//Feinte/80 SP : repousser<LINE>
+//l'adversaire avec un corps<LINE>
+//de grande taille.<END>
+
+//Blocage/80 SP : arrêter<LINE>
+//un tir en créant un mur<LINE>
+//en face de l'adversaire.<END>
+
+//Tacle/80 SP : subtiliser<LINE>
+//le ballon quand l'adversaire<LINE>
+//saute au-dessus d'un tacle.<END>
+
+//Tir/140 SP : frapper avec la<LINE>
+//force d'un boulet de canon.<END>
+
+//Feinte/80 SP : passer<LINE>
+//son adversaire<LINE>
+//avec un dribble élégant.<END>
+
+//Tir/140 SP : frapper comme<LINE>
+//Pierre pour faire descendre<LINE>
+//instantanément le ballon.<END>
+
+//Tacle/80 SP : subtiliser<LINE>
+//le ballon<LINE>
+//avec un élégant tacle.<END>
+
+//Passe/80 SP : faire un jeu<LINE>
+//de passe calqué sur la forme<LINE>
+//de la Tour Eiffel.<END>
+
+//Tir/120 SP : faire une tête<LINE>
+//puissante dans les airs.<END>
+
+//Tir/120 SP : frapper<LINE>
+//comme Margas.<END>
+
+//Dribble/80 SP : esquiver<LINE>
+//n'importe quel tacle.<END>
+
+//Tir/140 SP : feinter<LINE>
+//le Fire shot.<END>
+
+//Blocage/80 SP : tirer et<LINE>
+//projeter l'adversaire dans<LINE>
+//les airs en un mouvement.<END>
+
+//Tacle/80 SP : prendre<LINE>
+//instantanément le ballon<LINE>
+//comme Schneider.<END>
+
+//Passe/80 SP : faire<LINE>
+//une passe acrobatique<LINE>
+//à travers la défense.<END>
+
+//Dribble/80 SP : utiliser le<LINE>
+//point faible de l'adversaire<LINE>
+//pour le dribbler.<END>
+
+//Tacle/80 SP : subtiliser<LINE>
+//le ballon par un tacle<LINE>
+//précis.<END>
+
+//Feinte/80 SP : dribbler<LINE>
+//comme Karltz en abaissant<LINE>
+//son centre de gravité.<END>
+
+//Tir/120 SP : lober<LINE>
+//le gardien.<END>
+
+//Arrêt/140 SP : arrêter<LINE>
+//n'importe quel tir<LINE>
+//sans trembler.<END>
+
+//Arrêt/180 SP : attraper<LINE>
+//le ballon<LINE>
+//comme s'il était lancé.<END>
+
+//Parade/120 SP : dégager<LINE>
+//le ballon avec le coude.<END>
+
+//Passe/80 SP : faire<LINE>
+//une passe avec<LINE>
+//grande précision.<END>
+
+//Feinte/80 SP : vite bouger<LINE>
+//de gauche à droite<LINE>
+//pour dribbler l'adversaire.<END>
+
+//Tir/120 SP : tirer<LINE>
+//avec une grande précision.<END>
+
+//Interception/80 SP : se<LINE>
+//concentrer pour intercepter<LINE>
+//les passes dangereuses.<END>
+
+//Tacle/80 SP : prendre<LINE>
+//le ballon de l'adversaire<LINE>
+//par le côté.<END>
+
+//Tir/140 SP : Twin shoot<LINE>
+//de Tsubasa et Misaki qui<LINE>
+//vrille de gauche à droite.<END>
+
+//DUMMY_F<END>
+
+//Tir/140 SP : Twin shoot<LINE>
+//des frères Tachibana qui<LINE>
+//vrille de gauche à droite.<END>
+
+//DUMMY_F<END>
+
+//Tir/140 SP : puissant<LINE>
+//retourné avec effet<LINE>
+//de Hyuga et Sawada.<END>
+
+//Passe/60 SP :<LINE>
+//une-deux ultime.<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//Le représentant d'Osaka où<LINE>
+//Makoto Souda joue autant<LINE>
+//en défense qu'en attaque.<END>
+
+//DUMMY_F<END>
+
+//Le représentant d'Akita qui<LINE>
+//exploite le jeu acrobatique<LINE>
+//des frères Tachibana.<END>
+
+//Le représentant de Nagasaki<LINE>
+//dont la combinaison de Jito<LINE>
+//et Sano est terrifiante.<END>
+
+//Le représentant de Hokkaido<LINE>
+//au jeu d'équipe centré sur<LINE>
+//le célèbre Matsuyama.<END>
+
+//Le représentant de Tokyo qui<LINE>
+//rassemble des talents comme<LINE>
+//Hyuga, Sawada, Wakashimazu.<END>
+
+//Une équipe talentueuse qui<LINE>
+//accueille le génie du ballon<LINE>
+//Misugi.<END>
+
+//Le représentant de Nara<LINE>
+//qui a déjà affronté<LINE>
+//Toho Gakuen.<END>
+
+//Le représentant d'Ibaraki<LINE>
+//qui a déjà affronté<LINE>
+//Toho Gakuen.<END>
+
+//Le représentant de Saitama<LINE>
+//qui regroupe de nombreux<LINE>
+//joueurs de Meiwa FC.<END>
+
+//L'équipe qui a affronté<LINE>
+//Furano Junior High en finale<LINE>
+//du Hokkaido Regional.<END>
+
+//Le représentant de Mie<LINE>
+//qui a déjà affronté<LINE>
+//Furano Junior High.<END>
+
+//Le représentant d'Ehime<LINE>
+//avec le capitaine Ishida<LINE>
+//et l'avant-centre Takéi.<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//L'équipe qui a affronté<LINE>
+//Nankatsu SC et qui dispose<LINE>
+//du gardien géant Nakanishi.<END>
+
+//L'équipe de Aoi qui a joué<LINE>
+//contre Nankatsu Junior High<LINE>
+//au Tokaido Regional Event.<END>
+
+//Une équipe allemande qui a<LINE>
+//Schneider en attaque<LINE>
+//et Wakabayashi en défense.<END>
+
+//Équipe du International Jr.<LINE>
+//Youth Tournament qui attaque<LINE>
+//surtout par les ailes.<END>
+
+//Équipe du International Jr.<LINE>
+//Youth Tournament centrée<LINE>
+//sur le célèbre Victorino.<END>
+
+//Équipe du International Jr.<LINE>
+//Youth Tournament centrée sur<LINE>
+//l'excellent gardien Gino.<END>
+
+//Équipe du International Jr.<LINE>
+//Youth Tournament centrée<LINE>
+//sur le talentueux Diaz.<END>
+
+//Équipe du International Jr.<LINE>
+//Youth Tournament centrée<LINE>
+//sur Pierre et Napoléon.<END>
+
+//Équipe du International Jr.<LINE>
+//Youth Tournament à l'attaque<LINE>
+//et la défense parfaites.<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//Les meilleurs joueurs du<LINE>
+//Junior High School<LINE>
+//Tournament.<END>
+
+//L'équipe composée par Yoichi<LINE>
+//Takahashi, le créateur de<LINE>
+//"Captain Tsubasa".<END>
+
+//HISTOIRE "JR. YOUTH"<END>
+
+//HISTOIRE "TOHO"<END>
+
+//HISTOIRE "FURANO"<END>
+
+//HISTOIRE "MUSASHI"<END>
+
+//HISTOIRE "JE SUIS CAPITAINE"<END>
+
+//L'épopée de la conquête<LINE>
+//du monde des All Japan<LINE>
+//Junior Youth !<END>
+
+//La conquête de la première<LINE>
+//coupe de Toho Gakuen<LINE>
+//menée par Hyuga Kojiro.<END>
+
+//L'histoire de l'équipe<LINE>
+//de Furano Junior High menée<LINE>
+//par Matsuyama.<END>
+
+//Après 2 ans d'absence,<LINE>
+//Misugi reprend les rênes<LINE>
+//de Musashi Junior High !<END>
+
+//Mode qui te permet<LINE>
+//d'être le capitaine<LINE>
+//de ta propre équipe !<END>
+
+//L'adversaire<LINE>
+//sélectionne<LINE>
+//son tireur.<END>
+
+//Trop d'objets.<LINE>
+//Échanger cet objet<LINE>
+//avec un autre ?<END>
+
+//Supprimer<LINE>
+//cet objet ?<END>
+
+//Désirez-vous vous <LINE>
+//débarrasser de l'objet ?<END>
+

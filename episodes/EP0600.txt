@@ -1,0 +1,48 @@
+// FILE: EP0600.str containing 11 strings
+
+//Nous sommes enfin en demi-finale,<LINE>
+//et nous affrontons Furano,<LINE>
+//une école réputée très puissante.<END>
+
+//Bien sûr, il faudra se méfier de Matsuyama,<LINE>
+//leur milieu de terrain.<LINE>
+//Mais chez Furano, le véritable danger<LINE>
+//vient de leur jeu d'équipe.<LINE>
+//Nous devons les combattre<LINE>
+//de toutes nos forces !<END>
+
+//Les vingt-deux joueurs prennent place<LINE>
+//sur le terrain sous les acclamations<LINE>
+//des supporters !<END>
+
+//Les joueurs de Furano portent tous<LINE>
+//des bandeaux !<LINE>
+//Ils affichent clairement leur détermination<LINE>
+//à battre Nankatsu !<END>
+
+//Tu as beau être blessé, Tsubasa,<LINE>
+//je n'aurai aucune pitié !<END>
+
+//Plus que deux matchs…<LINE>
+//Je dois gagner !<LINE>
+//Je ne peux pas quitter le Japon<LINE>
+//sur une défaite !<END>
+
+//Tsubasa, tu vas connaître<LINE>
+//la toute puissance du football de Furano !<LINE>
+//Le match d'aujourd'hui va voir<LINE>
+//la défaite de Nankatsu.<END>
+
+//Je ne vais pas perdre, Matsuyama !<END>
+
+//Alors que les deux capitaines échangent<LINE>
+//une solide poignée de main, les joueurs<LINE>
+//se placent sur le terrain.<END>
+
+//Qui sera en finale demain ?<LINE>
+//Le jeu d'équipe de Furano ou l'équilibre<LINE>
+//des talents de Nankatsu ?<END>
+
+//Ça y est ! L'arbitre siffle le début<LINE>
+//de la demi-finale !<END>
+

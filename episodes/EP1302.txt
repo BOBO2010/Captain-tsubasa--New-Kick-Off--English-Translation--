@@ -1,0 +1,63 @@
+// FILE: EP1302.str containing 25 strings
+
+//Tsubasa, on a gagné !<END>
+
+//Oui, on a gagné !<END>
+
+//Je vous l'avais dit !<LINE>
+//Si on joue tous ensemble, on est capables<LINE>
+//de rivaliser avec les meilleurs !<END>
+
+//Nous sommes dans le dernier carré !<END>
+
+//On a battu l'Italie et maintenant<LINE>
+//l'Argentine !<END>
+
+//Continuons sur notre lancée<LINE>
+//et remportons le tournoi !<END>
+
+//Nous avons perdu... J'ai...<END>
+
+//Diaz...<END>
+
+//Nous avons perdu...<END>
+
+//J'étais destiné à devenir<LINE>
+//le meilleur joueur au monde...<END>
+
+//Mais le nº 10 des All Japan Team<LINE>
+//a mis un frein à ma carrière...<END>
+
+//Hé, le nº 10 !<END>
+
+//Dis-moi... Dis-moi ton nom...<END>
+
+//Tsubasa... Tsubasa Ozora.<END>
+
+//Tsubasa...<END>
+
+//Oui.<END>
+
+//Je n'oublierai jamais ce nom.<END>
+
+//Tu veux bien échanger ton maillot<LINE>
+//avec le mien ?<END>
+
+//Bien sûr !<END>
+
+//Bonne chance pour demain…<LINE>
+//et après-demain.<END>
+
+//Merci.<END>
+
+//Et ne l'oublie pas, j'aurai ma revanche.<END>
+
+//Fan Diaz était le meilleur des joueurs<LINE>
+//que j'ai affrontés jusqu'à maintenant…<LINE>
+//J'ai encore beaucoup de chemin à faire.<END>
+
+//Je suis sûr que Roberto me dirait<LINE>
+//de ne pas me contenter de ce match.<END>
+
+//Je dois m'améliorer...<END>
+

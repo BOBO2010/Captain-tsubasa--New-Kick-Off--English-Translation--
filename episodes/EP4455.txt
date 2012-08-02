@@ -1,0 +1,34 @@
+// FILE: EP4455.str containing 12 strings
+
+//Je peux tirer d'ici !<END>
+
+//Misugi va essayer de tirer de sa position !<LINE>
+//La défense de Meiwa-Higashi est<LINE>
+//trop faible !<END>
+
+//Allez !<END>
+
+//Misugi tire vers les buts !<END>
+
+//Le tir de Misugi file tout droit<LINE>
+//vers les filets de Meiwa-Higashi !<END>
+
+//Le gardien va-t-il réagir à temps ?<END>
+
+//!<END>
+
+//Le... Le ballon a disparu !<LINE>
+//But !<END>
+
+//Le tir de Misugi a disparu<LINE>
+//juste devant les mains du gardien !<END>
+
+//Et le ballon s'est enfoncé dans le filet ! <LINE>
+//Mais que s'est-il passé ?<END>
+
+//OK ! Il est dedans !<END>
+
+//Quel tir fabuleux !<LINE>
+//Misugi, le prodige de Musashi, a réussi<LINE>
+//à marquer avec un tir superbe !<END>
+

@@ -1,0 +1,98 @@
+// FILE: EP1452.str containing 35 strings
+
+//À moi le but !<END>
+
+//Pas si vite !<END>
+
+//Les deux joueurs plongent pour la tête !<END>
+
+//Napoléon n'a pas pu bien frapper la balle !<LINE>
+//Wakashimazu s'en empare facilement !<END>
+
+//*coup de sifflet*<END>
+
+//Ohhhhh ! Faute de Souda !<LINE>
+//Penalty pour la France !<END>
+
+//Quoi ?<END>
+
+//*coup de sifflet*<END>
+
+//Carton jaune !<END>
+
+//C'est pas vrai !<END>
+
+//Souda écope d'un 2e carton jaune,<LINE>
+//synonyme d'expulsion !<END>
+
+//Napoléon a reçu un coup de coude<LINE>
+//de la part de Souda<LINE>
+//pendant leur duel aérien.<END>
+
+//Mais ça me semblait involontaire…<LINE>
+//C'est une décision bien sévère<LINE>
+//de la part de l'arbitre.<END>
+
+//Mais non ! Ce n'était pas volontaire !<LINE>
+//Cette expulsion n'est pas juste !<END>
+
+//La All Japan Team conteste cette décision,<LINE>
+//mais la décision de l'arbitre est<LINE>
+//irréversible. Ils vont devoir continuer<LINE>
+//ce match à 10.<END>
+
+//Et pour aggraver la chose, un penalty<LINE>
+//a été sifflé en faveur de la France.<LINE>
+//Un coup dur pour la All Japan Team !<END>
+
+//Je ne mérite pas d'être expulsé !<END>
+
+//Souda n'a pas l'intention<LINE>
+//de quitter le terrain !<END>
+
+//M. l'arbitre, en tant que capitaine<LINE>
+//des All Japan, je conteste cette décision.<END>
+
+//Je ne conteste pas la faute en elle-même…<END>
+
+//Je ne reviendrai pas sur ma décision !<LINE>
+//Compris ?<END>
+
+//Mais, c'est injuste !<END>
+
+//*coup de sifflet*<END>
+
+//Oh ! Un autre carton jaune !<END>
+
+//Le capitaine des All Japan, Tsubasa,<LINE>
+//reçoit un carton jaune !<END>
+
+//C'est une décision sévère de la part de<LINE>
+//l'arbitre ! Mais celle-ci semble être<LINE>
+//accueillie par le public français.<END>
+
+//Tsubasa... Si tu te fais expulser aussi,<LINE>
+//nous n'aurons plus aucune chance.<END>
+
+//Souda se rétracte et quitte le terrain.<LINE>
+//C'est un coup dur pour le Japon !<END>
+
+//Elle Cid Pierre, le capitaine français,<LINE>
+//se positionne pour tirer le penalty.<END>
+
+//Je dois l'arrêter pour Souda !<END>
+
+//Pierre s'élance !<END>
+
+//C'est entre lui et Wakashimazu !<END>
+
+//Urgh !<END>
+
+//Buuuuuuuuuuuuuuuuuuut !<LINE>
+//Wakashimazu n'a pas pu réagir à temps<LINE>
+//et Pierre concrétise le penalty !<END>
+
+//… mais elle était involontaire !<LINE>
+//Veuillez revenir sur votre décision<LINE>
+//d'expulsion !<END>
+

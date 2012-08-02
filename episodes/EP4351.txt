@@ -1,0 +1,35 @@
+// FILE: EP4351.str containing 9 strings
+
+//Musashi est en attaque !<LINE>
+//L'entrée de Musashi a redonné de l'énergie<LINE>
+//à Musashi !<END>
+
+//Musashi est en attaque !<LINE>
+//L'entrée de Misugi a redonné de l'énergie<LINE>
+//à Musashi !<END>
+
+//Arrêtez-les !<END>
+
+//Konishi tente de les mettre sous pression<LINE>
+//pour récupérer la balle, mais<LINE>
+//avec Misugi au centre de son jeu de passes,<LINE>
+//Musashi est beaucoup trop rapide !<END>
+
+//Musashi a déjà fait remonter le ballon<LINE>
+//jusque devant les buts adverses !<END>
+
+//Misugi !<END>
+
+//C'est fini !<END>
+
+//Misugi est complètement démarqué !<LINE>
+//Et le voila qui décoche<LINE>
+//une frappe époustouflante !<END>
+
+//Le ballon est au fond !<LINE>
+//La tentative d'arrêt désespérée d'Omori<LINE>
+//n'aura servi à rien !<LINE>
+//Misugi a conclu l'action<LINE>
+//après quelques passes magnifiques<LINE>
+//de ses coéquipiers !<END>
+

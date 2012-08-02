@@ -1,0 +1,41 @@
+// FILE: EP4301.str containing 9 strings
+
+//Qu'est-ce qui ne va pas ?<LINE>
+//Vous ne jouez pas votre football habituel !<LINE>
+//Ayez confiance en vous,<LINE>
+//jouez comme d'habitude et ces garçons<LINE>
+//ne seront pas une menace pour vous !<END>
+
+//Que vous arrive-t-il ?<LINE>
+//Ça ne vous ressemble pas<LINE>
+//de vous laisser abattre comme ça !<END>
+
+//Nous avons encore le temps.<LINE>
+//Jouons l'offensive en seconde mi-temps<LINE>
+//et gagnons ce match !<LINE>
+//Allez, on y va !<END>
+
+//Musashi fait rentrer Misugi.<LINE>
+//Pourra-t-il guider Musashi vers la victoire<LINE>
+//dans le temps restant à jouer ?<LINE>
+//Et c'est le début de la seconde mi-temps !<END>
+
+//Entraîneur !<LINE>
+//Je vous en prie, faites-moi entrer.<LINE>
+//Si ça continue, nous allons<LINE>
+//nous faire éliminer du tournoi !<END>
+
+//Nous ne sommes pas arrivés<LINE>
+//au niveau national pour perdre ici !<END>
+
+//Misugi... D'accord, mais ne force pas trop.<END>
+
+//Entendu !<END>
+
+//On dirait que Musashi va faire entrer<LINE>
+//Misugi en seconde mi-temps.<LINE>
+//Avec Misugi à ses côtés, Musashi va-t-il<LINE>
+//voir la chance lui sourire ?<LINE>
+//Et c'est le coup d'envoi de la seconde<LINE>
+//mi-temps !<END>
+

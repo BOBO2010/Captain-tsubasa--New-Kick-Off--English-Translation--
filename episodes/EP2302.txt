@@ -1,0 +1,24 @@
+// FILE: EP2302.str containing 7 strings
+
+//Toho Gakuen remporte le match !<LINE>
+//L'équipe accède à la demi-finale !<END>
+
+//Génial ! Nous avons gagné !<END>
+
+//Vous avez vu ça ?<LINE>
+//Le jeu de Toho est unique !<END>
+
+//Nous ne pouvons pas perdre,<LINE>
+//même si notre capitaine<LINE>
+//ne joue pas avec nous !<END>
+
+//Vu l'attitude de l'entraîneur aujourd'hui,<LINE>
+//il ne compte sûrement pas<LINE>
+//faire jouer Hyuga demain.<END>
+
+//Que ferons-nous si Hyuga est encore coincé<LINE>
+//sur le banc ?<END>
+
+//Je dois faire confiance à l'équipe.<LINE>
+//Mais je compte bien jouer demain !<END>
+

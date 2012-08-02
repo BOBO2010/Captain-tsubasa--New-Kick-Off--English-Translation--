@@ -1,0 +1,18 @@
+// FILE: EP3202.str containing 4 strings
+
+//La rencontre est terminée !<LINE>
+//Furano a remporté le premier match !<END>
+
+//Furano semble être la troisième équipe<LINE>
+//la plus forte après Nankatsu et Toho.<LINE>
+//Elle pourrait bien remporter<LINE>
+//un match de qualification !<END>
+
+//Super ! Nous avons facilement gagné<LINE>
+//le premier match !<LINE>
+//Faisons de même pour le prochain match !<END>
+
+//OK !<LINE>
+//Nous rentrerons à Hokkaido<LINE>
+//avec le trophée du vainqueur !<END>
+

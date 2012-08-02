@@ -1,0 +1,49 @@
+// FILE: EP2152.str containing 13 strings
+
+//Chaque joueur doit marquer<LINE>
+//un joueur de l'équipe adverse.<LINE>
+//Ne les laissez pas s'approcher du but !<LINE>
+//Gardez un œil sur Ichinosé,<LINE>
+//Honma et Sanada !<END>
+
+//Wakashimazu, joueur clé de la défense<LINE>
+//de Toho Gakuen, mais aussi<LINE>
+//gardien titulaire de football junior,<LINE>
+//est en train de donner ses consignes !<END>
+
+//Le trio d'attaquants de Musashi<LINE>
+//fait équipe avec Misugi depuis <LINE>
+//l'école primaire. Si le ballon passe<LINE>
+//dans leurs pieds, l'équipe adverse <LINE>
+//n'a qu'à bien se tenir !<END>
+
+//Toho passe à l'attaque.<END>
+
+//Quoi ?!<END>
+
+//Mais Misugi s'empare du ballon !<END>
+
+//Satané Misugi !<END>
+
+//Ouah ! Qui l'aurait cru !<LINE>
+//Misugi se débarrasse du dernier défenseur<LINE>
+//et se dirige seul vers le but sans faire<LINE>
+//une seule passe !<END>
+
+//Bon sang ! Il nous a eus !<END>
+
+//Le gardien, Wakashimazu, sort<LINE>
+//de la cage de but !<END>
+
+//Mais Misugi est un habitué<LINE>
+//des face-à-face !<END>
+
+//Il tire, complètement imperturbable<LINE>
+//face au gardien qui fonce sur lui !<END>
+
+//But !<LINE>
+//Misugi, qui vient à peine d'entrer<LINE>
+//sur le terrain, réussit à marquer un but<LINE>
+//pour Musashi sans avoir affronter<LINE>
+//un seul attaquant !<END>
+

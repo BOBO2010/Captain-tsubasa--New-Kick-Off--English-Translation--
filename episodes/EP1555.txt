@@ -1,0 +1,85 @@
+// FILE: EP1555.str containing 33 strings
+
+//Schester tire !<END>
+
+//Je vais marquer !<END>
+
+//Wakabayashi plonge à temps !<END>
+
+//Ohhhh ! Wakabayashi n'arrête pas le ballon,<LINE>
+//mais le dégage directement !<END>
+
+//Allez !<END>
+
+//Hyuga, à toi de jouer !<END>
+
+//Compte sur moi !<END>
+
+//Tsubasa court vers les buts<LINE>
+//et Sawada se replace à la position<LINE>
+//laissée vacante par Tsubasa !<END>
+
+//Tu sais ce que tu as à faire, Takeshi ?<END>
+
+//Oui !<END>
+
+//Cette fois-ci, Hyuga et Sawada tirent<LINE>
+//en même temps dans le ballon arrivant<LINE>
+//par derrière !<END>
+
+//C'est une reprise de volée<LINE>
+//couplée à un retourné !<END>
+
+//Ça ne marchera pas avec moi !<END>
+
+//Le ballon vacille dans les airs !<END>
+
+//Je vais arrêter ça facilement...<END>
+
+//Hein ?<END>
+
+//Quoi ? Le ballon a dévié de sa course !<END>
+
+//Comment ?!<END>
+
+//Ce n'était pas une frappe au but,<LINE>
+//mais une passe ! Le ballon s'éloigne<LINE>
+//des buts !<END>
+
+//C'est grâce à la différence entre<LINE>
+//la puissance de mon tir et celle de Hyuga<LINE>
+//que le ballon dévie ainsi !<END>
+
+//Misaki court au but ! Cette passe lui était<LINE>
+//destinée !<END>
+
+//À moi de jouer !<END>
+
+//Superbe tête plongeante de Misaki !<END>
+
+//Aaah !<END>
+
+//Mais Muller a anticipé l'action<LINE>
+//et a tendu son bras pour l'arrêter !<END>
+
+//Misaki, tiens bon ! J'arrive !<END>
+
+//Tsubasa !<END>
+
+//Misaki !<END>
+
+//Quoi ?!<END>
+
+//Ahhhh ! Mais que… ?<LINE>
+//Tsubasa a sauté les deux pieds en avant<LINE>
+//dans le dos de Misaki !<END>
+
+//Mueller est vaincu !<END>
+
+//On a réussi !<END>
+
+//Le ballon a passé la ligne des buts<LINE>
+//avec Misaki !<LINE>
+//C'est la paire en or de Nankatsu !...<LINE>
+//Non, du Japon !<END>
+

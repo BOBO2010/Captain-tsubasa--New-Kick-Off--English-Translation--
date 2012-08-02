@@ -1,0 +1,9 @@
+// FILE: exv087.str containing 2 strings
+
+//Je vais te montrer<LINE>
+//le cœur de Furano !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+

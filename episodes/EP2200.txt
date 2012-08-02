@@ -1,0 +1,50 @@
+// FILE: EP2200.str containing 14 strings
+
+//Hein ?<END>
+
+//Ah, ca-capitaine !<END>
+
+//Hyuga !<END>
+
+//Je suis revenu d'Okinawa, entraîneur !<END>
+
+//Je ne compte pas te faire participer<LINE>
+//à ce tournoi, Hyuga !<END>
+
+//Quoi !<END>
+
+//Entraîneur !<END>
+
+//Le premier match du tournoi nous oppose<LINE>
+//à Matsukami Junior High.<LINE>
+//Nous les avons battus<LINE>
+//lors du match de qualification à Tokyo.<LINE>
+//Nous avons donc toutes les chances<LINE>
+//de gagner aujourd'hui !<END>
+
+//En ce qui concerne Hyuga, comme je l'ai<LINE>
+//déjà dit, je ne compte pas le faire<LINE>
+//participer à ce tournoi !<LINE>
+//Sawada sera notre meneur de jeu,<LINE>
+//et le ballon devra être envoyé à Sorimachi,<LINE>
+//notre avant-centre.<END>
+
+//O-oui, entraîneur.<END>
+
+//L'entraîneur a dit qu'il ne fera pas<LINE>
+//entrer Hyuga, mais nous ne pouvons pas<LINE>
+//gagner sans lui, encore moins contre<LINE>
+//Nankatsu !<END>
+
+//Il ne nous reste plus qu'à unir<LINE>
+//nos forces et continuer à gagner<LINE>
+//pour accéder à la finale !<END>
+
+//Il paraît que Hyuga ne va pas jouer<LINE>
+//durant ce match ! Nous n'aurons rien<LINE>
+//à craindre de la défense de Toho.<LINE>
+//Tu prends les commandes et tu mets<LINE>
+//tout ce qu'on a en défense !<END>
+
+//Ouais !<END>
+

@@ -1,0 +1,42 @@
+// FILE: EP0653.str containing 14 strings
+
+//Vélo retourné ! <END>
+
+//Quoi ?!<END>
+
+//Et voici le fameux Vélo retourné<LINE>
+//tant attendu de Tsubasa.<LINE>
+//Matsuyama ne pourra pas bloquer ça !<END>
+
+//Mais le ballon vient de très loin !<LINE>
+//Tsubasa va avoir du mal à le contrôler !<END>
+
+//!!<END>
+
+//Kato a sauté vers le ballon,<LINE>
+//mais il n'a pas réussi à l'atteindre !<END>
+
+//Et c'est un but !<LINE>
+//Le ballon a été parfaitement cadré<LINE>
+//dans la partie droite du but !<LINE>
+//Un superbe tir retourné à longue distance<LINE>
+//de Tsubasa !<END>
+
+//Oh ! Tsubasa va retomber<LINE>
+//sur son épaule blessée !<END>
+
+//Tsubasa !<END>
+
+//Matsuyama était sous Tsubasa<LINE>
+//pour amortir sa chute !<END>
+
+//Matsuyama !<END>
+
+//Tsubasa, tu n'es pas blessé ?<END>
+
+//Merci, Matsuyama.<END>
+
+//Pas la peine de me remercier.<LINE>
+//Je préfère battre un Tsubasa<LINE>
+//en bonne santé.<END>
+

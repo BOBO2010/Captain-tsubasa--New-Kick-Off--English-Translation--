@@ -1,0 +1,43 @@
+// FILE: EP0301.str containing 13 strings
+
+//OK, bien joué les gars !<END>
+
+//Comment te sens-tu, Souda ?<LINE>
+//Tu peux continuer à marquer Tsubasa Ozora<LINE>
+//en seconde mi-temps ?<END>
+
+//Ne vous en faites pas.<LINE>
+//Le match est dans la poche.<LINE>
+//Ce type là... Tsubasa... Il s'est blessé<LINE>
+//à la jambe.<END>
+
+//Hein ?<END>
+
+//OK, on va faire tomber<LINE>
+//les champions en titre !<LINE>
+//On contre-attaque à la première occasion !<END>
+
+//OK.<END>
+
+//Ils s'attendent à ce que vous vous<LINE>
+//impatientiez et que vous commettiez<LINE>
+//une erreur.<LINE>
+//Mais suivez juste la tactique habituelle<LINE>
+//et la victoire est assurée.<END>
+
+//Ouais !<END>
+
+//On va gagner ce match !<END>
+
+//Tsubasa, je sais que c'est pénible<LINE>
+//d'être marqué par lui,<LINE>
+//mais tu dois tenir bon.<END>
+
+//J'ai compris.<END>
+
+//Le moral de l'équipe est au top.<LINE>
+//Je ne peux pas leur parler de ma blessure.<END>
+
+//Je vais juste mettre un bandage dessus<LINE>
+//et continuer la seconde mi-temps...<END>
+

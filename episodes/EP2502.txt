@@ -1,0 +1,201 @@
+// FILE: EP2502.str containing 58 strings
+
+//Et l'arbitre vient de siffler la fin<LINE>
+//du match !<LINE>
+//Le vainqueur du national junior high<LINE>
+//school soccer tournament,<LINE>
+//représentant Tokyo, est Toho Gakuen !<END>
+
+//Nous avons assisté à trois années<LINE>
+//de lutte acharnée entre les mêmes joueurs.<LINE>
+//Ce tournoi permet à Toho Gakuen<LINE>
+//de détrôner le vainqueur en titre,<LINE>
+//Nankatsu !<END>
+
+//Nous avons gagné !<LINE>
+//Nous avons battu Tsubasa et Nankatsu !<END>
+
+//Hyuga !<END>
+
+//Capitaine !<END>
+
+//La participation de Hyuga était<LINE>
+//incertaine, et c'est grâce à Sorimachi,<LINE>
+//Sawada et Wakashimazu, l'équipe a pu <LINE>
+//accéder à la finale.<END>
+
+//Mais l'arrivée de leur atout, Hyuga,<LINE>
+//en deuxième mi-temps de la finale,<LINE>
+//leur a permis de compromettre les projets<LINE>
+//de Nankatsu qui visait une troisième<LINE>
+//victoire.<LINE>
+//Toho Gakuen a enfin remporté le titre<LINE>
+//tant convoité !<END>
+
+//Tsubasa ! J'ai enfin pu te battre, même si<LINE>
+//j'ai dû attendre le dernier moment !<END>
+
+//Hyuga.<END>
+
+//Mais... Si tu avais joué au meilleur<LINE>
+//de ta forme, le résultat aurait peut-être<LINE>
+//été différent.<END>
+
+//Non, les blessures font partie du jeu.<END>
+
+//C'est ta présence sur le terrain, Hyuga,<LINE>
+//qui m'a permis de me donner à fond.<LINE>
+//Toho Gakuen est une équipe<LINE>
+//hors du commun grâce à son capitaine.<LINE>
+//Tu m'as vaincu.<END>
+
+//Tsubasa... Vas-jouer au Brésil !<END>
+
+//Quoi ?<END>
+
+//Je ne devrais peut-être pas te dire ça,<LINE>
+//puisque je viens de ruiner <LINE>
+//ton tableau d'honneur…<LINE>
+//Mais comme je te l'ai déjà dit, tu n'es pas<LINE>
+//le genre de joueurs à passer<LINE>
+//sa vie au Japon.<END>
+
+//Et si tu continues à traîner dans le coin,<LINE>
+//je n'aurai personne d'autre à vaincre<LINE>
+//que toi.<END>
+
+//Hyuga...<END>
+
+//Je crois avoir appris plein choses<LINE>
+//positives sur le football en t'affrontant<LINE>
+//sur le terrain.<END>
+
+//Je veux viser plus haut, tout comme toi.<END>
+
+//Hyuga.<END>
+
+//Je ne sais pas exactement quoi<LINE>
+//pour le moment, mais ça viendra.<END>
+
+//Hyuga. Je... je partirai pour le Brésil<LINE>
+//dès que j'aurai terminé le collège.<END>
+
+//Tsubasa... J'imagine que ceci met<LINE>
+//un terme à notre rivalité... du moins<LINE>
+//pour le moment.<END>
+
+//Oui.<END>
+
+//Les deux capitaines, Hyuga et Tsubasa,<LINE>
+//se félicitent du match qu'ils viennent<LINE>
+//de disputer.<LINE>
+//Ils échangent à présent leurs maillots !<LINE>
+//Ils n'ont aucun regret quant au match.<LINE>
+//Les deux joueurs affichent un visage<LINE>
+//radieux et souriant !<END>
+
+//La bannière rouge de la victoire<LINE>
+//est maintenant remise à Hyuga,<LINE>
+//le capitaine de Toho Gakuen !<END>
+
+//Nous avons gagné ce drapeau<LINE>
+//tous ensemble, les gars !<END>
+
+//C'était du beau travail d'équipe.<LINE>
+//Vous avez bien joué, et remporté<LINE>
+//le premier championnat de Toho Gakuen !<END>
+
+//Entraîneur, veuillez accepter ceci.<END>
+
+//Même si nous avons gagné cette année,<LINE>
+//je n'ai pas rempli mon rôle de capitaine<LINE>
+//de Toho Gakuen, ni celui de coéquipier.<END>
+
+//Tu n'as pas à quitter l'équipe.<LINE>
+//C'est plutôt à moi de le faire.<END>
+
+//J'ai pris cette décision<LINE>
+//lorsque je suis revenu sur mon choix<LINE>
+//de ne pas te faire jouer.<LINE>
+//Nous avons pu cependant gagner, Hyuga.<END>
+
+//...<END>
+
+//Mais je vais bosser comme entraîneur<LINE>
+//dans une autre école, et je ferai<LINE>
+//à ma manière.<LINE>
+//Qui sait, nous serons peut-être adversaires<LINE>
+//lorsque nous nous reverrons, Hyuga.<END>
+
+//M-mais, entraîneur !<END>
+
+//Que vont devenir les autres joueurs<LINE>
+//si vous démissionnez ?<END>
+
+//Si tu es si sûr de toi, tu devras alors<LINE>
+//assumer chacun de tes actes à l'avenir.<LINE>
+//C'est ton devoir.<END>
+
+//Entraîneur.<END>
+
+//Très bien, fin de la discussion !<LINE>
+//Allons-y !<END>
+
+//Membres du club de Toho Gakuen,<LINE>
+//faites une haie d'honneur !<END>
+
+//Rendez hommage à l'entraîneur Kitazumé !<END>
+
+//Merci !<END>
+
+//Vous avez été de bons élèves, les garçons.<END>
+
+//Toho et Nankatsu ont terminé à égalité.<LINE>
+//Les deux équipes n'ont pas réussi<LINE>
+//à se départager. Elles sont par conséquent<LINE>
+//toutes deux proclamées vainqueurs !<END>
+
+//C'est terminé.<END>
+
+//Match nul.<END>
+
+//Et alors que l'arbitre siffle la fin<LINE>
+//du match, les joueurs des deux équipes<LINE>
+//tombent à genoux.<LINE>
+//La déception est trop grande.<END>
+
+//Ceci montre à quel point les joueurs<LINE>
+//ont mené une lutte acharnée<LINE>
+//durant ce match.<END>
+
+//La foule ovationne les deux équipes<LINE>
+//qui ont donné le meilleur d'elles-mêmes<LINE>
+//au cours d'un match difficile.<END>
+
+//C'est ton premier championnat,<LINE>
+//Hyuga !<END>
+
+//Nous avons gagné, capitaine !<END>
+
+//Tsubasa...<END>
+
+//Hyuga.<END>
+
+//Je n'ai finalement pas réussi à te battre.<LINE>
+//Nous avons fait match nul.<END>
+
+//Mais... si tu avais joué au meilleur<LINE>
+//de ta forme, le résultat aurait peut-être<LINE>
+//été différent.<END>
+
+//C'est ta présence sur le terrain, Hyuga,<LINE>
+//qui m'a permis de me donner à fond.<LINE>
+//Toho Gakuen est une équipe<LINE>
+//hors du commun grâce à son capitaine.<LINE>
+//Tu m'as vaincu.<END>
+
+//Tsubasa... J'imagine que ceci met un terme<LINE>
+//à notre rivalité. Du moins pour le moment.<END>
+
+//Oui.<END>
+

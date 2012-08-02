@@ -1,0 +1,39 @@
+// FILE: EP2550.str containing 11 strings
+
+//C'est le moment ! Drive shoot !<END>
+
+//Tsubasa nous fait son super tir,<LINE>
+//le Drive shoot !<END>
+
+//À moi de jouer !<END>
+
+//Le ballon rugit alors qu'il fonce<LINE>
+//vers la cage de but de Toho !<END>
+
+//Le Drive shoot de Tsubasa !<LINE>
+//Il n'y a rien de plus rapide que ce tir.<LINE>
+//Le Tiger shot n'est rien à côté !<LINE>
+//Le ballon fonce droit sur moi !<END>
+
+//Non !<END>
+
+//Oh ! Wakashimazu a réagi à temps,<LINE>
+//mais n'a pas réussi à l'atteindre !<LINE>
+//Le ballon passe à côté de lui !<END>
+
+//Ouah ! Une explosion !<LINE>
+//Le ballon a littéralement explosé !<LINE>
+//Il a éclaté en touchant la transversale !<END>
+
+//Il s'écrase...<LINE>
+//Non, il ne s'écrase pas…<LINE>
+//On dirait plutôt qu'il danse…<LINE>
+//Qu'il danse pour rejoindre le sol.<END>
+
+//Le Drive shoot de Tsubasa est vraiment<LINE>
+//d'une puissance incroyable !<END>
+
+//La prochaine fois je l'arrêterai !<LINE>
+//Ce tir m'a fait comprendre<LINE>
+//comment y arriver !<END>
+

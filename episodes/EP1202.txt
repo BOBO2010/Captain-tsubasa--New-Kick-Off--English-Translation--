@@ -1,0 +1,39 @@
+// FILE: EP1202.str containing 15 strings
+
+//On a... perdu...<END>
+
+//Hernandez a pris un but...<END>
+
+//Mon Bras-droit en or m'a lâché…<LINE>
+//On a perdu.<END>
+
+//L'Italie a perdu...<END>
+
+//Cette All Japan Team ne ressemble<LINE>
+//pas du tout à l'équipe qu'on avait<LINE>
+//affrontée.<END>
+
+//Oui.<END>
+
+//Ils se débrouillent pas mal, ces Japonais.<END>
+
+//Beau tir, Hyuga.<END>
+
+//Tsubasa... J'ai réalisé.<END>
+
+//Quoi donc ?<END>
+
+//Pendant ces trois dernières années,<LINE>
+//tout ce qui m'importait<LINE>
+//était de te surpasser.<END>
+
+//Mais, j'ai réalisé que je devais viser<LINE>
+//encore plus haut.<END>
+
+//Hyuga...<END>
+
+//Je...<END>
+
+//Je veux devenir le meilleur attaquant,<LINE>
+//le meilleur nº 9 du monde !<END>
+

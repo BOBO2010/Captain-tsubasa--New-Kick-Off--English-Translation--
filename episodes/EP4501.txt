@@ -1,0 +1,70 @@
+// FILE: EP4501.str containing 18 strings
+
+//Le coup de sifflet marque la fin de<LINE>
+//la première mi-temps !<LINE>
+//Nous voici arrivés à la moitié du match<LINE>
+//opposant Musashi à Nankatsu.<END>
+
+//Entraîneur !<END>
+
+//Qu'y a-t-il, Misugi ?<END>
+
+//Je veux jouer jusqu'à la fin du match !<END>
+
+//Je me sens très bien !<LINE>
+//Je vais me reposer pendant la pause,<LINE>
+//ainsi je serai assez en forme<LINE>
+//pour me donner à fond<LINE>
+//pendant les trente minutes<LINE>
+//de la seconde mi-temps !<END>
+
+//Ce n'est pas ce que ton médecin avait dit !<END>
+
+//Mais je dois absolument participer<LINE>
+//à ce match ! Pour bloquer Tsubasa<LINE>
+//et battre Nankatsu...<END>
+
+//Si vous voyez que je ne me sens pas bien,<LINE>
+//remplacez-moi immédiatement !<END>
+
+//Très bien...<LINE>
+//Je te ferai sortir<LINE>
+//au moindre signe de fatigue.<END>
+
+//Merci beaucoup, entraîneur !<END>
+
+//Vous avez fait jusqu'à présent<LINE>
+//un match parfait. Votre défense <LINE>
+//face a Nankatsu a été impeccable. <LINE>
+//En seconde mi-temps, comme d'habitude,<LINE>
+//vous attaquerez en passant <LINE>
+//la balle à Misugi.<END>
+
+//Comme Misugi et Tsubasa sont tous les deux<LINE>
+//milieux de terrain,<LINE>
+//la bataille va y être rude.<END>
+
+//Alors n'hésitez pas à venir<LINE>
+//donner un coup de main à Misugi.<LINE>
+//Si vous parvenez à jouer ce match<LINE>
+//comme vous avez joué les précédents,<LINE>
+//vous devriez écraser Nankatsu.<END>
+
+//Oui, entraîneur !<END>
+
+//OK ! Je vais tout donner<LINE>
+//pour les trente dernières minutes !<LINE>
+//Nous allons écraser Nankatsu !<LINE>
+//C'est nous qui allons repartir<LINE>
+//avec le drapeau de la victoire !<END>
+
+//Ouais !<END>
+
+//Plus que trente minutes...<LINE>
+//Je vais me battre jusqu'au bout<LINE>
+//contre Tsubasa et Nankatsu !<END>
+
+//Et nous arrivons dans les trente dernières<LINE>
+//minutes de cette finale tant attendue.<LINE>
+//Et c'est le coup d'envoi.<END>
+

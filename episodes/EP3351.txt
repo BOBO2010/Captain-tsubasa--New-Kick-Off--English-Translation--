@@ -1,0 +1,18 @@
+// FILE: EP3351.str containing 6 strings
+
+//Les joueurs de Furano passent le ballon<LINE>
+//à Oda !<LINE>
+//Mais il n'y a aucun défenseur<LINE>
+//devant les buts de Minamiuwa !<END>
+
+//Je l'ai !<END>
+
+//L'avant-centre Oda tire !<END>
+
+//Ah ! Il manque son tir !<END>
+
+//Argh…<END>
+
+//Furano a manqué une belle occasion de<LINE>
+//marquer !<END>
+

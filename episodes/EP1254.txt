@@ -1,0 +1,86 @@
+// FILE: EP1254.str containing 28 strings
+
+//!!!<END>
+
+//Splendide ! Tsubasa fait une roulette<LINE>
+//pour lober son adversaire !<END>
+
+//Il efface le défenseur par le côté !<LINE>
+//C'est une action en deux temps !<END>
+
+//Mais ce n'est pas fini !<LINE>
+//Après avoir effacé le défenseur,<LINE>
+//Tsubasa conclut avec une autre de<LINE>
+//ses spécialités, la Bicyclette retournée !<END>
+
+//Tsubasa nous montre ici<LINE>
+//toute l'étendue de sa technicité !<LINE>
+//Ce sera finalement une action<LINE>
+//en trois temps !<END>
+
+//Allez !<END>
+
+//Mais Hernandez est sur la trajectoire<LINE>
+//du ballon !<END>
+
+//Il repousse la balle ! Hernandez a réussi<LINE>
+//à bloquer la bicyclette retournée de<LINE>
+//Tsubasa !<END>
+
+//Mais le ballon revient<LINE>
+//dans les pieds de Tsubasa...<END>
+
+//Je continuerai à tirer<LINE>
+//jusqu'à ce que ça rentre !<END>
+
+//Attrape-moi ça, Hernandez !<END>
+
+//Waouh ! Hernandez a suivi l'action<LINE>
+//et est déjà sur la trajectoire du ballon !<END>
+
+//On ne va pas perdre !<END>
+
+//Qu-quel arrêt ! Quel gardien !<END>
+
+//Il a repoussé les deux tirs de Tsubasa !<END>
+
+//Impossible...<END>
+
+//Attendez ! Un joueur fonce à une vitesse<LINE>
+//impressionnante vers le ballon dévié !<END>
+
+//C'est le nº 9 des All Japan Jr. Youth,<LINE>
+//l'avant-centre Kojiro Hyuga !<END>
+
+//All Italy Jr. Youth Team,<LINE>
+//c'est l'heure de la revanche !<END>
+
+//Vous allez goûter à mon tir,<LINE>
+//vous qui avez méprisé notre football,<LINE>
+//vous qui n'avez pas accepté<LINE>
+//de nous affronter en match amical !<END>
+
+//Je ne vais pas te laisser marquer !<LINE>
+//Pas tant que j'aurai mon Bras-droit en or !<END>
+
+//Prends ça ! Neo tiger shot !<END>
+
+//Hernandez arrête le ballon !<END>
+
+//Le suspense aura duré<LINE>
+//jusqu'aux dernières secondes du match,<LINE>
+//mais le sort de All Japan Team a été scellé<LINE>
+//par le Bras-droit en or de ce gardien<LINE>
+//sans faille !<END>
+
+//Aaaah !<END>
+
+//Mais, qu'est-ce qui se passe ?<LINE>
+//Il n'arrive pas à contenir le ballon !<END>
+
+//Buuuut ! C'est un buuuuut !<END>
+
+//Le tir de Hyuga, trop puissant<LINE>
+//pour le Bras-droit en or d'Hernandez,<LINE>
+//est entré au fond des filets !<END>
+

@@ -1,0 +1,53 @@
+// FILE: EP0754.str containing 17 strings
+
+//Tsubasa défie Hyuga en face-à-face !<END>
+
+//Et cette fois, c'est Hyuga qui l'emporte.<END>
+
+//Hyuga remonte le terrain seul<LINE>
+//tout en dribblant.<END>
+
+//Je refuse de perdre !<LINE>
+//Je refuse de perdre encore une fois !<LINE>
+//Que ce soit contre Tsubasa<LINE>
+//ou n'importe qui !<END>
+
+//Grrr ! Je vais lui reprendre le ballon<LINE>
+//pour venger Tsubasa !<END>
+
+//Prends ça, Hyuga !<END>
+
+//Kisugi se rue violemment…<END>
+
+//… pour tacler Hyuga de plein fouet !<END>
+
+//Ça... Ça ne l'a pas du tout perturbé !<END>
+
+//Hmmm ! Si un seul joueur ne suffit pas,<LINE>
+//alors allons-y tous ensemble !<END>
+
+//Une vague de joueurs de Nankatsu<LINE>
+//se rapproche de lui !<END>
+
+//Amenez-vous si ça vous chante !<LINE>
+//Et essayez donc de m'arrêter !<LINE>
+//Peu importe votre nombre !<END>
+
+//Goûtez donc à mon Tiger shot !<END>
+
+//Argh !<END>
+
+//Hyuga défie le raz-de-marée !<LINE>
+//Et ce sont les autres joueurs<LINE>
+//qui sont éjectés !<END>
+
+//Hyuga a brisé la déferlante avec son Tiger<LINE>
+//shot ! Le gardien Morisaki n'a pas eu<LINE>
+//le temps de réagir !<END>
+
+//C'est vraiment impressionnant !<LINE>
+//Le Tiger shot de Hyuga<LINE>
+//est un rouleau compresseur !<LINE>
+//Ce superbe tir permet à Toho<LINE>
+//d'inscrire un but !<END>
+

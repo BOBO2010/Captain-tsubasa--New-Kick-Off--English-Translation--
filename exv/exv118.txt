@@ -1,0 +1,35 @@
+// FILE: exv118.str containing 12 strings
+
+//Ici !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Je n'abandonnerai pas<LINE>
+//le ballon !<END>
+
+//Je l'ai !<END>
+
+//!!<END>
+
+//Maintenant !<END>
+
+//Je vais marquer !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Essaie donc de me faire tomber !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Pas terrible !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+

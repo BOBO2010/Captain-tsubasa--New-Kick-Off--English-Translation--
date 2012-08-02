@@ -1,0 +1,30 @@
+// FILE: EP4202.str containing 6 strings
+
+//Le coup de sifflet marque<LINE>
+//la fin du match.<LINE>
+//Musashi Junior High remporte<LINE>
+//son premier match !<END>
+
+//Misugi avait attiré l'attention<LINE>
+//lors des phases qualificatives,<LINE>
+//mais il n'a pas joué aujourd'hui.<LINE>
+//Au lieu de cela, nous avons vu Matsukami<LINE>
+//se faire anéantir par le travail d'équipe<LINE>
+//de Musashi.<END>
+
+//Après l'absence de Misugi, tout le monde<LINE>
+//se demande si on va le voir jouer<LINE>
+//lors de ce tournoi national...<END>
+
+//Bien joué, les gars !<LINE>
+//Vous avez fait un très bon match !<LINE>
+//Vous pouvez avoir confiance en vous !<END>
+
+//Vous avez tous très bien joué.<LINE>
+//Vous n'avez même pas eu besoin de moi !<END>
+
+//Le tournoi débute à peine.<LINE>
+//Mais plus on va avancer,<LINE>
+//plus les matchs vont devenir difficiles.<LINE>
+//C'est à ce moment que je ferai mon entrée.<END>
+

@@ -1,0 +1,24 @@
+// FILE: EP1101.str containing 7 strings
+
+//Son Fire shot...<LINE>
+//C'est vrai que c'est un tir impressionnant,<LINE>
+//mais...<END>
+
+//Je ne vais pas les laisser marquer<LINE>
+//un seul but de plus !<END>
+
+//Wakashimazu...<END>
+
+//Il faut marquer un but.<END>
+
+//Si on arrive à marquer en premier<LINE>
+//dans la deuxième mi-temps,<LINE>
+//on pourra revenir dans le match !<END>
+
+//S'ils marquent encore un but,<LINE>
+//c'est la défaite assurée.<LINE>
+//Il faut qu'on marque !<LINE>
+//FC Allemagne, vous allez voir !<END>
+
+//C'est parti, Wakabayashi !<END>
+

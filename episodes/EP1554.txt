@@ -1,0 +1,45 @@
+// FILE: EP1554.str containing 16 strings
+
+//À nous de jouer, Hyuga !<END>
+
+//Tsubasa…<LINE>
+//Tu penses à la même chose que moi ?<LINE>
+//Le coup franc de tout à l'heure...<END>
+
+//J'ai pensé que peut-être<LINE>
+//si on tirait en même temps...<END>
+
+//Mais qu'est-ce qui se passe ?<END>
+
+//Drive shoot !<END>
+
+//Tiger shot !<END>
+
+//Waouh ! Tsubasa et Hyuga frappent<LINE>
+//en même temps ! C'est un Tiger shot<LINE>
+//et Drive shoot combinés !<END>
+
+//Un... Drive tiger twin shoot !<END>
+
+//Allez !<END>
+
+//L'arme secrète du Japon est sans doute<LINE>
+//le tir ultime !<END>
+
+//Les Drive shoot et Tiger shot propulsent<LINE>
+//le ballon à une vitesse hallucinante<LINE>
+//vers le but !<END>
+
+//Je l'ai !<END>
+
+//Qu-quoi ?<END>
+
+//Aaaaah ! C'est incroyable ! Muller vient<LINE>
+//d'effectuer un superbe arrêt !<END>
+
+//Hmmm...<END>
+
+//Dieter Muller, le gardien allemand,<LINE>
+//a arrêté le Drive tiger twin shoot<LINE>
+//de Hyuga et Tsubasa !<END>
+

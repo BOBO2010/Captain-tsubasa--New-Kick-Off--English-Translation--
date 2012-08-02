@@ -1,0 +1,30 @@
+// FILE: EP4550.str containing 10 strings
+
+//Musashi porte l'attaque<LINE>
+//dans la moitié de terrain de Nankatsu.<LINE>
+//Tsubasa, qui occupe un poste à la fois<LINE>
+//offensif et défensif, va au contact !<END>
+
+//Oh !<END>
+
+//Tsubasa a facilement intercepté le ballon.<END>
+
+//OK, prépare-toi, Taki !<END>
+
+//Il passe la balle à son ailier, Taki !<END>
+
+//À toi, Kisugi !<END>
+
+//Taki la passe à Kisugi !<LINE>
+//La rapidité et la fluidité des attaques<LINE>
+//de Nankatsu leur assurent<LINE>
+//la maîtrise du terrain !<END>
+
+//Leurs passes sont si rapides !<END>
+
+//Allez !<END>
+
+//Kisugi a transformé la passe de Taki !<LINE>
+//Nankatsu a marqué sur une attaque<LINE>
+//d'une rapidité foudroyante !<END>
+

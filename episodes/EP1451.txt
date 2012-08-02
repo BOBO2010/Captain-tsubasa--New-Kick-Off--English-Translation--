@@ -1,0 +1,100 @@
+// FILE: EP1451.str containing 34 strings
+
+//Ha ! Personne ne peut m'arrêter !<END>
+
+//La passe, Napoléon !<END>
+
+//Pierre !<END>
+
+//Où est-ce que tu regardes ? Prends ça !<LINE>
+//Tacle en rasoir !<END>
+
+//C'est un tacle très appuyé<LINE>
+//de la part de Souda !<LINE>
+//Napoléon parvient néanmoins à passer<LINE>
+//le ballon !<END>
+
+//Mais Souda emporté par son élan,<LINE>
+//fauche Napoléon !<END>
+
+//C'est pas possible !<END>
+
+//Hein ?<END>
+
+//Pierre a le ballon, l'arbitre décide<LINE>
+//de laisser jouer l'avantage !<END>
+
+//On y va !<END>
+
+//Misaki se lance immédiatement<LINE>
+//à ses trousses !<END>
+
+//Je ne vais pas te laisser faire<LINE>
+//aussi facilement !<END>
+
+//Je vais l'arrêter !<END>
+
+//Ishizaki vient au secours de Misaki.<END>
+
+//Je n'y crois pas !<LINE>
+//Pierre fonce volontairement sur Ishizaki !<END>
+
+//Mais à quoi il pense ?<LINE>
+//Je vais récupérer le ballon !<END>
+
+//Hein ! Il a disparu ?<END>
+
+//Oh, mais quel saut !<LINE>
+//Pierre reste en suspension<LINE>
+//tel un papillon dans le ciel !<END>
+
+//Hé hé…<LINE>
+//Vous allez voir de quoi je suis capable.<LINE>
+//Je vais vous dévoiler mon...<END>
+
+//Slider shoot !<END>
+
+//Pierre tire de loin !<END>
+
+//Un tir de loin ?<LINE>
+//Est-ce une frappe enroulée<LINE>
+//comme Tsubasa et Diaz,<LINE>
+//ou bien un tir puissant<LINE>
+//comme Hyuga ou Schneider ? <END>
+
+//Il ne semble pas y avoir d'effet dans<LINE>
+//la balle, et il n'est pas aussi puissant<LINE>
+//que les Tiger et Fire shots !<LINE>
+//Je vais l'arrêter sans problème !<END>
+
+//Wakashimazu plonge !<END>
+
+//Qu-quoi ?<END>
+
+//Ohhh, c'est le buuuuuuuuuuut !<LINE>
+//Wakashimazu était sur le point d'attraper<LINE>
+//le ballon, mais celui-ci est instantanément<LINE>
+//tombé et a rebondi dans le but !<END>
+
+//M-mais c'était quoi comme tir, ça ?<END>
+
+//Pierre nous régale d'un tir inédit !<END>
+
+//Vous avez vu ça ? C'est le Slider shoot !<END>
+
+//Oh ! Mais qu'est-ce qui se passe<LINE>
+//de l'autre côté du terrain ?<LINE>
+//Ça chauffe entre Napoléon et Souda !<END>
+
+//*coup de sifflet*<END>
+
+//Les joueurs des deux équipes accourent<LINE>
+//pour les séparer.<END>
+
+//Il semble que Napoléon s'est plaint<LINE>
+//auprès de Souda de son tacle,<LINE>
+//et qu'ils en sont venus aux mains.<END>
+
+//Carton jaune pour les deux joueurs !<LINE>
+//La tension monte d'un cran !<END>
+

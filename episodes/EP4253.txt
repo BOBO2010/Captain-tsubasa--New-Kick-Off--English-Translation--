@@ -1,0 +1,22 @@
+// FILE: EP4253.str containing 6 strings
+
+//Sanada remonte dans la moitie de terrain<LINE>
+//de Matsukami !<LINE>
+//Il est rapide !<END>
+
+//Je vais marquer celui-là tout seul !<LINE>
+//Prenez ça !<END>
+
+//Sanada trouve une ouverture et tire !<END>
+
+//Allez !<END>
+
+//But !<LINE>
+//Le ballon a fini dans les filets<LINE>
+//de Matsukami !<END>
+
+//Qu'est-ce que vous pensez de ça, hein ?<LINE>
+//Si vous vous imaginiez que<LINE>
+//nous n'étions pas dangereux sans Misugi,<LINE>
+//vous allez le regretter !<END>
+

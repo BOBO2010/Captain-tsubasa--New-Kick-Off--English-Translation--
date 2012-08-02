@@ -1,0 +1,140 @@
+// FILE: EP0702.str containing 38 strings
+
+//Ça y est. L'arbitre vient de siffler<LINE>
+//la fin de la seconde mi-temps.<END>
+
+//Aucune des deux équipes n'a pu marquer<LINE>
+//le but de la victoire<LINE>
+//lors des soixante minutes précédentes.<LINE>
+//La finale du tournoi national<LINE>
+//opposant Nankatsu à Toho se prolonge donc<LINE>
+//de deux autres mi-temps de dix minutes.<LINE>
+//Vingt minutes de plus de lutte acharnée...<END>
+
+//Tsu... Tsubasa !<LINE>
+//Que s'est-il passé ?<END>
+
+//Hé, Tsubasa !<END>
+
+//Bon, les gars, on va devoir jouer<LINE>
+//les prolongations.<END>
+
+//Tsu... Tsubasa...<LINE>
+//Tu te sens bien ?<END>
+
+//Tsubasa, je suis désolé<LINE>
+//mais je ne peux pas te laisser jouer<LINE>
+//plus longtemps.<END>
+
+//Tu as accompli un travail formidable,<LINE>
+//mais tu dois maintenant écouter le médecin.<LINE>
+//Ta jambe et ton épaule ont besoin<LINE>
+//d'être soignées.<END>
+
+//Oui, Tsubasa.<LINE>
+//En tant que médecin,<LINE>
+//je ne peux pas t'autoriser à retourner<LINE>
+//sur le terrain.<LINE>
+//Allez, accompagne-moi à l'infirmerie.<END>
+
+//Docteur, vous vous souvenez de la promesse<LINE>
+//que vous m'aviez faite ?<END>
+
+//Laquelle ?<END>
+
+//Je suis toujours debout.<LINE>
+//Je ne suis pas tombé.<LINE>
+//N'est-ce pas ?<END>
+
+//Je vous en supplie. Laissez-moi aller<LINE>
+//au bout de ce que mon corps peut endurer.<END>
+
+//Je dois retourner sur le terrain<LINE>
+//pour affronter Hyuga.<END>
+
+//Je vais jouer les prolongations !<END>
+
+//Docteur, vous croyez vraiment qu'un joueur<LINE>
+//blessé et diminué aurait pu jouer<LINE>
+//comme il a joué ?<END>
+
+//Quand Tsubasa ne pourra plus bouger<LINE>
+//et qu'il handicapera l'équipe...<LINE>
+//nous le remplacerons.<END>
+
+//Les gars...<END>
+
+//Mais pour l'instant,<LINE>
+//Nankatsu a encore besoin de Tsubasa.<END>
+
+//Tsubasa, pourquoi tu n'irais pas te reposer<LINE>
+//sur le banc ?<LINE>
+//Ça devrait te redonner un peu d'énergie.<END>
+
+//Ishizaki...<END>
+
+//On va aller jusqu'au bout tous ensemble,<LINE>
+//jusqu'à notre troisième titre national !<LINE>
+//D'accord, Tsubasa ?<END>
+
+//Oui.<END>
+
+//Plus qu'un match, un seul match,<LINE>
+//et c'est fini.<END>
+
+//Hyuga.<END>
+
+//Vous avez bien joué<LINE>
+//pendant ces soixante minutes.<LINE>
+//Alors récupérez bien<LINE>
+//pour les vingt dernières minutes !<END>
+
+//OK !<END>
+
+//Wakashimazu, tu ne peux plus te servir<LINE>
+//que de ta main droite,<LINE>
+//mais tu vas quand même être notre gardien<LINE>
+//pour les vingt prochaines minutes.<END>
+
+//Ou-oui, entraîneur ! Bien sûr !<END>
+
+//Et voici enfin le début des prolongations<LINE>
+//de la finale du National Junior High School<LINE>
+//Tournament.<END>
+
+//Le match a été splendide, et digne<LINE>
+//de ce que l'on attendait d'un match<LINE>
+//destiné à couronner<LINE>
+//la meilleur équipe du pays.<LINE>
+//Nankatsu et Toho méritent<LINE>
+//toutes les deux la victoire.<END>
+
+//Est-ce que ce sera Nankatsu,<LINE>
+//qui vise un troisième titre national<LINE>
+//consécutif historique ?<LINE>
+//Ou est-ce que la troisième tentative<LINE>
+//sera la bonne pour Toho<LINE>
+//qui rêve de sa première victoire ?<END>
+
+//Les dix première minutes des prolongations<LINE>
+//vont bientôt commencer<LINE>
+//devant un stade plein à craquer.<END>
+
+//Si aucune des deux équipes ne l'emporte,<LINE>
+//elles seront toutes les deux<LINE>
+//déclarées gagnantes.<END>
+
+//Les amis…<LINE>
+//Je ne serais jamais arrivé là<LINE>
+//sans votre aide.<END>
+
+//Mais je serai bientôt seul,<LINE>
+//car au terme de notre troisième titre<LINE>
+//national consécutif,<LINE>
+//je partirai pour le Brésil.<END>
+
+//Merci les amis. Merci pour tout.<END>
+
+//C'est à Nankatsu de donner le coup d'envoi<LINE>
+//des prolongations.<END>
+

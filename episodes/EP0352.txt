@@ -1,0 +1,43 @@
+// FILE: EP0352.str containing 13 strings
+
+//Grrr... Il n'y a que ça qui marchera...<END>
+
+//Ah ! Tsubasa s'est rapidement placé<LINE>
+//en position de tir !<END>
+
+//Regarde-moi, Roberto !<END>
+
+//Quoi ?<END>
+
+//Drive shoot !<END>
+
+//Souda ne pourra pas le bloquer<LINE>
+//avec un tacle effectué trop tard !<LINE>
+//Et Tsubasa tire à longue distance !<END>
+
+//Mais le tir est mal cadré.<LINE>
+//Le ballon monte trop haut…<LINE>
+//Il va heurter la barre transversale...<END>
+
+//Quoi ? Le ballon retombe d'un seul coup !<END>
+
+//Comment ?!<END>
+
+//Le ballon n'a pas soudainement perdu<LINE>
+//de sa puissance.<LINE>
+//Non, en fait Tsubasa avait mis un effet !<END>
+
+//Et il est dedans !<LINE>
+//Le gardien n'a même pas eu<LINE>
+//le temps de bouger !<END>
+
+//Ah, excusez-moi. Le ballon a atterri<LINE>
+//dans les filets au-dessus de la cage.<LINE>
+//Le but n'est pas pour cette fois.<END>
+
+//Mais ça n'est pas passé loin.<LINE>
+//Regardez, le tir de Tsubasa <LINE>
+//était si puissant<LINE>
+//que le ballon s'est coincé<LINE>
+//entre les mailles du filet !<END>
+

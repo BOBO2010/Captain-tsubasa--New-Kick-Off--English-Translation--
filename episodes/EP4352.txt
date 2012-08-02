@@ -1,0 +1,30 @@
+// FILE: EP4352.str containing 9 strings
+
+//C'est une occasion pour Konishi<LINE>
+//qui est déjà très loin dans la moitié<LINE>
+//de terrain adverse !<END>
+
+//Il passe le ballon loin vers l'avant !<LINE>
+//Ils vont tenter une contre-attaque !<END>
+
+//Oui, c'est ça !<END>
+
+//Maintenant !<END>
+
+//*coup de sifflet*<END>
+
+//Il y a hors-jeu !<LINE>
+//C'est le piège favori de Misugi !<END>
+
+//Au signal de Misugi,<LINE>
+//toute la défense de Musashi s'est avancée,<LINE>
+//laissant le joueur de Konishi<LINE>
+//en position de hors-jeu !<END>
+
+//Comment ?!<END>
+
+//Avec cette passe, Konishi aurait eu<LINE>
+//une magnifique occasion,<LINE>
+//mais ils sont tombés dans le piège<LINE>
+//du hors-jeu de Misugi.<END>
+

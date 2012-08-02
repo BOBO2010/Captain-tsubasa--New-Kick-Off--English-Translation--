@@ -1,0 +1,52 @@
+// FILE: EP2557.str containing 17 strings
+
+//Oh ! Et Tsubasa esquive !<LINE>
+//Il conserve le ballon et fonce droit<LINE>
+//vers les buts de Toho !<END>
+
+//Grrr ! Je ne vais pas te laisser jouer<LINE>
+//sur l'offensive !<END>
+
+//Mais voici Sawada qui déséquilibre<LINE>
+//Tsubasa au niveau des chevilles<LINE>
+//alors qu'il est en possession du ballon !<END>
+
+//Ici, Kisugi, Taki !<END>
+
+//Mais Tsubasa fait une passe, empêchant<LINE>
+//ainsi Sawada de prendre le ballon !<LINE>
+//Il l'envoie à Taki et Kisugi,<LINE>
+//le Silver duo de Nankatsu !<END>
+
+//Et Kisugi fait une tête plongeante !<END>
+
+//Taki !<END>
+
+//Oh ! Il ne tire pas.<LINE>
+//Il pivote sur lui-même et fait une passe<LINE>
+//à Taki qui se trouve de l'autre côté !<END>
+
+//OK, allons-y !<END>
+
+//Taki fait à son tour une tête plongeante !<END>
+
+//Wakashimazu se trouve dos à eux !<LINE>
+//Il lutte tant bien que mal pour pivoter<LINE>
+//et attraper le ballon !<END>
+
+//Ah !<END>
+
+//Wakashimazu rate sa cible !<END>
+
+//Tégatana !<END>
+
+//Quoi ?<END>
+
+//Ah ! Il l'a bloqué !<LINE>
+//Il ne l'a pas repoussé du poing !<LINE>
+//Il a touché le ballon du bout des doigts<LINE>
+//pour l'éloigner !<END>
+
+//Belle action de Wakashimazu qui évite<LINE>
+//à Toho d'encaisser un but de Nankatsu !<END>
+

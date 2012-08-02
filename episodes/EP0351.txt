@@ -1,0 +1,23 @@
+// FILE: EP0351.str containing 7 strings
+
+//Tsubasa file vers le ballon,<LINE>
+//mais il est dos aux buts.<END>
+
+//Ah ! On va peut-être assister<LINE>
+//à son retourné favori !<END>
+
+//J'ai enfin une occasion.<LINE>
+//Je ne vais pas la gâcher !<END>
+
+//C'est ça, ton plan ?<END>
+
+//Oh ! Souda bondit<LINE>
+//pour une reprise de volée !<END>
+
+//Les deux joueurs se percutent<LINE>
+//dans les airs !<LINE>
+//Le ballon est retombé !<LINE>
+//Souda a bloqué le tir retourné de Tsubasa !<END>
+
+//Et les deux joueurs retombent ensemble !<END>
+

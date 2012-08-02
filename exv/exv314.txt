@@ -1,0 +1,42 @@
+// FILE: exv314.str containing 14 strings
+
+//Je dois être à la hauteur<LINE>
+//de ma réputation !<END>
+
+//Un seul génie suffit !<END>
+
+//C'est ma chance !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Après ça, ce sera fini !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Regarde un peu ça !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Ouais ! J'y vais !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Pascual ! On y va !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Je ne vais pas te simplifier<LINE>
+//la tâche !<END>
+
+//Je crois que tu rêves !<END>
+

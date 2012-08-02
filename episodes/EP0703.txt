@@ -1,0 +1,60 @@
+// FILE: EP0703.str containing 18 strings
+
+//Tsubasa ?<LINE>
+//Tsubasa, ça va ?<END>
+
+//Les amis...<END>
+
+//Qu'y a-t-il Tsubasa ?<END>
+
+//Je... Je veux jouer en seconde mi-temps.<END>
+
+//Mais je ne serai pas capable de jouer<LINE>
+//au meilleur de mes capacités.<END>
+
+//Vous pouvez me remplacer si vous voulez.<LINE>
+//Je ne veux pas être un poids pour vous.<LINE>
+//Ça ne me gêne pas...<END>
+
+//Tsubasa...<END>
+
+//Mais... je voudrais vraiment pouvoir jouer<LINE>
+//jusqu'à la fin…<LINE>
+//Être sur le terrain jusqu'à la fin...<END>
+
+//Alors viens Tsubasa !<LINE>
+//On va se battre ensemble<LINE>
+//pour la seconde mi-temps !<LINE>
+//On est arrivés jusqu'ici ensemble !<LINE>
+//On ira jusqu'au bout ensemble !<END>
+
+//Les amis...<END>
+
+//Vous êtes tous d'accord ?<LINE>
+//Vous voulez bien me laisser jouer,<LINE>
+//même dans cet état ?<END>
+
+//Bien sûr !<END>
+
+//Tu es notre capitaine !<END>
+
+//Mes amis...<END>
+
+//La dernière pause est bientôt terminée.<LINE>
+//Je me demande quelles directives<LINE>
+//les entraîneurs sont en train de donner<LINE>
+//à leurs équipes...<END>
+
+//Vous êtes arrivés jusqu'ici, alors<LINE>
+//je n'ai plus de consignes à vous donner.<LINE>
+//Faites en sorte de ne rien regretter<LINE>
+//et battez-vous de toutes vos forces !<END>
+
+//Oui !<END>
+
+//Le stade tremble sous les applaudissements<LINE>
+//de la foule alors que les deux équipes<LINE>
+//entrent sur le terrain !<LINE>
+//Il est temps de commencer<LINE>
+//les dix dernières minutes de prolongation !<END>
+

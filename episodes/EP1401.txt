@@ -1,0 +1,30 @@
+// FILE: EP1401.str containing 9 strings
+
+//Co-comment... se passe le match ?<END>
+
+//Même réduits à dix, on tient plus ou moins<LINE>
+//le coup pour l'instant.<END>
+
+//Ah...<END>
+
+//Je suis désolé... C'est de ma faute...<LINE>
+//Si je n'avais pas été expulsé...<END>
+
+//Ce carton rouge n'était pas juste,<LINE>
+//mais on doit faire avec.<LINE>
+//On va tout donner<LINE>
+//pour compenser ton expulsion.<END>
+
+//On ne doit pas sous-estimer le Japon,<LINE>
+//surtout leur nº 10...<END>
+
+//On doit rester sur nos gardes<LINE>
+//en seconde mi-temps.<END>
+
+//Oui.<END>
+
+//Eh bien, on dirait que la pluie est<LINE>
+//au rendez-vous pour la deuxième mi-temps.<LINE>
+//Il va être intéressant de voir<LINE>
+//comment les équipes vont réagir...<END>
+

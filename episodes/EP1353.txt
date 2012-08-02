@@ -1,0 +1,66 @@
+// FILE: EP1353.str containing 20 strings
+
+//Tsubasa se prépare à tirer !<END>
+
+//Il va frapper un Drive shoot !<LINE>
+//Tiens-toi à ce qu'on a dit, Garban !<END>
+
+//Entendu !<END>
+
+//C'est parti !<END>
+
+//Tsubasa tire sans attendre !<LINE>
+//C'est un Drive shoot !<END>
+
+//Hein ?<END>
+
+//Mais le ballon ne se dirige pas<LINE>
+//vers les buts !<LINE>
+//A-t-il raté sa frappe ?<END>
+
+//Non... Le Drive shoot…<LINE>
+//Hyuga court dans sa direction !<END>
+
+//À toi de jouer, Hyuga !<END>
+
+//Ce n'était pas un Drive Shot,<LINE>
+//mais une Drive pass pour Hyuga !<END>
+
+//Tsubasa me fait confiance !<LINE>
+//C'est pour ça qu'il a fait une Drive pass<LINE>
+//au lieu de tirer au but !<END>
+
+//C'est bon ! Le ballon va piquer<LINE>
+//vers le bas. Je dois me fier à son souffle<LINE>
+//pour le reprendre au bon moment !<END>
+
+//Hyuga semble vouloir tirer<LINE>
+//sans faire de contrôle !<LINE>
+//Avec un ballon à cette vitesse,<LINE>
+//ça va être difficile d'ajuster son tir !<END>
+
+//Maintenant !<END>
+
+//Si j'arrive à marquer,<LINE>
+//je pourrai finalement prétendre<LINE>
+//à la place de buteur vedette<LINE>
+//des All Japan !<END>
+
+//Si Hyuga marque sur cette action,<LINE>
+//ce sera une des meilleures combinaisons<LINE>
+//jamais vues de ces deux stars<LINE>
+//du football collégien japonais !<END>
+
+//Buuuuuuuuuuuuuuuuut !<LINE>
+//C'est la première fois qu'on voit un tir<LINE>
+//qui combine le Drive shoot au Tiger shot !<END>
+
+//Le ballon a transpercé les filets !<LINE>
+//C'est un but d'une grande importance<LINE>
+//pour la All Japan Team,<LINE>
+//qui ramène l'espoir dans leur camp !<END>
+
+//Super tir, Hyuga !<END>
+
+//Belle passe, Tsubasa !<END>
+

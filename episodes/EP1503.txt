@@ -1,0 +1,23 @@
+// FILE: EP1503.str containing 9 strings
+
+//Dans les cages du Japon, nous retrouverons<LINE>
+//aujourd'hui Genzo Wakabayashi !<END>
+
+//Je compte sur toi, Wakabayashi.<END>
+
+//C'est la première titularisation<LINE>
+//de Wakabayashi dans ce tournoi.<END>
+
+//Wa-Wakabayashi ?<END>
+
+//Wakabayashi va jouer ?<END>
+
+//Alors tu vas vraiment jouer, hein ?<END>
+
+//Mieux vaut tard que jamais...<END>
+
+//On dirait qu'on aura l'occasion<LINE>
+//de s'affronter aujourd'hui, Wakabayashi !<END>
+
+//Schneider, la victoire sera mienne.<END>
+

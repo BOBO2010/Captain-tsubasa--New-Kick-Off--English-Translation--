@@ -1,0 +1,8 @@
+// FILE: exv309.str containing 2 strings
+
+//Tu arrives à voir ce tir ?<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+

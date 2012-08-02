@@ -1,0 +1,95 @@
+// FILE: EP1252.str containing 34 strings
+
+//C'est une passe vers les deux stars<LINE>
+//de la All Japan Team, Tsubasa et Hyuga,<LINE>
+//qui sont complètement démarquées !<END>
+
+//Qu'est-ce qui se passe ?<LINE>
+//Ils ne défendent même pas !<END>
+
+//Seul Hernandez reste sur le passage !<LINE>
+//C'est une occasion en or<LINE>
+//pour la All Japan Team !<END>
+
+//Notre plan se déroule à merveille !<LINE>
+//On compte sur toi, Gino !<END>
+
+//C'est maintenant ou jamais !<END>
+
+//Hernandez sort sans hésiter !<END>
+
+//Tsubasa, je m'en occupe !<LINE>
+//Tiens-toi prêt à reprendre le ballon !<END>
+
+//D'accord !<END>
+
+//Hyuga saute pour reprendre le ballon !<END>
+
+//Hernandez saute aussi à la limite<LINE>
+//de la surface de réparation !<END>
+
+//Mon Dieu !<END>
+
+//Hyuga a sauté le plus haut,<LINE>
+//mais Hernandez a été capable de s'emparer<LINE>
+//du ballon d'une main !<END>
+
+//Oh ! Hernandez relâche le ballon !<END>
+
+//À moi de jouer !<END>
+
+//Tsubasa fonce vers le ballon !<END>
+
+//Je ne te laisserai pas faire !<END>
+
+//Oh ! Hernandez a frappé dans le ballon<LINE>
+//avant que Tsubasa n'ait eu l'occasion<LINE>
+//de tirer ! Quel jeu aérien de la part<LINE>
+//de Hernandez !<END>
+
+//Ah !<END>
+
+//Hernandez a arrêté une autre occasion<LINE>
+//de but de All Japan Team ! <END>
+
+//Hernandez dégage le ballon loin devant !<END>
+
+//Oh non !<END>
+
+//L'Italie mène la contre-attaque !<END>
+
+//C'est à croire qu'ils s'attendaient tous<LINE>
+//à ce que le ballon soit dégagé<LINE>
+//loin devant !<END>
+
+//Ils prévoyaient ça depuis le début !<END>
+
+//La All Japan Team a attaqué trop haut<LINE>
+//et ils se retrouvent maintenant<LINE>
+//avec une défense décimée !<END>
+
+//Le jeu de passe italien est fulgurant !<LINE>
+//Wakashimazu sort de ses cages !<END>
+
+//Raah !<END>
+
+//Mais, les Italiens sont en surnombre !<LINE>
+//Conti se retrouve seul devant le but<LINE>
+//et tire !<END>
+
+//Je l'ai !<END>
+
+//Aaah !<END>
+
+//Buuuuuut !<END>
+
+//La Italy Jr. Youth Team ouvre le score<LINE>
+//sur une contre-attaque déclenchée<LINE>
+//par leur gardien Hernandez !<END>
+
+//Notre plan marche comme sur des roulettes.<END>
+
+//Ce but fait mal aux All Japan…<LINE>
+//On va voir comment leur capitaine<LINE>
+//Tsubasa Ozora va réagir !<END>
+

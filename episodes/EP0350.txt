@@ -1,0 +1,53 @@
+// FILE: EP0350.str containing 19 strings
+
+//Me voilà !<END>
+
+//Il a disparu !<END>
+
+//Prends ça ! Tacle en rasoir !<END>
+
+//Quoi ?!<END>
+
+//Oh, Souda se jette avec un tacle glissé<LINE>
+//en profitant de l'angle mort de Tsubasa !<END>
+
+//Tsubasa trébuche sur la jambe de Souda<LINE>
+//et s'écroule !<LINE>
+//C'est une faute ça, Souda !<LINE>
+//Mais l'arbitre ne siffle pas.<END>
+
+//Voilà notre chance !<LINE>
+//Allez ! À l'attaque, vite !<END>
+
+//Azumaichi ont une occasion de marquer<LINE>
+//un but !<END>
+
+//Azumaichi fait remonter le ballon<LINE>
+//jusque devant les buts !<LINE>
+//Vont-ils pouvoir tirer ?<END>
+
+//OK !<END>
+
+//C'est parti ! Razor Shot !<END>
+
+//Morisaki, tu peux l'attraper !<END>
+
+//Ouais !<END>
+
+//BUUUUUUT !<END>
+
+//Souda, le défenseur de Azumaichi,<LINE>
+//a marqué un but ! Il a utilisé le même tir<LINE>
+//que lors du dernier match du tournoi<LINE>
+//préliminaire à Osaka : le Razor Shot !<END>
+
+//Quelle... Quelle courbe hallucinante...<END>
+
+//OK, les gars.<LINE>
+//On reste calme et on y retourne ensemble.<END>
+
+//Morisaki, tu dois prendre en compte<LINE>
+//la trajectoire en courbe du ballon.<END>
+
+//OK. C'est noté.<END>
+

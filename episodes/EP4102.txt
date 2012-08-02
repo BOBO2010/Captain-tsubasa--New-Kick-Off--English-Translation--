@@ -1,0 +1,39 @@
+// FILE: EP4102.str containing 9 strings
+
+//Le match est terminé !<LINE>
+//Musashi Junior High a gagné son ticket<LINE>
+//pour le tournoi national !<END>
+
+//On... On a réussi !<END>
+
+//Misugi !<END>
+
+//Deux ans passés à l'hôpital…<LINE>
+//Mon dernier tournoi<LINE>
+//en tant que collégien...<LINE>
+//Et nous avons franchi le premier obstacle !<END>
+
+//Je n'arrive pas à y croire...<LINE>
+//Je n'arrive pas à croire que j'ai perdu<LINE>
+//avant les phases nationales.<LINE>
+//Et je n'ai même pas perdu contre Tsubasa,<LINE>
+//j'ai perdu contre Misugi.<END>
+
+//Hyuga, la victoire est pour nous<LINE>
+//cette fois ! Tu sais, je voulais affronter<LINE>
+//Tsubasa tout comme toi, alors je ne pouvais<LINE>
+//pas perdre !<END>
+
+//Hmm...<END>
+
+//C'est la première fois que nous nous<LINE>
+//qualifions pour les phases nationales<LINE>
+//depuis le National Boy's Soccer<LINE>
+//Tournament !<END>
+
+//Même si Nankatsu, l'équipe de Tsubasa,<LINE>
+//que j'ai déjà affrontée,<LINE>
+//est la favorite du tournoi,<LINE>
+//nous avons une chance de l'emporter,<LINE>
+//car nous avons battu Toho.<END>
+

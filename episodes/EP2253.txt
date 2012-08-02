@@ -1,0 +1,74 @@
+// FILE: EP2253.str containing 23 strings
+
+//Sorimachi est marqué...<LINE>
+//Ok, moi je peux passer par là !<END>
+
+//Oh ! Sawada parvient à feinter rapidement<LINE>
+//son adversaire !<END>
+
+//Hein !<END>
+
+//On dirait qu'il a fait ça toute sa vie !<LINE>
+//Date n'a pas le temps de réagir !<END>
+
+//Sawada s'échappe !<LINE>
+//On dirait qu'il cherche à tirer,<LINE>
+//mais c'est sans compter<LINE>
+//la présence du gardien de but !<END>
+
+//Hyuga n'est pas sur le terrain<LINE>
+//et Sorimachi est marqué.<LINE>
+//Je suis le seul à pouvoir mettre un but !<END>
+
+//C'est parti !<END>
+
+//Sawada est connu pour sa puissance de tir,<LINE>
+//aussi nous nous attendions à un shoot<LINE>
+//en force, mais il a fait un lob<LINE>
+//qui passe au-dessus de la tête du gardien !<END>
+
+//Oh, non !<END>
+
+//Le gardien est pris au dépourvu !<LINE>
+//Il ne peut pas l'atteindre !<LINE>
+//Le ballon s'engouffre dans le filet !<END>
+
+//Oui !<END>
+
+//Sawada est un joueur technique<LINE>
+//et cette action vient de lui permettre<LINE>
+//de marquer un autre grand but !<END>
+
+//On dirait qu'il a fait ça toute sa vie !<LINE>
+//Kawai n'a pas le temps de réagir !<END>
+
+//On dirait qu'il a fait ça toute sa vie !<LINE>
+//Moriya n'a pas le temps de réagir !<END>
+
+//On dirait qu'il a fait ça toute sa vie !<LINE>
+//Takeuchi n'a pas le temps de réagir !<END>
+
+//On dirait qu'il a fait ça toute sa vie !<LINE>
+//Arita n'a pas le temps de réagir !<END>
+
+//On dirait qu'il a fait ça toute sa vie !<LINE>
+//Hamaguchi n'a pas le temps de réagir !<END>
+
+//On dirait qu'il a fait ça toute sa vie !<LINE>
+//Tanioka n'a pas le temps de réagir !<END>
+
+//On dirait qu'il a fait ça toute sa vie !<LINE>
+//Kakimoto n'a pas le temps de réagir !<END>
+
+//On dirait qu'il a fait ça toute sa vie !<LINE>
+//Takida n'a pas le temps de réagir !<END>
+
+//On dirait qu'il a fait ça toute sa vie !<LINE>
+//Iino n'a pas le temps de réagir !<END>
+
+//On dirait qu'il a fait ça toute sa vie !<LINE>
+//Kan n'a pas le temps de réagir !<END>
+
+//On dirait qu'il a fait ça toute sa vie !<LINE>
+//Takahashi n'a pas le temps de réagir !<END>
+

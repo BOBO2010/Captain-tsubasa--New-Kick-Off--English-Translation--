@@ -1,0 +1,44 @@
+// FILE: EP0450.str containing 13 strings
+
+//Allez ! Il est temps de leur montrer<LINE>
+//notre foot aérien !<END>
+
+//Quoi ? Masao Tachibana a envoyé le ballon<LINE>
+//en l'air devant les buts !<END>
+
+//Allez, Masao !<LINE>
+//On va commencer par égaliser<LINE>
+//avec le Triangle shoot !<END>
+
+//Vous croyez vraiment que ça va marcher ?<LINE>
+//Je vous ai pourtant prévenus<LINE>
+//que ça serait inefficace contre nous !<END>
+
+//Ah bon ?<LINE>
+//Dans ce cas, on va en avoir le cœur net !<END>
+
+//Kazuo prend appui sur le poteau<LINE>
+//pour se propulser dans les airs !<END>
+
+//Et voilà notre défense ! Là !<END>
+
+//Quoi ?!<END>
+
+//Oh ! Ishizaki a frappé le poteau<LINE>
+//de ses propres buts de toutes ses forces !<END>
+
+//Le coup de pied d'Ishizaki a fait vibrer<LINE>
+//le poteau que Kazuo voulait utiliser !<LINE>
+//Du coup, l'attaquant a perdu l'équilibre<LINE>
+//et n'a pas pu sauter !<END>
+
+//Tu as aimé ma technique anti-football<LINE>
+//aérien ?<END>
+
+//Kazuo s'est écrasé au sol, et le ballon<LINE>
+//roule dans les mains du gardien Morisaki.<END>
+
+//Ils ont contré le football aérien<LINE>
+//des frères Tachibana<LINE>
+//et leur Triangle shoot !<END>
+

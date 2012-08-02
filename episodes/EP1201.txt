@@ -1,0 +1,22 @@
+// FILE: EP1201.str containing 7 strings
+
+//Il serait peut-être temps qu'on mette<LINE>
+//notre plan à exécution.<END>
+
+//D'accord, Gino !<END>
+
+//Ils sont si calmes...<END>
+
+//Il faudra être particulièrement vigilants<LINE>
+//en seconde période.<END>
+
+//Tsubasa a raison. N'oubliez pas<LINE>
+//que nous affrontons les All Italy Jr.<LINE>
+//Youth Team.<LINE>
+//C'est une des équipes favorites<LINE>
+//pour remporter compétition.<END>
+
+//Montrez-leur de quoi vous êtes capables !<END>
+
+//O-oui !<END>
+

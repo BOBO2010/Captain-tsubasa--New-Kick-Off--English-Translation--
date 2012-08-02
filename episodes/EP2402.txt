@@ -1,0 +1,51 @@
+// FILE: EP2402.str containing 16 strings
+
+//L'arbitre siffle la fin du match !<END>
+
+//Toho Gakuen est la première équipe<LINE>
+//qualifiée en finale !<END>
+
+//Les joueurs de Meiwa-Higashi ont beau avoir<LINE>
+//donné le meilleur d'eux-mêmes et bénéficié<LINE>
+//du soutien des supporters, ils n'ont pas su<LINE>
+//tenir la distance.<END>
+
+//C'est génial !<LINE>
+//Nous avons gagné, capitaine !<END>
+
+//Hyuga !<END>
+
+//Ouais ! Bien joué !<LINE>
+//Vous avez vraiment été épatants, les gars !<END>
+
+//...<END>
+
+//J'étais pourtant sûr de gagner<LINE>
+//sans Hyuga sur le terrain.<END>
+
+//Hyuga a été d'un grand soutien<LINE>
+//pour son équipe aujourd'hui.<END>
+
+//Si Hyuga n'avait pas encouragé <LINE>
+//son équipe si fort, nous aurions <LINE>
+//peut-être eu une chance de gagner.<END>
+
+//Hyuga est vraiment le meneur de jeu<LINE>
+//de Toho.<END>
+
+//Takeshi ! Je ne sais pas qui de Nankatsu<LINE>
+//ou Furano se qualifiera en finale,<LINE>
+//mais vous vous devez de gagner<LINE>
+//et de prendre la tête du championnat !<END>
+
+//Vous nous avez battus, aussi vous devez<LINE>
+//gagner cette finale pour nous !<END>
+
+//Faites honneur à Meiwa !<END>
+
+//O-oui !<END>
+
+//Meiwa-Higashi... Cette équipe a su<LINE>
+//tirer profit des enseignements<LINE>
+//de l'entraîneur Kira.<END>
+

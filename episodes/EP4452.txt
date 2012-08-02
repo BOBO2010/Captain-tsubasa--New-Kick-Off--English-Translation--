@@ -1,0 +1,70 @@
+// FILE: EP4452.str containing 21 strings
+
+//Allez !<END>
+
+//Hori a eu le ballon pour l'envoyer<LINE>
+//directement vers l'avant !<END>
+
+//Musashi était en pleine attaque.<LINE>
+//Leur défense est dégarnie ! Et le ballon<LINE>
+//file vers leur moitié de terrain !<END>
+
+//Le ballon va-t-il atteindre Sawaki,<LINE>
+//l'avant-centre de Meiwa-Higashi,<LINE>
+//qui est en train de remonter le terrain ?<END>
+
+//Oh non !<END>
+
+//Oui, il l'a reçu !<END>
+
+//Super !<END>
+
+//D'ordinaire, Musashi se débrouille plutôt<LINE>
+//pour piéger les attaquants<LINE>
+//en position de hors-jeu.<LINE>
+//Mais Misugi, leur meneur, est sur le banc<LINE>
+//de touche, et personne ne marque Sawaki !<END>
+
+//Oh non !<END>
+
+//Sawaki court tout droit<LINE>
+//vers les buts de Musashi !<LINE>
+//Le gardien est tout seul !<LINE>
+//Sawaki va tirer !<END>
+
+//Nous devions battre Toho... et Hyuga !<LINE>
+//Nous ne pouvons pas perdre<LINE>
+//face à l'équipe qui les a battus !<END>
+
+//Brillante contre-attaque de Meiwa-Higashi !<LINE>
+//Sawaki a conclu l'action en solitaire<LINE>
+//sur une longue passe de ses coéquipiers.<LINE>
+//Et Meiwa-Higashi a marqué !<END>
+
+//Suénaga a eu le ballon pour l'envoyer<LINE>
+//directement vers l'avant !<END>
+
+//Narita a eu le ballon pour l'envoyer<LINE>
+//directement vers l'avant !<END>
+
+//Enomoto a eu le ballon pour l'envoyer<LINE>
+//directement vers l'avant !<END>
+
+//Sakamoto a eu le ballon pour l'envoyer<LINE>
+//directement vers l'avant !<END>
+
+//Takagi a eu le ballon pour l'envoyer<LINE>
+//directement vers l'avant !<END>
+
+//Ishii a eu le ballon pour l'envoyer<LINE>
+//directement vers l'avant !<END>
+
+//Nagano a eu le ballon pour l'envoyer<LINE>
+//directement vers l'avant !<END>
+
+//Kawagoé a eu le ballon pour l'envoyer<LINE>
+//directement vers l'avant !<END>
+
+//Murasawa a eu le ballon pour l'envoyer<LINE>
+//directement vers l'avant !<END>
+

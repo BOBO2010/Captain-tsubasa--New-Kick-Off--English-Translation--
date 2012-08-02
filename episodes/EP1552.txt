@@ -1,0 +1,110 @@
+// FILE: EP1552.str containing 40 strings
+
+//Quoi ?!<END>
+
+//Ah !<END>
+
+//Il a effacé Kaltz et Schester !<END>
+
+//Deux de moins !<END>
+
+//Oh, c'est une faute sur Tsubasa de la part<LINE>
+//de l'Allemagne ! Ce tacle ne visait<LINE>
+//aucunement le ballon et a fauché Tsubasa !<END>
+
+//Ça va, Tsubasa ?<END>
+
+//Ça va... Je me suis habitué à ce genre<LINE>
+//de jeu maintenant.<LINE>
+//Je ne vais pas me laisser faire !<END>
+
+//C'est un coup franc pour le Japon.<END>
+
+//L'Allemagne place son mur…<LINE>
+//Hein ? Muller fait enlever le mur !<END>
+
+//Je n'ai pas besoin de mur, ça ne fait que<LINE>
+//bloquer ma vision.<END>
+
+//Raaaah... Il se moque de nous !<END>
+
+//Mais on n’a aucune chance de marquer d'ici<LINE>
+//face à un tel gardien... Il n'a pas de<LINE>
+//point faible. Qu'est-ce qu'on peut faire...<END>
+
+//Tsubasa ! Il nous a gentiment débarrassés<LINE>
+//du mur... Tout ce qu'il te reste à faire<LINE>
+//est de tirer de toutes tes forces !<END>
+
+//Tu as raison, Hyuga...<END>
+
+//Attends !<END>
+
+//Quoi ?<END>
+
+//Oh ! On dirait que Tsubasa murmure<LINE>
+//quelque chose à l'oreille de Hyuga.<END>
+
+//D'accord.<END>
+
+//Bien.<END>
+
+//Qui va tirer le coup franc ? Tsubasa ou<LINE>
+//Hyuga ? Ou bien vont-ils feinter pour faire<LINE>
+//une passe ?<END>
+
+//Prêt ?<END>
+
+//C'est parti !<END>
+
+//Les deux joueurs s'avancent en même temps !<LINE>
+//Est-ce pour surprendre le gardien ?<LINE>
+//Va-t-on voir un Tiger shot<LINE>
+//ou un Drive shoot ?<END>
+
+//Ça ne marchera pas avec moi !<LINE>
+//J'arrêterai n'importe quel tir !<END>
+
+//Allez !<END>
+
+//Ah ! Tsubasa tacle le ballon<LINE>
+//et l'envoie devant !<END>
+
+//On dirait bien que le Japon est décidé<LINE>
+//à tirer de plus près !<END>
+
+//C'est toujours trop loin…<LINE>
+//Où est-ce que je devrais viser<LINE>
+//pour marquer contre ce gardien ?<END>
+
+//Je dois faire confiance<LINE>
+//à mon instinct de buteur !<END>
+
+//Là !<END>
+
+//Il tire en plein sur le gardien !<END>
+
+//Hein ?<END>
+
+//C'est rentré ?<END>
+
+//Muller est surpris par ce ballon <LINE>
+//qui file droit sur lui, va-t-il réussir <LINE>
+//à le stopper. Ah ! Il y parvient <LINE>
+//en s'agenouillant !<END>
+
+//Impossible...<END>
+
+//Ce n'est pas un but, mais...<END>
+
+//Le Neo tiger shot de Hyuga a vraiment mis<LINE>
+//Muller à l'épreuve !<END>
+
+//Tsubasa, ce n'est qu'une impression,<LINE>
+//mais peut-être que si on tire<LINE>
+//entre ses jambes, ça pourrait marcher...<END>
+
+//!!!<END>
+
+//*coup de sifflet*<END>
+

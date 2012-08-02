@@ -1,0 +1,75 @@
+// FILE: EP0454.str containing 23 strings
+
+//Allez, Kazuo !<END>
+
+//On remet ça, Masao ?<END>
+
+//Vous avez encore des techniques<LINE>
+//sous le coude ?<END>
+
+//Masao envoie le ballon vers l'avant.<LINE>
+//Et Kazuo s'élance en courant !<LINE>
+//Que se passe-t-il ?<END>
+
+//Maintenant que Misaki n'est plus là,<LINE>
+//nous sommes le meilleur duo du Japon !<LINE>
+//Et ce match en est la preuve !<END>
+
+//Vos techniques en duo lors<LINE>
+//du tournoi national n'étaient<LINE>
+//que de la chance.<LINE>
+//Nous, c'est différent.<LINE>
+//Nous sommes un vrai duo...<END>
+
+//C'est parti ! Twin shoot !<END>
+
+//Que… qu'est-ce que c'est que ça ?<END>
+
+//Ah ! Les frères Tachibana<LINE>
+//vont frapper simultanément !<END>
+
+//Ah ! Le ballon file vers les buts<LINE>
+//dans un effet ondulatoire !<END>
+
+//Morisaki !<END>
+
+//Ça ne reste finalement qu'un ballon<LINE>
+//quel que soit l'effet donné.<LINE>
+//Et le ballon est mon ami.<LINE>
+//Même si je le prends en pleine figure !<END>
+
+//Allez, il y a bien une partie de mon corps<LINE>
+//qui va le toucher !<END>
+
+//Le gardien Morisaki utilise tout son corps<LINE>
+//pour bloquer le ballon !<END>
+
+//Le ballon a touché l'épaule de Morisaki !<END>
+
+//Mais le choc a juste dévié le ballon<LINE>
+//qui se dirige toujours vers les buts !<END>
+
+//Non ! Si on prend un but maintenant,<LINE>
+//c'est fini !<END>
+
+//Ah !<END>
+
+//Ishizaki s'est jeté sur la trajectoire<LINE>
+//du ballon d'un seul coup !<END>
+
+//Oh ! Il l'a bloqué avec son visage !<LINE>
+//Bien joué, Ishizaki !<LINE>
+//Nankatsu est vraiment prêt à tout<LINE>
+//pour défendre ses buts !<LINE>
+//Hanawa n'a pas marqué !<END>
+
+//Mais Ishizaki est entraîné par son élan<LINE>
+//et percute le poteau !<END>
+
+//Ishizaki !<END>
+
+//Je n'ai rien !<LINE>
+//Dépêche-toi de contre-attaquer, Tsubasa !<LINE>
+//Tous nos adversaires sont en attaque,<LINE>
+//leur défense est affaiblie !<END>
+

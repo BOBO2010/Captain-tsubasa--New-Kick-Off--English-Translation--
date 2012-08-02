@@ -1,0 +1,765 @@
+// FILE: repro.str containing 266 strings
+
+//Victoire : 6-0<END>
+
+//Avant-centre du champion Nankatsu<END>
+
+//Victoire : 3-1<END>
+
+//Victoire de Tsubasa contre Nitta<END>
+
+//Mur de fer du Quartet d'Otomo !<END>
+
+//Incroyable reprise de volée<END>
+
+//Reprise de volée : Tir du faucon !<END>
+
+//Victoire : 2-1<END>
+
+//Tir en rasoir<END>
+
+//Soda, le tueur de champions<END>
+
+//Drive shoot imparfait<END>
+
+//Tir en rasoir !<END>
+
+//Victoire : 3-2<END>
+
+//C'est simple, du foot antiaérien !<END>
+
+//Nouveau Skylab hurricane !<END>
+
+//En échange de la victoire<END>
+
+//Skylab hurricane basse altitude !<END>
+
+//Gardien obstiné de Nankatsu !<END>
+
+//Victoire : 4-3<END>
+
+//Sano et Jito, étrange duo !<END>
+
+//Tir en force !<END>
+
+//La blessure de Tsubasa s'aggrave !<END>
+
+//Backspin !<END>
+
+//C'est fait ! Drive shoot !<END>
+
+//Choc de ténacité !<END>
+
+//Buteur de Nankatsu<END>
+
+//Victoire : 3-2<END>
+
+//Le premier tacle est une feinte ?<END>
+
+//Avalanche Move !<END>
+
+//C'est ça l'esprit de Furano !<END>
+
+//Belle amitié<END>
+
+//Super longue tête<END>
+
+//Tous à l'attaque !<END>
+
+//Le phénix s'envole...<END>
+
+//Victoire : 4-4<END>
+
+//La puissance du Drive shoot<END>
+
+//Toho marque en premier !<END>
+
+//Envie d'un 3e titre consécutif<END>
+
+//Il ne faut pas gâcher cette passe<END>
+
+//Tiger shot perçant Nankatsu<END>
+
+//Je vais anéantir Nankatsu !<END>
+
+//Miraculeux Drive shoot<END>
+
+//Un éclair ! Tête plongeante !<END>
+
+//Éclair croisé<END>
+
+//Tir pour l'aventure<END>
+
+//Vrai foot<END>
+
+//Défaite : 1-5<END>
+
+//SGGK Wakabayashi<END>
+
+//Kaiser Schneider<END>
+
+//Fire shot hurlant<END>
+
+//Différence de force<END>
+
+//Victoire : 2-1<END>
+
+//Bras-droit en or<END>
+
+//Drive shoot arrêté !<END>
+
+//Contre-attaque de l'Italie<END>
+
+//La paire en or du Japon<END>
+
+//Réveil du tigre<END>
+
+//Victoire : 5-4<END>
+
+//La paire en or de l'Argentine<END>
+
+//Le prodige du ballon rond<END>
+
+//Vrai Drive shoot<END>
+
+//Signal de la contre-attaque !<END>
+
+//Skylab twin shoot !<END>
+
+//Vrai jeu d'équipe<END>
+
+//Preuve de génie<END>
+
+//À l'attaque des buts argentins !<END>
+
+//Le champion de verre est là !<END>
+
+//Victoire : 4-4 (5-4)<END>
+
+//Le petit footballeur va bien<END>
+
+//Inattendu : Slider shoot !<END>
+
+//Carton jaune inattendu<END>
+
+//Avantage de l'équipe à domicile<END>
+
+//Vrai but<END>
+
+//Je ne connais que le foot !<END>
+
+//Attaque Eiffel<END>
+
+//Même si mon bras droit y passe...<END>
+
+//Victoire : 3-2<END>
+
+//Document secret de Wakayabashi<END>
+
+//Gardien légendaire<END>
+
+//Intuition d'avant-centre<END>
+
+//Fire shot depuis un angle mort<END>
+
+//Géant de fer<END>
+
+//Deux paires en or<END>
+
+//Sens de la page 52<END>
+
+//Pourquoi on est sur le terrain<END>
+
+//Il s'appelle Karl Heinz Schneider<END>
+
+//Au bord du gouffre<END>
+
+//Capitaine Tsubasa<END>
+
+//Victoire : 3-2<END>
+
+//Musashi sans Misugi<END>
+
+//C'est un coup du chapeau<END>
+
+//Attaque ultime de Misugi<END>
+
+//Prince du terrain<END>
+
+//Le champion de verre vaincu !<END>
+
+//Victoire : 4-0<END>
+
+//Courant de combinaisons<END>
+
+//Hyuga sur le banc de touche ?<END>
+
+//Cage au mur de fer<END>
+
+//Petit technicien<END>
+
+//Victoire : 8-0<END>
+
+//Qui est l'avant-centre de Toho ?<END>
+
+//Je vais encore marquer !<END>
+
+//Toho sans Hyuga<END>
+
+//Victoire : 2-1<END>
+
+//Sawada en danger !<END>
+
+//Kamikaze Sliding Squad !<END>
+
+//On reviendra au score !<END>
+
+//Jusqu'au retour du capitaine...<END>
+
+//Gardien en dehors de la surface<END>
+
+//Victoire : 4-3<END>
+
+//La puissance du Drive shoot<END>
+
+//Il faut marquer un but !<END>
+
+//Tir lobé<END>
+
+//Tremblez ! Un nouveau Wakashimazu<END>
+
+//Peu importe le nombre !<END>
+
+//La paire en or de Toho<END>
+
+//Génie en herbe<END>
+
+//Tégatana Defense !<END>
+
+//Force cachée de Nankatsu<END>
+
+//Bourrasque<END>
+
+//Pourquoi on est sur le terrain<END>
+
+//Tragique fin<END>
+
+//Victoire : 7-0<END>
+
+//Avalanche Move, technique secrète<END>
+
+//La tempête Furano arrive !<END>
+
+//Victoire : 4-0<END>
+
+//Décision calme<END>
+
+//Lien d'amitié<END>
+
+//Aigle dormant<END>
+
+//Victoire : 2-1<END>
+
+//Équipe en or<END>
+
+//Les joueurs clés en mauvais état<END>
+
+//Occasion de but manquée !<END>
+
+//Explosion !<END>
+
+//Frappe rasant le sol<END>
+
+//L'âme de Furano<END>
+
+//Victoire : 3-2<END>
+
+//Faux tacle<END>
+
+//Avalanche Move !<END>
+
+//Le fruit des efforts<END>
+
+//Belle amitié<END>
+
+//Super longue tête<END>
+
+//Vrai travail d'équipe<END>
+
+//Démonstration de force de Furano<END>
+
+//Pressentiment<END>
+
+//Victoire : 3-2<END>
+
+//Je vais te rendre la pareille !<END>
+
+//Il n'y a que Tsubasa !<END>
+
+//Domination des champions<END>
+
+//Rugissement du tigre !<END>
+
+//Tempête de neige<END>
+
+//Preuve de confiance<END>
+
+//Pont vers la gloire<END>
+
+//Victoire : 4-3<END>
+
+//La star de l'équipe<END>
+
+//Prince du terrain<END>
+
+//Une passe au risque de sa vie<END>
+
+//Cœur incassable<END>
+
+//Victoire : sans Misugi<END>
+
+//Ensemble à l'école primaire<END>
+
+//Si Misugi n'est pas là...<END>
+
+//Ligne défensive serrée<END>
+
+//Encore un but !<END>
+
+//Victoire : avec Misugi<END>
+
+//Va-et-vient attaque/défense<END>
+
+//Passes rapides<END>
+
+//Le piège du hors-jeu de Musashi<END>
+
+//Tir élégant<END>
+
+//Victoire : 3-2<END>
+
+//Meiwa Kamikaze Sliding Squad<END>
+
+//Fierté des joueurs de Musashi<END>
+
+//Amis au même esprit<END>
+
+//Le meilleur est à venir<END>
+
+//Contre-attaque contrée !<END>
+
+//Le champion est là !<END>
+
+//Victoire : plus d'un but d'écart<END>
+
+//Éclatante attaque rapide<END>
+
+//Le champion, Nankatsu<END>
+
+//Voilà le prince !<END>
+
+//Duel de champions !<END>
+
+//Choc de coups spéciaux<END>
+
+//Le ballon a disparu !<END>
+
+//Combinaisons élégantes<END>
+
+//Changement<END>
+
+//Tir du destin<END>
+
+//Victoire : 5 buts en une mi-temps<END>
+
+//Combat solitaire<END>
+
+//Premier contact<END>
+
+//Remplacement<END>
+
+//Tsubasa aborde son dernier été<LINE>
+//au collège !<LINE>
+//Pour espérer obtenir<LINE>
+//leur troisième titre consécutif,<LINE>
+//gagner le premier match<LINE>
+//est impératif !<END>
+
+//Un défi contre d'anciens équipiers<LINE>
+//du Nankatsu SC comme Urabé !<LINE>
+//Est-ce que Nankatsu pourra résister<LINE>
+//aux attaques concentrées autour<LINE>
+//du Tir du faucon de Nitta?<END>
+
+//Le 1er adversaire de Nankatsu pour le<LINE>
+//national sera Azumaichi Junior<LINE>
+//High, l'équipe représentant Osaka<LINE>
+//après avoir battu Naniwa Junior High !<LINE>
+//Souda, le tueur de champions, fera<LINE>
+//tout pour empêcher Tsubasa de réaliser<LINE>
+//son objectif !<END>
+
+//Les frères Tachibana reviennent<LINE>
+//avec plus d'un tour dans leur sac !<LINE>
+//Est-ce que Nankatsu saura se défaire<LINE>
+//de leurs mid-air moves aériens ?<END>
+
+//Surprise du tournoi, l'équipe<LINE>
+//Hirado Junior High s'est hissée<LINE>
+//à ce stade de la compétition<LINE>
+//de par leur potentiel encore inconnu.<LINE>
+//Quel genre de jeu nous réserve le duo<LINE>
+//de l'avant-centre Sano<LINE>
+//et le défenseur Jito ?<END>
+
+//Dans les demi-finales, Nankatsu<LINE>
+//se verra opposer à Furano Junior High.<LINE>
+//Cette équipe s'est hissée jusqu'à ce<LINE>
+//stade de la compétition en développant<LINE>
+//un jeu d'équipe sans égal.<LINE>
+//Le duel entre les deux capitaines<LINE>
+//floqués du nº 10 va commencer !<END>
+
+//Toho est déterminée à battre<LINE>
+//son adversaire Nankatsu qui vise<LINE>
+//son troisième titre consécutif,<LINE>
+//et ainsi remporter<LINE>
+//son premier championnat.<LINE>
+//Laquelle des 2 équipes l'emportera ?<END>
+
+//L'histoire d'une rencontre entre<LINE>
+//Shingo Aoi, jeune joueur d'une<LINE>
+//école inconnue qui porte sur ses<LINE>
+//épaules le futur du football japonais, <LINE>
+//et Tsubasa Ozora.<END>
+
+//La tournée européenne commence,<LINE>
+//et le premier adversaire du Japon<LINE>
+//est une sélection de joueurs<LINE>
+//du championnat allemand incluant<LINE>
+//leur ex-coéquipier Wakabayashi !<END>
+
+//La première équipe à se dresser<LINE>
+//devant le Japon dans le French<LINE>
+//International Junior Youth Tournament<LINE>
+//est l'Italie, dont le gardien Gino<LINE>
+//est connu pour sa défense parfaite.<END>
+
+//L'Argentine menée par Fan Diaz,<LINE>
+//un surdoué du ballon, affronte<LINE>
+//le Japon et son prodige Tsubasa Ozora.<LINE>
+//Le duel entre ces deux génies<LINE>
+//peut commencer !<END>
+
+//Pays organisateur de ce tournoi,<LINE>
+//la France a réuni<LINE>
+//ses meilleurs joueurs, parmi lesquels<LINE>
+//Pierre qui révélera son jeu artistique<LINE>
+//face au Japon.<END>
+
+//Le Japon est à une victoire du titre,<LINE>
+//mais le voici confronté<LINE>
+//à la plus redoutable des équipes.<LINE>
+//Sauront-ils arrêter le Kaizer,<LINE>
+//Schneider, et venir à bout<LINE>
+//du renommé gardien Muller ?<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//Pour la troisième année consécutive,<LINE>
+//Toho accède sans forcer<LINE>
+//à la finale régionale !<LINE>
+//Toho battra-t-il son adversaire<LINE>
+//mené par le prodigieux Jun Misugi,<LINE>
+//pour ainsi décrocher son billet<LINE>
+//pour le tournoi national ?<END>
+
+//Grâce à sa victoire sur Musashi,<LINE>
+//Toho accède en national !<LINE>
+//Le premier match pour la conquête<LINE>
+//du titre va commencer !<END>
+
+//Toho aborde son deuxième match<LINE>
+//du tournoi sans Hyuga,<LINE>
+//exclu par l'entraîneur Kitazumé.<LINE>
+//Pourront-ils gagner<LINE>
+//sans leur champion ?<LINE>
+//Comment Hyuga va-t-il réagir ?<END>
+
+//En demi-finale du tournoi national,<LINE>
+//Toho affrontera Meiwa-Higashi<LINE>
+//composé d'anciens équipiers de Hyuga,<LINE>
+//Sawa et Wakashimazu.<LINE>
+//Comment l'équipe de Toho<LINE>
+//menée par Sawada va-t-elle s'y prendre<LINE>
+//contre Meiwa-Higashi ?<END>
+
+//La finale opposera à nouveau Toho<LINE>
+//au champion Nankatsu Junior High<LINE>
+//mené par Tsubasa,<LINE>
+//qui vise son 3ème titre consécutif !<LINE>
+//C'est l'occasion pour Toho<LINE>
+//de remporter son premier titre<LINE>
+//et mettre fin au règne de Nankatsu !<END>
+
+//Le titre de Hokkaido Regional est à<LINE>
+//portée de main de Furano Junior High.<LINE>
+//Avec un jeu d'équipe bien huilé,<LINE>
+//ils visent une place<LINE>
+//pour le tournoi national !<END>
+
+//Après avoir remporté<LINE>
+//le Hokkaido Regional,<LINE>
+//Furano Junior High battra-t-il<LINE>
+//l'équipe de Suwa Junior High,<LINE>
+//son premier adversaire<LINE>
+//dans le national ?<END>
+
+//Furano affrontera Minamiuwa<LINE>
+//en quart de finale.<LINE>
+//Encore un match et ils seront opposés<LINE>
+//à Nankatsu.<LINE>
+//Furano pourra-t-il continuer<LINE>
+//sur sa lancée ?<END>
+
+//C'est le moment de vérité !<LINE>
+//Les voilà opposés à Nankatsu<LINE>
+//et leur puissant jeu d'équipe !<LINE>
+//Parviendront-ils à décrocher<LINE>
+//leur ticket pour la finale ?<END>
+
+//Le titre est à portée de main !<LINE>
+//Furano affronte la redoutable équipe<LINE>
+//de Toho.<LINE>
+//Le destin a réuni Matsuyama et Hyuga<LINE>
+//dans cette bataille pour le titre !<END>
+
+//Toho domine<LINE>
+//Musashi Junior High, et contraint<LINE>
+//Jun Misugi, le Prince du terrain,<LINE>
+//à revenir sur le terrain<LINE>
+//après deux années d'absence<LINE>
+//pour aider à renverser la situation !<END>
+
+//Musashi Junior High décide<LINE>
+//de préserver Misugi pour ce match.<LINE>
+//Seront-ils capables de l'emporter<LINE>
+//sans Misugi sur le terrain ?<END>
+
+//Est-ce que Musashi ne repose que sur<LINE>
+//les épaules de Misugi ? C'est en tout<LINE>
+//cas ce qu'affirme l'équipe de Konishi<LINE>
+//Junior High qui pense gagner<LINE>
+//facilement sans Misugi sur le terrain.<END>
+
+//"On était censés battre Hyuga !"<LINE>
+//Meiwa-Higashi a rassemblé<LINE>
+//les meilleurs éléments qui composaient<LINE>
+//anciennement l'équipe de Meiwa FC,<LINE>
+//et va maintenant attaquer Musashi !<END>
+
+//La finale opposera les deux prodiges<LINE>
+//Misugi et Tsubasa !<LINE>
+//Misugi arrivera-t-il à prendre<LINE>
+//sa revanche sur Tsubasa<LINE>
+//qui l'avait battu il y a trois ans ?<END>
+
+//Joue un match amical contre <LINE>
+//une équipe spécialisée<LINE>
+//dans les passes.<END>
+
+//Joue un match amical contre<LINE>
+//une équipe spécialisée<LINE>
+//dans les interceptions.<END>
+
+//Joue un match amical contre<LINE>
+//une équipe de niveau<LINE>
+//égal.<END>
+
+//Joue un match amical contre<LINE>
+//une équipe spécialisée<LINE>
+//dans les blocages.<END>
+
+//Joue un match amical contre<LINE>
+//une équipe spécialisée<LINE>
+//dans les tirs.<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//<LINE>
+//Nankatsu Junior High mené par Tsubasa<LINE>
+//Ozora va tenter de gagner son 3e<LINE>
+//titre consécutif !<END>
+
+//Sélectionnés du National Junior High<LINE>
+//School Tournament, Tsubasa et les<LINE>
+//joueurs de Japan's National Junior<LINE>
+//Youth vont conquérir le French<LINE>
+//International Jr. Youth Tournament !<END>
+
+//Finaliste depuis 2 années de suite,<LINE>
+//un nouveau Toho se prépare<LINE>
+//à prendre sa revanche sur Nankatsu<LINE>
+//et à remporter leur premier tournoi !<END>
+
+//Venu de Hokkaido, Furano Junior High,<LINE>
+//réputé pour son jeu d'équipe parfait,<LINE>
+//est prête à déferler sur le tournoi<LINE>
+//sous la houlette de Matsuyama !<END>
+
+//Après 2 ans de rééducation, Misugi,<LINE>
+//le Prince du terrain, revient sur<LINE>
+//les terrains. Assistera-t-on à nouveau<LINE>
+//à un duel entre Tsubasa et lui ?<END>
+
+//Tu as rejoint la célèbre équipe de<LINE>
+//Nankatsu ! Deviens le capitaine qui<LINE>
+//saura surpasser les talents de ton<LINE>
+//coéquipier Tsubasa Ozora !<END>
+
+//Joue un match amical.<END>
+
+//TOUT POUR MARQUER<END>
+
+//Une équipe de Shizuoka contre laquelle<LINE>
+//Nankatsu a joué<LINE>
+//dans le tournoi régional.<LINE>
+//Une victoire sans avoir pris un but<LINE>
+//sera l'idéal. <END>
+
+//Déjouer le Quartet d'Otomo<LINE>
+//composé d'anciens équipiers<LINE>
+//de Nankatsu SC comme Urabé, Nakayama,<LINE>
+//Kishida et Nishio, est impératif !<LINE>
+//Il faudra aussi garder un œil<LINE>
+//sur les contre-attaques de Nitta<LINE>
+//et son Tir du faucon !<END>
+
+//Le prochain adversaire est<LINE>
+//le représentant d'Osaka,<LINE>
+//Azumaichi Junior High !<LINE>
+//L'équipe joue autour de son capitaine<LINE>
+//et défenseur Souda.<LINE>
+//Fais très attention à ses tirs<LINE>
+//et ses tacles surnommés "Rasoirs" !<END>
+
+//Le prochain match se jouera<LINE>
+//contre les représentants d'Akita,<LINE>
+//Hanawa Junior High.<LINE>
+//Sauras-tu venir à bout<LINE>
+//de l'extraordinaire jeu aérien des<LINE>
+//jumeaux Tachibana, Masao et Kazuo ?<END>
+
+//Hirado Junior High, représentant de<LINE>
+//Nagasaki, est le prochain adversaire.<LINE>
+//Fais attention à ne pas te laisser<LINE>
+//surprendre par les combinaisons du<LINE>
+//puissant Jito et de l'agile Sano !<END>
+
+//Les représentants de Hokkaido,<LINE>
+//Furano Junior High, menés par<LINE>
+//leur capitaine Matsuyama, sont connus<LINE>
+//pour leur excellent jeu d'équipe.<LINE>
+//Attention à leur avalanche offensive !<LINE>
+//Ils sont égalemement très coriaces<LINE>
+//en seconde mi-temps !<END>
+
+//Kojiro Hyuga, le tigre féroce,<LINE>
+//mène cette redoutable équipe<LINE>
+//ayant partagé le titre au Junior High<LINE>
+//School Tournament avec Nankatsu.<LINE>
+//Elle dispose d'éléments<LINE>
+//de la All Japan Team comme Sawada,<LINE>
+//Wakashimazu et Sorimachi.<END>
+
+//Le FC Allemagne regroupe<LINE>
+//le dangereux avant-centre Schneider,<LINE>
+//le milieu de terrain Karltz,<LINE>
+//et le gardien Wakabayashi.<LINE>
+//Sauras-tu faire face<LINE>
+//à cette équipe de classe mondiale ?<END>
+
+//C'est un match contre l'Italie,<LINE>
+//l'équipe connue comme étant<LINE>
+//la plus défensive.<LINE>
+//Pourras-tu l'emporter face<LINE>
+//au Perfect Keeper Gino Hernandez ?<END>
+
+//Te voilà confronter à l'Argentine<LINE>
+//et au célèbre Diaz, un prodige du<LINE>
+//ballon de ces dix dernières années !<END>
+
+//Le compétiteur suivant est la France,<LINE>
+//dont on dit que le style de jeu<LINE>
+//élégant captive les foules !<LINE>
+//Ne te laisse pas avoir<LINE>
+//par leur milieu de terrain, Pierre,<LINE>
+//ni par leur avant-centre Napoléon,<LINE>
+//et décroche la victoire !<END>
+
+//L'Allemagne est une équipe<LINE>
+//de classe mondiale.<LINE>
+//Les feintes ne seront pas suffisantes<LINE>
+//contre cette équipe,<LINE>
+//et il faudra tout donner<LINE>
+//pour obtenir la victoire !<END>
+
+//Ton adversaire est l'Angleterre,<LINE>
+//connue comme le berceau du football !<LINE>
+//Prends garde à leurs attaques<LINE>
+//par les ailes, lancées depuis<LINE>
+//une défense efficace et centrée<LINE>
+//autour de leur capitaine Robson.<END>
+
+//Le match suivant est contre l'Uruguay,<LINE>
+//une des meilleures équipes<LINE>
+//d'Amérique du Sud !<LINE>
+//Attention à leurs attaques rapides,<LINE>
+//et en particulier à leur avant-centre,<LINE>
+//Victorino, et décroche la victoire !<END>
+
+//Cette équipe regroupe<LINE>
+//les meilleurs joueurs<LINE>
+//sélectionnés par Yoichi Takahashi,<LINE>
+//le créateur de "Captain Tsubasa" !<LINE>
+//Penses-tu vraiment pouvoir gagner<LINE>
+//contre celle-ci ?<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+

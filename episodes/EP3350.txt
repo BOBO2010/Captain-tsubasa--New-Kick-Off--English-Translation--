@@ -1,0 +1,62 @@
+// FILE: EP3350.str containing 20 strings
+
+//Ishida est connu pour sa technique !<LINE>
+//Il dribble et avance rapidement !<END>
+
+//Allez-y, marquez-les !<END>
+
+//Les joueurs marquent leurs opposants<LINE>
+//en suivant les directives de Matsuyama.<END>
+
+//Mais Minamiuwa est sur la défensive<LINE>
+//alors qu'Ishida fait une passe...<END>
+
+//Oh, Ishida n'a pas fait de passe !<LINE>
+//Il se dirige droit vers le centre !<LINE>
+//Il exploite un trou dans la défense<LINE>
+//de Furano qui s'est ouvert<LINE>
+//quand Ishida a feinté sa passe !<END>
+
+//Mince, il faut vite revenir en défense !<END>
+
+//Matsuyama, le capitaine de Furano,<LINE>
+//fait un tacle glissé pour stopper<LINE>
+//l'attaque !<END>
+
+//Tiens !<END>
+
+//Mais Ishida a eu le temps de faire un lob<LINE>
+//en direction des buts !<END>
+
+//Oh, non ! Était-ce juste une tactique<LINE>
+//désespérée pour échapper au tacle ?<LINE>
+//Le lob n'a servi à rien<LINE>
+//car le ballon est trop haut.<END>
+
+//Gardien !<END>
+
+//OK !<END>
+
+//Le gardien Kato semble n'avoir<LINE>
+//aucune difficulté à protéger les buts.<END>
+
+//Mais, attendez !<LINE>
+//Un joueur sprinte avec rage vers la balle !<LINE>
+//C'est Takéi, l'avant-centre de Minamiuwa !<END>
+
+//Attention !<END>
+
+//Quoi ?<END>
+
+//Takéi a sauté en pleine course !<END>
+
+//C'est un face-à-face aérien<LINE>
+//avec le gardien !<END>
+
+//Takéi a remporté ce duel !<LINE>
+//Il a fait usage de sa force<LINE>
+//pour passer au travers…<LINE>
+//But !<END>
+
+//Allez, on attaque !<END>
+

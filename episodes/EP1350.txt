@@ -1,0 +1,52 @@
+// FILE: EP1350.str containing 18 strings
+
+//C'est au tour de Matsuyama d'y aller !<END>
+
+//Je m'en charge !<END>
+
+//Diaz fonce droit sur Matsuyama !<END>
+
+//Parfait.<END>
+
+//Diaz saute au-dessus du tacle de Matsuyama.<END>
+
+//Mais Matsuyama ne s'avoue pas vaincu<LINE>
+//et tacle encore plus haut !<END>
+
+//Oh ! Diaz se sert du pied de Matsuyama<LINE>
+//pour s'envoler encore plus haut !<END>
+
+//Et il effectue une passe dans les airs !<END>
+
+//Je vais intercepter la passe !<END>
+
+//Incroyable ! Diaz a mis de l'effet<LINE>
+//dans sa passe !<END>
+
+//Quoi !<END>
+
+//Pascual réceptionne le ballon,<LINE>
+//et le renvoie vers Diaz !<END>
+
+//Tiens, Diaz !<END>
+
+//Diaz efface le défenseur Ishizaki<LINE>
+//en le débordant sur le côté !<LINE>
+//Il effectue une rondade<LINE>
+//et conclut par un flip arrière !<LINE>
+//Il va tirer en plein retourné !<END>
+
+//Wakashimazu plonge,<LINE>
+//mais ne touche pas la balle !<LINE>
+//Buuuuuuuuuuuuuuuuut !<END>
+
+//Oui !<END>
+
+//L'Argentine ouvre la marque,<LINE>
+//et avec la manière !<END>
+
+//Quelle combinaison !<LINE>
+//Le jeu acrobatique de Diaz<LINE>
+//et la technique de passe de Pascual !<LINE>
+//C'est la paire en or de l'Argentine !<END>
+

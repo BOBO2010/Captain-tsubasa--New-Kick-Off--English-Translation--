@@ -1,0 +1,40 @@
+// FILE: EP0253.str containing 14 strings
+
+//Allez, Ichijo !<LINE>
+//C'est notre chance !<END>
+
+//OK !<END>
+
+//Oh non !<END>
+
+//Le gardien de but Ichijo a relancé<LINE>
+//le ballon en un éclair vers Urabé…<END>
+
+//… qui l'a ensuite  expédié à Nitta,<LINE>
+//juste devant les buts !<END>
+
+//Nitta !<END>
+
+//Il a retourné la situation !<LINE>
+//Si Nitta obtient le ballon,<LINE>
+//le but est quasiment assuré !<LINE>
+//Tsubasa ne peut pas revenir le marquer !<END>
+
+//Il va au fond des filets !<END>
+
+//Nitta est tout seul, et se met en position<LINE>
+//pour faire une reprise de volée !<END>
+
+//Ah ! Le timing est parfait !<END>
+
+//Tir du faucon en pleine volée !<END>
+
+//Et c'est le but !<LINE>
+//Le gardien Morisaki et la défense<LINE>
+//de Nankatsu n'ont pas eu la moindre chance<LINE>
+//de l'arrêter !<END>
+
+//...<END>
+
+//...<END>
+

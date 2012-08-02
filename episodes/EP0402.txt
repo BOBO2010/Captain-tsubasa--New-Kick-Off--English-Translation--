@@ -1,0 +1,63 @@
+// FILE: EP0402.str containing 22 strings
+
+//Nankatsu est qualifiée<LINE>
+//pour les quarts de finale.<LINE>
+//Hanawa s'est bien battue<LINE>
+//mais son parcours s'arrête là.<END>
+
+//On a... perdu.<END>
+
+//Les deux équipes se sont livrées<LINE>
+//à corps perdus dans ce match.<LINE>
+//Les applaudissements du public<LINE>
+//résonnent dans le stade !<END>
+
+//Je t'avais dit de ne pas trop forcer,<LINE>
+//mais tu ne m'as pas écouté<LINE>
+//et tu t'es encore blessé.<END>
+
+//Se blesser, ça fait partie du jeu.<END>
+
+//Comment va ton épaule, Tsubasa ?<END>
+
+//Tachibana !<END>
+
+//Je ne sais pas quoi dire.<LINE>
+//C'est ma faute.<END>
+
+//Non, non, c'était inévitable.<LINE>
+//Merci d'être venu me voir.<END>
+
+//Bats-toi aussi pour nous, d'accord ?<END>
+
+//OK.<END>
+
+//Compte sur nous. On va gagner !<END>
+
+//Oh, Hyuga !<END>
+
+//Hé, tu ne joues pas aujourd'hui non plus ?<LINE>
+//Comment ça se fait, Hyuga ?<END>
+
+//Ne t'en fais pas.<LINE>
+//Je te promets que nous nous verrons<LINE>
+//en finale.<END>
+
+//Mais alors, tu n'es pas blessé ?<END>
+
+//... Non.<END>
+
+//Dans ce cas, pour la troisième année<LINE>
+//consécutive...<END>
+
+//... Je compte sur une finale<LINE>
+//Nankatsu contre Touhou !<END>
+
+//De ton côté, fais en sorte d'arriver<LINE>
+//en forme en finale.<LINE>
+//Sinon ça ne vaudra pas le coup.<END>
+
+//*sourire*<END>
+
+//...<END>
+

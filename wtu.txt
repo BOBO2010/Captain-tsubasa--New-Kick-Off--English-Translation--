@@ -1,0 +1,83 @@
+// FILE: wtu.str containing 25 strings
+
+//Erreur de communication.<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//Définit les équipes.<LINE>
+//Sélectionner les joueurs<LINE>
+//avec haut/bas de la manette +<LINE>
+//et attribuer à une équipe<LINE>
+//avec gauche/droit de la manette +.<LINE>
+//Désigner le chef de l'équipe<LINE>
+//avec le bouton Y.<LINE>
+//Les données de sauvegarde du chef<LINE>
+//seront utilisées.<END>
+
+//Choisissez la sauvegarde à utiliser.<END>
+
+//Veuillez choisir <LINE>
+//votre équipe.<END>
+
+//Veuillez définir les règles.<END>
+
+//Veuillez définir le handicap.<END>
+
+//Joue contre un adversaire IA.<END>
+
+//Joue contre un autre joueur.<END>
+
+//Sauvegarde les données d'ami.<END>
+
+//Communication<LINE>
+//en cours...<LINE>
+//Veuillez patienter.<END>
+
+//L'autre joueur est<LINE>
+//occupé. Veuillez<LINE>
+//patienter.<END>
+
+//Sauvegarde<LINE>
+//des données...<LINE>
+//Veuillez patienter.<END>
+
+//Veuillez patienter.<END>
+
+//Arrêter le VS et<LINE>
+//retourner au menu.<END>
+
+//Arrêter l'échange<LINE>
+//et retourner au<LINE>
+//menu.<END>
+
+//Rejoint une session.<END>
+
+//Crée une partie VS.<END>
+
+//Recherche de joueurs…<LINE>
+//Il faut 2 joueurs minimum<LINE>
+//pour commencer la partie.<END>
+
+//Accès à la partie…<LINE>
+//Veuillez patienter<LINE>
+//jusqu'à ce qu'elle débute.<END>
+
+//L'adversaire<LINE>
+//sélectionne<LINE>
+//son équipe.<END>
+
+//Jouer avec<LINE>
+//cette équipe ?<END>
+
+//Une équipe a plus<LINE>
+//de 3 joueurs. Il<LINE>
+//faut maximum 2<LINE>
+//joueurs par équipe.<END>
+
+//Impossible<LINE>
+//d'enregistrer.<LINE>
+//Vérifiez vos<LINE>
+//listes d'amis.<END>
+

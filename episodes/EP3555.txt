@@ -1,0 +1,63 @@
+// FILE: EP3555.str containing 21 strings
+
+//Leur joueur clé est à présent Matsuyama.<LINE>
+//Si nous l'arrêtons, l'équipe de Furano<LINE>
+//toute entière s'effondrera !<END>
+
+//Hyuga se rapproche de Matsuyama !<LINE>
+//Il est prêt à attaquer !<END>
+
+//Si je perds le ballon, Toho prendra<LINE>
+//le contrôle du match !<LINE>
+//Je ne dois pas perdre ici !<END>
+
+//Matsuyama n'a pas bronché<LINE>
+//face à l'attaque de Hyuga !<END>
+
+//Il possède toujours le ballon !<LINE>
+//Hyuga aura du mal à le lui prendre !<END>
+
+//Les deux se sont aussi affrontés<LINE>
+//au championnat national quand ils étaient<LINE>
+//à l'école primaire.<END>
+
+//Leur technique s'est considérablement<LINE>
+//améliorée !<LINE>
+//Ce match est vraiment excitant !<END>
+
+//Je vais te reprendre la balle !<END>
+
+//Tu rêves ! Je ne te laisserai pas faire !<END>
+
+//Capitaine !<END>
+
+//?<END>
+
+//OK, vas-y Oda !<END>
+
+//Oh, non !<END>
+
+//Oda se déplace rapidement<LINE>
+//pour se mettre en position optimale,<LINE>
+//et Matsuyama lui envoie la balle !<END>
+
+//Mais sa passe est aussi rapide qu'un tir !<LINE>
+//Oda pourra-t-il atteindre le ballon<LINE>
+//à temps ?<END>
+
+//Allons-y !<END>
+
+//Bien ! Oda fait une reprise de volée !<END>
+
+//Une belle reprise de volée d'Oda,<LINE>
+//sur une  passe de Matsuyama !  <END>
+
+//Même l'excellent gardien Wakashimazu<LINE>
+//n'a pas eu le temps de réagir !<END>
+
+//C'était une belle passe, capitaine ! <END>
+
+//Bien joué, Oda !<LINE>
+//Tu leur as montré ce dont était capable<LINE>
+//un avant-centre de Furano !<END>
+

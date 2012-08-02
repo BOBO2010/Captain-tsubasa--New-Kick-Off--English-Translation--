@@ -1,0 +1,32 @@
+// FILE: EP4101.str containing 9 strings
+
+//Et le coup de sifflet marque<LINE>
+//la fin de la première mi-temps.<END>
+
+//Toho avait le contrôle du match,<LINE>
+//mais la participation de Misugi l'a fait<LINE>
+//basculer du côté de Musashi !<END>
+
+//Il va être intéressant de voir les effets<LINE>
+//de cette pause sur le cours du match.<END>
+
+//Misugi, souviens-toi que tu ne peux jouer<LINE>
+//que vingt minutes, d'accord ?<END>
+
+//Oui, je comprends.<END>
+
+//Vingt minutes de plus...<LINE>
+//Nous allons sceller ce match<LINE>
+//en vingt minutes !<END>
+
+//Et voici les joueurs qui reviennent<LINE>
+//sur le terrain. Avec l'entrée de Misugi,<LINE>
+//le match va être plus intense que jamais.<END>
+
+//La seconde mi-temps est sur le point<LINE>
+//de commencer. Bien malin qui pourra<LINE>
+//prédire comment elle va se terminer.<END>
+
+//Le coup de sifflet de l'arbitre marque<LINE>
+//le début de la seconde mi-temps.<END>
+

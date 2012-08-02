@@ -1,0 +1,124 @@
+// FILE: EP0704.str containing 39 strings
+
+//Nankatsu et Toho sont tous les deux<LINE>
+//déclarés vainqueurs !<LINE>
+//Aucune des deux équipes,<LINE>
+//aucun de ces deux grands rivaux,<LINE>
+//n'a pu remporter une victoire décisive.<LINE>
+//C'est un match nul.<END>
+
+//C'est fini.<END>
+
+//C'est un match nul.<END>
+
+//Alors que le match est terminé,<LINE>
+//les joueurs des deux équipes<LINE>
+//tombent à genoux, tête baissée.<END>
+
+//Ils se seront effectivement tant battus<LINE>
+//qu'ils sont à présent très émus.<END>
+
+//Des cris de soutien et des encouragements<LINE>
+//fusent de toutes parts<LINE>
+//pour ces deux équipes<LINE>
+//qui se sont si durement affrontées.<END>
+
+//Tsubasa ! On a réussi !<LINE>
+//C'est notre troisième victoire d'affilée !<END>
+
+//Hyuga ! Notre première victoire !<END>
+
+//Capitaine, nous sommes champions !<END>
+
+//C'est terminé...<END>
+
+//Tsubasa !<END>
+
+//Hyuga...<END>
+
+//Je savais qu'on ne pourrait pas<LINE>
+//vous battre dans cette finale.<LINE>
+//Ça se finit sur un match nul.<END>
+
+//Oui...<END>
+
+//J'aurais vraiment voulu pouvoir t'affronter<LINE>
+//au meilleur de ta forme...<END>
+
+//Je suis désolé, Hyuga.<END>
+
+//Nankatsu est champion !<LINE>
+//Pour la troisième année consécutive !<LINE>
+//Leur nom restera certainement inscrit<LINE>
+//dans l'histoire du football collégien.<LINE>
+//Bravo pour l'équipe de Nankatsu !<END>
+
+//Tsubasa ! Notre troisième victoire !<LINE>
+//On a réussi !<END>
+
+//On a réalisé notre rêve !<END>
+
+//Merci à tous.<LINE>
+//On a réussi...<END>
+
+//Tsubasa !<END>
+
+//Hyuga...<END>
+
+//On n'a pas réussi à vous battre en finale.<LINE>
+//Tu as fait un boulot épatant, Tsubasa !<END>
+
+//J'aurais vraiment voulu t'affronter<LINE>
+//au meilleur de ta forme.<LINE>
+//Cela dit nous avons perdu<LINE>
+//alors que tu étais blessé.<LINE>
+//On va dire que c'est la vie...<END>
+
+//Non Hyuga, tu as vraiment été très fort.<LINE>
+//Sans l'aide de toute mon équipe,<LINE>
+//je n'aurais pas pu te battre.<LINE>
+//Je n'ai pas gagné tout seul.<END>
+
+//Tsubasa...<END>
+
+//Allez, le Brésil t'attend.<END>
+
+//Hein ?<END>
+
+//Si tu restes ici, tu seras pour moi<LINE>
+//la cible à abattre.<END>
+
+//Hyuga...<END>
+
+//Aujourd'hui en jouant contre toi,<LINE>
+//j'ai le sentiment d'en avoir appris<LINE>
+//un peu plus sur les joies du football.<END>
+
+//Et maintenant je peux continuer<LINE>
+//sans penser à toi.<LINE>
+//Je crois que mon désir obsessionnel<LINE>
+//de te battre m'est passé.<END>
+
+//Je vais désormais viser quelque chose<LINE>
+//de grand, comme toi.<END>
+
+//Hyuga...<END>
+
+//Mais je ne sais pas encore quoi...<END>
+
+//Hyuga…<LINE>
+//Après le collège, je vais aller au Brésil.<END>
+
+//Tsubasa…<LINE>
+//Je crois que cela met un terme<LINE>
+//à notre rivalité… pour l'instant.<END>
+
+//Oui...<END>
+
+//Les capitaines des deux équipes,<LINE>
+//Hyuga et Tsubasa,<LINE>
+//se félicitent mutuellement<LINE>
+//pour la qualité de ce match,<LINE>
+//et échangent leurs maillots !<LINE>
+//Ils affichent tous deux un grand sourire !<END>
+

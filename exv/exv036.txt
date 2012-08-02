@@ -1,0 +1,13 @@
+// FILE: exv036.str containing 4 strings
+
+//Vole ! Tir du faucon !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Viens te battre !<END>
+
+//Tu peux être aussi rapide<LINE>
+//que moi ?<END>
+

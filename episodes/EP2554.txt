@@ -1,0 +1,54 @@
+// FILE: EP2554.str containing 15 strings
+
+//Je ne vais pas perdre ! Pas cette fois !<LINE>
+//Je ne vais pas perdre contre Tsubasa,<LINE>
+//ni contre personne d'autre !<END>
+
+//Prends ça, Hyuga !<END>
+
+//Et Kisugi attaque directement<LINE>
+//avec un tacle glissé de côté !<END>
+
+//Mon attitude vis-à-vis de l'entraîneur<LINE>
+//Kitazumé, l'inquiétude que j'ai causée<LINE>
+//à tout le monde, et ma formation auprès<LINE>
+//de l'entraîneur Kira à Okinawa...<END>
+
+//Tout ça n'aura servi à rien si je me plante<LINE>
+//et perds ce match !<END>
+
+//Oh ! Hyuga encaisse le tacle<LINE>
+//sans broncher !<END>
+
+//Il est inébranlable !<END>
+
+//Hum ! Si un seul homme ne suffit pas,<LINE>
+//alors allons-y tous ensemble !<END>
+
+//Et une autre vague de joueurs de Nankatsu<LINE>
+//se rapproche !<END>
+
+//Si c'est ce que vous voulez,<LINE>
+//je vous attends de pied ferme !<LINE>
+//Arrêtez-moi si vous êtes capables !<LINE>
+//Venez par milliers, ça ne changera rien !<END>
+
+//Essayez d'arrêter mon Tiger shot !<END>
+
+//Ouah ! Hyuga défie le tsunami !<LINE>
+//Les joueurs de l'équipe adverse sont<LINE>
+//sous le choc !<END>
+
+//Hyuga a brisé le mur avec son Tiger shot !<LINE>
+//Morisaki, le gardien de but, n'a pas eu<LINE>
+//le temps de réagir !<END>
+
+//C'est incroyable ! Le Tiger shot de Hyuga<LINE>
+//est un véritable raz-de-marée !<LINE>
+//Toho vient de marquer grâce<LINE>
+//au superbe tir de Hyuga, le Tiger shot !<END>
+
+//Vous avez vu ça, Nankatsu ?<LINE>
+//Personne ne peut arrêter mon Tiger shot.<LINE>
+//Je suis invincible !<END>
+

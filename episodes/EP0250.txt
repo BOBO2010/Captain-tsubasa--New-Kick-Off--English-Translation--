@@ -1,0 +1,26 @@
+// FILE: EP0250.str containing 9 strings
+
+//Nitta a le ballon !<END>
+
+//Otomo va pouvoir tester sa stratégie !<END>
+
+//Oh, mais on dirait que Nankatsu<LINE>
+//avait prévu ce développement !<LINE>
+//Tsubasa, le capitaine, a changé<LINE>
+//de poste pour marquer Nitta !<END>
+
+//OK ! C'est l'occasion que j'attendais !<END>
+
+//Amène-toi, Nitta !<LINE>
+//J'accepte ton défi !<END>
+
+//Oh ! Les deux adversaires se sont heurtés<LINE>
+//violemment !<END>
+
+//Ah ! Mais je crois que Tsubasa a pris<LINE>
+//le ballon !<END>
+
+//J'ai... J'ai perdu...<END>
+
+//Allez, on repart tous à l'attaque !<END>
+

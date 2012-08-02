@@ -1,0 +1,91 @@
+// FILE: EP3556.str containing 26 strings
+
+//Matsuyama se rapproche maintenant de Sawada<LINE>
+//pour lui prendre la balle !<END>
+
+//Matsuyama est difficile à battre<LINE>
+//aujourd'hui, mais cela ne veut pas dire <LINE>
+//que je dois le laisser avec le ballon !<LINE>
+//Je dois faire une passe à Hyuga !<END>
+
+//Un but de plus, un seul but de plus<LINE>
+//et nous pourrons gagner !<LINE>
+//Je dois marquer !<END>
+
+//Sawada veut passer le ballon à Hyuga,<LINE>
+//tandis que Matsuyama tente de le garder<LINE>
+//pour attaquer.<END>
+
+//Qui remportera le duel<LINE>
+//entre les milieux de terrain ?<END>
+
+//Surveillez le ballon et votre adversaire !<LINE>
+//Rappelez-vous votre entraînement<LINE>
+//dans la neige,<LINE>
+//alors que la visibilité était réduite !<END>
+
+//Hyuga !<END>
+
+//Oh ! Sawada va faire une passe longue<LINE>
+//à Hyuga à l'avant !<END>
+
+//Mince !<END>
+
+//Matsuyama a intercepté le ballon !<LINE>
+//C'était pourtant une belle passe,<LINE>
+//mais Matsuyama l'a bloquée<LINE>
+//en tendant ses jambes !<END>
+
+//Quoi ?<END>
+
+//Allons-y, les gars !<LINE>
+//On peut encore en mettre un !<END>
+
+//Furano se rue vers Toho !<LINE>
+//Toho peut-il bloquer cette attaque ?<END>
+
+//C'est une passe rapide ! <LINE>
+//Bloquez le ballon !<END>
+
+//Les joueurs de Toho se déploient<LINE>
+//pour bloquer la passe !<END>
+
+//Ça y est ! C'est ce que j'attendais !<LINE>
+//Je savais que vous feriez ce choix après<LINE>
+//nous avoir vus effectuer notre Avalanche !<END>
+
+//Matsuyama ne fera pas de passe !<LINE>
+//Il arme son tir !  <END>
+
+//Prêt, Toho ?<LINE>
+//Prenez-ça !<END>
+
+//Matsuyama a tiré !<LINE>
+//C'est le même tir avec effet d'ondulation<LINE>
+//qui avait auparavant trompé Wakashimazu !<END>
+
+//Je ne te laisserai pas marquer<LINE>
+//avec un tir similaire !<LINE>
+//Je m'interposerai !<END>
+
+//Wakashimazu plonge sur le côté<LINE>
+//pour arrêter le tir !<LINE>
+//Y parviendra-t-il ?<END>
+
+//Quoi ?<END>
+
+//Le ballon a échappé à Wakashimazu<LINE>
+//qui tendait les mains !<END>
+
+//Le ballon a en fait rebondi sur son bras<LINE>
+//de par son effet d'ondulation !<END>
+
+//But !<LINE>
+//Furano mène !<LINE>
+//Matsuyama a marqué un nouveau but<LINE>
+//contre la défense de Wakashimazu !<END>
+
+//Alors, vous pouvez faire mieux ?<LINE>
+//Nous avons promis à Tsubasa<LINE>
+//que nous gagnerons ce match !<END>
+

@@ -1,0 +1,62 @@
+// FILE: EP3451.str containing 19 strings
+
+//Bon !<END>
+
+//Ça ne se passera pas comme ça !<END>
+
+//Matsuyama, le capitaine de Furano,<LINE>
+//a effacé Taki sans difficulté !<END>
+
+//Matsuyama, le capitaine de Furano,<LINE>
+//a effacé Kisugi sans difficulté !<END>
+
+//Remontez, les gars ! En avant !<LINE>
+//Le moment est venu de leur faire goûter<LINE>
+//l'Avalanche de Furano !<END>
+
+//C'est quoi ? L'Avalanche de Furano ?<END>
+
+//Tous les joueurs de Furano remontent<LINE>
+//vers les buts de Nankatsu.<END>
+
+//OK, les gars !<LINE>
+//Je dégage la balle !<END>
+
+//Kisugi et Taki s'efforcent<LINE>
+//en vain d'intercepter le ballon.<LINE>
+//Matsuyama n'a pas l'intention<LINE>
+//de les laisser faire !<END>
+
+//Pour la protection de balle,<LINE>
+//personne dans ce championnat<LINE>
+//n'atteint le niveau de Matsuyama.<LINE>
+<END>
+
+//?<END>
+
+//Tsubasa poursuit lui aussi Matsuyama ! <END>
+
+//Je ferai une passe longue<LINE>
+//avant qu'il n'arrive !<END>
+
+//Matsuyama a frappé un grand lob<LINE>
+//pour ses coéquipiers qui courent se placer<LINE>
+//à l'avant.<END>
+
+//Allons-y !<END>
+
+//Je me fiche de savoir combien ils sont !<LINE>
+//Il n'y a qu'un seul ballon.<LINE>
+//Je vais stopper leur attaque<LINE>
+//et dégager la balle !<END>
+
+//Ça ne marchera pas... même si je dégage,<LINE>
+//ils continueront à attaquer !<END>
+
+//Si un joueur perd le ballon,<LINE>
+//ses partenaires sont là pour le protéger.<LINE>
+//C'est l'Avalanche de Furano !<END>
+
+//L'Avalanche de Furano pourra-t-elle <LINE>
+//submerger la défense de Nankatsu ?<END>
+

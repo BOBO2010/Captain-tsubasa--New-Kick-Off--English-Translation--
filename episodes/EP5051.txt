@@ -1,0 +1,28 @@
+// FILE: EP5051.str containing 9 strings
+
+//Pas mal, petit !<END>
+
+//Mais crois-tu réellement<LINE>
+//que tu puisses percer la meilleure défense<LINE>
+//de Nankatsu, c'est-à-dire nous ?... <END>
+
+//Quoi ?<END>
+
+//Trop rapide !<END>
+
+//Non ! Il a effacé Ishizaki et Takasugi...<LINE>
+//Il n'y a plus que le gardien...<END>
+
+//Non, Tsubasa est là ! Tsubasa est revenu<LINE>
+//en défense !<END>
+
+//J'en attendais pas moins<LINE>
+//de Tsubasa Ozora !<LINE>
+//Mais je vais passer !<END>
+
+//Zut, il m'a pris de vitesse !<END>
+
+//Allez, les gars ! Ça a beau être un match<LINE>
+//amical, restez concentrés ! On va marquer<LINE>
+//d'autres buts !<END>
+

@@ -1,0 +1,50 @@
+// FILE: EP2252.str containing 15 strings
+
+//Matsukami a une occasion de tirer !<LINE>
+//Mais il ne faut pas oublier<LINE>
+//l'invincible Wakashimazu.<LINE>
+//Matsukami parviendra-t-il à trouver<LINE>
+//une faille ?<END>
+
+//Non... Inutile d'espérer briser <LINE>
+//la défense de ce gardien de but <LINE>
+//avec un simple tir !<LINE>
+//Peut-être que...<END>
+
+//Matsukami se prépare à tirer !<END>
+
+//Montre-moi ce dont tu es capable !<LINE>
+//Aucun de tes tirs ne pourra me surprendre !<END>
+
+//Maintenant !<END>
+
+//...<END>
+
+//Impressionnant ! Il ne tire pas !<LINE>
+//Il fait semblant de tirer et passe<LINE>
+//le ballon à Takida placé sur le côté !<END>
+
+//Impressionnant ! Il ne tire pas !<LINE>
+//Il fait semblant de tirer et passe<LINE>
+//le ballon à Iino placé sur le côté !<END>
+
+//Je viens de comprendre !<LINE>
+//Allez-y, les gars !<END>
+
+//C'est maintenant qu'il va tirer !<LINE>
+//Ils ont envoyé le ballon<LINE>
+//de l'autre côté de Wakashimazu !<END>
+
+//Ruagh !<END>
+
+//Hein !<END>
+
+//Ouah ! Wakashimazu vient de sortir <LINE>
+//de la cage et a plongé sur le côté !<END>
+
+//Il a intercepté le tir<LINE>
+//en s'accrochant au ballon !<END>
+
+//Ce n'est pas avec ce genre de tir<LINE>
+//que vous allez marquer des buts !<END>
+

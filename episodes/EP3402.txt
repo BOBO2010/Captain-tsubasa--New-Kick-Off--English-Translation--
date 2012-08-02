@@ -1,0 +1,40 @@
+// FILE: EP3402.str containing 9 strings
+
+//C'est la fin du match !<LINE>
+//Furano a empêché Nankatsu d'aller<LINE>
+//en finale, et de gagner le championnat<LINE>
+//pour la troisième année consécutive !<END>
+
+//Je savais que Matsuyama en était capable !<END>
+
+//C'était un beau match, Tsubasa.<END>
+
+//Quel dommage que tu n'aies pas pu jouer <LINE>
+//au meilleur de ta forme.<LINE>
+//Certains diront que notre victoire<LINE>
+//était le fruit du hasard,<LINE>
+//avec tous les efforts que nous avons<LINE>
+//fournis contre un joueur blessé.<LINE>
+//Ahahah !<END>
+
+//Difficile à dire !<LINE>
+//Il est impossible de savoir<LINE>
+//si j'aurais pu te battre ou non,<LINE>
+//si je n'avais pas été blessé.<LINE>
+<END>
+
+//Quoi qu'il en soit, nous irons en finale. <LINE>
+//Nous remporterons le trophée national,<LINE>
+//et nous serons l'équipe qui aura empêché<LINE>
+//Nankatsu de décrocher<LINE>
+//une troisième victoire !<END>
+
+//Vous jouerez contre Toho Gakuen...<LINE>
+//Hyuga est un joueur redoutable,<LINE>
+//mais l'équipe de Furano peut gagner !<END>
+
+//Merci !<LINE>
+//Je compte sur ton soutien !<END>
+
+//Fais-moi confiance !<END>
+

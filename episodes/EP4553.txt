@@ -1,0 +1,33 @@
+// FILE: EP4553.str containing 10 strings
+
+//Les deux as vont s'affronter !<LINE>
+//Tsubasa, l'enfant prodige du football<LINE>
+//et Misugi, Prince du terrain !<END>
+
+//Tiens-toi prêt, Tsubasa !<END>
+
+//Je ne vais pas perdre contre toi, Misugi !<END>
+
+//L'époustouflant contrôle de balle<LINE>
+//de Misugi et la hargne de Tsubasa !<LINE>
+//Aucun des deux ne recule d'un pouce !<END>
+
+//Maintenant !<END>
+
+//Maintenant !<END>
+
+//Ah ! Les jambes des deux joueurs<LINE>
+//se sont violemment heurtées !<LINE>
+//Le ballon file dans les airs !<END>
+
+//Le ballon roule...<LINE>
+//Aucun des deux as n'a cédé !<LINE>
+//Ils s'affrontent à armes égales !<END>
+
+//Tsubasa est fort...<LINE>
+//Il ne va pas me laisser gagner<LINE>
+//si facilement !<END>
+
+//Je ne m'étais pas trompé...<LINE>
+//Misugi est un adversaire difficile...<END>
+

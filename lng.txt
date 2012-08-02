@@ -1,0 +1,10 @@
+// FILE: lng.str containing 1 strings
+
+//Choisissez une langue.<LINE>
+//<LINE>
+//Bitte wähle eine Sprache aus.<LINE>
+//<LINE>
+//Scegli una lingua.<LINE>
+//<LINE>
+//Elige idioma.<END>
+

@@ -1,0 +1,15 @@
+// FILE: EP3302.str containing 5 strings
+
+//Minamiuwa a perdu !<LINE>
+//Furano se qualifie pour les demi-finales !<END>
+
+//On a gagné !<END>
+
+//Prochain match contre Nankatsu,<LINE>
+//et la finale contre Toho.<END>
+
+//On a gagné…<LINE>
+//On a gagné, Yoshiko.<END>
+
+//Que c'est beau...<END>
+

@@ -1,0 +1,148 @@
+// FILE: EP2561.str containing 45 strings
+
+//Drive shoot !<END>
+
+//Mais Hyuga... Hyuga court avec rage<LINE>
+//et se met en travers du chemin de Tsubasa !<END>
+
+//N'espère pas marquer contre Toho !<LINE>
+//Tiger shot !<END>
+
+//Hyuga est devant moi...<LINE>
+//Va-t-il arriver à temps pour bloquer<LINE>
+//le Drive shoot avec un Tiger shot ?<END>
+
+//C'est un duel !<LINE>
+//Un véritable combat !<END>
+
+//Oh ! C'est incroyable !<LINE>
+//Les deux joueurs semblent être<LINE>
+//de force égale !<END>
+
+//Le ballon de bouge pas d'un centimètre !<LINE>
+//Tsubasa et Hyuga sont projetés en arrière !<END>
+
+//Oh ! Hyuga fait volte-face et tombe,<LINE>
+//mais Tsubasa se relève !<END>
+
+//C'est le moment !<LINE>
+//Je touche mon rêve du bout des doigts !<LINE>
+//Drive shoot !<END>
+
+//Argh !<END>
+
+//Hyuga se relève et se prépare<LINE>
+//à bloquer le ballon,<LINE>
+//mais il n'est pas assez près !<END>
+
+//Il risque d'égaliser à nouveau...<END>
+
+//Je vais l'arrêter !<LINE>
+//Tu vas voir de quoi je suis capable !<END>
+
+//Tégatana defense !<END>
+
+//Ah ! Il l'arrête !<LINE>
+//Nankatsu ne marque pas !<END>
+
+//Wakashimazu !<END>
+
+//Wakashimazu bloque le tir,<LINE>
+//mais il perd l'équilibre, et percute<LINE>
+//le poteau de son épaule droite !<END>
+
+//Ça alors !<LINE>
+//Le Drive shoot a bien été bloqué,<LINE>
+//mais Nankatsu revient à l'attaque<LINE>
+//pour récupérer le ballon !<END>
+
+//Arrêtez-les !<LINE>
+//Wakashimazu s'est blessé pour nous !<LINE>
+//Il n'a pas fait tout ceci pour rien !<LINE>
+//En défense !<END>
+
+//Ah ! Et Tsubasa récupère le ballon !<END>
+
+//Tsubasa vient de tomber à genoux.<LINE>
+//Serait-il incapable de bouger ?<END>
+
+//Le ballon... Mon ami est revenu vers moi.<END>
+
+//Je vais marquer.<LINE>
+//Je vais marquer !<END>
+
+//Oh ! Tsubasa se relève,<LINE>
+//prêt à faire un autre Drive shoot !<LINE>
+//Wakashimazu est toujours à terre !<END>
+
+//Non !<END>
+
+//Je vais bloquer ton Drive shoot<LINE>
+//avec mon Tiger shot !<LINE>
+//Effectue ton Drive shoot, et je tirerai<LINE>
+//dans les cages de Nankatsu<LINE>
+//même de l'autre bout du terrain !<END>
+
+//Ragh ! Tiger...<END>
+
+//Shot !<END>
+
+//Impossible !<END>
+
+//Hyuga se sert du poteau comme tremplin<LINE>
+//pour tirer, profitant par la même occasion<LINE>
+//de la puissance du Drive shoot de Tsubasa.<LINE>
+//Compte-t-il vraiment marquer d'aussi loin ?<END>
+
+//Quoi !<END>
+
+//Et le ballon est renvoyé à nouveau !<END>
+
+//Le Drive shoot de Tsubasa a été renvoyé<LINE>
+//par le Tiger shot de Hyuga !<END>
+
+//Tsubasa effectue à présent un Jumping High<LINE>
+//Volley Kick pour dégager la balle !<END>
+
+//Les multiples allers-retours du ballon<LINE>
+//ont créé un arc-en-ciel de lumière !<LINE>
+//On peut facilement imaginer<LINE>
+//la puissance des tirs...<END>
+
+//Il tire maintenant<LINE>
+//en direction des buts de Toho !<END>
+
+//Raugh !<END>
+
+//Incroyable ! Wakashimazu est debout !<LINE>
+//Wakashimazu, qui a été piétiné et blessé,<LINE>
+//tente le tout pour le tout en plongeant<LINE>
+//hors du but !<END>
+
+//Mais ce n'est pas suffisant !<LINE>
+//Même s'il attrape le ballon,<LINE>
+//il rentrera dans la cage<LINE>
+//emporté par son élan !<END>
+
+//Je dois l'arrêter !<LINE>
+//Il ne faut pas que Tsubasa... que Nankatsu<LINE>
+//marque un autre but !<END>
+
+//Il l'a arrêté !<LINE>
+//Il a encore réussi à l'arrêter !<END>
+
+//Wakashimazu est repoussé dans le but<LINE>
+//par la puissance du tir, alors que Hyuga<LINE>
+//arrive sur le côté pour le rattraper !<END>
+
+//Le ballon est arrêté à quelques<LINE>
+//centimètres de la ligne de but !<END>
+
+//T-Toho a contrecarré l'attaque !<LINE>
+//Nankatsu n'a pas réussi à marquer !<LINE>
+//Les trois tirs de Tsubasa se sont soldés<LINE>
+//par des échecs !<END>
+
+//Ouais...<LINE>
+//Nous avons réussi, les gars !<END>
+

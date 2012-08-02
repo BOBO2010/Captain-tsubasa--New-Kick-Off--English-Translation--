@@ -1,0 +1,50 @@
+// FILE: EP2151.str containing 12 strings
+
+//Hyuga marque son troisième but<LINE>
+//de la journée, faisant ainsi<LINE>
+//un coup du chapeau !<END>
+
+//Hyuga Kojiro n'est pas l'un des meilleurs<LINE>
+//buteurs du pays pour rien.<LINE>
+//C'est un élément essentiel<LINE>
+//de Toho Gakuen !<END>
+
+//Beau tir, Hyuga !<END>
+
+//De son côté, Musashi est en mauvaise<LINE>
+//posture après avoir encaissé<LINE>
+//un troisième but malgré une stratégie<LINE>
+//misant tout sur la défense !<END>
+
+//Faites-moi jouer, entraîneur !<END>
+
+//Non, Misugi, tu entres<LINE>
+//en deuxième mi-temps.<END>
+
+//S'ils continuent à marquer des points,<LINE>
+//nous allons finir par perdre.<LINE>
+//Donnez-moi 30 minutes.<LINE>
+//Je vous en prie, faites-moi entrer<LINE>
+//sur le terrain, entraîneur !<END>
+
+//Musashi remplace un joueur !<LINE>
+//Le numéro 14, Misugi, entre<LINE>
+//sur le terrain !<END>
+
+//!!<END>
+
+//Musashi, qui est menée de 3 points,<LINE>
+//se réveille en envoyant l'artillerie lourde<LINE>
+//avec Misugi. Il était pourtant prévu<LINE>
+//qu'il n'entre qu'à la deuxième mi-temps.<END>
+
+//Ils ne comptent pas laisser<LINE>
+//à Toho Gakuen une autre chance<LINE>
+//de marquer des points !<LINE>
+//Musashi fait preuve d'audace en changeant<LINE>
+//de stratégie !<END>
+
+//Tu arrives trop tard, Misugi.<LINE>
+//Ton équipe ne peut pas nous battre.<LINE>
+//Et ta présence n'y changera rien.<END>
+

@@ -1,0 +1,65 @@
+// FILE: EP4558.str containing 18 strings
+
+//Allez, mon corps, continue...<LINE>
+//Et toi, mon cœur, ne m'abandonne pas !<LINE>
+//Au moins, pas avant que j'aie battu<LINE>
+//Tsubasa !<END>
+
+//Misugi…<LINE>
+//Non... Je n'ai pas le temps<LINE>
+//de m'inquiéter pour lui !<LINE>
+//Si je ne l'arrête pas,<LINE>
+//on va perdre ce match !<END>
+
+//Les mouvements de Misugi sont lents !<END>
+
+//Misugi laisse beaucoup trop le ballon<LINE>
+//s'éloigner de lui !<LINE>
+//Et Tsubasa le lui vole !<END>
+
+//Te voilà, Tsubasa...<LINE>
+//C'est ma dernière chance...<LINE>
+//Affronte-moi, Tsubasa !<END>
+
+//Le ballon arrive !<LINE>
+//Je dois le frapper avant Misugi !<END>
+
+//Même si je dois en faire<LINE>
+//une crise cardiaque...<END>
+
+//Drive shoot !<END>
+
+//Et c'est un duel !<LINE>
+//Ils semblent avoir la même puissance !<LINE>
+//Le ballon file haut dans les airs !<END>
+
+//Misugi…<LINE>
+//Je ne pensais pas que tu aurais<LINE>
+//autant de puissance…<LINE>
+//Quoi ?<END>
+
+//Oh !<LINE>
+//Misugi saute vers le ballon !<LINE>
+//Tsubasa a réagi un peu trop tard !<END>
+
+//Prends ça !<END>
+
+//Il tire !<LINE>
+//Misugi a repris le ballon à la volée<LINE>
+//avec un tir retourné !<END>
+
+//Misugi !<END>
+
+//But !<LINE>
+//La puissante Bicyclette retournée<LINE>
+//de Misugi a foncé tout droit<LINE>
+//dans les buts de Nankatsu !<END>
+
+//Oui !<END>
+
+//Bravo, capitaine !<END>
+
+//J'ai... J'ai réussi, les gars !<LINE>
+//J'ai marqué un but<LINE>
+//après un duel contre Tsubasa !<END>
+

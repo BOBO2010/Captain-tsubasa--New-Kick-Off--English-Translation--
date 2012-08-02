@@ -1,0 +1,38 @@
+// FILE: EP0201.str containing 8 strings
+
+//Ce sont des adversaires redoutables,<LINE>
+//mais nous ne pouvons pas perdre<LINE>
+//car nous visons notre troisième titre<LINE>
+//national.<LINE>
+//Dans cette dernière demi-heure,<LINE>
+//nous allons leur montrer<LINE>
+//la véritable force de Nankatsu !<END>
+
+//On dirait qu'ils ne vont pas changer<LINE>
+//de stratégie pour la seconde mi-temps.<LINE>
+//Le plan est donc le même :<LINE>
+//on défend et toi, tu fonces vers les buts.<LINE>
+//C'est tout.<END>
+
+//OK.<END>
+
+//Je ne suis pas assez fort<LINE>
+//pour semer Tsubasa.<END>
+
+//Je dois faire une reprise de volée<LINE>
+//comme Tsubasa l'a faite pour son but.<LINE>
+//C'est le seul moyen !<LINE>
+//Mais vais-je réussir à faire ça ?<END>
+
+//Hé, Nitta ! C'est le moment, fonce !<END>
+
+//Ah... OK.<END>
+
+//Il ne reste plus que trente minutes<LINE>
+//de sueur et de larmes dans la bataille<LINE>
+//entre Nankatsu et Otomo !<LINE>
+//Est-ce que Nankatsu va réussir à passer<LINE>
+//le tournoi de Shizuoka, premier obstacle<LINE>
+//sur la route d'une troisième victoire<LINE>
+//nationale consécutive ?<END>
+

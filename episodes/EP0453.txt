@@ -1,0 +1,89 @@
+// FILE: EP0453.str containing 28 strings
+
+//Et le match redémarre<LINE>
+//avec un corner de Hanawa.<END>
+
+//Oh ! Ce doit être la stratégie ultime<LINE>
+//de Nankatsu !<END>
+
+//Kisugi et Taki sont déjà<LINE>
+//sur la barre transversale,<LINE>
+//prêts à bloquer le Skylab hurricane<LINE>
+//des frères Tachibana !<END>
+
+//Quoi ?!<END>
+
+//On ne peut pas reproduire la figure<LINE>
+//de Tsubasa, mais on peut au moins monter<LINE>
+//sur la barre transversale en avance !<END>
+
+//Comme ça, nous les bloquerons<LINE>
+//même s'ils tentent un Skylab hurricane !<LINE>
+//On ne les laissera pas égaliser !<END>
+
+//C'est marrant ça...<LINE>
+//Allez, sautez pour voir !<END>
+
+//Allez !<LINE>
+//Tsubasa a réussi à nous arrêter une fois,<LINE>
+//mais même s'il était encore là,<LINE>
+//il ne pourrait rien faire contre nous !<END>
+
+//Et ce Skylab hurricane va le prouver.<LINE>
+//Regardez ça !<END>
+
+//Cette fois, Masao est en dessous.<LINE>
+//Hanawa va tenter un Skylab hurricane<LINE>
+//comme prévu.<END>
+
+//Allez, sautez !<LINE>
+//Kisugi ! Taki !<LINE>
+//Sautez le plus haut possible<LINE>
+//et bloquez-les !<END>
+
+//OK !<END>
+
+//Daimaru est devant les buts<LINE>
+//et envoie le ballon vers l'avant !<END>
+
+//Comment ?!<END>
+
+//Hein ? Cette fois, c'est une balle basse !<END>
+
+//Allez !<END>
+
+//Le Skylab hurricane ne s'effectue pas<LINE>
+//forcément en hauteur,mais<LINE>
+//sous n'importe quel angle.<END>
+
+//Allez !<LINE>
+//Un Skylab hurricane à basse altitude !<END>
+
+//Hein ?<END>
+
+//En bas ?<END>
+
+//Mais...<END>
+
+//Kisugi et Taki sont sur la barre<LINE>
+//transversale !<LINE>
+//Ils ne vont pas redescendre à temps !<LINE>
+//Et Morisaki ne pourra pas l'attraper<LINE>
+//non plus !<END>
+
+//Buuuut !<END>
+
+//Oh, Tsubasa qui avait été absent<LINE>
+//pendant quelques minutes<LINE>
+//revient sur le terrain.<END>
+
+//Comment va ton épaule ?<END>
+
+//Ça va aller.<END>
+
+//Pardon, Tsubasa. Comme tu le vois,<LINE>
+//ils ont réussi à égaliser.<END>
+
+//Ils nous ont rattrapés, alors on va devoir<LINE>
+//reprendre l'avantage ! Allez, les gars !<END>
+

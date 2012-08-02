@@ -1,0 +1,25 @@
+// FILE: EP5000.str containing 7 strings
+
+//Si tu aimes le foot, ne renonce jamais !<END>
+
+//C'était pendant le Tokai Soccer Festival de<LINE>
+//printemps quand j'étais en 4e.<END>
+
+//J'y ai joué un match contre Tsubasa Ozora,<LINE>
+//celui-là même qui avait remporté le<LINE>
+//National Boys' Soccer Tournament.<END>
+
+//On compte sur toi, Shingo. Tu es le seul<LINE>
+//à pouvoir marquer un but contre Nankatsu !<END>
+
+//Nous, on va tous défendre et te faire<LINE>
+//des passes à l'avant !<END>
+
+//Oui, comptez sur moi !<END>
+
+//La stratégie élaborée par mon équipe<LINE>
+//consistait à me laisser seul avant,<LINE>
+//en pointe, pour que le reste de l'équipe<LINE>
+//puisse contenir les attaques percutantes<LINE>
+//de Nankatsu.<END>
+

@@ -1,0 +1,113 @@
+// FILE: bva088.str containing 54 strings
+
+//Allez !<END>
+
+//Prépare-toi !<END>
+
+//C'est bon, je l'ai !<END>
+
+//Tiens !<END>
+
+//Admire le spectacle !<END>
+
+//Allez !<END>
+
+//Laisse-moi passer !<END>
+
+//Je ne peux pas te laisser<LINE>
+//m'arrêter ici.<END>
+
+//Amène-toi !<END>
+
+//Je ne le laisserai pas entrer !<END>
+
+//Oh non, tu rêves !<END>
+
+//Admire le spectacle !<END>
+
+//C'est fini !<END>
+
+//Admire le spectacle !<END>
+
+//Je l'ai !<END>
+
+//Prépare-toi !<END>
+
+//Je ne laisserai pas ça<LINE>
+//arriver !<END>
+
+//Je l'ai !<END>
+
+//je dois l'arrêter !<END>
+
+//C'est fini !<END>
+
+//Je vais l'arrêter !<END>
+
+//Oui !<END>
+
+//Cool !<END>
+
+//Qu'est-ce que tu dis de ça ?<END>
+
+//Oh...<END>
+
+//!!!<END>
+
+//Non !<END>
+
+//Je l'ai !<END>
+
+//Prends ça !<END>
+
+//Aaaarrrrgh !<END>
+
+//C'est pour toi !<END>
+
+//C'est à toi de jouer !<END>
+
+//Je dois l'avoir !<END>
+
+//Tu ne peux pas m'arrêter !<END>
+
+//Oui !<END>
+
+//Tu ne l'auras pas !<END>
+
+//Pas question<LINE>
+//que je te laisse tirer !<END>
+
+//Je crois que tu rêves !<END>
+
+//Aaaarrrrgh !<END>
+
+//Je crois que tu rêves !<END>
+
+//Je dois l'avoir !<END>
+
+//je dois l'arrêter !<END>
+
+//Prends ça !<END>
+
+//Je t'arrêterai !<END>
+
+//Aaaarrrrgh !<END>
+
+//je dois l'arrêter !<END>
+
+//Je ne le laisserai pas entrer !<END>
+
+//Aaaarrrrgh !<END>
+
+//Oui !<END>
+
+//J'ai réussi !<END>
+
+//Ah !<END>
+
+//Impossible !<END>
+
+//Grrr....<END>
+
+//Quoi ? C'est pas vrai...<END>
+

@@ -1,0 +1,28 @@
+// FILE: EP2450.str containing 9 strings
+
+//Nous allons gagner ce match !<LINE>
+//Ce sera le dernier sans Hyuga !<END>
+
+//Courage, Takeshi !<LINE>
+//Nous n'allons pas perdre face<LINE>
+//à des gamins !<END>
+
+//Eh bien, il semblerait que deux joueurs<LINE>
+//de Meiwa-Higashi marquent Sawada,<LINE>
+//le meneur de jeu de Toho !<END>
+
+//C'est parti !<END>
+
+//Sawada parvient néanmoins à faire<LINE>
+//une passe !<END>
+
+//Oh, mais elle n'atteint pas son but !<END>
+
+//Ils s'attendaient à une passe<LINE>
+//vers Sorimachi !<END>
+
+//Agh !<END>
+
+//Super ! Ils font exactement<LINE>
+//ce que nous avions prévu !<END>
+

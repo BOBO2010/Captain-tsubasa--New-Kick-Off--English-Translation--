@@ -1,0 +1,41 @@
+// FILE: exv271.str containing 14 strings
+
+//Finissons-en !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Attrape-moi si tu peux !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Admire le spectacle !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Fire !<END>
+
+//Ah !<END>
+
+//Non-fire !<END>
+
+//Prépare-toi !<END>
+
+//Je ne te laisserai pas passer !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Ne t'imagine pas que tu vas<LINE>
+//pouvoir passer si facilement !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+

@@ -1,0 +1,73 @@
+// FILE: EP1250.str containing 24 strings
+
+//Oh ! Il s'est pris un tacle par-derrière !<LINE>
+//Faute ! L'arbitre demande à<LINE>
+//l'Italie de calmer le jeu.<END>
+
+//On tient notre chance, les gars.<LINE>
+//Je peux marquer directement d'ici !<END>
+
+//Ah bon ? Tu veux dire que tu es capable<LINE>
+//de rentrer ton Drive shoot d'ici ?<LINE>
+//C'est à ça que tu pensais ?<END>
+
+//Mais ils doivent être préparés<LINE>
+//au Drive shoot de Tsubasa, non ?<END>
+
+//Oui. C'est pourquoi... Matsuyama...<END>
+
+//Quoi ?<END>
+
+//Ah... je vois... D'accord, on y va !<END>
+
+//Le Japon obtient un coup franc direct<LINE>
+//face aux buts italiens.<END>
+
+//Que vont-ils faire ? De cette distance,<LINE>
+//ils pourraient tirer directement au but !<END>
+
+//L'Italie place son mur.<END>
+
+//Je suis sûr qu'il va tirer<LINE>
+//comme je l'ai déjà vu faire.<END>
+
+//Tsubasa se place à côté du ballon.<LINE>
+//Va-t-il nous offrir<LINE>
+//un de ses fameux Drive shoot ?<END>
+
+//Le Drive shoot lui permettrait de  tirer<LINE>
+//au-dessus du mur et de viser le but !<END>
+
+//Mais n'oublions pas qu'il a en face de lui<LINE>
+//le gardien des All Italy Jr. Youth,<LINE>
+//Gino Hernandez, le meilleur gardien<LINE>
+//d'Europe. Il ne se laissera sûrement pas<LINE>
+//faire aussi facilement !<END>
+
+//Tsubasa s'élance ! Il s'apprête à tirer !<END>
+
+//On saute ! Il ne faut pas que le ballon<LINE>
+//passe au-dessus du mur !<END>
+
+//Aah ! C'est une feinte ! Ce n'est pas<LINE>
+//Tsubasa, mais Matsuyama qui va tirer !<END>
+
+//Je vais marquer !<END>
+
+//Matsuyama a déclenché son Eagle shot !<LINE>
+//Le ballon rase le sol vers les cages !<END>
+
+//Ce n'est pas possible !<END>
+
+//Ohhh ! Arrêt du gardien italien !<END>
+
+//Quel arrêt réflexe ! Quelle poigne !<LINE>
+//Le puissant Eagle shot de Matsuyama<LINE>
+//a été arrêté d'une seule main !<END>
+
+//Gino Hernandez nous prouve encore une fois<LINE>
+//sur cet arrêt qu'il est le meilleur gardien<LINE>
+//d'Europe !<END>
+
+//*coup de sifflet*<END>
+

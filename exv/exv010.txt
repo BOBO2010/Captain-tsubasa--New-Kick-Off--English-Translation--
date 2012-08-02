@@ -1,0 +1,12 @@
+// FILE: exv010.str containing 4 strings
+
+//Maintenant !<END>
+
+//Hé hé, n'oublie pas<LINE>
+//que je suis là !<END>
+
+//Grr...<END>
+
+//Ne t'imagine pas<LINE>
+//pouvoir me battre !<END>
+

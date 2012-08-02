@@ -1,0 +1,76 @@
+// FILE: t_name.str containing 37 strings
+
+//Nankatsu<END>
+
+//Ito<END>
+
+//Otomo<END>
+
+//Azumaichi<END>
+
+//DUMMY_F<END>
+
+//Hanawa<END>
+
+//Hirado<END>
+
+//Furano<END>
+
+//Toho<END>
+
+//Musashi<END>
+
+//Matsukami<END>
+
+//Konishi<END>
+
+//Meiwa-Higashi<END>
+
+//Satsunishi<END>
+
+//Suwa<END>
+
+//Minamiuwa<END>
+
+//Ma Nankatsu<END>
+
+//DUMMY_F<END>
+
+//DUMMY_F<END>
+
+//Naniwa<END>
+
+//Nakahara<END>
+
+//FC Allemagne<END>
+
+//Angleterre<END>
+
+//Uruguay<END>
+
+//Italie<END>
+
+//Argentine<END>
+
+//France<END>
+
+//Allemagne<END>
+
+//Passe<END>
+
+//Interception<END>
+
+//Égal<END>
+
+//Blocage<END>
+
+//Tir<END>
+
+//Japon<END>
+
+//Yoichi d'or<END>
+
+//Joueur libre<END>
+
+//? ? ?<END>
+

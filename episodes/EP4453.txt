@@ -1,0 +1,64 @@
+// FILE: EP4453.str containing 19 strings
+
+//Passe en direction de Misugi !<END>
+
+//Honma, Ichinosé et Sanada,<LINE>
+//les trois joueurs qui jouent ensemble<LINE>
+//depuis l'école primaire sont<LINE>
+//dans la moitié de terrain adverse !<LINE>
+//Que va faire Misugi ?<END>
+
+//Oh... Misugi dribble vers les buts !<END>
+
+//Arrêtez Misugi !<LINE>
+//Faites-le goûter aux tacles<LINE>
+//de Meiwa-Higashi !<END>
+
+//Les joueurs de Meiwa-Higashi tentent<LINE>
+//de tacler Misugi les uns après les autres !<END>
+
+//Regardez !<END>
+
+//!<END>
+
+//Deux joueurs de Meiwa-Higashi ont taclé<LINE>
+//au même moment, et pourtant Misugi<LINE>
+//les a évités sans peine !<END>
+
+//Misugi continue à dribbler !<LINE>
+//Il ne reste plus que le gardien<LINE>
+//et deux défenseurs entre lui et les buts !<END>
+
+//Je vais t'arrêter !<END>
+
+//Si la défense échoue,<LINE>
+//le gardien de Meiwa-Higashi se retrouvera<LINE>
+//face-à-face avec Misugi !<LINE>
+//Et une fois encore, les deux joueurs<LINE>
+//attaquent en même temps !<END>
+
+//Leurs tacles sont parfaitement calibrés !<END>
+
+//Les tacles de Meiwa-Higashi<LINE>
+//ont arrêté Misugi et le ballon...<END>
+
+//Non ! Ils n'ont pas réussi à intercepter<LINE>
+//le ballon !<LINE>
+//Misugi a légèrement soulevé la balle<LINE>
+//et a sauté pour éviter l'attaque.<END>
+
+//Je vais marquer !<END>
+
+//Et il tire à la volée !<END>
+
+//But !<LINE>
+//Le gardien n'a même pas pu réagir !<END>
+
+//Les dribbles, le contrôle de balle, le tir,<LINE>
+//tout était parfait !<LINE>
+//Le génie de Misugi à l'état pur !<END>
+
+//Hmm… Je n'aurais pas cru<LINE>
+//encaisser un but<LINE>
+//devant Misugi tout seul...<END>
+

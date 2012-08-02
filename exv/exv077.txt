@@ -1,0 +1,27 @@
+// FILE: exv077.str containing 8 strings
+
+//Tu ne devrais pas<LINE>
+//regarder ailleurs !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//J'arrive !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Hé hé hé, j'arrive !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Je vais t'arrêter !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+

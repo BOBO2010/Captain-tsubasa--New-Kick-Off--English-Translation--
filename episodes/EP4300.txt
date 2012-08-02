@@ -1,0 +1,52 @@
+// FILE: EP4300.str containing 14 strings
+
+//Aucun joueur ne représentant une menace<LINE>
+//particulière, je vais laisser Misugi<LINE>
+//se reposer pour ce match.<END>
+
+//Entraîneur.<END>
+
+//Qu'y a-t-il, Misugi ?<END>
+
+//Pourriez-vous me faire entrer<LINE>
+//en cours de partie ?<LINE>
+//Je voudrais vérifier quelque chose<LINE>
+//pendant le match.<END>
+
+//Hmm...<LINE>
+//Si c'est vraiment ce que tu veux,<LINE>
+//je vais y réfléchir.<END>
+
+//Alors comme ça votre capitaine<LINE>
+//est encore sur le banc ?<LINE>
+//Génie ou pas, moi, j'aime pas<LINE>
+//qu'on nous prenne pour une équipe<LINE>
+//de seconde zone.<END>
+
+//Ce n'est pas parce que notre capitaine<LINE>
+//ne joue pas que nous allons perdre !<END>
+
+//C'est ça, cause toujours !<LINE>
+//Sans votre capitaine, vous ne savez rien<LINE>
+//faire d'autre que vous recroqueviller<LINE>
+//en défense !<END>
+
+//!!<END>
+
+//Contre une équipe incapable d'attaquer,<LINE>
+//ce match va être un jeu d'enfant !<END>
+
+//Tu crois ça, hein ?<END>
+
+//Et c'est bientôt l'heure du coup d'envoi<LINE>
+//du match d'aujourd'hui, Musashi Junior<LINE>
+//High contre Konishi Junior High.<END>
+
+//Comment ce match va-t-il se dérouler ?<LINE>
+//Verrons-nous Misugi de Musashi Junior High<LINE>
+//jouer aujourd'hui ?<END>
+
+//Tout le monde est en place sur le terrain<LINE>
+//et Musashi Junior High s'apprête à frapper<LINE>
+//le coup d'envoi.<END>
+

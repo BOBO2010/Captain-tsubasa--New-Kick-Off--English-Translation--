@@ -1,0 +1,55 @@
+// FILE: EP2102.str containing 17 strings
+
+//Nous nous en sommes plutôt bien sortis<LINE>
+//lors de la première mi-temps.<LINE>
+//Ne vous en faites pas pour le score.<END>
+
+//Nous allons sûrement affronter Misugi<LINE>
+//lors de la deuxième mi-temps.<END>
+
+//Sawada, garde un œil sur Misugi.<END>
+
+//Aucun problème.<END>
+
+//Attendez, entraîneur.<LINE>
+//C'est à moi de marquer Misugi !<END>
+
+//Qu'est-ce qui te prend, Hyuga ?<LINE>
+//Refroidis un peu tes ardeurs !<END>
+
+//Le football est un sport d'équipe.<LINE>
+//Chaque joueur doit tenir le poste<LINE>
+//qui lui est attribué.<END>
+
+//Tu occuperas le poste d'avant-centre<LINE>
+//et tu resteras vers le haut du terrain,<LINE>
+//prêt à marquer en cas de contre-attaque.<END>
+
+//Tu ne peux pas jouer correctement<LINE>
+//si tu ne vois pas plus loin<LINE>
+//que le bout de ton nez.<LINE>
+//Tu piges, Hyuga ?<END>
+
+//Oui, entraîneur.<END>
+
+//Hum... Il a raison.<LINE>
+//Le football est un sport d'équipe.<END>
+
+//Pour autant, il faut aussi pouvoir<LINE>
+//prendre des initiatives seul.<LINE>
+//Un match où deux rivaux ne peuvent pas<LINE>
+//s'affronter pour obtenir la victoire<LINE>
+//n'a pas d'intérêt.<END>
+
+//Hé, Hyuga.<END>
+
+//Notre objectif est d'empêcher Nankatsu<LINE>
+//de remporter son troisième championnat.<END>
+
+//Ça signifie que nous ne pouvons pas<LINE>
+//perdre ce match. Compris ?<END>
+
+//Hum. Compris, Takeshi.<END>
+
+//Hyuga...<END>
+

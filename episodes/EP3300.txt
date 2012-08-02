@@ -1,0 +1,136 @@
+// FILE: EP3300.str containing 49 strings
+
+//Manager ! Tu veux bien nous ravitailler,<LINE>
+//s'il te plaît ?<END>
+
+//Oui !<END>
+
+//Une boisson énergétique avec du lait<LINE>
+//et du miel de Hokkaido.<END>
+
+//Terminez votre verre et venez tous !<END>
+
+//Voilà.<END>
+
+//Comme nous ne sommes pas habitués<LINE>
+//à ce temps chaud et humide,<LINE>
+//il faudra faire attention de ne pas épuiser<LINE>
+//notre énergie pendant le match.<END>
+
+//Ça devrait aller, entraîneur.<LINE>
+//Jusqu'à présent, personne n'a été affecté<LINE>
+//et nous avons tous de l'énergie à revendre.<LINE>
+//Nous pourrons très bien jouer aujourd'hui.<LINE>
+//Ne vous inquiétez pas !<END>
+
+//Ouais, j'imagine que vous avez raison.<END>
+
+//Les gars, ne baissez pas votre garde.<LINE>
+//Plus vous progressez dans le championnat<LINE>
+//et plus vos adversaires sont forts.<END>
+
+//L'adversaire d'aujourd'hui, Minamiuwa, est<LINE>
+//une équipe dont la défense et l'attaque<LINE>
+//sont bien équilibrées.<LINE>
+//Méfiez-vous du capitaine Ishida<LINE>
+//et du jeu de tête de l'avant-centre Takéi.<END>
+
+//Oui, entraîneur !<END>
+
+//Si nous gagnons aujourd'hui,<LINE>
+//nous pourrons affronter Nankatsu,<LINE>
+//qui demeure notre premier objectif.<END>
+
+//Pour cela, il faudra vaincre Minamiuwa<LINE>
+//sans efforts !<END>
+
+//Oui !<END>
+
+//Et notre second objectif<LINE>
+//est de battre Hyuga en finale !<END>
+
+//Yoshiko.<END>
+
+//Mais...<END>
+
+//C'est d'accord, Yoshiko ?<END>
+
+//Comme je te l'ai promis,<LINE>
+//tant que ton équipe de football gagnera,<LINE>
+//tu pourras rester au Japon.<END>
+
+//Ce qui veut dire que si Furano perdait<LINE>
+//aujourd'hui, nous partirions aussitôt.<END>
+
+//... D'accord.<END>
+
+//Ce n'est pas vrai...<END>
+
+//Matsuyama, tu as un moment ?<END>
+
+//Qu'est-ce qu'il y a ?<END>
+
+//Yoshiko...<END>
+
+//...<END>
+
+//Tu as quelque chose à me dire ?<END>
+
+//Vas-y Yoshiko. Parle !<END>
+
+//Hum...<END>
+
+//Hein ?<END>
+
+//Capitaine, qu'est-ce que tu fais ?<LINE>
+//Dépêche-toi !<END>
+
+//OK.<END>
+
+//Alors, manager ?<END>
+
+//Bonne... bonne chance !<LINE>
+//Promets-moi de gagner ce match.<END>
+
+//Oui... C'est tout ?<END>
+
+//Oui...<END>
+
+//C'était à propos de quoi ?<END>
+
+//Allez, les gars. On y va !<END>
+
+//Oh !<END>
+
+//...<END>
+
+//Mais ce n'est pas grave...<END>
+
+//Parce qu'a l'heure actuelle Matsuyama <LINE>
+//ne pense à rien d'autre qu'à gagner <LINE>
+//le match.<END>
+
+//Allez, Furano !<LINE>
+//Courage Furano !<END>
+
+//Allons-y !<END>
+
+//Comme à l'accoutumé, ils entrent<LINE>
+//sur le terrain en criant pour se motiver !<LINE>
+//Représentant Hokkaido, le Furano 11 !<END>
+
+//À l'inverse, Minamiuwa pénètre<LINE>
+//sur le terrain calme et concentré.<END>
+
+//Il faut battre Furano pour accéder<LINE>
+//aux demi-finales et affronter Nankatsu,<LINE>
+//le champion sortant.<END>
+
+//Furano progresse grâce à son jeu collectif.<LINE>
+//Dans quelle mesure leurs adversaires<LINE>
+//pourront-ils les faire souffrir ?<LINE>
+//C'est la première participation<LINE>
+//de Minamiuwa au tournoi !<END>
+
+//L'arbitre siffle le début de la rencontre.<END>
+

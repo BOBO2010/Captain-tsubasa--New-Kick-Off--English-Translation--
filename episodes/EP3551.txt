@@ -1,0 +1,55 @@
+// FILE: EP3551.str containing 17 strings
+
+//Vos dribbles sont médiocres !<LINE>
+//Voici le Tiger shot !<END>
+
+//Oh ! Hyuga a tiré de très près<LINE>
+//un boulet de canon dans les cages  !<LINE>
+//Un tir intimidant !<END>
+
+//Oh !<END>
+
+//Quoi ?<END>
+
+//Oh ! Il a exploité une faille<LINE>
+//dans la défense du gardien Kato !<LINE>
+//Celui-ci n'a rien pu faire<LINE>
+//pour arrêter le tir ! <END>
+
+//But !<LINE>
+//Le tir agressif de Hyuga a donné un but <LINE>
+//à Toho Gakuen !<END>
+
+//Mince. Ce n'est pas possible,<LINE>
+//un tir aussi puissant !<END>
+
+//Hyuga a repris de force le ballon<LINE>
+//des pieds d'Oda !<END>
+
+//Hyuga a repris de force le ballon<LINE>
+//des pieds d'Yamamuro !<END>
+
+//Hyuga a repris de force le ballon<LINE>
+//des pieds d'Kanéda !<END>
+
+//Hyuga a repris de force le ballon<LINE>
+//des pieds d'Wakamatsu !<END>
+
+//Hyuga a repris de force le ballon<LINE>
+//des pieds d'Honda !<END>
+
+//Hyuga a repris de force le ballon<LINE>
+//des pieds d'Sasé !<END>
+
+//Hyuga a repris de force le ballon<LINE>
+//des pieds d'Matsuda !<END>
+
+//Hyuga a repris de force le ballon<LINE>
+//des pieds d'Kondo !<END>
+
+//Hyuga a repris de force le ballon<LINE>
+//des pieds d'Nakagawa !<END>
+
+//Hyuga a repris de force le ballon<LINE>
+//des pieds d'Matsuyama !<END>
+

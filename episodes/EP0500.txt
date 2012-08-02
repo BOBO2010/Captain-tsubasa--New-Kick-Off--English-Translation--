@@ -1,0 +1,45 @@
+// FILE: EP0500.str containing 11 strings
+
+//Nos adversaires Hirado Junior High<LINE>
+//sont la surprise du tournoi.<LINE>
+//Il semble que plus leurs adversaires<LINE>
+//sont forts et célèbres,<LINE>
+//plus ils dévoilent leur potentiel.<END>
+
+//On ne sait pas vraiment de quoi<LINE>
+//ils sont capables.<LINE>
+//Les deux joueurs à surveiller sont Jito,<LINE>
+//un défenseur, et Sano, un attaquant.<END>
+
+//C'est le choc entre le champion en titre<LINE>
+//Nankatsu, et Hirado, qui est arrivé<LINE>
+//jusqu'ici en enchaînant les victoires<LINE>
+//serrées 1 à 0.<END>
+
+//Comment Hirado résistera-t-il<LINE>
+//face aux champions de Nankatsu ?<LINE>
+//Ce sera sûrement là tout l'intérêt<LINE>
+//de ce match.<END>
+
+//Hé hé hé... La plupart des supporters<LINE>
+//doivent s'attendre à une victoire<LINE>
+//de Nankatsu aujourd'hui.<LINE>
+//Je suis désolé, mais la victoire sera<LINE>
+//pour nous.<END>
+
+//Il a un sourire confiant...<LINE>
+//Je suis sûr que Hirado nous prépare<LINE>
+//quelque chose d'inattendu.<END>
+
+//On va tout donner dès le début.<END>
+
+//*sourire*<END>
+
+//Les gars, ce sont de nouveaux arrivants,<LINE>
+//alors restez sur vos gardes !<END>
+
+//Oui !<END>
+
+//Et c'est devant un stade bondé<LINE>
+//que les quarts de finale vont commencer !<END>
+

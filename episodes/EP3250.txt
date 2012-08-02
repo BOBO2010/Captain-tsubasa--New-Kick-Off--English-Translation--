@@ -1,0 +1,34 @@
+// FILE: EP3250.str containing 12 strings
+
+//Et c'est Furano qui tire !<END>
+
+//Je peux attraper ça !<END>
+
+//Le gardien a plongé pour arrêter le tir !<END>
+
+//C'est le moment d'avancer<LINE>
+//vers les buts de l'adversaire !<END>
+
+//Le gardien a dégagé loin devant !<LINE>
+//Ça a tout l'air d'être une contre-attaque !<END>
+
+//Oh, non ! Revenez en défense !<END>
+
+//Furano se précipite vers son camp.<LINE>
+//Mais le tir de Suwa sera-t-il<LINE>
+//plus rapide que les joueurs ?<END>
+
+//Ça y est ! Préparons-nous !<END>
+
+//C'est ça... Ah !<END>
+
+//Ouah ! Il a arrêté le tir !<LINE>
+//Kato, le gardien de Furano a saisi<LINE>
+//le ballon. Comme on pouvait s'y attendre,<LINE>
+//il a réagi calmement !<END>
+
+//Bien joué, Kato !<END>
+
+//Bon, ne perdons pas de temps !<LINE>
+//Allons-y, capitaine !<END>
+

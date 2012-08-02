@@ -1,0 +1,33 @@
+// FILE: exv326.str containing 10 strings
+
+//Montrons-leur<LINE>
+//notre Attaque Eiffel !<END>
+
+//Allons-y, Napoléon !<END>
+
+//Je n'abandonnerai pas<LINE>
+//le ballon !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Et voici mon Slider shoot !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Je n'abandonnerai jamais<LINE>
+//le ballon !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Ici !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+

@@ -1,0 +1,54 @@
+// FILE: EP4150.str containing 12 strings
+
+//Hyuga marque un troisième but de la tête !<LINE>
+//Nous ne sommes qu'en première mi-temps,<LINE>
+//et il a déjà fait le coup du chapeau !<END>
+
+//Il n'est pas le meilleur attaquant<LINE>
+//du tournoi national pour rien !<LINE>
+//Avec Hyuga, Toho Gakuen est une équipe<LINE>
+//à prendre au sérieux !<LINE>
+//Mais ça ne doit pas faire les affaires<LINE>
+//de Musashi qui a choisi une stratégie<LINE>
+//défensive en première mi-temps.<END>
+
+//Entraîneur, laissez-moi jouer !<END>
+
+//Misugi, tu rentreras sur le terrain<LINE>
+//en seconde mi-temps.<END>
+
+//S'ils marquent encore,<LINE>
+//nous ne pourrons plus gagner !<LINE>
+//Je sortirai au bout de trente minutes !<LINE>
+//Faites-moi entrer !<END>
+
+//Musashi Junior High fait un changement.<LINE>
+//Inoué, le numéro 12, sort, et Misugi,<LINE>
+//le numéro 14, entre !<END>
+
+//Et voici Misugi !<LINE>
+//On dirait bien que Musashi Junior High<LINE>
+//n'a pas l'intention de laisser<LINE>
+//Toho Gakuen marquer plus de buts !<END>
+
+//Mais Misugi n'est pas assez résistant<LINE>
+//pour jouer à son maximum<LINE>
+//plus de trente minutes.<LINE>
+//Le verrons-nous sur le terrain<LINE>
+//jusqu'au coup de sifflet final ?<END>
+
+//Tu perds ton temps, Misugi !<LINE>
+//Toho Gakuen ne perdra pas,<LINE>
+//même avec toi sur le terrain.<END>
+
+//Écoutez-moi !<LINE>
+//C'est maintenant que ça commence !<LINE>
+//On va leur montrer<LINE>
+//comment Musashi joue vraiment !<END>
+
+//Avec Misugi dans le match,<LINE>
+//Musashi passe à l'attaque !<END>
+
+//Et le coup de sifflet marque<LINE>
+//la reprise du match !<END>
+

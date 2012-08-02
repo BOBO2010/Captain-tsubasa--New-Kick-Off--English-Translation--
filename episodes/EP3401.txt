@@ -1,0 +1,42 @@
+// FILE: EP3401.str containing 12 strings
+
+//Nankatsu contre Furano…<LINE>
+//Les deux équipes sont bien équilibrées<LINE>
+//et dignes de s'affronter en demi-finales.<END>
+
+//C'est la seconde mi-temps !<END>
+
+//Excellent travail !<LINE>
+//Soufflez bien, et repartez<LINE>
+//pour la seconde mi-temps !<LINE>
+//Encore un petit effort !<END>
+
+//Peux-tu continuer à jouer, Tsubasa ?<END>
+
+//Oui, ça va.<END>
+
+//Je ne perdrai pas ce match !<LINE>
+//Je ne serai pas vaincu au Japon !<END>
+
+//Mes camarades ont confiance en moi.<LINE>
+//J'effectuerai en seconde mi-temps<LINE>
+//mon Drive shoot que j'ai finalisé hier.<END>
+
+//OK, continuez comme ça<LINE>
+//et montrez-leur de quoi vous êtes capables<LINE>
+//en seconde mi-temps !<LINE>
+//Et résistez à la chaleur !<END>
+
+//Oui, entraîneur !<END>
+
+//Nankatsu est un adversaire redoutable.<LINE>
+//Sa défense est très solide,<LINE>
+//mais en s'y mettant tous,<LINE>
+//on devrait pouvoir en venir à bout !<END>
+
+//Le moment venu, <LINE>
+//j'inscrirai un but !<END>
+
+//La seconde mi-temps va débuter<LINE>
+//pour trente minutes de combat acharné !<END>
+

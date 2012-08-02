@@ -1,0 +1,106 @@
+// FILE: EP1501.str containing 40 strings
+
+//Compris, Muller ?<END>
+
+//Oui !<END>
+
+//Qu'est-ce que j'aimerais aller voir Tsubasa<LINE>
+//pour lui donner quelques conseils...<END>
+
+//Si vous avez un message pour Tsubasa,<LINE>
+//je me ferai un plaisir de <LINE>
+//le lui transmettre.<END>
+
+//…<END>
+
+//Dites-lui simplement de ne pas oublier<LINE>
+//ce qui est noté à la page 52 du manuel...<END>
+
+//La page 52 ? D'accord.<END>
+
+//Ce Fire shot est vraiment puissant…<LINE>
+//Jito et moi, on s'est coupés rien<LINE>
+//qu'en l'ayant effleuré.<END>
+
+//Oui...<END>
+
+//L'origine de ma blessure est le Fire shot<LINE>
+//de Schneider.<END>
+
+//Je voulais prendre ma revanche, mais je<LINE>
+//n'en aurai pas l'occasion.<END>
+
+//Wakabayashi, je compte sur toi<LINE>
+//pour me venger en seconde mi-temps.<END>
+
+//Aucun problème.<END>
+
+//Je te vengerai, ne t'en fais pas !<END>
+
+//J'y compte bien !<END>
+
+//Vous vous êtes bien débrouillés en défense<LINE>
+//pendant la première mi-temps.<END>
+
+//On continue comme ça.<LINE>
+//Et n'oubliez pas de garder un œil sur<LINE>
+//le milieu de terrain Kaltz.<END>
+
+//J'ai l'impression qu'il a plus d'un tour<LINE>
+//dans son sac.<END>
+
+//Il ne reste plus que 30 minutes !<LINE>
+//Donnez tous ce que vous avez<LINE>
+//dans le ventre !<END>
+
+//Ne t'en fais pas, Misugi !<END>
+
+//Encore 30 minutes...<END>
+
+//Et puis ce sera fini, n'est-ce pas,<LINE>
+//Tsubasa ?<END>
+
+//Misaki...<END>
+
+//C'était la même chose il y a 3 ans...<LINE>
+//Séparons-nous encore une fois<LINE>
+//sur une victoire !<END>
+
+//Oui !<END>
+
+//Je n'ai rien à ajouter<LINE>
+//que vous ne sachiez pas.<END>
+
+//Donnez le meilleur de vous-mêmes<LINE>
+//pendant ces 30 dernières minutes !<END>
+
+//Oui !<END>
+
+//On y va, les gars !<END>
+
+//Oui !<END>
+
+//On va gagner, Roberto !<LINE>
+//On va remporter la victoire<LINE>
+//et je pourrai enfin te rejoindre au Brésil,<LINE>
+//le pays du foot.<END>
+
+//Tsubasa.<END>
+
+//M. Katagiri.<END>
+
+//La page 52 du manuel.<END>
+
+//Quoi ?<END>
+
+//La page 52 du manuel ?<END>
+
+//Tsubasa, dépêche-toi !<END>
+
+//On ne peut pas commencer sans toi !<END>
+
+//Oui... J'arrive !<END>
+
+//La page 52 du manuel... Ça veut dire que...<LINE>
+//Roberto ?<END>
+

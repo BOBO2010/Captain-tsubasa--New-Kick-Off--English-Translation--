@@ -1,0 +1,69 @@
+// FILE: EP4500.str containing 17 strings
+
+//Notre stratégie reste la même !<LINE>
+//En première mi-temps, concentrez-vous<LINE>
+//sur la défense. Et en seconde mi-temps,<LINE>
+//attaquez en vous appuyant sur Misugi !<END>
+
+//OK !<END>
+
+//Misugi, tiens-toi prêt à entrer<LINE>
+//sur le terrain.<END>
+
+//Si nous parvenons à neutraliser<LINE>
+//les attaques de Nankatsu, je ne te ferai<LINE>
+//rentrer qu'en seconde mi-temps.<LINE>
+//Mais nous parlons de Nankatsu...<END>
+
+//Selon la tournure des événements,<LINE>
+//il est possible que je te demande<LINE>
+//de rentrer en jeu plus tôt,<LINE>
+//comme lors du match contre Toho<LINE>
+//pendant le tournoi de Tokyo.<END>
+
+//Oui, entraîneur !<END>
+
+//Les gars ! Moi aussi, j'ai longtemps<LINE>
+//attendu cette finale !<END>
+
+//Et je sais que la plupart d'entre-nous<LINE>
+//se souviennent de notre défaite d'il y a<LINE>
+//trois ans sous la pluie contre Nankatsu SC,<LINE>
+//et de ce funeste tir à longue distance...<END>
+
+//Le match d'aujourd'hui est l'occasion<LINE>
+//de prendre notre revanche !<END>
+
+//Oui !<END>
+
+//Enfin...<LINE>
+//Je vais devoir marquer Tsubasa<LINE>
+//au milieu du terrain autant que possible...<END>
+
+//Voici enfin arrivée la finale<LINE>
+//du National Junior High School Tournament.<END>
+
+//Ces trois dernières années,<LINE>
+//la finale a départagé des équipes<LINE>
+//venues de Tokyo et de Shizuoka,<LINE>
+//et cette année ne fait pas exception<LINE>
+//à la règle. Si ce n'est que, cette fois,<LINE>
+//c'est Musashi Junior High School<LINE>
+//qui représente Tokyo...<END>
+
+//Et qu'ils se sont qualifiés pour le tournoi<LINE>
+//national en battant l'équipe de Hyuga,<LINE>
+//Toho Gakuen !<END>
+
+//Shizuoka est encore une fois représentée<LINE>
+//par Nankatsu, qui vise<LINE>
+//un troisième titre consécutif !<END>
+
+//Tous les regards seront braqués<LINE>
+//sur les deux petits génies du football,<LINE>
+//les deux capitaines Misugi et Tsubasa !<END>
+
+//Cette finale désignera<LINE>
+//la meilleure équipe du pays !<LINE>
+//Et c'est le coup d'envoi !<END>
+

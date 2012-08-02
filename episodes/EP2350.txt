@@ -1,0 +1,28 @@
+// FILE: EP2350.str containing 8 strings
+
+//Grrr ! Arrêtez-le !<LINE>
+//Ne le laissez pas marquer un autre but !<END>
+
+//Tu n'as pas dit que nous ne pourrions pas<LINE>
+//marquer de buts sans Hyuga ?<END>
+
+//Je joue en avant-centre pour Toho<LINE>
+//maintenant !<LINE>
+//Je compte marquer autant de buts<LINE>
+//qu'il sera nécessaire… pour que Toho<LINE>
+//remporte tous les matchs en attendant<LINE>
+//le retour de Hyuga !<END>
+
+//En avant !<END>
+
+//But ! Sorimachi envoie le ballon<LINE>
+//en plein dans le filet !<END>
+
+//Sorimachi nous a fait<LINE>
+//un joli coup du chapeau aujourd'hui !<END>
+
+//Vous avez vu ça !<LINE>
+//Le jeu de Toho est unique !<END>
+
+//Sorimachi !<END>
+

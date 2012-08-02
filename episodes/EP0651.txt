@@ -1,0 +1,69 @@
+// FILE: EP0651.str containing 21 strings
+
+//OK, c'est parti !<END>
+
+//Tu t'imagines que tu vas t'en tirer<LINE>
+//avec ça ?<END>
+
+//Ah !<END>
+
+//Matsuyama, le capitaine de Furano, est<LINE>
+//revenu jusqu'ici et a intercepté le ballon.<END>
+
+//OK, allons-y !<LINE>
+//Tout le monde en avant !<LINE>
+//C'est le moment de l'Avalanche<LINE>
+//de Furano !<END>
+
+//Quoi ? L'Avalanche ?<END>
+
+//Oh ! Furano contre-attaque !<LINE>
+//Tous les joueurs de Furano se dirigent<LINE>
+//vers les buts de Nankatsu !<END>
+
+//Que se passe-t-il ?<LINE>
+//Ils remontent tous le terrain !<END>
+
+//Allez, allez, les gars !<LINE>
+//Je vous enverrai le ballon !<END>
+
+//C'est une tactique audacieuse !<LINE>
+//Ils doivent tous avoir une confiance totale<LINE>
+//en Matsuyama et en sa capacité de garder<LINE>
+//le ballon.<END>
+
+//Kisugi et Taki tentent de<LINE>
+//lui prendre le ballon,<LINE>
+//mais Matsuyama ne se laisse pas faire !<END>
+
+//Il a la réputation d'avoir<LINE>
+//le meilleur contrôle de balle du tournoi.<END>
+
+//!<END>
+
+//Tsubasa court lui aussi vers Matsuyama !<END>
+
+//Je vais passer en longueur<LINE>
+//avant qu'il arrive !<END>
+
+//Là !<END>
+
+//Matsuyama a fait une longue passe en avant<LINE>
+//à ses coéquipiers qui remontent le terrain.<END>
+
+//Peu importe leur nombre,<LINE>
+//il n'y a qu'un seul ballon !<LINE>
+//Je vais contrer leur attaque<LINE>
+//en dégageant la balle !<END>
+
+//Ça ne marchera pas...<LINE>
+//Ils se couvrent les uns les autres.<END>
+
+//Oui, même si tu interceptes le ballon,<LINE>
+//nous le reprendrons en nous couvrant<LINE>
+//mutuellement.<LINE>
+//C'est ça l'Avalanche de Furano !<END>
+
+//L'Avalanche de Furano va-t-il réussir<LINE>
+//à briser la défense de Nankatsu ?<END>
+

@@ -1,0 +1,15 @@
+// FILE: exv184.str containing 4 strings
+
+//Allez, on se bouge !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Personne ne peut battre<LINE>
+//ma technique !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+

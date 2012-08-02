@@ -1,0 +1,44 @@
+// FILE: EP0401.str containing 13 strings
+
+//Nous nous sommes beaucoup entraînés<LINE>
+//pour parfaire notre Skylab hurricane,<LINE>
+//afin de battre Nankatsu.<END>
+
+//Ce tir demande un effort des jambes<LINE>
+//très intense. Nous ne pouvons donc pas<LINE>
+//l'utiliser de nombreuses fois.<LINE>
+//Alors on a intérêt à ne pas le faire<LINE>
+//pour rien !<END>
+
+//Daimaru, c'est à toi de jouer<LINE>
+//dans cette seconde mi-temps.<END>
+
+//On compte sur toi, Daimaru.<END>
+
+//Hé hé... OK.<END>
+
+//Bien. Nous sommes prêts à vous présenter<LINE>
+//en exclusivité "la défaite de Nankatsu" !<END>
+
+//La nouvelle technique aérienne<LINE>
+//des frères Tachibana...<LINE>
+//Skylab hurricane...<LINE>
+//Tu crois qu'on peut la bloquer ?<END>
+
+//Ce tir fait énormément travailler<LINE>
+//les jambes. Ils ne devraient pas pouvoir<LINE>
+//l'utiliser très souvent.<END>
+
+//Oh, je vois.<END>
+
+//De toute façon, on ne change rien.<LINE>
+//On joue notre football habituel<LINE>
+//et on ne leur laisse aucune chance !<END>
+
+//Ouais, peu importe la manière,<LINE>
+//un but, c'est un but !<END>
+
+//OK ! C'est parti pour la seconde mi-temps !<END>
+
+//Coup d'envoi de Hanawa !<END>
+

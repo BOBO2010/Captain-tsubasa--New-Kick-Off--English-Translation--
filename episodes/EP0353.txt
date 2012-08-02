@@ -1,0 +1,56 @@
+// FILE: EP0353.str containing 19 strings
+
+//Prends ce Tacle en rasoir !<END>
+
+//Ouah !<END>
+
+//Oh ! Souda a pris le ballon<LINE>
+//avec un puissant tacle glissé !<END>
+
+//Souda abuse encore une fois<LINE>
+//de la tactique des appels croisés !<END>
+
+//Morisaki, il va tirer ! Fais attention<LINE>
+//à la trajectoire en courbe !<END>
+
+//OK !<END>
+
+//Tsubasa, ton Drive shoot n'est pas encore<LINE>
+//parfait. Mais ce n'est pas le cas<LINE>
+//de mon Razor Shot ! Il est plus qu'affûté !<END>
+
+//C'est parti !<LINE>
+//Avec ça, le match sera pour nous !<END>
+
+//Souda se place rapidement<LINE>
+//en position de tir !<END>
+
+//!!<END>
+
+//Morisaki, il va aller de l'autre côté !<LINE>
+//Saute dans la direction opposée<LINE>
+//cette fois-ci !<END>
+
+//Hein ?<END>
+
+//Souda nous gratifie de son tir<LINE>
+//à longue distance : le Razor Shot !<END>
+
+//Oh, mais cette fois le ballon part<LINE>
+//dans l'autre direction !<LINE>
+//Il oblique vers la gauche !<LINE>
+//C'est un Reverse Razor Shot !<END>
+
+//Ouah !<END>
+
+//Oh ! Mais le gardien Morisaki se dirige<LINE>
+//du bon côté !<END>
+
+//...<END>
+
+//Il... Il l'a arrêté !<END>
+
+//Morisaki a réussi à arrêter le ballon<LINE>
+//cette fois !<LINE>
+//Un arrêt parfait, du grand art !<END>
+

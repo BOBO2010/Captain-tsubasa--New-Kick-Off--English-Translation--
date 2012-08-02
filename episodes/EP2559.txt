@@ -1,0 +1,38 @@
+// FILE: EP2559.str containing 11 strings
+
+//Oh ! Tsubasa est démarqué !<END>
+
+//Tsubasa parviendra-t-il à trouver<LINE>
+//suffisamment d'énergie en lui<LINE>
+//pour décrire la trajectoire de<LINE>
+//la victoire avec son Drive shoot ?<END>
+
+//Amène-toi, Tsubasa !<LINE>
+//Je vais arrêter ton tir d'une seule main !<END>
+
+//Tiger shot !<END>
+
+//...<END>
+
+//Incroyable ! Un véritable ouragan<LINE>
+//vient de l'attaquer de côté !<LINE>
+//Avant même d'avoir pu tirer,<LINE>
+//le ballon lui a été pris !<END>
+
+//Hyuga arrive avec une vitesse incroyable<LINE>
+//et effectue un jeu de jambes épatant !<END>
+
+//Il plonge à côté de Tsubasa<LINE>
+//en effectuant un Tiger shot<LINE>
+//pour stopper un Drive shoot !<END>
+
+//N'espère pas marquer un quatrième but !<END>
+
+//Le stade reste ébahi face à cette action<LINE>
+//spectaculaire de Hyuga !<END>
+
+//Cette finale se présente désormais<LINE>
+//comme un combat entre deux héros !<LINE>
+//Quelle stratégie finira par payer ?<LINE>
+//Quelle équipe remportera la victoire ?<END>
+

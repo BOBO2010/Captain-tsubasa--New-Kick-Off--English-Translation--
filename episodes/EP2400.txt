@@ -1,0 +1,68 @@
+// FILE: EP2400.str containing 16 strings
+
+//Nous allons affronter Meiwa-Higashi<LINE>
+//en demi-finale. Sawada et Wakashimazu<LINE>
+//connaissent bien cette équipe.<LINE>
+//Et cette dernière connaît notre façon<LINE>
+//de jouer.<END>
+
+//Mais vous avez progressé !<LINE>
+//Si nous continuons à suivre le plan de jeu<LINE>
+//de Toho, nous sommes certains de gagner !<END>
+
+//Ouais !<END>
+
+//Sorimachi, occupe-toi de marquer des buts !<END>
+
+//Oui, entraîneur !<END>
+
+//Hors de question de perdre !<LINE>
+//Nous allons gagner, même sans Hyuga !<END>
+
+//Je ne sais pas ce qui se passe,<LINE>
+//mais on dirait que Hyuga ne va pas jouer.<END>
+
+//Ouais. Nous affrontons Toho aujourd'hui.<LINE>
+//Il nous suffit de marquer Takeshi<LINE>
+//en permanence pour être tranquilles.<LINE>
+//Ensuite, il ne nous restera plus<LINE>
+//qu'à feinter Wakashimazu.<END>
+
+//Ces deux-là sont des anciens coéquipiers.<LINE>
+//Nous avons donc l'avantage de connaître<LINE>
+//leurs personnalités, leurs styles de jeu,<LINE>
+//leurs points forts et leurs faiblesses.<END>
+
+//Mettez la pression sur Takeshi,<LINE>
+//et marquez dans les buts de Wakashimazu !<LINE>
+//Nous avons toutes nos chances de gagner<LINE>
+//puisque Kojiro Hyuga ne sera pas<LINE>
+//sur le terrain aujourd'hui !<END>
+
+//Ouais !<END>
+
+//La demi-finale d'aujourd'hui oppose<LINE>
+//Toho Gakuen à Meiwa-Higashi !<LINE>
+//Plusieurs joueurs de Meiwa-Higashi jouent<LINE>
+//à Meiwa FC, une des grandes équipes<LINE>
+//de football junior !<END>
+
+//D'ailleurs, le joueur vedette de Toho,<LINE>
+//Hyuga, ainsi que Sawada et Wakashimazu,<LINE>
+//ont tous trois joué au Meiwa FC.<END>
+
+//Les joueurs de Meiwa vont affronter<LINE>
+//leurs anciens coéquipiers<LINE>
+//lors du match d'aujourd'hui !<END>
+
+//Toho a cependant encore choisi<LINE>
+//de ne pas faire jouer Hyuga<LINE>
+//pour ce match.<END>
+
+//Toho a certes réussi à gagner<LINE>
+//jusqu'à présent sans Hyuga, mais<LINE>
+//Meiwa-Higashi connaît très bien<LINE>
+//ses principaux adversaires !<LINE>
+//Ce match décisif s'annonce palpitant !<LINE>
+//Place au coup d'envoi !<END>
+

@@ -1,0 +1,23 @@
+// FILE: EP0602.str containing 9 strings
+
+//Ouais ! On a réussi, Tsubasa !<END>
+
+//On a... gagné !<END>
+
+//Tsubasa !<END>
+
+//Qu'y a-t-il, Tsubasa ?<LINE>
+//Un champion ne tombe pas à terre !<END>
+
+//Matsuyama.<END>
+
+//Toi, tu te bats vraiment<LINE>
+//jusqu'au coup de sifflet final.<END>
+
+//*sourire*<END>
+
+//OK, fais attention à toi.<LINE>
+//Il te reste encore un match demain.<END>
+
+//Merci, Matsuyama.<END>
+

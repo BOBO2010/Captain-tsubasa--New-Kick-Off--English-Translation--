@@ -1,0 +1,9 @@
+// FILE: exv030.str containing 2 strings
+
+//Tu crois vraiment<LINE>
+//que tu peux nous passer ?<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+

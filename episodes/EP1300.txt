@@ -1,0 +1,37 @@
+// FILE: EP1300.str containing 14 strings
+
+//Le Japon s'est qualifié pour les quarts<LINE>
+//de finale et retrouvera l'Argentine !<END>
+
+//Cette équipe argentine regorge de talent<LINE>
+//et peut compter sur le génie de Fan Diaz !<END>
+
+//J'ai hâte de le voir jouer<LINE>
+//contre le capitaine de la sélection<LINE>
+//japonaise, Tsubasa Ozora !<END>
+
+//Hé, le nº 10 japonais !<END>
+
+//Je suis impatient de me mesurer<LINE>
+//à ton style de jeu à la Roberto Hongo.<END>
+
+//Ro-Roberto... Tu le connais ?<END>
+
+//Tu connais Roberto ?<END>
+
+//Roberto est un ami de notre entraîneur<LINE>
+//Barbas.<END>
+
+//Il est même venu nous voir aujourd'hui<LINE>
+//dans les vestiaires.<END>
+
+//Il est... là ?<END>
+
+//Bon, le match va commencer.<END>
+
+//Qu'est-ce qu'il y a, Tsubasa ?<END>
+
+//Roberto...<END>
+
+//Roberto est quelque part dans le stade...<END>
+

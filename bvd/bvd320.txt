@@ -1,0 +1,113 @@
+// FILE: bvd320.str containing 54 strings
+
+//Fonce !<END>
+
+//Il arrive !<END>
+
+//Arrrrgh !<END>
+
+//Tiens !<END>
+
+//Admire le spectacle !<END>
+
+//Fonce !<END>
+
+//Laisse-moi passer !<END>
+
+//Admire le travail !<END>
+
+//Amène-toi !<END>
+
+//Je crois que tu rêves !<END>
+
+//Je ne peux plus laisser<LINE>
+//passer personne !<END>
+
+//Admire le spectacle !<END>
+
+//C'est fini !<END>
+
+//Admire le spectacle !<END>
+
+//Je l'ai !<END>
+
+//C'est bon !<END>
+
+//Je crois que tu rêves !<END>
+
+//Arrrrgh !<END>
+
+//je dois l'arrêter !<END>
+
+//C'est fini !<END>
+
+//Je dois l'arrêter !<END>
+
+//Ouaiiiis !<END>
+
+//Cool !<END>
+
+//Qu'est-ce que tu dis de ça ?<END>
+
+//Hein, quoi ?<END>
+
+//!!!<END>
+
+//Non !<END>
+
+//Je l'ai !<END>
+
+//Prends ça !<END>
+
+//Aaaarrrrgh !<END>
+
+//C'est pour toi !<END>
+
+//Admire le spectacle !<END>
+
+//Je dois l'avoir !<END>
+
+//Hop, hop, hop !<END>
+
+//Oui !<END>
+
+//Tu ne l'auras pas !<END>
+
+//Je vais t'écraser !<END>
+
+//Ne t'imagine pas que tu vas<LINE>
+//passer !<END>
+
+//Aaaarrrrgh !<END>
+
+//Je crois que tu rêves !<END>
+
+//Je dois l'avoir !<END>
+
+//je dois l'arrêter !<END>
+
+//Prends ça !<END>
+
+//Je ne peux plus laisser<LINE>
+//passer personne !<END>
+
+//Aaaarrrrgh !<END>
+
+//je dois l'arrêter !<END>
+
+//Plus rien ne passera !<END>
+
+//Aaaarrrrgh !<END>
+
+//Ouaiiiis !<END>
+
+//J'ai réussi !<END>
+
+//Ah !<END>
+
+//Hein ?<END>
+
+//Grrr....<END>
+
+//Quoi ? C'est pas vrai...<END>
+

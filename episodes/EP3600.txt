@@ -1,0 +1,115 @@
+// FILE: EP3600.str containing 44 strings
+
+//Ce bandeau que Fujisawa a confectionné <LINE>
+//m'a permis de continuer à jouer<LINE>
+//sur le terrain malgré la fatigue.<END>
+
+//?<END>
+
+//Mais, qu'est-ce que... ?<END>
+
+//En caractères si petits qu'on peine<LINE>
+//à les voir...<LINE>
+//"I love you" brodé en blanc <LINE>
+//sur une étoffe blanche !<END>
+
+//Qu'est-ce que c'est, capitaine ?<END>
+
+//R-Rien...<END>
+
+//...<END>
+
+//Excuse-moi... Laisse-moi passer !<END>
+
+//Capitaine !<END>
+
+//Fujisawa !<LINE>
+//Fujisawa part pour les États-Unis<LINE>
+//au second semestre !<END>
+
+//Machida, où est Fujisawa ?<END>
+
+//Elle vient de partir<LINE>
+//avec sa mère en taxi.<LINE>
+//Yoshiko part aujourd'hui<LINE>
+//pour les États-Unis.<END>
+
+//Fujisawa !<LINE>
+//Fujisawa !...<END>
+
+//Ah, mince !<END>
+
+//Yoshiko, dépêche-toi !<END>
+
+//Oui.<END>
+
+//...<END>
+
+//Yoshiko, tu as ton passeport ?<LINE>
+//Yoshiko ?<END>
+
+//Ma-Matsuyama...<END>
+
+//Fujisawa, je suis arrivé à temps.<END>
+
+//Pourquoi es-tu ici, Matsuyama ?<END>
+
+//Ta jambe saigne, Matsuyama !<END>
+
+//Quoi ?<END>
+
+//Attends une seconde...<END>
+
+//Oh, ne t'inquiète pas.<LINE>
+//Ton mouchoir va être taché de sang.<END>
+
+//Non, tu ne saignes pas beaucoup...<END>
+
+//Félicitations pour ta victoire, Matsuyama.<END>
+
+//Oh, merci.<LINE>
+//On a pu gagner grâce aux bandeaux <LINE>
+//que tu nous as confectionnés.<END>
+
+//Désolée d'être partie sans rien dire.<END>
+
+//Pas de problème.<LINE>
+//Tu avais tes propres raisons.<END>
+
+//Tu sais, c'est la dernière fois<LINE>
+//que tu t'occupes de mes blessures.<END>
+
+//Matsuyama, tu joues toujours<LINE>
+//si dangereusement.<LINE>
+//Personne ne se blesse autant que toi... <END>
+
+//Héhéhé…<LINE>
+//Tu devrais plutôt dire que je joue<LINE>
+//avec dynamisme !<END>
+
+//Maintiens la pression là,<LINE>
+//pendant un moment... <END>
+
+//Merci, Fujisawa.<END>
+
+//...<END>
+
+//Qu'est-ce qui ne va pas ?<END>
+
+//Tu es arrivé si soudainement...<END>
+
+//Hé, ne pleure pas...<END>
+
+//Matsuyama !<END>
+
+//Prends soin de toi…<LINE>
+//Écris-moi, et je te répondrai...<END>
+
+//Oui.<END>
+
+//Et je garderai ce bandeau<LINE>
+//pour me souvenir de toi.<LINE>
+//Merci.<END>
+
+//Merci...<END>
+

@@ -1,0 +1,78 @@
+// FILE: EP3457.str containing 25 strings
+
+//Qu'est-ce qui se passe ?<LINE>
+//D'habitude, en fin de match,<LINE>
+//Tsubasa mène l'attaque.<END>
+
+//Mais Tsubasa se tient en arrière<LINE>
+//et il est dos aux buts  !<LINE>
+//Serait-il épuisé ?<END>
+
+//Et bien, non ! Le voici de retour !<END>
+
+//C'est comme en championnat national<LINE>
+//quand nous étions à l'école primaire !<END>
+
+//Même à un dixième de seconde du coup<LINE>
+//de sifflet final, Tsubasa n'abandonne pas !<LINE>
+//Il mijote quelque chose ! <END>
+
+//Mais, ce n'est pas possible !<END>
+
+//Le match a repris ! Le ballon est<LINE>
+//dans le rond central<LINE>
+//et passe de Kisugi à Taki.<END>
+
+//Taki passe en retrait !<END>
+
+//J'en étais sûr ! Je ne me trompais pas ! <END>
+
+//Je m'en charge !<END>
+
+//Nankatsu et Tsubasa se sont retournés<LINE>
+//et courent vers le ballon !<END>
+
+//Quoi ?<END>
+
+//Matsuyama semble avoir compris<LINE>
+//et se rue vers Tsubasa !<END>
+
+//Tsubasa !<LINE>
+//Tu n'es pas du genre à baisser les bras !<LINE>
+//Tu es prêt pour le combat final ?<END>
+
+//Mince... Ce Matsuyama !<LINE>
+//Il lit le moindre de nos mouvements !<LINE>
+//Mais je n'abandonnerai pas ! Jamais !<END>
+
+//Grrr !<END>
+
+//C'est un choc terrifiant<LINE>
+//entre les deux joueurs !<END>
+
+//Oh, non ! La jambe blessée de Tsubasa<LINE>
+//semble le faire souffir !<LINE>
+//Tsubasa a été projeté au sol ! <END>
+
+//Désolé Tsubasa, mais j'ai décidé de ne pas<LINE>
+//te faire de cadeau, même si tu es blessé.<END>
+
+//Si je m'inquiète pour ta blessure,<LINE>
+//je perdrai.<LINE>
+//Nankatsu est un adversaire trop fort !<END>
+
+//Matsuyama efface les joueurs de Nankatsu<LINE>
+//et arme son tir !<END>
+
+//Va-t-il tirer de loin ?<END>
+
+//Prenez-ça, Nankatsu !<LINE>
+//On va vous montrer ce que c'est,<LINE>
+//la ténacité de Furano !<END>
+
+//Ah ! Morisaki n'a pas réagi assez vite !<END>
+
+//Le puissant tir de Matsuyama est entré<LINE>
+//dans les cages de Nankatsu !<LINE>
+//Furano mène ! <END>
+

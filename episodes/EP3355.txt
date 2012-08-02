@@ -1,0 +1,38 @@
+// FILE: EP3355.str containing 11 strings
+
+//Matsuyama se trouve démarqué<LINE>
+//face aux buts de Minamiuwa !<END>
+
+//À toi !<END>
+
+//Mais, c'est... !<LINE>
+//Matsuyama ne profite pas de cette occasion<LINE>
+//pour marquer !<LINE>
+//Il passe le ballon à son avant-centre Oda !<END>
+
+//Oda, à toi de marquer ! <LINE>
+//Tu es l'avant-centre de Furano !<END>
+
+//C'est vrai ! Allez, Oda ! Tire !<LINE>
+//Fais comme à l'entraînement !<END>
+
+//Le capitaine... Vous tous...<LINE>
+//Je vous ai laissés tomber<LINE>
+//deux fois aujourd'hui, et pourtant,<LINE>
+//vous m'offrez une nouvelle chance...<END>
+
+//Si je ne marque pas de but,<LINE>
+//je n'aurai plus de fierté ! <END>
+
+//J'y vais !<END>
+
+//Et c'est un but !<LINE>
+//La troisième tentative aura été la bonne,<LINE>
+//Oda !<LINE>
+//Cette fois-ci, il a réussi<LINE>
+//un tir impressionnant !<END>
+
+//Hourra !<END>
+
+//Ça y est !<END>
+

@@ -1,0 +1,24 @@
+// FILE: exv039.str containing 8 strings
+
+//Passe en rasoir !<END>
+
+//Ouais ! C'est parti !<END>
+
+//Allez, Tir en rasoir !<END>
+
+//Mon Tir en rasoir est<LINE>
+//super affûté !<END>
+
+//Arrête de rêvasser !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+
+//Tu vas me dire des nouvelles<LINE>
+//de mon Tacle en rasoir !<END>
+
+//Retour à<LINE>
+//Sélection de mode.<LINE>
+//Continuer ?<END>
+

@@ -1,0 +1,110 @@
+// FILE: bvd076.str containing 54 strings
+
+//Fonce !<END>
+
+//Il arrive !<END>
+
+//Aaaargh !<END>
+
+//Arrrrrgh !<END>
+
+//Oui, fonce !<END>
+
+//Allez !<END>
+
+//Bouge !<END>
+
+//Je vais te faire dégager !<END>
+
+//Amène-toi !<END>
+
+//Dans tes rêves !<END>
+
+//Tu ne me passeras pas !<END>
+
+//Admire le spectacle !<END>
+
+//C'est fini !<END>
+
+//Admire le spectacle !<END>
+
+//Je l'ai !<END>
+
+//C'est bon !<END>
+
+//Oh non, là, tu rêves !<END>
+
+//Aaaargh !<END>
+
+//je dois l'arrêter !<END>
+
+//C'est fini !<END>
+
+//Je dois l'arrêter !<END>
+
+//Ouaiiiis !<END>
+
+//Cool !<END>
+
+//Qu'est-ce que tu dis de ça ?<END>
+
+//Hein, quoi ?<END>
+
+//!!!<END>
+
+//Non !<END>
+
+//Attention devant !<END>
+
+//Prends ça !<END>
+
+//Aaaarrrrgh !<END>
+
+//C'est pour toi !<END>
+
+//Admire le spectacle !<END>
+
+//Je dois l'avoir !<END>
+
+//Hors de mon chemin !<END>
+
+//Oui !<END>
+
+//Tu me fais perdre mon temps !<END>
+
+//Tu ne feras pas un pas de plus !<END>
+
+//Oh non, là, tu rêves !<END>
+
+//Aaaarrrrgh !<END>
+
+//Oh non, là, tu rêves !<END>
+
+//Je dois l'avoir !<END>
+
+//Je l'ai !<END>
+
+//Prends ça !<END>
+
+//Tu perds ton temps !<END>
+
+//Aaaarrrrgh !<END>
+
+//Je l'ai !<END>
+
+//Tu me fais perdre mon temps !<END>
+
+//Aaaarrrrgh !<END>
+
+//Ouaiiiis !<END>
+
+//Je l'ai mis !<END>
+
+//Ah !<END>
+
+//Hein ?<END>
+
+//Comment ?<END>
+
+//Quoi ? C'est pas vrai...<END>
+

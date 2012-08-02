@@ -1,0 +1,34 @@
+// FILE: EP2453.str containing 12 strings
+
+//Ils se préparent à tirer !<LINE>
+//Verrouillez toutes les ouvertures !<END>
+
+//Chers professionnels du Meiwa FC...<LINE>
+//Sachez que, moi aussi, j'ai progressé !<END>
+
+//Sawada est en position de tir,<LINE>
+//mais Meiwa se prépare à le bloquer !<END>
+
+//Je ne laisserai passer aucun ballon !<END>
+
+//On dirait qu'ils anticipent<LINE>
+//les moindres mouvements de Sawada !<END>
+
+//C'est parti !<END>
+
+//Hein !<END>
+
+//Je suis l'avant-centre jusqu'au retour<LINE>
+//du capitaine !<END>
+
+//Un tir splendide de Sorimachi ! But !<LINE>
+//Nous venons d'assister à un sacré travail<LINE>
+//d'équipe de Toho !<END>
+
+//Sorimachi réceptionne la passe de Sawada<LINE>
+//et tire droit dans la cage de but !<END>
+
+//Ouais ! Vous avez vu ça, capitaine ?<END>
+
+//Bien joué, les gars !<END>
+

@@ -1,0 +1,21 @@
+// FILE: EP2301.str containing 7 strings
+
+//Très bien !<LINE>
+//On maintient notre tactique aggressive<LINE>
+//pour la deuxième mi-temps !<END>
+
+//D'accord !<END>
+
+//Je vais marquer pour Hyuga !<END>
+
+//Nous pouvons gagner sans Hyuga !<LINE>
+//Le jeu de Toho est unique !<END>
+
+//Je vais faire en sorte que tout se passe<LINE>
+//bien à la place du capitaine !<END>
+
+//Il faut continuer comme ça<LINE>
+//durant la deuxième mi-temps !<END>
+
+//Donnez-vous à fond, les gars...<END>
+

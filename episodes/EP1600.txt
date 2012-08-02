@@ -1,0 +1,123 @@
+// FILE: EP1600.str containing 37 strings
+
+//Tsubasa se voit remettre la coupe<LINE>
+//par le directeur du tournoi.<END>
+
+//Hourra !<END>
+
+//La All Japan Team se retrouve maintenant<LINE>
+//au sommet des moins de 16 ans !<LINE>
+//Cette victoire est le fruit<LINE>
+//d'un formidable jeu d'équipe !<END>
+
+//Retrouvons maintenant Tsubasa Ozora<LINE>
+//pour nous commenter leur victoire.<END>
+
+//Hein ? Quoi ? Un discours ?<END>
+
+//Ne t'inquiète pas, il y a un interprète.<END>
+
+//Ah, mais... euh...<END>
+
+//Le capitaine du Japon, Tsubasa, va<LINE>
+//maintenant nous livrer quelques mots<LINE>
+//sur la victoire de son équipe.<END>
+
+//Alors, tout d'abord, je voudrais tous<LINE>
+//vous remercier pour vos encouragements.<END>
+
+//Nous nous étions promis de donner<LINE>
+//le meilleur de nous-mêmes pour remporter<LINE>
+//cette compétition.<LINE>
+//Je suis content que nous ayons pu<LINE>
+//atteindre notre but.<END>
+
+//Néanmoins, je ne pense pas encore<LINE>
+//qu'on soit les meilleurs.<END>
+
+//Il y a beaucoup de nations qui n'ont pas<LINE>
+//participé au tournoi, comme le Brésil,<LINE>
+//considéré comme la nation reine du<LINE>
+//football.<END>
+
+//Notre véritable objectif est de remporter<LINE>
+//le tournoi international.<LINE>
+//C'est là que nous saurons réellement<LINE>
+//qui sont les meilleurs.<END>
+
+//Ce n'est sans doute qu'un rêve,<LINE>
+//mais nous sommes libres de tout mettre<LINE>
+//en œuvre pour que celui-ci se réalise.<LINE>
+//Nous y gagnerons beaucoup.<END>
+
+//Que le Japon soit la meilleure nation<LINE>
+//de foot au monde peut être un rêve…<LINE>
+//Mais nous... nous...<END>
+
+//Nous ferons tout pour qu'il se réalise !<END>
+
+//Le Japon entame maintenant un tour<LINE>
+//d'honneur.<END>
+
+//Sous les applaudissements de la foule,<LINE>
+//ils font le tour du stade.<END>
+
+//La All Japan Jr. Youth Team est revenue<LINE>
+//devant son banc de touche.<END>
+
+//Applaudissons-les une dernière fois<LINE>
+//pour leur performance exceptionnelle<LINE>
+//pendant le tournoi !<END>
+
+//!!!<END>
+
+//Ro-Roberto...<END>
+
+//Tsubasa.<END>
+
+//Félicitations. Tu as été impressionnant.<END>
+
+//Roberto...<END>
+
+//Comment vont tes yeux ?<END>
+
+//Ça va...<END>
+
+//Roberto, après le collège... Je…<LINE>
+//Je veux aller au Brésil !<END>
+
+//Je sais. J'ai vu ta vidéo<LINE>
+//que l'on m'a envoyée au Brésil,<LINE>
+//et je t'ai vu aujourd'hui jouer<LINE>
+//en personne.<END>
+
+//Ta capacité à créer des espaces<LINE>
+//et à organiser le jeu depuis le milieu<LINE>
+//de terrain est impressionnante.<LINE>
+//De plus, tu te comportes en vrai capitaine.<LINE>
+//Tu as beaucoup grandi, Tsubasa.<END>
+
+//Ro-Roberto...<END>
+
+//J'espère que tu vas accepter mon aide de<LINE>
+//faire de toi le meilleur joueur du monde.<END>
+
+//Bien sûr !<LINE>
+//Ça veut dire que tu vas m'entraîner<LINE>
+//de nouveau ?<END>
+
+//Et comment !<END>
+
+//Je savais que si je continuais à jouer<LINE>
+//au football et à m'améliorer,<LINE>
+//je pourrais te revoir un jour.<END>
+
+//Le jour suivant, les All Japan Jr. Youth<LINE>
+//s'envolèrent pour leur pays en y ramenant<LINE>
+//la coupe du 1st Annual French International<LINE>
+//Jr. Youth Tournament.<END>
+
+//Pour Tsubasa commença un nouveau chapitre<LINE>
+//aux côtés de son entraîneur de toujours,<LINE>
+//Roberto...<END>
+

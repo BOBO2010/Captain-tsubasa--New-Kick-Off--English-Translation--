@@ -1,0 +1,68 @@
+// FILE: EP0752.str containing 20 strings
+
+//Arrêtez-les ! Formez un mur !<LINE>
+//Ne les laissez pas tirer !<END>
+
+//Toho essaie d'éviter un but<LINE>
+//en dressant un mur<LINE>
+//sur le chemin de Tsubasa.<END>
+
+//Vas-y, Tsubasa ! Tire ton Drive shoot !<LINE>
+//J'ai compris comment l'arrêter !<END>
+
+//Pour un tir ordinaire,<LINE>
+//le gardien doit s'avancer<LINE>
+//pour diminuer l'angle de tir possible, mais<LINE>
+//pour le Drive shoot, c'est l'inverse...<END>
+
+//Pour arrêter le Drive shoot,<LINE>
+//je vais rester juste devant la ligne de but<LINE>
+//et attraper le ballon<LINE>
+//au moment de sa descente.<END>
+
+//Allez, Drive shoot ! Brise ce mur !<END>
+
+//Le voilà !<LINE>
+//Le super tir de Tsubasa, le Drive shoot !<END>
+
+//Moi, Ken Wakashimazu, je vais arrêter<LINE>
+//le Drive shoot !<END>
+
+//Wakashimazu ne s'avance pas. Au contraire,<LINE>
+//il attend sur la ligne de but, prêt à<LINE>
+//arrêter le ballon !<END>
+
+//Argh !<END>
+
+//Il... Il l'a arrêté !<END>
+
+//Wakashimazu a attrapé le ballon<LINE>
+//d'une seule main,<LINE>
+//juste sur la ligne de but !<LINE>
+//Il... Il a vaincu le Drive shoot !<END>
+
+//Comment ?<END>
+
+//!!<END>
+
+//Oh ! Attendez !<END>
+
+//Nous pensions qu'il avait arrêté<LINE>
+//le Drive shoot de Tsubasa,<LINE>
+//mais le ballon n'avait ni perdu<LINE>
+//sa puissance ni sa vitesse<LINE>
+//de rotation…<END>
+
+//Quoi ? Wakashimazu !<END>
+
+//Eh bien, il semble que le match<LINE>
+//ne soit pas encore terminé !<END>
+
+//Mon Drive shoot…<LINE>
+//C'est la première fois<LINE>
+//que quelqu'un arrive à réagir assez vite<LINE>
+//pour le toucher.<LINE>
+//Beau travail, Wakashimazu.<END>
+
+//… repoussant ainsi le gardien Wakashimazu !<END>
+

@@ -1,0 +1,57 @@
+// FILE: EP1559.str containing 18 strings
+
+//Je l'arrêterai à tout prix !<END>
+
+//Schneider lève le ballon dans les airs !<END>
+
+//Quoi ?!<END>
+
+//Le ballon passe au-dessus de la défense<LINE>
+//japonaise ! Schneider se défait de tous<LINE>
+//les défenseurs avec sang-froid !<END>
+
+//Le voilà face au gardien !<LINE>
+//Wakabayashi est sous pression<LINE>
+//et ne peut pas se permettre de sortir<LINE>
+//de ses cages maintenant !<END>
+
+//Il n'y a pas d'autre moyen !<END>
+
+//Trop tôt, Wakabayashi !<LINE>
+//De cette position, le gardien doit choisir<LINE>
+//un côté pour tenter d'arrêter le tir,<LINE>
+//mais j'ai déjà deviné que tu plongerais<LINE>
+//à gauche !<END>
+
+//Je vais marquer le but ! Fire !<END>
+
+//Oh ! Wakabayashi a recourt<LINE>
+//au Triangle Defense de Wakashimazu !<END>
+
+//Wakabayashi plonge sur la gauche,<LINE>
+//et à l'aide du poteau il se propulse<LINE>
+//à droite !<END>
+
+//Quoi ?!<END>
+
+//Il est sur la trajectoire du ballon,<LINE>
+//mais le tir est frappé à ras du sol !<END>
+
+//Wakabayashi s'appuie sur la barre<LINE>
+//transversale pour piquer sur le ballon !<END>
+
+//Quel arrêt ! Il a repoussé le tir !<END>
+
+//C'est impossible !<END>
+
+//Mais il n'a pas réussi à s'emparer<LINE>
+//du ballon et Margas a flairé le coup !<END>
+
+//Je ne te laisserai pas marquer !<END>
+
+//Incroyable ! Wakabayashi a sauvé ses buts<LINE>
+//en reprenant le ballon et en le protégeant<LINE>
+//de son corps ! Quel gardien ! Quel arrêt !<LINE>
+//Genzo Wakabayashi a vraiment tout donné<LINE>
+//pour défendre les buts japonais !<END>
+

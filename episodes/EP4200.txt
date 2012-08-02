@@ -1,0 +1,56 @@
+// FILE: EP4200.str containing 13 strings
+
+//C'est le premier tour du tournoi national !<LINE>
+//Quelle que soit l'équipe en face,<LINE>
+//Musashi jouera de la même façon !<END>
+
+//Le calendrier des matchs va être chargé.<LINE>
+//Il va donc falloir ménager Misugi<LINE>
+//au maximum.<END>
+
+//Montrons-leur que nous sommes assez bons<LINE>
+//pour gagner, même en l'absence de Misugi !<END>
+
+//Oui, monsieur !<END>
+
+//Nous allons gagner ce match avec<LINE>
+//nos propres forces, capitaine.<END>
+
+//Je sais que vous allez y arriver !<END>
+
+//Le tournoi de la région de Tokyo<LINE>
+//a donné lieu à des batailles acharnées<LINE>
+//et Musashi y a survécu !<LINE>
+//Ce match va certainement valoir<LINE>
+//le coup d'œil !<END>
+
+//Quand on pense à la région de Tokyo,<LINE>
+//on pense tout de suite à Toho Gakuen.<LINE>
+//Eh bien, Musashi Junior High est justement<LINE>
+//arrivé au tournoi national en battant<LINE>
+//Toho en finale régionale !<END>
+
+//Misugi, le capitaine de Musashi, est<LINE>
+//certainement le joueur à surveiller.<LINE>
+//Il est de retour sur le terrain après<LINE>
+//deux ans de rééducation cardiaque.<END>
+
+//Même s'il ne peut jouer<LINE>
+//que pendant une durée limitée,<LINE>
+//sa présence dans l'équipe fait de Musashi<LINE>
+//une équipe de poids<LINE>
+//dans ce tournoi national.<END>
+
+//Sans compter que la majorité<LINE>
+//de ses coéquipiers ont joué avec lui<LINE>
+//à l'école primaire !<END>
+
+//Sans compter que la majorité<LINE>
+//de ses coéquipiers ont joué avec lui<LINE>
+//à l'école primaire !<END>
+
+//Les joueurs font enfin leur entrée.<LINE>
+//Quelles surprises ce match va-t-il<LINE>
+//nous réserver ?<LINE>
+//Voilà le coup d'envoi...<END>
+

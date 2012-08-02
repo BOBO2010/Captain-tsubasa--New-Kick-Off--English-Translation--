@@ -1,0 +1,60 @@
+// FILE: EP1354.str containing 24 strings
+
+//Tsubasa, fais-nous une passe devant le but.<END>
+
+//À vous de jouer les gars.<END>
+
+//Tsubasa envoie le ballon haut dans les airs<LINE>
+//devant le but argentin.<END>
+
+//Malheureusement, il n'y a personne<LINE>
+//des All Japan à la réception !<END>
+
+//On y va, Jito !<END>
+
+//D'accord !<END>
+
+//Ohhh ! Les frères Tachibana prennent appui<LINE>
+//sur les pieds de Jito...<END>
+
+//Prêts !<END>
+
+//C'est parti !<END>
+
+//Vas-y !<END>
+
+//Double...<END>
+
+//Skylab hurricane !<END>
+
+//Les deux frères s'envolent en même temps<LINE>
+//dans les airs !<END>
+
+//C'est quoi ça ?<END>
+
+//Ils se dirigent tous les deux<LINE>
+//vers le ballon et s'apprêtent à tirer<LINE>
+//ensemble !<END>
+
+//Prends ça !<END>
+
+//Allez !<END>
+
+//Twin shoot !<END>
+
+//Quoi ?!<END>
+
+//Buuuuuuuuuuuuuut !<LINE>
+//Quelle attaque de la part<LINE>
+//des frères Tachibana assistés par Jito !<END>
+
+//On a réussi !<END>
+
+//Oui !<END>
+
+//Super !<END>
+
+//Le Skylab twin shoot des frères Tachibana<LINE>
+//envoyés dans les airs par Jito a filé<LINE>
+//tout droit dans les filets argentins !<END>
+

@@ -1,0 +1,47 @@
+// FILE: EP2558.str containing 13 strings
+
+//Il n'y a personne pour cueillir le ballon !<END>
+
+//Et Ishizaki saute pour récupérer la balle !<LINE>
+//Mais Hyuga revient devant le but,<LINE>
+//et saute au même moment !<END>
+
+//Tu penses vraiment que je vais te laisser<LINE>
+//marquer ?<END>
+
+//Oh ! Hyuga parvient à bloquer Ishizaki<LINE>
+//qui s'apprêtait à faire une tête !<END>
+
+//Il n'y a toujours personne pour récupérer<LINE>
+//le ballon !<END>
+
+//Quoi ?!<END>
+
+//Ah ! Ishizaki renvoie le ballon<LINE>
+//par un coup de pied !<END>
+
+//Tsubasa plonge pour récupérer le ballon !<LINE>
+//Toutes les actions de Nankatsu se concluent<LINE>
+//par une intervention de leur capitaine,<LINE>
+//Tsubasa !<END>
+
+//Wakashimazu n'a pas le temps de réagir !<LINE>
+//Il saute, mais il se trouve trop loin !<END>
+
+//But sur une tête plongeante de Tsubasa !<END>
+
+//Cette série de passes impressionnante<LINE>
+//a permis à Tsubasa de jouer<LINE>
+//le tout pour le tout avec une tête<LINE>
+//plongeante qui a expédié le ballon<LINE>
+//droit dans le filet !<END>
+
+//Je suis responsable en tant que capitaine.<LINE>
+//Je n'ai pas averti l'équipe<LINE>
+//de cette attaque brutale...<END>
+
+//C'est de ma faute si ce but a été marqué.<LINE>
+//Je dois me racheter !<LINE>
+//Je vais me dépêcher d'en marquer un<LINE>
+//pour mon équipe grâce au Tiger shot !<END>
+

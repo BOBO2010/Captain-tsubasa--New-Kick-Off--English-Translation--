@@ -1,0 +1,60 @@
+// FILE: EP1100.str containing 19 strings
+
+//Wa-Wakabayashi !<LINE>
+//Ça fait un sacré bail !<END>
+
+//Vous avez tous l'air en forme.<END>
+
+//Wakabayashi !<END>
+
+//En ce qui me concerne, j'ai comme but<LINE>
+//de surpasser Tsubasa Ozora,<LINE>
+//mais j'en ai également un autre.<END>
+
+//C'est de marquer un but contre toi,<LINE>
+//Wakabayashi, hors de<LINE>
+//la surface de réparation !<END>
+
+//Hyuga...<END>
+
+//J'ai eu vent des victoires de Nankatsu et<LINE>
+//de Toho au Japon, mais je n'ai pas été<LINE>
+//en Allemagne pendant trois ans pour rien.<END>
+
+//Je vais être honnête... Les All Japan sans<LINE>
+//Tsubasa...<END>
+
+//Vous n'avez aucune chance de gagner !<END>
+
+//Pour qui tu te prends ?<END>
+
+//Enfin, que le meilleur l'emporte demain.<END>
+
+//Wakabayashi, on va voir demain ce que<LINE>
+//ces trois années en Allemagne t'ont<LINE>
+//réellement apporté !<END>
+
+//Et laisse-moi te dire que les All Japan Jr.<LINE>
+//Youth vont gagner contre FC Allemagne !<END>
+
+//Abordez ce match comme un match normal,<LINE>
+//il n'y a pas de match amical qui vaille. <LINE>
+//Donnez le meilleur de vous-même et<LINE>
+//décrochez-moi la victoire !<END>
+
+//Oui !<END>
+
+//Pour la défense, ne lâchez pas Schneider<LINE>
+//une seconde. Gardez un œil sur lui<LINE>
+//quoi qu'il arrive. Vous devrez le marquer<LINE>
+//en priorité.<END>
+
+//C'est le meilleur attaquant d'Allemagne.<LINE>
+//Karl Heinz Schneider, le Kaizer.<END>
+
+//S'il y en a bien un qui puisse marquer<LINE>
+//un but contre Genzo, c'est lui.<END>
+
+//Marquer contre Wakabayashi ?<LINE>
+//Vous êtes sérieux ?<END>
+

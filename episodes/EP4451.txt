@@ -1,0 +1,33 @@
+// FILE: EP4451.str containing 9 strings
+
+//Le tir arrive !<LINE>
+//Bloque-le !<END>
+
+//Musashi n'a pas que Misugi !<LINE>
+//Il y a aussi nous, des anciens joueurs<LINE>
+//de Musashi FC, sélectionnés<LINE>
+//parmi plus de mille joueurs !<END>
+
+//Les trois attaquants de Musashi, Sanada,<LINE>
+//Ichinosé et Honma, jouent ensemble<LINE>
+//depuis Musashi FC.<END>
+
+//Ils se lancent à l'attaque devant les buts<LINE>
+//de Meiwa-Higashi !<END>
+
+//Oh... Ichinosé centre !<LINE>
+//Sanada et Honma sont devant les buts !<END>
+
+//Je peux tirer !<END>
+
+//Sanada attendait au centre de la surface.<LINE>
+//Il profite de sa taille pour sauter<LINE>
+//et tenter une tête !<END>
+
+//But !<LINE>
+//Magnifique travail d'équipe de la part<LINE>
+//du trio magnifique de Musashi !<END>
+
+//Sanada a incroyablement transformé la passe<LINE>
+//d'Ichinosé en but !<END>
+

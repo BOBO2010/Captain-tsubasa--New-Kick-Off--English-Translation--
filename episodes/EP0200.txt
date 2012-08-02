@@ -1,0 +1,41 @@
+// FILE: EP0200.str containing 12 strings
+
+//Méfiez-vous de la défense impénétrable<LINE>
+//d'Urabé, Nakayama, Kishida et Nishio.<LINE>
+//Elle peut leur permettre de lancer<LINE>
+//des contre-attaques rapides !<LINE>
+//Et surtout méfiez-vous des tirs de Nitta !<END>
+
+//Entraîneur, vous pouvez me laisser marquer<LINE>
+//Nitta en défense aujourd'hui ?<END>
+
+//Si je joue devant comme d'habitude,<LINE>
+//Nitta sera libre de ses mouvements,<LINE>
+//et ils doivent compter là-dessus.<END>
+
+//En plus, Nitta me défie !<LINE>
+//J'aimerais pouvoir lui répondre.<END>
+
+//D'accord, on suit la stratégie de Tsubasa.<LINE>
+//Des objections ?<END>
+
+//Non !<END>
+
+//Les deux équipes sont entrées<LINE>
+//sur le terrain et le stade est<LINE>
+//en ébullition.<END>
+
+//Le moment est enfin arrivé, Urabé.<END>
+
+//C'est le match décisif, Ishizaki !<END>
+
+//Je sais.<LINE>
+//En plus, le perdant devra faire<LINE>
+//tout ce que le gagnant lui demandera !<END>
+
+//Ouais !<END>
+
+//La finale du tournoi de la préfecture<LINE>
+//de Shizuoka va commencer !<LINE>
+//Et c'est le coup d'envoi !<END>
+

@@ -1,0 +1,43 @@
+// FILE: EP0755.str containing 13 strings
+
+//Il fait une passe !<LINE>
+//Hyuga ne tente pas un tir,<LINE>
+//mais préfère passer la balle sur les côtés.<END>
+
+//Et maintenant il file droit devant !<END>
+
+//C'était un une-deux avec Sawada !<END>
+
+//Cependant les deux joueurs n'ont pas eu<LINE>
+//l'occasion de jouer en duo<LINE>
+//de tout le tournoi !<LINE>
+//Est-ce que Sawada va réussir à suivre <LINE>
+//Hyuga qui court plus vite que jamais ?<END>
+
+//Tsubasa avait Misaki.<LINE>
+//Moi, je suis là pour Hyuga !<END>
+
+//Nous sommes le golden duo de Toho !<END>
+
+//Belle passe, Takeshi !<LINE>
+//C'est parti pour notre troisième but !<END>
+
+//Mais voici Tsubasa qui surgit de l'aile<LINE>
+//pour le bloquer !<END>
+
+//Je ne vais pas te permettre<LINE>
+//de venir gâcher la passe de Takeshi !<END>
+
+//Mais Hyuga tire malgré tout !<LINE>
+//C'est un Tiger shot !<END>
+
+//Tsubasa est expulsé par le ballon !<END>
+
+//!<END>
+
+//Et but !<LINE>
+//La tentative de Tsubasa a ralenti la balle,<LINE>
+//mais ça n'a pas suffi pour permettre<LINE>
+//à Morisaki d'atteindre le ballon<LINE>
+//dans un plongeon désespéré !<END>
+

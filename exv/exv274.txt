@@ -1,0 +1,7 @@
+// FILE: exv274.str containing 2 strings
+
+//Je ne tolérerai aucun but !<END>
+
+//On ne me bat pas d'en-dehors<LINE>
+//de la surface de réparation.<END>
+

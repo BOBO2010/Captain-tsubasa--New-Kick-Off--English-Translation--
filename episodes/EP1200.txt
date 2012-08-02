@@ -1,0 +1,76 @@
+// FILE: EP1200.str containing 31 strings
+
+//Allez, les gars ! Encore un effort !<END>
+
+//Oui !<END>
+
+//Entraîneur…<END>
+
+//Qu'est-ce qu'il y a, Matsuyama ?<END>
+
+//Tsubasa motive à lui seul l'équipe.<END>
+
+//Il fera un bien meilleur capitaine que moi.<END>
+
+//Entraîneur, veuillez remettre le brassard<LINE>
+//de capitaine à Tsubasa.<END>
+
+//Matsuyama...<END>
+
+//Écoutez-moi tous.<END>
+
+//Tsubasa, à partir d'aujourd'hui<LINE>
+//tu reprends le brassard de capitaine.<END>
+
+//Comment ? Moi ? Vous êtes sûr ?<END>
+
+//Je n'y suis pour rien,<LINE>
+//c'était à la demande de Matsuyama.<END>
+
+//Tsubasa, il n'y a que toi<LINE>
+//qui puisses être le capitaine de l'équipe.<END>
+
+//Matsuyama...<END>
+
+//Je suis sûr que tout le monde<LINE>
+//est du même avis que moi.<END>
+
+//Oui !<END>
+
+//Les gars...<END>
+
+//Comptez sur moi ! Je ferai de mon mieux !<END>
+
+//Tu vois. Le brassard de capitaine<LINE>
+//te va à merveille !<END>
+
+//Une dernière chose...<END>
+
+//Hein ?<END>
+
+//Jusqu'à maintenant, Jun Misugi assistait<LINE>
+//l'équipe en tant qu'entraîneur, mais j'ai<LINE>
+//pris la décision de le faire jouer.<END>
+
+//Si vous voulez bien de moi.<END>
+
+//M-Misugi...<END>
+
+//Misugi !<END>
+
+//Voilà notre équipe renforcée !<END>
+
+//OK les gars ! On se doit de remporter<LINE>
+//notre match contre l'Italie<LINE>
+//si on veut terminer premier<LINE>
+//de notre groupe !<END>
+
+//Oui !<END>
+
+//Écoutez-moi tous.<END>
+
+//Voici le onze de départ pour le match<LINE>
+//contre l'Italie.<END>
+
+//!!!<END>
+

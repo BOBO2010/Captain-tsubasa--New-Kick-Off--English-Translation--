@@ -1,0 +1,42 @@
+// FILE: EP3353.str containing 14 strings
+
+//C'est maintenant Ishida qui reçoit<LINE>
+//le ballon !<END>
+
+//Allez, les gars, reprenez le ballon !<END>
+
+//Est-ce qu'Ishida va de nouveau tirer<LINE>
+//en direction des buts ?<END>
+
+//Takéi est marqué.<END>
+
+//Dans ce cas, je dois tirer !<END>
+
+//Oh... Ishida a feinté.<LINE>
+//C'était un Long shoot instantané !<END>
+
+//Le gardien est là pour arrêter le tir !<LINE>
+//Bien joué !<END>
+
+//Le gardien Kato a plongé ! <LINE>
+//Même sous la pression de ses adversaires,<LINE>
+//Furano ne concède aucun but !<END>
+
+//Hé, Kato ! On ne va pas se laisser faire !<LINE>
+//Pas question que Furano perde<LINE>
+//contre un adversaire pareil ! <END>
+
+//Oui, capitaine !<END>
+
+//Le gardien Kato, qui vient de signer<LINE>
+//un bel arrêt, passe le ballon<LINE>
+//au capitaine Matsuyama ! <END>
+
+//On suit le capitaine !<LINE>
+//Il a raison, on ne doit pas se laisser<LINE>
+//battre par cette équipe !<END>
+
+//C'est vrai ! On refuse la défaite !<END>
+
+//Suivons-le !<END>
+

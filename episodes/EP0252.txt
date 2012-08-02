@@ -1,0 +1,47 @@
+// FILE: EP0252.str containing 15 strings
+
+//Non ! Marque Tsubasa !<END>
+
+//Les mouvements du Quartet d'Otomo<LINE>
+//sont vraiment époustouflants !<LINE>
+//Je n'aurais pas une seule occasion de tir<LINE>
+//si je prends le temps de contrôler<LINE>
+//le ballon.<END>
+
+//Je ne vois qu'une seule solution...<END>
+
+//Ouah ! Tsubasa a repris cette longue passe<LINE>
+//à la volée sans même la contrôler !<END>
+
+//Reprise de volée !<END>
+
+//C'est de la folie !<LINE>
+//Même pour un génie comme Tsubasa !<LINE>
+//Va-t-il réussir à transformer<LINE>
+//cette passe en tir ?<END>
+
+//Ouah ! J'en ai le souffle coupé !<END>
+
+//Ichijo, attention !<END>
+
+//Argh !<END>
+
+//Il a... Il a marqué !<END>
+
+//C'était la seule chose à faire,<LINE>
+//et la puissance et la dextérité<LINE>
+//de Tsubasa ont fait la différence !<END>
+
+//Ce tir était hallucinant !<LINE>
+//Même Ichijo n'a pas pu l'arrêter !<END>
+
+//Oui !<END>
+
+//Que... Que s'est-il passé ?<LINE>
+//Une passe longue qui se transforme<LINE>
+//à la volée en un long tir...<LINE>
+//Pour finir au fond des filets...<END>
+
+//Mais il n'aurait pas pu marquer<LINE>
+//d'une autre façon...<END>
+

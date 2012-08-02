@@ -1,0 +1,19 @@
+// FILE: EP2202.str containing 6 strings
+
+//Et Toho remporte la victoire<LINE>
+//de ce premier match !<LINE>
+//Nous n'avons pas vu Hyuga aujourd'hui,<LINE>
+//mais Toho vient de faire un grand bond<LINE>
+//en avant. C'est indéniable !<END>
+
+//Bon travail !<END>
+
+//Nous y sommes arrivés,<LINE>
+//même sans Hyuga...<END>
+
+//Où est le capitaine ?<END>
+
+//Il est déjà rentré chez lui.<END>
+
+//Hyuga...<END>
+

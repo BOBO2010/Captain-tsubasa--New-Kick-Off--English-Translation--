@@ -1,0 +1,11 @@
+// FILE: exv008.str containing 4 strings
+
+//Izawa, Taki ! On fonce !<END>
+
+//On va faire remonter le ballon !<END>
+
+//Je l'ai !<END>
+
+//Je suis le marqueur<LINE>
+//de l'équipe !<END>
+

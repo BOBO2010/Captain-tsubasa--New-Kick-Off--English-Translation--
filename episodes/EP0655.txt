@@ -1,0 +1,58 @@
+// FILE: EP0655.str containing 18 strings
+
+//Jamais de la vie ! Je vais te passer<LINE>
+//grâce à mon excellent contrôle de balle !<END>
+
+//Tu ne me passeras pas !<END>
+
+//Oh que si !<END>
+
+//Je vais t'arrêter !<LINE>
+//C'est la seule chose que je puisse<LINE>
+//encore faire dans ce match !<END>
+
+//Oh non ! On dirait qu'ils se foncent<LINE>
+//dedans ! Oui, ils se sont percutés !<END>
+
+//Est-ce que Matsuyama va en profiter<LINE>
+//pour faire une passe, ou va-t-il tenter<LINE>
+//un tir à longue distance ?<END>
+
+//Matsuyama se met en position pour tirer !<END>
+
+//Mais Nankatsu tente désespérément<LINE>
+//de le bloquer !<END>
+
+//Maintenant !<END>
+
+//Mais Matsuyama change de position<LINE>
+//pour faire une passe !<LINE>
+//Il envoie le ballon vers les buts !<END>
+
+//Matsuyama laisse à ses coéquipiers<LINE>
+//le soin de conclure l'action !<END>
+
+//Les joueurs de Furano se positionnent<LINE>
+//face au ballon devant les buts !<END>
+
+//Allez ! Il faut que nous transformions<LINE>
+//la passe du capitaine en but !<END>
+
+//L'amitié et la confiance nous unissent.<LINE>
+//Je compte sur vous les gars !<END>
+
+//Morisaki, le gardien de Nankatsu,<LINE>
+//plonge vers le ballon !<END>
+
+//But !<LINE>
+//Morisaki n'a rien pu faire<LINE>
+//contre cette puissante attaque !<LINE>
+//Furano ne lâche rien et nous montre <LINE>
+//aujourd'hui son meilleur football !<END>
+
+//On a réussi !<END>
+
+//Tsubasa a reçu un choc très violent<LINE>
+//à son épaule blessée, et a été<LINE>
+//littéralement éjecté dans les airs !<END>
+

@@ -1,0 +1,375 @@
+// FILE: ana.str containing 156 strings
+
+//Il ne peut pas l'atteindre !<END>
+
+//Mais il ne peut pas<LINE>
+//l'atteindre !<END>
+
+//<NAME> ne peut pas<LINE>
+//l'atteindre !<END>
+
+//Le ballon lui est passé<LINE>
+//entre les jambes !<END>
+
+//Il ne peut pas<LINE>
+//approcher du ballon !<END>
+
+//Il n'a pas réussi<LINE>
+//à intercepter le ballon !<END>
+
+//Il a dévié le ballon !<END>
+
+//Il a tendu sa jambe<LINE>
+//vers le ballon !<END>
+
+//Mais il ne l'a pas eu !<END>
+
+//Mais il n'a pas pu l'arrêter !<END>
+
+//<NAME> ne l'a pas eu !<END>
+
+//Personne ne peut l'arrêter !<END>
+
+//<NAME> l'a vu arriver !<END>
+
+//Il a plongé sur la trajectoire<LINE>
+//du ballon !<END>
+
+//Il l'a arrêté !<END>
+
+//<NAME> l'a bloqué !<END>
+
+//<NAME> a bien défendu !<END>
+
+//<NAME> a intercepté<LINE>
+//le ballon !<END>
+
+//Personne n'a le ballon !<END>
+
+//Le ballon va leur échapper !<END>
+
+//Le ballon leur a échappé !<END>
+
+//BUUUUUT !<END>
+
+//Le ballon est au fond des filets !<END>
+
+//But ! BUT ! BUUUUUT !<END>
+
+//Il a passé le ballon !<END>
+
+//<NAME> va passer<LINE>
+//le ballon !<END>
+
+//<NAME> passe<LINE>
+//le ballon !<END>
+
+//Et c'est une passe !<END>
+
+//Il a décidé de passer<LINE>
+//le ballon !<END>
+
+//Une passe au millimètre !<END>
+
+//<NAME> passe le ballon.<END>
+
+//Il a fait une passe longue.<END>
+
+//C'est une passe longue.<END>
+
+//<NAME> fait<LINE>
+//une passe longue !<END>
+
+//Il va tirer !<END>
+
+//Et c'est le tir !<END>
+
+//Est-ce que <NAME><LINE>
+//va pouvoir tirer ?<END>
+
+//Est-ce qu'il va pouvoir tirer ?<END>
+
+//Il se prépare à tirer<LINE>
+//de toutes ses forces !<END>
+
+//<NAME> vise les buts !<END>
+
+//C'est une occasion de tir !<END>
+
+//<NAME> tente sa chance !<END>
+
+//Va-t-il rentrer ?<END>
+
+//<NAME> tire !<END>
+
+//Il tire !<END>
+
+//Un tir cadré au millimètre !<END>
+
+//Le ballon fonce vers les buts !<END>
+
+//Il a tout mis dans ce tir !<END>
+
+//C'est un choc frontal !<END>
+
+//Et c'est le choc !<END>
+
+//Ils se sont rentrés dedans !<END>
+
+//Le duel devient physique !<END>
+
+//Ces deux-là se battent<LINE>
+//pour le ballon !<END>
+
+//C'est la force contre la force !<END>
+
+//Ils s'affrontent avec la tête !<END>
+
+//Ils ont l'air de niveau égal !<END>
+
+//Aucun des deux<LINE>
+//ne cède de terrain !<END>
+
+//Ça tourne au duel de puissance !<END>
+
+//Mais il a été éjecté !<END>
+
+//<NAME> est éjecté !<END>
+
+//Ouah ! Quelle puissance !<END>
+
+//C'est un match de vitesse<LINE>
+//et il passe en force !<END>
+
+//<NAME> dribble<LINE>
+//avec talent.<END>
+
+//<NAME> passe la défense !<END>
+
+//<NAME> ne peut pas<LINE>
+//bouger !<END>
+
+//Il ne pouvait pas se déplacer<LINE>
+//d'un centimètre !<END>
+
+//Il ne peut pas réagir !<END>
+
+//<NAME> ne peut pas<LINE>
+//l'attraper !<END>
+
+//Il a perdu l'affrontement !<END>
+
+//Il n'a pas pu prendre le ballon.<END>
+
+//<NAME> a pris le ballon !<END>
+
+//Un magnifique contrôle<LINE>
+//de ballon !<END>
+
+//<NAME> piège le ballon !<END>
+
+//Ils s'envolent vers le ballon<LINE>
+//tous les deux !<END>
+
+//Aucun des deux<LINE>
+//n'arrive à l'avoir.<END>
+
+//Aucun des deux<LINE>
+//n'a surpassé l'autre !<END>
+
+//Le gardien de but<LINE>
+//fait une sortie !<END>
+
+//<NAME> sort<LINE>
+//pour le défier !<END>
+
+//Il sort courageusement !<END>
+
+//<NAME> a été terrassé !<END>
+
+//<NAME> s'est fait éjecté !<END>
+
+//Il a été violemment éjecté !<END>
+
+//Il repousse le ballon<LINE>
+//d'un coup de poing !<END>
+
+//Il va frapper le ballon<LINE>
+//du poing !<END>
+
+//<NAME>, avec le poing !<END>
+
+//Il va sécuriser le ballon !<END>
+
+//<NAME> va l'attraper !<END>
+
+//Le ballon va tout droit<LINE>
+//sur le gardien !<END>
+
+//Pourra-t-il l'arrêter ?<END>
+
+//Est-ce que <NAME><LINE>
+//va l'atteindre à temps ?<END>
+
+//Il plonge !<END>
+
+//Il se fait semer !<END>
+
+//Il l'a dépassé !<END>
+
+//Je n'arrive pas à y croire !<END>
+
+//Le gardien a fait un bel arrêt !<END>
+
+//Une belle réaction du gardien !<END>
+
+//<NAME> l'a arrêté !<END>
+
+//Il a été éjecté !<END>
+
+//Il tente de l'arrêter de force !<END>
+
+//Il a beaucoup donné<LINE>
+//sur cette action !<END>
+
+//Il a commis une faute !<END>
+
+//C'est une faute !<END>
+
+//Il y a hors-jeu !<END>
+
+//Ils sont hors-jeu !<END>
+
+//Le match va reprendre<LINE>
+//avec un coup franc.<END>
+
+//C'est une touche.<END>
+
+//Le match va reprendre<LINE>
+//avec un corner.<END>
+
+//Le match continue<LINE>
+//avec un penalty.<END>
+
+//Le match a repris !<END>
+
+//Et c'est le coup d'envoi !<END>
+
+//Début de la seconde mi-temps.<END>
+
+//La seconde mi-temps a commencé.<END>
+
+//Coup d'envoi<LINE>
+//de la seconde mi-temps.<END>
+
+//On commence les prolongations !<END>
+
+//Coup d'envoi<LINE>
+//des prolongations !<END>
+
+//Le match reprend !<END>
+
+//Ils se reprennent<LINE>
+//et passent à l'attaque !<END>
+
+//Ils ont trouvé le bon rythme !<END>
+
+//Fin de la première mi-temps.<END>
+
+//La première mi-temps<LINE>
+//est terminée !<END>
+
+//Le match va se poursuivre<LINE>
+//dans les prolongations !<END>
+
+//Il va y avoir<LINE>
+//des prolongations !<END>
+
+//Le match est terminé !<END>
+
+//L'arbitre siffle<LINE>
+//la fin du match !<END>
+
+//C'est une victoire écrasante !<END>
+
+//Ils ont remporté le match !<END>
+
+//Ils ont gagné !<END>
+
+//Il n'y aura pas de vainqueur,<LINE>
+//c'est un match nul.<END>
+
+//Malheureusement la victoire<LINE>
+//leur a échappé !<END>
+
+//C'est une défaite totale !<END>
+
+//Comment vont-ils construire<LINE>
+//leur attaque ?<END>
+
+//Quelle stratégie offensive<LINE>
+//vont-ils appliquer ?<END>
+
+//Peuvent-ils faire remonter<LINE>
+//le ballon vers l'avant ?<END>
+
+//Que vont-ils faire<LINE>
+//de ce ballon ?<END>
+
+//Déjà 5 minutes d'écoulées.<END>
+
+//Fin du premier quart d'heure<LINE>
+//de la première mi-temps.<END>
+
+//Fin du premier quart d'heure<LINE>
+//de la seconde mi-temps.<END>
+
+//Plus que 5 minutes.<END>
+
+//Ils font remonter le ballon<LINE>
+//sur l'aile.<END>
+
+//Ils attaquent par l'aile.<END>
+
+//Quelle démonstration<LINE>
+//de puissance écrasante !<END>
+
+//Vont-ils continuer<LINE>
+//à creuser l'écart ?<END>
+
+//Les deux équipes font jeu égal !<END>
+
+//Réussiront-ils à remonter ?<END>
+
+//Il ne reste presque plus<LINE>
+//de temps de jeu !<END>
+
+//Ce sont les arrêts de jeu.<LINE>
+//Est-ce la dernière attaque ?<END>
+
+//La balle change de camp.<END>
+
+//Le match reprend avec une remise<LINE>
+//en jeu du gardien.<END>
+
+//Il y va tout seul !<END>
+
+//Les buts sont<LINE>
+//à distance de tir !<END>
+
+//Il lui prend le ballon,<LINE>
+//les rôles sont inversés !<END>
+
+//Pourront-ils renverser<LINE>
+//la tendance ?<END>
+
+//Il a le ballon !<END>
+
+//Il remonte le terrain<LINE>
+//tout seul !<END>
+
+//Il reste imperturbable<LINE>
+//et continue à dribbler.<END>
+
+//Il y va en solitaire !<END>
+
