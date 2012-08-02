@@ -1,8 +1,8 @@
 // FILE: exv183.str containing 2 strings
 
-//Je vais nous ramener un but !<END>
+//I will raise the score !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
