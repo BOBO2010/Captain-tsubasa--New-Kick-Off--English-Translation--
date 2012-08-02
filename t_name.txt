@@ -42,35 +42,35 @@
 
 //Nakahara<END>
 
-//FC Allemagne<END>
+//FC Germany<END>
 
-//Angleterre<END>
+//England<END>
 
 //Uruguay<END>
 
-//Italie<END>
+//Italy<END>
 
-//Argentine<END>
+//Argentina<END>
 
 //France<END>
 
-//Allemagne<END>
+//Germany<END>
 
-//Passe<END>
+//Pass<END>
 
 //Interception<END>
 
-//Égal<END>
+//Draw<END>
 
-//Blocage<END>
+//Blocking<END>
 
-//Tir<END>
+//Shoot<END>
 
-//Japon<END>
+//Japan<END>
 
-//Yoichi d'or<END>
+//Golden Yoichi<END>
 
-//Joueur libre<END>
+//Free Player<END>
 
 //? ? ?<END>
 
