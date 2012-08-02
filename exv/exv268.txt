@@ -1,21 +1,21 @@
 // FILE: exv268.str containing 6 strings
 
-//Je vais t'arrêter !<END>
+//I will stop you !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Lâche-moi !<END>
+//Get off me !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Un tir n'a pas forcément besoin<LINE>
-//d'être puissant !<END>
+//A shoot doesn't necessarily<LINE>
+//have to be powerful !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
