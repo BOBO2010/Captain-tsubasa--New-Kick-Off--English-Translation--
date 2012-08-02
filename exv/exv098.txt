@@ -2,22 +2,22 @@
 
 //Yaaaaah !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Tégatana !<END>
+//Tegatana !<END>
 
-//Tu ne marqueras pas<LINE>
-//si facilement !<END>
+//You won't score<LINE>
+//that easy !<END>
 
 //Shoken defense !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
 //Wakado style special technique!<END>
 
-//Coup de pied mirage !<END>
+//Mirage Kick !<END>
 
