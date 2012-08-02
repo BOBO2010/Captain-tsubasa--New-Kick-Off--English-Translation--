@@ -1,12 +1,12 @@
 // FILE: exv010.str containing 4 strings
 
-//Maintenant !<END>
+//Now !<END>
 
-//Hé hé, n'oublie pas<LINE>
-//que je suis là !<END>
+//He he, don't forget<LINE>
+//that i'm here !<END>
 
 //Grr...<END>
 
-//Ne t'imagine pas<LINE>
-//pouvoir me battre !<END>
+//Don't you think<LINE>
+//you can beat me !<END>
 
