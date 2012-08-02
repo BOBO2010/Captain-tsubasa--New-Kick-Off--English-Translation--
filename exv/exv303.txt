@@ -1,7 +1,7 @@
 // FILE: exv303.str containing 2 strings
 
-//Je vais l'arrêter,<LINE>
-//c'est certain !<END>
+//I will stop it,<LINE>
+//for certain !<END>
 
-//C'est mon Bras-droit en or !<END>
+//It's my golden right arm !<END>
 
