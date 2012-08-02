@@ -1,65 +1,61 @@
 // FILE: HELP.str containing 94 strings
 
-//Commence le match<LINE>
-//avec la formation actuelle.<END>
+//Begin the match<LINE>
+//with the corrent formation.<END>
 
-//Change la formation de l'équipe<LINE>
-//et la stratégie.<END>
+//Change Team formation<LINE>
+//and strategy.<END>
 
-//Retourne à l'écran Sélectionner match<LINE>
-//pour l'histoire en cours.<END>
+//Return to Match Selection screen<LINE>
+//for the currnt Story.<END>
 
-//Configure les titulaires pour le match.<END>
+//Configure holders for the match.<END>
 
-//Règle le type de formation et les modes<LINE>
-//des défenseurs, milieux de terrain<LINE>
-//et attaquants.<END>
+//Adjust Formation type and defenders modes,<LINE>
+//midfielders<LINE>
+//and forward<END>
 
-//Attribue la position des joueurs<LINE>
-//sur le terrain.<END>
+//Attribute Players position<LINE>
+//on the field.<END>
 
-//Désigne le capitaine de l'équipe.<LINE>
-//La compétence du capitaine dépend<LINE>
-//du joueur sélectionné.<END>
+//Pick Team Captain.<LINE>
+//Captain competence depends<LINE>
+//on selected player.<END>
 
-//Attribuer<LINE>
-//les numéros<LINE>
-//de maillot<LINE>
-//aux joueurs.<END>
+//Attribute<LINE>
+//shirts<LINE>
+//Numbering<LINE>
+//for the players.<END>
 
-//Règle la stratégie pendant le match.<LINE>
-//La stratégie influe sur les résultats<LINE>
-//des duels.<END>
+//Adjust Match Strategy.<LINE>
+//Strategy influence the results<LINE>
+//of duels.<END>
 
-//Attribue un joueur pour les corners,<LINE>
-//coups francs, penaltys et les touches.<END>
+//Attribute a player for Corners,<LINE>
+//Free Kicks, Fouls and Throw ins.<END>
 
-//Veuillez sélectionner la fente<LINE>
-//où sauvegarder les données.<END>
+//Please select a slot<LINE>
+//for save data.<END>
 
-//Veuillez sélectionner<LINE>
-//les données à charger.<END>
-
-//DUMMY_F<END>
-
-//Équipe les joueurs<LINE>
-//avec les objets obtenus.<END>
-
-//Les données sont corrompues.<END>
-
-//Les données sont réinitialisées.<END>
-
-//Chargement des données échoué.<LINE>
-//Éteindre la console et réinsérer<LINE>
-//la carte de jeu DS.<END>
-
-//Réinitialisation des données...<END>
-
-//Réinitialisation des données terminée.<END>
+//Please select a<LINE>
+//save data to load.<END>
 
 //DUMMY_F<END>
 
-//DUMMY_F<END>
+//Equip the players<LINE>
+//with obtained objects.<END>
+
+//The Data is corrupted.<END>
+
+//The Data has been reinitialized.<END>
+
+//Data loading have failed.<LINE>
+//Turn off the console and reinsert<LINE>
+//the game cartridge.<END>
+
+//Reinitialization of data...<END>
+
+//Reinitialization is complete.<END>
 
 //DUMMY_F<END>
 
@@ -129,129 +125,127 @@
 
 //DUMMY_F<END>
 
-//Régler le volume des effets sonores.<END>
-
-//Régler le volume de la musique.<END>
-
-//Régler le volume des spectateurs.<END>
-
-//Activer/désactiver les voix<LINE>
-//des personnages dans les séquences<LINE>
-//animées et les matchs.<END>
+//DUMMY_F<END>
 
 //DUMMY_F<END>
 
-//Se focaliser sur l'attaque et augmenter<LINE>
-//les paramètres liés aux commandes<LINE>
-//d'attaque.<END>
+//Adjust SFX volume.<END>
 
-//Se focaliser sur la défense et augmenter<LINE>
-//les paramètres liés aux commandes<LINE>
-//de défense.<END>
+//Adjust musique volume.<END>
 
-//Se focaliser sur les passes et augmenter<LINE>
-//les paramètres de "PASSE".<END>
+//Adjust spectators volume.<END>
 
-//Se focaliser sur les tirs et augmenter<LINE>
-//les paramètres de "TIR".<END>
+//Activate/deactivate Characters<LINE>
+//Voices in animated sequences<LINE>
+//and matches.<END>
 
-//Se focaliser sur les dribbles et<LINE>
-//augmenter les paramètres de "FEINTE".<END>
+//DUMMY_F<END>
 
-//Se focaliser sur l'interception<LINE>
-//des passes et augmenter les paramètres<LINE>
-//de "INTERCEPTION".<END>
+//Focus on attack and raise<LINE>
+//settings related to attack<LINE>
+//control.<END>
 
-//Se focaliser sur le blocage des tirs et<LINE>
-//augmenter les paramètres de "BLOCAGE".<END>
+//Focus on defense and raise<LINE>
+//settings related to defense<LINE>
+//control.<END>
 
-//Se focaliser sur l'interception<LINE>
-//des adversaires et augmenter<LINE>
-//les paramètres de "TACLE".<END>
+//Focus on passes and raise<LINE>
+//the"PASSE" parameters.<END>
 
-//Préserver son endurance et se lancer<LINE>
-//dans une ultime offensive.<LINE>
-//Les paramètres augmentent<LINE>
-//seulement lors de l'utilisation<LINE>
-//d'un coup spécial,<LINE>
-//et baissent dans un cas contraire.<END>
+//Focus on shooting and raise<LINE>
+//the"SHOOT" parameters.<END>
 
-//Se focaliser sur un jeu simple<LINE>
-//et basique, et augmenter<LINE>
-//tous les paramètres.<LINE>
-//Lors de l'utilisation d'un coup spécial,<LINE>
-//les paramètres baissent.<END>
+//Focus on dribbles and raise<LINE>
+//the"FEINT" parameters.<END>
 
-//Se focaliser sur l'utilisation des coups<LINE>
-//spéciaux et augmenter le recouvrement<LINE>
-//de SP. Quelques paramètres baissent.<END>
+//Focus on pass interceptions and raise<LINE>
+//the"INTERCEPTION" parameters.<END>
 
-//L'évolution du personnage sera<LINE>
-//propre à cette histoire.<END>
+//Focus on shots blocking and raise<LINE>
+//the"BLOCK" parameters.<END>
 
-//L'adversaire place<LINE>
-//son tir.<END>
+//Focus on opponent interception<LINE>
+//and raise "TACLE" parameters.<END>
 
-//Retourne à l'écran de configuration<LINE>
-//du match.<END>
+//Preserve endurence and go<LINE>
+//for an Ultimate Attack.<LINE>
+//Parameters increase only<LINE>
+//When using a<LINE>
+//Special Move,<LINE>
+//and decreasing in the opposite case.<END>
 
-//Chargement des données<LINE>
-//de la partie interrompue...<LINE>
-//Ne pas éteindre la console<LINE>
-//et ne pas retirer la carte de jeu DS.<END>
+//Focus on simple play<LINE>
+//and raise all the parameters.<LINE>
+//When using a Special Move,<LINE>
+//parameters decrease.<END>
 
-//Sauvegarde des données de la partie<LINE>
-//interrompue...<LINE>
-//<LINE>
-//Ne pas éteindre la console et ne pas<LINE>
-//retirer la carte de jeu DS.<END>
+//Focus on using Special<LINE>
+//Moves and raise SP recovery.<LINE>
+//Some parameters decrease.<END>
 
-//Retourne au MENU VS.<END>
+//Character evolotion will be<LINE>
+//proper to this storyline.<END>
 
-//Retourne à l'écran de sélection de<LINE>
-//l'équipe.<END>
+//The adversary place<LINE>
+//his shot.<END>
 
-//Sauvegarder avec ces<LINE>
-//paramètres ?<END>
+//Return to match configuration<LINE>
+//screen.<END>
 
-//Sauvegarder<LINE>
-//la partie ?<END>
+//Data loading of<LINE>
+//the corrupted party...<LINE>
+//Do not turn off the console<LINE>
+//or remove the cartridge.Party<END>
 
-//Sauvegarde…<END>
+//Party save data corrupted...<LINE>
+//Do not turn off the console<LINE>
+//or remove the cartridge.<END>
 
-//Sauvegarde terminée.<END>
+//Return to VS Menu.<END>
 
-//Chargement...<END>
+//Return to team selection<LINE>
+//screen.<END>
 
-//Chargement terminé.<END>
+//cus on shots blocking and ra<END>
 
-//Écraser<LINE>
-//les données ?<END>
+//Save the<LINE>
+//party ?<END>
 
-//La partie en cours<LINE>
-//ne sera pas<LINE>
-//sauvegardée.<LINE>
-//Continuer ?<END>
+//Saving…<END>
 
-//Accéde à l'écran de sauvegarde.<END>
+//Saving is complete.<END>
 
-//Continue sans sauvegarder.<END>
+//Loading...<END>
 
-//Voir l'épilogue ?<END>
+//Loading is complete.<END>
 
-//Voir l'épilogue.<END>
+//Overwrite<LINE>
+//the data ?<END>
 
-//Passer l'épilogue.<END>
+//The current party<LINE>
+//won't be<LINE>
+//saved.<LINE>
+//Continue ?<END>
 
-//Retourner à l'écran<LINE>
-//principal ?<END>
+//Access to save screen.<END>
 
-//Interrompre<LINE>
-//la partie<LINE>
-//et retourner<LINE>
-//à l'écran titre ?<END>
+//Continue without saving.<END>
 
-//Le match ne sera pas<LINE>
-//sauvegardé.<LINE>
-//Continuer ?<END>
+//See epilogue ?<END>
+
+//See epilogue.<END>
+
+//Pass epilogue.<END>
+
+//Return to main<LINE>
+//screen ?<END>
+
+//Interrupt<LINE>
+//Party<LINE>
+//and return<LINE>
+//to main screen ?<END>
+
+//The match won't be<LINE>
+//saved.<LINE>
+//Continue ?<END>
 
