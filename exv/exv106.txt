@@ -1,8 +1,8 @@
 // FILE: exv106.str containing 2 strings
 
-//Je vais mettre un but !<END>
+//I will raise the score !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
