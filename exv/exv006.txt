@@ -1,12 +1,12 @@
 // FILE: exv006.str containing 4 strings
 
-//Izawa, Kisugi ! On y va !<END>
+//Izawa, Kisugi ! Let's Go !<END>
 
-//Admirez la force<LINE>
-//du Trio de Shutetsu !<END>
+//Admire the strength<LINE>
+//of the Shutetsu Trio !<END>
 
-//Je couvre l'aile !<END>
+//Im covering the wing !<END>
 
-//Je vais provoquer<LINE>
-//une ouverture !<END>
+//I will provoke<LINE>
+//an opening !<END>
 
