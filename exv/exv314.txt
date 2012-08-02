@@ -1,42 +1,42 @@
 // FILE: exv314.str containing 14 strings
 
-//Je dois être à la hauteur<LINE>
-//de ma réputation !<END>
+//I must be worthy<LINE>
+//of my reputation !<END>
 
-//Un seul génie suffit !<END>
+//One genius is enough !<END>
 
-//C'est ma chance !<END>
+//It's my Chance !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Après ça, ce sera fini !<END>
+//After this, it'll be over !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Regarde un peu ça !<END>
+//Look at this !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Ouais ! J'y vais !<END>
+//Yeah ! I'll go !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Pascual ! On y va !<END>
+//Pascual ! Let's go !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Je ne vais pas te simplifier<LINE>
-//la tâche !<END>
+//I won't simplfy<LINE>
+//the task !<END>
 
-//Je crois que tu rêves !<END>
+//I think you're dreaming !<END>
 
