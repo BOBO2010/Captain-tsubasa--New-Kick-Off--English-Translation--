@@ -1,375 +1,374 @@
 // FILE: ana.str containing 156 strings
 
-//Il ne peut pas l'atteindre !<END>
+//He can't reach it !<END>
 
-//Mais il ne peut pas<LINE>
-//l'atteindre !<END>
+//But he can't<LINE>
+//reach it !<END>
 
-//<NAME> ne peut pas<LINE>
-//l'atteindre !<END>
+//<NAME> can't<LINE>
+//reach it !<END>
 
-//Le ballon lui est passé<LINE>
-//entre les jambes !<END>
+//The ball passed<LINE>
+//through his legs !<END>
 
-//Il ne peut pas<LINE>
-//approcher du ballon !<END>
+//But he can't get<LINE>
+//close to the ball !<END>
 
-//Il n'a pas réussi<LINE>
-//à intercepter le ballon !<END>
+//He didn't succeed<LINE>
+//to intercept the ball !<END>
 
-//Il a dévié le ballon !<END>
+//He diverted the ball !<END>
 
-//Il a tendu sa jambe<LINE>
-//vers le ballon !<END>
+//He is trying to<LINE>
+//reach the ball !<END>
 
-//Mais il ne l'a pas eu !<END>
+//But he didn't get it !<END>
 
-//Mais il n'a pas pu l'arrêter !<END>
+//But he couldn't stop it !<END>
 
-//<NAME> ne l'a pas eu !<END>
+//<NAME> didn't get it !<END>
 
-//Personne ne peut l'arrêter !<END>
+//Nobody can stop it !<END>
 
-//<NAME> l'a vu arriver !<END>
+//<NAME> saw it coming !<END>
 
-//Il a plongé sur la trajectoire<LINE>
-//du ballon !<END>
+//He dived on the ball<LINE>
+//trajectory !<END>
 
-//Il l'a arrêté !<END>
+//He stoped it !<END>
 
-//<NAME> l'a bloqué !<END>
+//<NAME> jammed it !<END>
 
-//<NAME> a bien défendu !<END>
+//<NAME> has good defended !<END>
 
-//<NAME> a intercepté<LINE>
-//le ballon !<END>
+//<NAME> intercepted<LINE>
+//the ball !<END>
 
-//Personne n'a le ballon !<END>
+//Nobody has the ball !<END>
 
-//Le ballon va leur échapper !<END>
+//The ball will elude them !<END>
 
 //Le ballon leur a échappé !<END>
 
-//BUUUUUT !<END>
+//GOAAAAAL !<END>
 
-//Le ballon est au fond des filets !<END>
+//The ball is in the nets !<END>
 
-//But ! BUT ! BUUUUUT !<END>
+//Goal ! GOAL ! GOAAAAAL !<END>
 
-//Il a passé le ballon !<END>
+//He passed the ball !<END>
 
-//<NAME> va passer<LINE>
-//le ballon !<END>
+//<NAME> will pass<LINE>
+//the ball !<END>
 
-//<NAME> passe<LINE>
-//le ballon !<END>
+//<NAME> pass<LINE>
+//the ball !<END>
 
-//Et c'est une passe !<END>
+//And it's a pass !<END>
 
-//Il a décidé de passer<LINE>
-//le ballon !<END>
+//He decided to pass<LINE>
+//the ball !<END>
 
-//Une passe au millimètre !<END>
+//A pass so close !<END>
 
-//<NAME> passe le ballon.<END>
+//<NAME> pass the ball.<END>
 
-//Il a fait une passe longue.<END>
+//He is going for a long pass.<END>
 
-//C'est une passe longue.<END>
+//It's a long pass.<END>
 
-//<NAME> fait<LINE>
-//une passe longue !<END>
+//<NAME> make<LINE>
+//a long pass !<END>
 
-//Il va tirer !<END>
+//He's gonna shoot !<END>
 
-//Et c'est le tir !<END>
+//And it's the shoot !<END>
 
-//Est-ce que <NAME><LINE>
-//va pouvoir tirer ?<END>
+//Will <NAME> be<LINE>
+//able to shoot ?<END>
 
-//Est-ce qu'il va pouvoir tirer ?<END>
+//Will he be able to shoot ?<END>
 
-//Il se prépare à tirer<LINE>
-//de toutes ses forces !<END>
+//He's prepearing to shoot<LINE>
+//with all his strength !<END>
 
-//<NAME> vise les buts !<END>
+//<NAME> aim for the goal !<END>
 
-//C'est une occasion de tir !<END>
+//It's the occasion to shoot !<END>
 
-//<NAME> tente sa chance !<END>
+//<NAME> tries his luck !<END>
 
-//Va-t-il rentrer ?<END>
+//Will it go in ?<END>
 
-//<NAME> tire !<END>
+//<NAME> shoots !<END>
 
-//Il tire !<END>
+//He shoots !<END>
 
-//Un tir cadré au millimètre !<END>
+//A shot so close !<END>
 
-//Le ballon fonce vers les buts !<END>
+//The ball goes towards the goal !<END>
 
-//Il a tout mis dans ce tir !<END>
+//He has put everything he got<LINE>
+on this one !<END>
 
-//C'est un choc frontal !<END>
+//It's a front shock !<END>
 
-//Et c'est le choc !<END>
+//And it's a shock !<END>
 
-//Ils se sont rentrés dedans !<END>
+//They bumped into each !<END>
 
-//Le duel devient physique !<END>
+//The duel becomes physical !<END>
 
-//Ces deux-là se battent<LINE>
-//pour le ballon !<END>
+//These two battle<LINE>
+//for the ball !<END>
 
-//C'est la force contre la force !<END>
+//It's the strength against the strength !<END>
 
-//Ils s'affrontent avec la tête !<END>
+//They are battling with their heads !<END>
 
-//Ils ont l'air de niveau égal !<END>
+//They look like in an equal level !<END>
 
-//Aucun des deux<LINE>
-//ne cède de terrain !<END>
+//Neither yields the field !<END>
 
-//Ça tourne au duel de puissance !<END>
+//This si turning into a power duel !<END>
 
-//Mais il a été éjecté !<END>
+//But he got thrown away !<END>
 
-//<NAME> est éjecté !<END>
+//<NAME> is thrown away !<END>
 
-//Ouah ! Quelle puissance !<END>
+//WOW ! What a power !<END>
 
-//C'est un match de vitesse<LINE>
-//et il passe en force !<END>
+//It's a velocity match<LINE>
+//and they go in with strength !<END>
 
-//<NAME> dribble<LINE>
-//avec talent.<END>
+//<NAME> dribbles<LINE>
+//with skill.<END>
 
-//<NAME> passe la défense !<END>
+//<NAME> pass in defense !<END>
 
-//<NAME> ne peut pas<LINE>
-//bouger !<END>
+//<NAME> can't move<LINE>
 
-//Il ne pouvait pas se déplacer<LINE>
-//d'un centimètre !<END>
+//He couldn't move a centimeter !<END>
 
-//Il ne peut pas réagir !<END>
+//He can't react !<END>
 
-//<NAME> ne peut pas<LINE>
-//l'attraper !<END>
+//<NAME> Can't catch him !<END>
 
-//Il a perdu l'affrontement !<END>
+//He lost the duel !<END>
 
-//Il n'a pas pu prendre le ballon.<END>
+//He couldn't take the ball.<END>
 
-//<NAME> a pris le ballon !<END>
+//<NAME> has taken the balle !<END>
 
-//Un magnifique contrôle<LINE>
-//de ballon !<END>
+//A magnificent control<LINE>
+//of the ball !<END>
 
-//<NAME> piège le ballon !<END>
+//<NAME> trap the ball !<END>
 
-//Ils s'envolent vers le ballon<LINE>
-//tous les deux !<END>
+//They both jump up to<LINE>
+//the ball !<END>
 
-//Aucun des deux<LINE>
-//n'arrive à l'avoir.<END>
+//Neither of them<LINE>
+//arrived to have it.<END>
 
-//Aucun des deux<LINE>
-//n'a surpassé l'autre !<END>
+//Neither of them<LINE>
+//surpassed the other !<END>
 
-//Le gardien de but<LINE>
-//fait une sortie !<END>
+//The goalkick go<LINE>
+//out for the ball !<END>
 
-//<NAME> sort<LINE>
-//pour le défier !<END>
+//<NAME> challenges him !<END>
 
-//Il sort courageusement !<END>
+//He bravely go out !<END>
 
-//<NAME> a été terrassé !<END>
+//<NAME> was knocked down !<END>
 
-//<NAME> s'est fait éjecté !<END>
+//<NAME> was thrown away !<END>
 
-//Il a été violemment éjecté !<END>
+//He was badly thrown away !<END>
 
-//Il repousse le ballon<LINE>
-//d'un coup de poing !<END>
+//He pushes the ball<LINE>
+//with his fist !<END>
 
-//Il va frapper le ballon<LINE>
-//du poing !<END>
+//He is going to hit<LINE>
+//the ball with his fist !<END>
 
-//<NAME>, avec le poing !<END>
+//<NAME>, with his fist !<END>
 
-//Il va sécuriser le ballon !<END>
+//He's going to secure the ball !<END>
 
-//<NAME> va l'attraper !<END>
+//<NAME> will catch it !<END>
 
-//Le ballon va tout droit<LINE>
-//sur le gardien !<END>
+//The ball goes directly<LINE>
+//towards the goalkick !<END>
 
-//Pourra-t-il l'arrêter ?<END>
+//Will he be able to stop it ?<END>
 
-//Est-ce que <NAME><LINE>
-//va l'atteindre à temps ?<END>
+//Will <NAME> reach<LINE>
+//it in time ?<END>
 
-//Il plonge !<END>
+//He dives in !<END>
 
-//Il se fait semer !<END>
+//He got strewed !<END>
 
-//Il l'a dépassé !<END>
+//He trespassed him !<END>
 
-//Je n'arrive pas à y croire !<END>
+//I can't believe it !<END>
 
-//Le gardien a fait un bel arrêt !<END>
+//The goalkick made a nice catch !<END>
 
-//Une belle réaction du gardien !<END>
+//Nice reaction from teh goalkick !<END>
 
-//<NAME> l'a arrêté !<END>
+//<NAME> Stopped it !<END>
 
-//Il a été éjecté !<END>
+//He got thrown away !<END>
 
-//Il tente de l'arrêter de force !<END>
+//He's trying to stop it by force !<END>
 
-//Il a beaucoup donné<LINE>
-//sur cette action !<END>
+//He gave a lot<LINE>
+//for this action !<END>
 
-//Il a commis une faute !<END>
+//He made a fault !<END>
 
-//C'est une faute !<END>
+//It's a fault !<END>
 
-//Il y a hors-jeu !<END>
+//It's an offside !<END>
 
-//Ils sont hors-jeu !<END>
+//They are offside !<END>
 
-//Le match va reprendre<LINE>
-//avec un coup franc.<END>
+//The match will resume<LINE>
+//with a free kick.<END>
 
-//C'est une touche.<END>
+//It's a side throw.<END>
 
-//Le match va reprendre<LINE>
-//avec un corner.<END>
+//The match will resume<LINE>
+//with a corner kick.<END>
 
-//Le match continue<LINE>
-//avec un penalty.<END>
+//The match resumes<LINE>
+//with a penalty kick.<END>
 
-//Le match a repris !<END>
+//The match resumes !<END>
 
-//Et c'est le coup d'envoi !<END>
+//And it's the kick-off !<END>
 
-//Début de la seconde mi-temps.<END>
+//Beginning of the second half.<END>
 
-//La seconde mi-temps a commencé.<END>
+//The second half has began.<END>
 
-//Coup d'envoi<LINE>
-//de la seconde mi-temps.<END>
+//Kick-Off<LINE>
+//of the second half.<END>
 
-//On commence les prolongations !<END>
+//We begin the over time !<END>
 
-//Coup d'envoi<LINE>
-//des prolongations !<END>
+//Kick-Off<LINE>
+//for the over time !<END>
 
-//Le match reprend !<END>
+//The match resumes !<END>
 
-//Ils se reprennent<LINE>
-//et passent à l'attaque !<END>
+//They resume<LINE>
+//an pass to attack !<END>
 
-//Ils ont trouvé le bon rythme !<END>
+//They found a good rhythm !<END>
 
-//Fin de la première mi-temps.<END>
+//End of the first half.<END>
 
-//La première mi-temps<LINE>
-//est terminée !<END>
+//The first half<LINE>
+//is over !<END>
 
-//Le match va se poursuivre<LINE>
-//dans les prolongations !<END>
+//The match will continue<LINE>
+//in the over time !<END>
 
-//Il va y avoir<LINE>
-//des prolongations !<END>
+//There will be<LINE>
+//over time !<END>
 
-//Le match est terminé !<END>
+//The match is over !<END>
 
-//L'arbitre siffle<LINE>
-//la fin du match !<END>
+//The referee blows<LINE>
+//the final whistle !<END>
 
-//C'est une victoire écrasante !<END>
+//It's an overwhelming<LINE>
+//victory !<END>
 
-//Ils ont remporté le match !<END>
+//They won the match !<END>
 
-//Ils ont gagné !<END>
+//They won !<END>
 
-//Il n'y aura pas de vainqueur,<LINE>
-//c'est un match nul.<END>
+//There will be no winner,<LINE>
+//it's a draw.<END>
 
-//Malheureusement la victoire<LINE>
-//leur a échappé !<END>
+//Sadly the victory slipped<LINE>
+//trough their fingers !<END>
 
-//C'est une défaite totale !<END>
+//It's a total defeat !<END>
 
-//Comment vont-ils construire<LINE>
-//leur attaque ?<END>
+//How will they build<LINE>
+//their attack ?<END>
 
-//Quelle stratégie offensive<LINE>
-//vont-ils appliquer ?<END>
+//Which offensive strategy<LINE>
+//will they apply ?<END>
 
-//Peuvent-ils faire remonter<LINE>
-//le ballon vers l'avant ?<END>
+//Can they take the ball<LINE>
+//forward ?<END>
 
-//Que vont-ils faire<LINE>
-//de ce ballon ?<END>
+//What will they<LINE>
+//do with ball?<END>
 
-//Déjà 5 minutes d'écoulées.<END>
+//5 minutes passed already.<END>
 
-//Fin du premier quart d'heure<LINE>
-//de la première mi-temps.<END>
+//End of the first 15 minutes<LINE>
+//in the first half.<END>
 
-//Fin du premier quart d'heure<LINE>
-//de la seconde mi-temps.<END>
+//End of the first 15 minutes<LINE>
+//in the second half.<END>
 
-//Plus que 5 minutes.<END>
+//Only 5 minutes left.<END>
 
-//Ils font remonter le ballon<LINE>
-//sur l'aile.<END>
+//They are taking the ball<LINE>
+//by the wing.<END>
 
-//Ils attaquent par l'aile.<END>
+//They are attacking<LINE>
+//by the wing.<END>
 
-//Quelle démonstration<LINE>
-//de puissance écrasante !<END>
+//What a crushing<LINE>
+//power demonstration !<END>
 
-//Vont-ils continuer<LINE>
-//à creuser l'écart ?<END>
+//Will they continue<LINE>
+//widening the gap ?<END>
 
-//Les deux équipes font jeu égal !<END>
+//The match ended up<LINE>
+//in a tie !<END>
 
-//Réussiront-ils à remonter ?<END>
+//Will they go back up ?<END>
 
-//Il ne reste presque plus<LINE>
-//de temps de jeu !<END>
+//The game time is<LINE>
+//almost over !<END>
 
-//Ce sont les arrêts de jeu.<LINE>
-//Est-ce la dernière attaque ?<END>
+//It's almost over.<LINE>
+//Is this the final attack ?<END>
 
-//La balle change de camp.<END>
+//The ball changes sides.<END>
 
-//Le match reprend avec une remise<LINE>
-//en jeu du gardien.<END>
+//The match resumes with a<LINE>
+//goalkick throw.<END>
 
-//Il y va tout seul !<END>
+//He's going in alone !<END>
 
-//Les buts sont<LINE>
-//à distance de tir !<END>
+//The goal is at a<LINE>
+//shooting distance !<END>
 
-//Il lui prend le ballon,<LINE>
-//les rôles sont inversés !<END>
+//He takes the ball,<LINE>
+//the tables are turned !<END>
 
-//Pourront-ils renverser<LINE>
-//la tendance ?<END>
+//Can they reverse<LINE>
+//the trend ?<END>
 
-//Il a le ballon !<END>
+//He has the ball !<END>
 
-//Il remonte le terrain<LINE>
-//tout seul !<END>
+//He's going up the<LINE>
+//firld alone !<END>
 
-//Il reste imperturbable<LINE>
-//et continue à dribbler.<END>
+//He remains undeterred<LINE>
+//and continue dribbling.<END>
 
-//Il y va en solitaire !<END>
+//He goes in alone !<END>
 
