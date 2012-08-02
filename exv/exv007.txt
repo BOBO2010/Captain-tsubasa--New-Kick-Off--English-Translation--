@@ -1,20 +1,20 @@
 // FILE: exv007.str containing 6 strings
 
-//Taki, Kisugi ! En avant !<END>
+//Taki, Kisugi ! Forward !<END>
 
-//Montrons-leur comment le Trio<LINE>
-//de Shutetsu monte le ballon.<END>
+//Let's show them how the<LINE>
+//Shutetsu trio forward the ball.<END>
 
-//Je dois marquer cette fois !<END>
+//I have to score this time !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Pour les têtes,<LINE>
-//je suis imbattable !<END>
+//when it is involving<LINE>
+//heads, i am unbeatable !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
