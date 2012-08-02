@@ -2,31 +2,31 @@
 
 //Skylab hurricane !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Voici notre Twin shoot !<END>
+//Here is our Twin shoot !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Jito ! On y va !<END>
+//Jito ! Let's go !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Tiens, Masao !<END>
+//here you go, Masao !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Allez !<END>
+//Come on !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
