@@ -1,24 +1,24 @@
 // FILE: exv039.str containing 8 strings
 
-//Passe en rasoir !<END>
+//Razor Pass !<END>
 
-//Ouais ! C'est parti !<END>
+//Yeah ! Here we go !<END>
 
-//Allez, Tir en rasoir !<END>
+//Come on, Razor Shoot !<END>
 
-//Mon Tir en rasoir est<LINE>
-//super affûté !<END>
+//My Razor Shoot is<LINE>
+//super sharpened !<END>
 
-//Arrête de rêvasser !<END>
+//Stop day-dreaming !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Tu vas me dire des nouvelles<LINE>
-//de mon Tacle en rasoir !<END>
+//You will tell me some news<LINE>
+//over my Razor Tackle !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
