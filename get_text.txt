@@ -1,16 +1,14 @@
 // FILE: get_text.str containing 6 strings
 
-//Joueur obtenu.<END>
+//Player recieved.<END>
 
-//Coup spécial maîtrisé.<END>
+//Special move mastered.<END>
 
-//Objet obtenu.<END>
+//.Obtained object.<END>
 
-//Équipe obtenue pour le MODE VS.<END>
+//Unlocked team in VS MODE.<END>
 
-//Une nouvelle histoire<LINE>
-//a été débloquée.<END>
+//A new Episode has been unlocked.<END>
 
-//Un adversaire a été ajouté<LINE>
-//à l'histoire Nankatsu.<END>
+//An adversary has been added to "Nankatsu"'s Episode.<END>
 
