@@ -1,10 +1,10 @@
 // FILE: exv325.str containing 4 strings
 
-//Viens, Pierre !<END>
+//Come, Pierre !<END>
 
-//Attaque Eiffel !<END>
+//Eiffel Attack !<END>
 
-//Ce but est pour moi !<END>
+//This goal is mine !<END>
 
-//Et voici mon Canon shoot !<END>
+//And here is my Canon shoot !<END>
 
