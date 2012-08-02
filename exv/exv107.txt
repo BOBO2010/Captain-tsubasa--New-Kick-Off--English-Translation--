@@ -1,49 +1,49 @@
 // FILE: exv107.str containing 16 strings
 
-//J'ai quelque chose pour toi !<END>
+//I have something for you !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Fonce, Takeshi !<END>
+//Go, Takeshi !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Je ne te laisserai pas<LINE>
-//me barrer la route !<END>
+//I won't let you<LINE>
+//block my way !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
 //Tiger shot !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Voici mon vrai Tiger shot !<END>
+//This is my true Tiger shot !<END>
 
 //Neo tiger shot !<END>
 
-//Tsubasa ! Allons-y !<END>
+//Tsubasa ! Let's go !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Maintenant, Takeshi !<END>
+//Now, Takeshi !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
-//Tu ne me passeras pas !<END>
+//You won't trespass me !<END>
 
-//Retour à<LINE>
-//Sélection de mode.<LINE>
-//Continuer ?<END>
+//Returning to<LINE>
+//Mode Selection.<LINE>
+//Continue ?<END>
 
