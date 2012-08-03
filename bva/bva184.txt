@@ -10,7 +10,7 @@
 
 //Admire the show !<END>
 
-//Oui, allez !<END>
+//Yes, Come on !<END>
 
 //Let me pass !<END>
 
@@ -63,7 +63,7 @@
 
 //This is for you !<END>
 
-//Allez, on se bouge !<END>
+//Come on, let's move it !<END>
 
 //I have to have it !<END>
 
@@ -73,9 +73,9 @@
 
 //You won't have it !<END>
 
-//Pas question de prendre un but !<END>
+//No way we're taking a goal !<END>
 
-//Je ne te laisserai pas tirer !<END>
+//I won't let you shoot !<END>
 
 //Aaaarrrrgh !<END>
 
@@ -88,7 +88,7 @@
 
 //Take this !<END>
 
-//Tu crois pouvoir me passer ?<END>
+//You think you can trespass me ?<END>
 
 //Aaaarrrrgh !<END>
 
