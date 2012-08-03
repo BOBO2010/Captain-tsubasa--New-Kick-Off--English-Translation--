@@ -37,7 +37,7 @@
 
 //I got it !<END>
 
-//Je l'arrêterai !<END>
+//I will stop him !<END>
 
 //Bring yourself !<END>
 
@@ -93,13 +93,13 @@
 
 //Aaaarrrrgh !<END>
 
-//Pas question de les laisser<LINE>
-//marquer une fois de plus !<END>
+//No way we're letting<LINE>
+//them score any more !<END>
 
 //Yaaaah !<END>
 
-//Tu ne marqueras pas<LINE>
-//si facilement !<END>
+//You won't score<LINE>
+//taht easy !<END>
 
 //Yes !<END>
 
