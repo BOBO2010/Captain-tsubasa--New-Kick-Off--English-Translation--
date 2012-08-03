@@ -8,7 +8,7 @@
 
 //Take !<END>
 
-//C'est parti !<END>
+//Here we go !<END>
 
 //Come on !<END>
 
@@ -55,7 +55,7 @@
 
 //No !<END>
 
-//C'est bon, je l'ai !<END>
+//It's ok, i got it !<END>
 
 //Take this !<END>
 
