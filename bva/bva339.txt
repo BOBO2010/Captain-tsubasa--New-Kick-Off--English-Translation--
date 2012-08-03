@@ -6,11 +6,11 @@
 
 //Admire the work !<END>
 
-//Maintenant ! Allez !<END>
+//Now ! Come on !<END>
 
 //Admire the show !<END>
 
-//Et c'est parti !<END>
+//Here we go !<END>
 
 //Let me pass !<END>
 
@@ -61,13 +61,13 @@
 
 //Aaaarrrrgh !<END>
 
-//Finis le boulot !<END>
+//Finish the job !<END>
 
 //Admire the show !<END>
 
 //I have to have it !<END>
 
-//Dégage !<END>
+//Out of my way !<END>
 
 //Yes !<END>
 
@@ -109,5 +109,5 @@
 
 //Grrr....<END>
 
-//Quoi ?<END>
+//What ?<END>
 
