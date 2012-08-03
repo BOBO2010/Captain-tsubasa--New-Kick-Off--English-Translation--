@@ -1,73 +1,73 @@
 // FILE: bva009.str containing 54 strings
 
-//Allez !<END>
+//Come on !<END>
 
-//Prépare-toi !<END>
+//Get ready !<END>
 
-//Admire le travail !<END>
+//Admire the work !<END>
 
-//Tiens !<END>
+//Take !<END>
 
-//OK, attrape !<END>
+//Alright, catch !<END>
 
-//Allez !<END>
+//Come on !<END>
 
-//Laisse-moi passer !<END>
+//Let me pass !<END>
 
-//Je dois faire remonter le ballon<LINE>
-//tout seul.<END>
+//I have to take the ball forward<LINE>
+//alone.<END>
 
-//Amène-toi !<END>
+//Bring yourself !<END>
 
-//Je ne le laisserai pas entrer !<END>
+//I won't let him in !<END>
 
-//Oh non, tu rêves !<END>
+//Oh no, you're dreaming !<END>
 
-//Admire le spectacle !<END>
+//Admire the show !<END>
 
-//C'est fini !<END>
+//It's over !<END>
 
-//Admire le spectacle !<END>
+//Admire the show !<END>
 
-//Je l'ai !<END>
+//I have it !<END>
 
-//Prépare-toi !<END>
+//Get ready !<END>
 
-//Je ne laisserai pas ça<LINE>
-//arriver !<END>
+//I won't let it<LINE>
+//happen !<END>
 
-//Je l'ai !<END>
+//I got it !<END>
 
-//je dois l'arrêter !<END>
+//I have to stop it !<END>
 
-//C'est fini !<END>
+//It's over !<END>
 
-//Je vais l'arrêter !<END>
+//I will stop it !<END>
 
-//Oui !<END>
+//Yes !<END>
 
 //Cool !<END>
 
-//Qu'est-ce que tu dis de ça ?<END>
+//What do you say of this ?<END>
 
 //Oh...<END>
 
 //!!!<END>
 
-//Non !<END>
+//No !<END>
 
-//Je m'en occupe !<END>
+//I'm taking care of that !<END>
 
-//Prends ça !<END>
+//Take this !<END>
 
 //Aaaarrrrgh !<END>
 
-//Je compte sur toi !<END>
+//I'm Counting on you !<END>
 
-//Admire le spectacle !<END>
+//Admire the show !<END>
 
-//Je dois l'avoir !<END>
-
+//I have to have it !<END>
+----------------------------------->here
 //Tu ne m'arrêteras pas !<END>
 
 //Oui !<END>
