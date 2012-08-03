@@ -67,42 +67,42 @@
 //Admire the show !<END>
 
 //I have to have it !<END>
------------------------------------>here
-//Tu ne m'arrêteras pas !<END>
 
-//Oui !<END>
+//You won't stop me !<END>
 
-//Arrête-moi si tu peux !<END>
+//Yes !<END>
 
-//Tu ne tireras pas !<END>
+//Stop me if you can !<END>
 
-//Je ne laisserai pas ça<LINE>
-//arriver !<END>
+//You won't shoot !<END>
 
-//Aaaarrrrgh !<END>
-
-//Je ne laisserai pas ça<LINE>
-//arriver !<END>
-
-//Je dois l'avoir !<END>
-
-//je dois l'arrêter !<END>
-
-//Prends ça !<END>
-
-//Tu n'iras pas plus loin !<END>
+//I won't let this<LINE>
+//happen !<END>
 
 //Aaaarrrrgh !<END>
 
-//je dois l'arrêter !<END>
+//I won't let this<LINE>
+//happen !<END>
 
-//Je ne le laisserai pas entrer !<END>
+//I have to have it !<END>
+
+//I have to stop him !<END>
+
+//Take this !<END>
+
+//You won't go any further !<END>
 
 //Aaaarrrrgh !<END>
 
-//Oui !<END>
+//I have to stop him !<END>
 
-//J'ai réussi !<END>
+//I won't let him in !<END>
+
+//Aaaarrrrgh !<END>
+
+//Yes !<END>
+
+//I made it !<END>
 
 //Ah !<END>
 
@@ -110,5 +110,5 @@
 
 //Grrr....<END>
 
-//Quoi ? C'est pas vrai...<END>
+//What ? That's Impossible...<END>
 
