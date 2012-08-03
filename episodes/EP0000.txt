@@ -4,20 +4,20 @@
 //The tournament brings together 104 teams<LINE>
 //from schools in Shizuoka prefecture<LINE>
 //will begin!<LINE>
-//Which school will come out halo of glory<LINE>
-//this year?<LINE>
+//Which school will come out haloed of<LINE>
+//glory this year?<LINE>
 <END>
 
-//At the top of the list of favorites,<LINE>
-//there are the defending champions,<LINE>
+//At the top of the favourites' list,<LINE>
+//we find the defending champions,<LINE>
 //Nankatsu Junior High School!<END>
 
-//Nankatsu did not lose a single game<LINE>
+//Nankatsu haven't lose a single game<LINE>
 //since Tsubasa, their young captain,<LINE>
 //joined their school!<END>
 
-//And this team managed to win<LINE>
-//the national tournament two years in a row!<END>
+//And this team managed to win the<LINE>
+//national tournament two years in a row!<END>
 
 //It will surely face<LINE>
 //Team Otomo, who showed<LINE>
@@ -27,46 +27,44 @@
 //Ishizaki, we will take<LINE>
 //this year's winners' flag.<END>
 
-//What a joke !<LINE>
-//You think we'll lose to you?<END>
+//What a joke!<LINE>
+//You think we'll lose against you?<END>
 
-//OK, one has to bet!<LINE>
-//The losing team will have to<LINE>
-//opey the winning team.<END>
+//OK, how about a bet?<LINE>
+//The losing team will have to do<LINE>
+//whatever the winning team says.<END>
 
 //Oh yeah? It'll be fun!<LINE>
 //We accept the challenge!<END>
 
-//Il va falloir que vous alliez<LINE>
-//jusqu'en finale !<LINE>
-//Nous vous y attendrons pour vous écraser !<END>
+//You'll have to go to the finals.<LINE>
+//We'll be waiting for you to crush you !<END>
 
-//*sourire*<END>
+//*smiles*<END>
 
-//Quoi ?!<END>
+//What ?!<END>
 
-//Un sourire confiant, hein ?<LINE>
-//Votre défaite en finale te le fera perdre !<LINE>
-//On va vous battre !<LINE>
-//Tu vas voir, Tsubasa Ozora !<END>
+//A confident smile, hein ?<LINE>
+//Your defeat will make you lose it !<LINE>
+//We will crush you !<LINE>
+//Mark my words, Tsubasa Ozora !<END>
 
-//Hé, Tsubasa. Un message de Wakabayashi<LINE>
-//est arrivé ce matin.<END>
+//Hey, Tsubasa. A message From Wakabayashi<LINE>
+//arrived this morning.<END>
 
 //Hein ? Wa-Wakabayashi ?<END>
 
-//Quoi ?<END>
+//What ?<END>
 
-//Un message de soutien depuis l'Allemagne.<LINE>
-//Il nous souhaite bonne chance<LINE>
-//et espère que nous serons les champions<LINE>
-//nationaux.<END>
+//A support message all the way from Germany.<LINE>
+//He wish us good luck<LINE>
+//and hope we'll come out National Champions.<END>
 
 //Wakabayashi...<END>
 
-//Wakabayashi pense à nous...<END>
+//Wakabayashi's thinking about us...<END>
 
-//Nous allons le faire, Wakabayashi !<LINE>
-//Nous allons remporter<LINE>
-//notre troisième titre national d'affilée !<END>
+//We'll do it, Wakabayashi!<LINE>
+//We'll take the flag<LINE>
+//for the third year in a row!<END>
 
