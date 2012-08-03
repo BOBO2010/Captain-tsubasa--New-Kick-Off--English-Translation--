@@ -73,8 +73,7 @@
 
 //You won't have it !<END>
 
-//Je ne peux pas<LINE>
-//te laisser marquer !<END>
+//I can't let you score !<END>
 
 //I won't let this<LINE>
 //happen !<END>
