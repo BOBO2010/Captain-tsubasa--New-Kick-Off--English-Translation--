@@ -20,7 +20,7 @@
 
 //I won't let him in !<END>
 
-//Oh non, tu rêves !<END>
+//Oh no, you're dreaming !<END>
 
 //Admire the show !<END>
 
@@ -85,7 +85,7 @@
 
 //I have to have it !<END>
 
-//Il faut que je l'arrête !<END>
+//I have to stop him !<END>
 
 //Take this !<END>
 
@@ -109,5 +109,5 @@
 
 //Grrr....<END>
 
-//Quoi ? C'est pas vrai...<END>
+//What ? That's Impossible...<END>
 
