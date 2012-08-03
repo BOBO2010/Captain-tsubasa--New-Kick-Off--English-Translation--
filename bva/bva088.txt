@@ -4,7 +4,7 @@
 
 //Get ready !<END>
 
-//C'est bon, je l'ai !<END>
+//It's OK, i got it !<END>
 
 //Take !<END>
 
@@ -14,8 +14,8 @@
 
 //Let me pass !<END>
 
-//Je ne peux pas te laisser<LINE>
-//m'arrêter ici.<END>
+//I can't let you<LINE>
+//stop me here.<END>
 
 //Bring yourself !<END>
 
@@ -64,24 +64,24 @@
 
 //This is for you !<END>
 
-//C'est à toi de jouer !<END>
+//It's your turn to play !<END>
 
 //I have to have it !<END>
 
-//Tu ne peux pas m'arrêter !<END>
+//You can't stop me !<END>
 
 //Yes !<END>
 
 //You won't have it !<END>
 
-//Pas question<LINE>
-//que je te laisse tirer !<END>
+//No way<LINE>
+//i'm letting you shoot !<END>
 
-//Je crois que tu rêves !<END>
+//I think you're dreaming !<END>
 
 //Aaaarrrrgh !<END>
 
-//Je crois que tu rêves !<END>
+//I think you're dreaming !<END>
 
 //I have to have it !<END>
 
@@ -89,7 +89,7 @@
 
 //Take this !<END>
 
-//Je t'arrêterai !<END>
+//I will stop you !<END>
 
 //Aaaarrrrgh !<END>
 
