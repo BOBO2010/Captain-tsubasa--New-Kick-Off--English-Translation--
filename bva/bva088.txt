@@ -1,78 +1,78 @@
 // FILE: bva088.str containing 54 strings
 
-//Allez !<END>
+//Come on !<END>
 
-//Prépare-toi !<END>
+//Get ready !<END>
 
 //C'est bon, je l'ai !<END>
 
-//Tiens !<END>
+//Take !<END>
 
-//Admire le spectacle !<END>
+//Admire the show !<END>
 
-//Allez !<END>
+//Come on !<END>
 
-//Laisse-moi passer !<END>
+//Let me pass !<END>
 
 //Je ne peux pas te laisser<LINE>
 //m'arrêter ici.<END>
 
-//Amène-toi !<END>
+//Bring yourself !<END>
 
-//Je ne le laisserai pas entrer !<END>
+//I won't let him in !<END>
 
 //Oh non, tu rêves !<END>
 
-//Admire le spectacle !<END>
+//Admire the show !<END>
 
-//C'est fini !<END>
+//It's over !<END>
 
-//Admire le spectacle !<END>
+//Admire the show !<END>
 
-//Je l'ai !<END>
+//I got it !<END>
 
-//Prépare-toi !<END>
+//Get ready !<END>
 
-//Je ne laisserai pas ça<LINE>
-//arriver !<END>
+//I won't let this<LINE>
+//happen !<END>
 
-//Je l'ai !<END>
+//I got it !<END>
 
-//je dois l'arrêter !<END>
+//I have to stop it !<END>
 
-//C'est fini !<END>
+//It's over !<END>
 
-//Je vais l'arrêter !<END>
+//I will stop it !<END>
 
-//Oui !<END>
+//Yes !<END>
 
 //Cool !<END>
 
-//Qu'est-ce que tu dis de ça ?<END>
+//What do you say of this ?<END>
 
 //Oh...<END>
 
 //!!!<END>
 
-//Non !<END>
+//No !<END>
 
-//Je l'ai !<END>
+//I got it !<END>
 
-//Prends ça !<END>
+//Take this !<END>
 
 //Aaaarrrrgh !<END>
 
-//C'est pour toi !<END>
+//This is for you !<END>
 
 //C'est à toi de jouer !<END>
 
-//Je dois l'avoir !<END>
+//I have to have it !<END>
 
 //Tu ne peux pas m'arrêter !<END>
 
-//Oui !<END>
+//Yes !<END>
 
-//Tu ne l'auras pas !<END>
+//You won't have it !<END>
 
 //Pas question<LINE>
 //que je te laisse tirer !<END>
@@ -83,25 +83,25 @@
 
 //Je crois que tu rêves !<END>
 
-//Je dois l'avoir !<END>
+//I have to have it !<END>
 
-//je dois l'arrêter !<END>
+//I have to stop it !<END>
 
-//Prends ça !<END>
+//Take this !<END>
 
 //Je t'arrêterai !<END>
 
 //Aaaarrrrgh !<END>
 
-//je dois l'arrêter !<END>
+//I have to stop it !<END>
 
-//Je ne le laisserai pas entrer !<END>
+//I won't let him in !<END>
 
 //Aaaarrrrgh !<END>
 
-//Oui !<END>
+//Yes !<END>
 
-//J'ai réussi !<END>
+//I did it !<END>
 
 //Ah !<END>
 
