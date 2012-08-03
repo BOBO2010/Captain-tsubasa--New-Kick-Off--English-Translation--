@@ -8,11 +8,11 @@
 
 //Take !<END>
 
-//Allez, j'y vais !<END>
+//Alright, i'm going in !<END>
 
 //Come on !<END>
 
-//Viens te battre !<END>
+//Come to battle !<END>
 
 //Admire the work !<END>
 
@@ -67,13 +67,13 @@
 
 //I have to have it !<END>
 
-//Viens te battre !<END>
+//Come to battle !<END>
 
 //Yes !<END>
 
 //You won't have it !<END>
 
-//Je t'en empêcherai !<END>
+//I'll stop you !<END>
 
 //I won't let this<LINE>
 //happen !<END>
@@ -89,7 +89,7 @@
 
 //Take this !<END>
 
-//Je t'en empêcherai !<END>
+//I'll stop you !<END>
 
 //Aaaarrrrgh !<END>
 
@@ -105,7 +105,7 @@
 
 //Ah !<END>
 
-//Pas possible<END>
+//Not possible<END>
 
 //Grrr....<END>
 
