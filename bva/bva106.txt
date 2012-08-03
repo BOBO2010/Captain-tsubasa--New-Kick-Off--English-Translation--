@@ -4,7 +4,7 @@
 
 //Get ready !<END>
 
-//C'est bon, je l'ai !<END>
+//It's OK, i got it !<END>
 
 //Take !<END>
 
