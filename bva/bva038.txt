@@ -20,7 +20,7 @@
 
 //I won't let him in !<END>
 
-//Oh non, tu rêves !<END>
+//Oh no, you're dreaming !<END>
 
 //Admire the show !<END>
 
@@ -110,5 +110,5 @@
 
 //Grrr....<END>
 
-//Quoi ? C'est pas vrai...<END>
+//What ? That's impossible...<END>
 

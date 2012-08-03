@@ -4,7 +4,7 @@
 
 //Get ready !<END>
 
-//Prenez ça !<END>
+//Take this !<END>
 
 //Take !<END>
 
@@ -20,7 +20,7 @@
 
 //I won't let him in !<END>
 
-//Oh non, tu rêves !<END>
+//Oh no, you're dreaming !<END>
 
 //Admire the show !<END>
 
@@ -67,7 +67,7 @@
 
 //I have to have it !<END>
 
-//Ne me sous-estime pas !<END>
+//Don't underestimate me !<END>
 
 //Allez, j'y vais !<END>
 
@@ -109,5 +109,5 @@
 
 //Grrr....<END>
 
-//Quoi ? C'est pas vrai...<END>
+//What ? That's impossible...<END>
 
