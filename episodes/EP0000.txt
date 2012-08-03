@@ -1,41 +1,41 @@
 // FILE: EP0000.str containing 20 strings
 
-//Le grand moment est enfin arrivé !<LINE>
-//Le tournoi réunissant 104 équipes venues<LINE>
-//des écoles de la préfecture de Shizuoka<LINE>
-//va commencer !<LINE>
-//Quelle école en sortira auréolée de gloire<LINE>
-//cette année ?<LINE>
+//The big moment has finally arrived!<LINE>
+//The tournament brings together 104 teams<LINE>
+//from schools in Shizuoka prefecture<LINE>
+//will begin!<LINE>
+//Which school will come out halo of glory<LINE>
+//this year?<LINE>
 <END>
 
-//En haut de la liste des favoris,<LINE>
-//on retrouve les champions en titre,<LINE>
-//Nankatsu Junior High School !<END>
+//At the top of the list of favorites,<LINE>
+//there are the defending champions,<LINE>
+//Nankatsu Junior High School!<END>
 
-//Nankatsu n'a pas perdu un seul match<LINE>
-//depuis que Tsubasa, leur jeune capitaine,<LINE>
-//a rejoint leur école !<END>
+//Nankatsu did not lose a single game<LINE>
+//since Tsubasa, their young captain,<LINE>
+//joined their school!<END>
 
-//Et cette équipe a réussi à gagner<LINE>
-//le tournoi national deux années d'affilée !<END>
+//And this team managed to win<LINE>
+//the national tournament two years in a row!<END>
 
-//Elle aura sûrement à affronter<LINE>
-//l'équipe d'Otomo, qui a montré<LINE>
-//son potentiel cette année,<LINE>
-//et qui fait jeu égal avec Nankatsu.<END>
+//It will surely face<LINE>
+//Team Otomo, who showed<LINE>
+//his potential this year,<LINE>
+//And that does equal game with Nankatsu.<END>
 
-//Ishizaki, nous allons vous prendre<LINE>
-//cette année votre drapeau de vainqueurs.<END>
+//Ishizaki, we will take<LINE>
+//this year's winners' flag.<END>
 
-//Quelle bonne blague !<LINE>
-//Tu crois qu'on va perdre face à vous ?<END>
+//What a joke !<LINE>
+//You think we'll lose to you?<END>
 
-//OK, on n'a qu'à parier !<LINE>
-//L'équipe perdante devra faire<LINE>
-//tout ce que demandera l'équipe gagnante.<END>
+//OK, one has to bet!<LINE>
+//The losing team will have to<LINE>
+//opey the winning team.<END>
 
-//Ah ouais ? Ça sera marrant !<LINE>
-//Nous acceptons le défi !<END>
+//Oh yeah? It'll be fun!<LINE>
+//We accept the challenge!<END>
 
 //Il va falloir que vous alliez<LINE>
 //jusqu'en finale !<LINE>
