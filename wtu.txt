@@ -1,83 +1,81 @@
 // FILE: wtu.str containing 25 strings
 
-//Erreur de communication.<END>
+//Communication error.<END>
 
 //DUMMY_F<END>
 
 //DUMMY_F<END>
 
-//Définit les équipes.<LINE>
-//Sélectionner les joueurs<LINE>
-//avec haut/bas de la manette +<LINE>
-//et attribuer à une équipe<LINE>
-//avec gauche/droit de la manette +.<LINE>
-//Désigner le chef de l'équipe<LINE>
-//avec le bouton Y.<LINE>
-//Les données de sauvegarde du chef<LINE>
-//seront utilisées.<END>
+//Define the teams.<LINE>
+//Select the players<LINE>
+//using up/down of the joystick +<LINE>
+//and attribute using left/right<LINE>
+//of the joystick + to a team.<LINE>
+//Design the team leader<LINE>
+//using Y button.<LINE>
+//The save data of the leader<LINE>
+//will be used.<END>
 
-//Choisissez la sauvegarde à utiliser.<END>
+//Chose the save to use.<END>
 
-//Veuillez choisir <LINE>
-//votre équipe.<END>
+//Please pick <LINE>
+//your team.<END>
 
-//Veuillez définir les règles.<END>
+//Please define the rules.<END>
 
-//Veuillez définir le handicap.<END>
+//Please define the handicap.<END>
 
-//Joue contre un adversaire IA.<END>
+//Play against an AI adversary.<END>
 
-//Joue contre un autre joueur.<END>
+//Play against another player.<END>
 
-//Sauvegarde les données d'ami.<END>
+//Save the friend data.<END>
 
-//Communication<LINE>
-//en cours...<LINE>
-//Veuillez patienter.<END>
+//Connecting...<LINE>
+//Please wait.<END>
 
-//L'autre joueur est<LINE>
-//occupé. Veuillez<LINE>
-//patienter.<END>
+//The other player<LINE>
+//is occupied. please<LINE>
+//wait.<END>
 
-//Sauvegarde<LINE>
-//des données...<LINE>
-//Veuillez patienter.<END>
+//Saving Data...<LINE>
+//Please wait.<END>
 
-//Veuillez patienter.<END>
+//Please wait.<END>
 
-//Arrêter le VS et<LINE>
-//retourner au menu.<END>
+//Stop the VS and<LINE>
+//return to menu.<END>
 
-//Arrêter l'échange<LINE>
-//et retourner au<LINE>
+//Stop the exchange<LINE>
+//and return to<LINE>
 //menu.<END>
 
-//Rejoint une session.<END>
+//Joined a session.<END>
 
-//Crée une partie VS.<END>
+//Create a VS party.<END>
 
-//Recherche de joueurs…<LINE>
-//Il faut 2 joueurs minimum<LINE>
-//pour commencer la partie.<END>
+//Researching players…<LINE>
+//There has to be 2 players<LINE>
+//minimum to start a party.<END>
 
-//Accès à la partie…<LINE>
-//Veuillez patienter<LINE>
-//jusqu'à ce qu'elle débute.<END>
+//Accessing the party…<LINE>
+//Please wait<LINE>
+//until it starts.<END>
 
-//L'adversaire<LINE>
-//sélectionne<LINE>
-//son équipe.<END>
+//The adversary<LINE>
+//select<LINE>
+//his team.<END>
 
-//Jouer avec<LINE>
-//cette équipe ?<END>
+//Play with<LINE>
+//this team ?<END>
 
-//Une équipe a plus<LINE>
-//de 3 joueurs. Il<LINE>
-//faut maximum 2<LINE>
-//joueurs par équipe.<END>
+//A team has more<LINE>
+//than 3 players. It<LINE>
+//has to be max 2<LINE>
+//players per team.<END>
 
-//Impossible<LINE>
-//d'enregistrer.<LINE>
-//Vérifiez vos<LINE>
-//listes d'amis.<END>
+//Could not<LINE>
+//register.<LINE>
+//Verify your<LINE>
+//friends' list.<END>
 
