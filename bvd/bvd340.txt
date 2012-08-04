@@ -1,34 +1,34 @@
 // FILE: bvd340.str containing 54 strings
 
-//Fonce !<END>
+//Go !<END>
 
-//Il arrive !<END>
+//He's coming !<END>
 
 //Arrrrgh !<END>
 
-//Tiens !<END>
+//Take !<END>
 
 //Attrape ça !<END>
 
-//Fonce !<END>
+//Go !<END>
 
-//Laisse-moi passer !<END>
+//Let me pass !<END>
 
 //Admire le travail !<END>
 
-//Amène-toi !<END>
+//Bring yourself !<END>
 
 //Dans tes rêves !<END>
 
-//Tu ne me passeras pas !<END>
+//You won't trespass me !<END>
 
-//Admire le spectacle !<END>
+//Admire the show !<END>
 
-//C'est fini !<END>
+//It's over !<END>
 
-//Admire le spectacle !<END>
+//Admire the show !<END>
 
-//Je l'ai !<END>
+//I got it !<END>
 
 //C'est bon !<END>
 
@@ -37,9 +37,9 @@
 
 //Arrrrgh !<END>
 
-//Je l'ai !<END>
+//I got it !<END>
 
-//Amène-toi !<END>
+//Bring yourself !<END>
 
 //Je ne te laisserai pas passer !<END>
 
@@ -47,31 +47,31 @@
 
 //Cool !<END>
 
-//Qu'est-ce que tu dis de ça ?<END>
+//What do you say of this ?<END>
 
-//Hein, quoi ?<END>
+//Hein, what ?<END>
 
 //!!!<END>
 
-//Non !<END>
+//No !<END>
 
-//Je l'ai !<END>
+//I got it !<END>
 
-//Prends ça !<END>
+//Take this !<END>
 
 //Aaaarrrrgh !<END>
 
-//C'est pour toi !<END>
+//This is for you !<END>
 
 //Attrape ça !<END>
 
-//Je dois l'avoir !<END>
+//I have to have it !<END>
 
-//Laisse-moi passer !<END>
+//Let me pass !<END>
 
-//Oui !<END>
+//Yes !<END>
 
-//Tu ne l'auras pas !<END>
+//You won't have it !<END>
 
 //Dans tes rêves !<END>
 
@@ -83,13 +83,13 @@
 //Ne t'imagine pas que tu vas<LINE>
 //passer !<END>
 
-//Je dois l'avoir !<END>
+//I have to have it !<END>
 
-//je dois l'arrêter !<END>
+//I have to stop him !<END>
 
-//Prends ça !<END>
+//Take this !<END>
 
-//Tu ne passeras pas !<END>
+//Youw on't pass !<END>
 
 //Aaaarrrrgh !<END>
 
@@ -101,7 +101,7 @@
 
 //Ouaiiiis !<END>
 
-//J'ai réussi !<END>
+//I did it !<END>
 
 //Ah !<END>
 
