@@ -1,128 +1,119 @@
 // FILE: wifi_txt.str containing 159 strings
 
-//Se connecter à la connexion<LINE>
-//Wi-Fi Nintendo ?<END>
+//Connect to<LINE>
+//Nintendo Wi-Fi ?<END>
 
-//Communication<LINE>
-//en cours...<LINE>
-//Veuillez patienter.<END>
+//Connecting...<LINE>
+//Please wait.<END>
 
-//Connexion à la<LINE>
-//connexion Wi-Fi<LINE>
-//Nintendo effectuée.<END>
+//Connection to<LINE>
+//nintendo Wi-Fi<LINE>
+//established.<END>
 
-//Il n'y a pas de <LINE>
-//partie sauvegardée.<END>
+//There are no<LINE>
+//saved parties.<END>
 
-//Se déconnecter de la connexion<LINE>
-//Wi-Fi Nintendo<END>
+//Disconnect from<LINE>
+//Nintendo Wi-Fi?<END>
 
-//Vous avez été<LINE>
-//déconnecté de la<LINE>
-//connexion<LINE>
-//Wi-Fi Nintendo.<END>
+//You have been<LINE>
+//disconnected from<LINE>
+//Nintendo Wi-Fi<LINE>
+//Connection.<END>
 
-//Échanger avec qui ?<END>
+//Exchange with who ?<END>
 
-//Crée une session.<END>
+//Create a session.<END>
 
-//Sélectionner la session à joindre.<END>
+//Select a session to join.<END>
 
-//Connexion Wi-Fi Nintendo<END>
+//Nintendo Wi-Fi connection<END>
 
-//Échanger avec cet objet ?<LINE>
-//* L'objet échangé sera perdu.<END>
+//Exchange with this object ?<LINE>
+//* The exchanged object will be lost.<END>
 
-//Code d'erreur :<END>
+//Error code :<END>
 
-//Vous n'avez pas de code ami.<LINE>
-//Connectez-vous à la connexion<LINE>
-//Wi-Fi Nintendo pour obtenir<LINE>
-//votre code ami.<END>
+//You have no friend code.<LINE>
+//Connect to Nintendo Wi-Fi<LINE>
+//to obtain your<LINE>
+//friend code.<END>
 
-//Affiche son code ami.<END>
+//Display his friend code.<END>
 
-//Enregistre le code ami.<END>
+//Register the friend code.<END>
 
-//Affiche la liste d'amis.<END>
+//Display friend list.<END>
 
-//Ton code ami.<END>
+//Your friend code.<END>
 
-//Entrez un code ami.<LINE>
-//Vous pouvez enregistrer jusqu'à 4 amis.<LINE>
-//* Si vous enregistrez plus de 4 amis,<LINE>
-//le plus ancien sera remplacé.<LINE>
-//* Verrouillez les amis<LINE>
-//que vous ne voulez pas perdre.<END>
+//Enter a friend code.<LINE>
+//You can register up to 4 friends.<LINE>
+//* If you try to register a 5th friend,<LINE>
+//the oldest will be replaced.<LINE>
+//* Lock the friends<LINE>
+//that you don't wanna lose.<END>
 
-//Afficher la liste d'amis.<END>
+//Display friend list.<END>
 
-//Échange des objets<LINE>
-//via la connexion Wi-Fi Nintendo.<END>
+//Exchange objects via<LINE>
+//Nintendo Wi-Fi Connection.<END>
 
-//Enregistrer les codes d'ami et afficher<LINE>
-//son code ami et la liste d'amis.<END>
+//Register the friend codes and display<LINE>
+//his friend code and the firends' list.<END>
 
-//Régler les paramètres<LINE>
-//connexion Wi-Fi Nintendo.<END>
+//Adjust Nintendo Wi-Fi<LINE>
+//Connection settings.<END>
 
-//Erreur de communication.<LINE>
-//Déconnexion et retour<LINE>
-//au menu connexion<LINE>
-//Wi-Fi Nintendo.<END>
+//Communication error.<LINE>
+//Disconnection and retrning<LINE>
+//to Nintendo Wi-Fi<LINE>
+//Connection menu.<END>
 
-//Vous n'avez aucun<LINE>
-//objet à échanger.<END>
+//You have no<LINE>
+//object to exchange.<END>
 
-//Retour au menu CHARGER.<END>
+//Returning to LOAD menu.<END>
 
-//Pas de données.<LINE>
-//Retour au menu<LINE>
-//de la connexion<LINE>
-//Wi-Fi Nintendo.<END>
+//No data.<LINE>
+//Returning to<LINE>
+//Nintendo Wi-Fi<LINE>
+//Connection menu.<END>
 
-//Menu de la connexion Wi-Fi Nintendo.<END>
+//Nintendo Wi-Fi Connection menu.<END>
 
-//Échange des objets<LINE>
-//via la communication sans fil DS.<END>
+//Exchange objects via<LINE>
+//DS Wireless Communication.<END>
 
 //DUMMY<END>
 
-//Déconnexion<LINE>
-//de la connexion<LINE>
-//Wi-Fi Nintendo.<END>
+//Disconnection<LINE>
+//of Nintendo<LINE>
+//Wi-Fi Connection.<END>
 
-//Accès à la connexion<LINE>
-//Wi-Fi Nintendo...<LINE>
-//Veuillez<LINE>
-//patienter...<END>
+//Access to Nintendo<LINE>
+//Wi-Fi Connection...<LINE>
+//Please<LINE>
+//wait...<END>
 
-//Sauvegarde...<LINE>
-//Veuillez patienter.<END>
+//Saving...<LINE>
+//Please wait.<END>
 
-//Interrompt la connexion Wi-Fi<LINE>
-//Nintendo et arrête l'échange.<END>
+//Interrupt Nintendo Wi-Fi<LINE>
+//Connection and stop exchanging.<END>
 
-//Voulez-vous interrompre la<LINE>
-//connexion Wi-Fi Nintendo?<END>
+//Would you like to interrupt<LINE>
+//the Nintendo Wi-Fi connection?<END>
 
-//Échanger avec cet objet ?<LINE>
-//"DÉSOLÉ" sera sélectionné<LINE>
-//automatiquement<LINE>
-//si aucune décision n'est prise<LINE>
-//dans les 10 secondes.<LINE>
-//* L'objet échangé sera perdu.<END>
+//Exchange with this object ?<LINE>
+//"SORRY" will be automatically<LINE>
+//selected<LINE>
+//if no decision is taken<LINE>
+//in the 10 seconds.<LINE>
+//* The object exchanged will be lost.<END>
 
-//C'est le même code<LINE>
-//ami que le vôtre.<END>
-
-<END>
-
-<END>
-
-<END>
-
-//Code ami incorrect.<END>
+//It's the same friend<LINE>
+//code as yours.<END>
 
 <END>
 
@@ -130,51 +121,59 @@
 
 <END>
 
-//Impossible<LINE>
-//de trouver quelqu'un<LINE>
-//avec qui échanger<LINE>
-//des objets.<LINE>
-//Veuillez réessayer.<END>
+//Wrong friend code.<END>
 
-//Sauvegarde de <LINE>
-//vos informations...<LINE>
-//Veuillez patienter.<END>
+<END>
 
-//Code ami enregistré.<END>
+<END>
 
-//La liste d'amis<LINE>
-//est pleine.<END>
+<END>
 
-//Ce code ami a déjà<LINE>
-//été enregistré.<END>
+//Could not<LINE>
+//find someone<LINE>
+//with whom exchange<LINE>
+//objects.<LINE>
+//Try again.<END>
 
-//Cet ami a été<LINE>
-//verrouillé.<END>
+//Saving<LINE>
+//informations...<LINE>
+//Please wait.<END>
 
-//Cet ami a été<LINE>
-//déverrouillé.<END>
+//Friend code resgitred.<END>
 
-//Supprimer<LINE>
-//de la liste ?<END>
+//friend list<LINE>
+//is full.<END>
 
-//Suppession<LINE>
-//effectuée.<END>
+//Friend code already<LINE>
+//registred.<END>
 
-//Impossible de se connecter<LINE>
-//à la connexion Wi-Fi Nintendo.<LINE>
-//Pour toute assistance,<LINE>
-//consultez le mode d'emploi<LINE>
-//ou visitez le site<LINE>
+//This friend has been<LINE>
+//locked.<END>
+
+//This friend has been<LINE>
+//Unlocked.<END>
+
+//Remove<LINE>
+//from the list ?<END>
+
+//Removal<LINE>
+//done.<END>
+
+//Could not connect to the<LINE>
+//Nintendo Wi-Fi Connection.<LINE>
+//For all support,<LINE>
+//reffer to the user manual<LINE>
+//or vist the website<LINE>
 //support.nintendo.com.<END>
 
 <END>
 
-//Soit la connexion Wi-Fi Nintendo<LINE>
-//connaît un trafic trop important,<LINE>
-//soit le service est interrompu.<LINE>
-//Veuillez réessayer ultérieurement.<LINE>
-//Pour toute assistance, visitez<LINE>
-//le site support.nintendo.com.<END>
+//Either Nintendo Wi-Fi Connection<LINE>
+//is having an important trafic,<LINE>
+//either the service is interrupted.<LINE>
+//Please try again later.<LINE>
+//For all support, visit<LINE>
+//the website: support.nintendo.com<END>
 
 <END>
 
@@ -182,65 +181,12 @@
 
 <END>
 
-//L'identifiant de connexion<LINE>
-//Wi-Fi Nintendo a été effacé<LINE>
-//parce qu'il est resté inutilisé<LINE>
-//pendant une période prolongée.<LINE>
-//Pour toute assistance, visitez<LINE>
-//le site support.nintendo.com.<END>
-
-<END>
-
-<END>
-
-<END>
-
-<END>
-
-//Le service de connexion Wi-Fi<LINE>
-//Nintendo pour ce logiciel a été<LINE>
-//interrompu. Visitez le site<LINE>
-//support.nintendo.com pour une<LINE>
-//liste actuelle des logiciels<LINE>
-//compatibles avec la connexion<LINE>
-//Wi-Fi Nintendo.<END>
-
-<END>
-
-<END>
-
-<END>
-
-//Aucun point d'accès<LINE>
-//ne se trouve à proximité.<LINE>
-//Veuillez réessayer en vous<LINE>
-//rapprochant d'un point d'accès.<LINE>
-//Pour toute assistance, visitez<LINE>
-//le site support.nintendo.com.<END>
-
-<END>
-
-<END>
-
-//Aucun point d'accès compatible<LINE>
-//ne se trouve à proximité.<LINE>
-//Veuillez vérifier vos paramètres<LINE>
-//de connexion et réessayer.<LINE>
-//Pour toute assistance, visitez<LINE>
-//le site support.nintendo.com.<END>
-
-<END>
-
-<END>
-
-<END>
-
-//Aucun point d'accès compatible<LINE>
-//ne se trouve à proximité.<LINE>
-//Veuillez vérifier vos paramètres<LINE>
-//de connexion et réessayer.<LINE>
-//Pour toute assistance, visitez<LINE>
-//le site support.nintendo.com.<END>
+//Nintendo Wi-Fi Connection<LINE>
+//ID was deleted<LINE>
+//due to inactivity<LINE>
+//for an extended period.<LINE>
+//For all support, visit<LINE>
+//the website: support.nintendo.com<END>
 
 <END>
 
@@ -250,32 +196,13 @@
 
 <END>
 
-//Le point d'accès n'est pas<LINE>
-//disponible. Vous ne pouvez<LINE>
-//pas vous connecter. Veuillez<LINE>
-//réessayer ultérieurement.<LINE>
-//Pour toute assistance, visitez<LINE>
-//le site support.nintendo.com.<END>
-
-<END>
-
-<END>
-
-//Impossible de se connecter<LINE>
-//à la connexion Wi-Fi Nintendo.<LINE>
-//Vérifiez les paramètres de la<LINE>
-//connexion puis réessayez. Pour<LINE>
-//toute assistance, visitez le site<LINE>
-//support.nintendo.com.<END>
-
-<END>
-
-<END>
-
-//Aucune réponse. Le joueur<LINE>
-//n'est pas connecté à la<LINE>
-//connexion Wi-Fi Nintendo ou vous<LINE>
-//n'êtes pas dans sa liste d'amis.<END>
+//Nintendo Wi-Fi Connection<LINE>
+//for this software has been<LINE>
+//interrupted. Visit the website:<LINE>
+//support.nintendo.com for an<LINE>
+//acntual list of softwares<LINE>
+//compatible with the Nintendo<LINE>
+//Wi-Fi Connection.<END>
 
 <END>
 
@@ -283,28 +210,23 @@
 
 <END>
 
-<END>
-
-//Erreur de communication.<LINE>
-//Pour toute assistance, visitez<LINE>
-//le site support.nintendo.com.<END>
-
-//Une erreur est survenue.<LINE>
-//Impossible d'utiliser la connexion<LINE>
-//Wi-Fi Nintendo. Veuillez éteindre<LINE>
-//la console et réessayer.<END>
+//No access point<LINE>
+//found nearby.<LINE>
+//Please retry by moving<LINE>
+//closer to an access point.<LINE>
+//For all support, visit<LINE>
+//the website: support.nintendo.com<END>
 
 <END>
 
 <END>
 
-<END>
-
-//Vos informations d'utilisateur<LINE>
-//de la connexion Wi-Fi Nintendo<LINE>
-//peuvent avoir été effacées.<LINE>
-//Vérifiez vos paramètres de la<LINE>
-//connexion Wi-Fi Nintendo.<END>
+//No compatible access point<LINE>
+//found nearby.<LINE>
+//Please verify your connection<LINE>
+//settings and retry.<LINE>
+//For all support, visit<LINE>
+//the website: support.nintendo.com<END>
 
 <END>
 
@@ -312,17 +234,12 @@
 
 <END>
 
-//Se connecter à la connexion<LINE>
-//Wi-Fi Nintendo?<END>
-
-//La connexion Wi-Fi Nintendo<LINE>
-//considère votre carte DS et votre<LINE>
-//console comme un ensemble.<LINE>
-//Se connecter à la connexion<LINE>
-//Wi-Fi Nintendo en sauvegardant<LINE>
-//les informations d'utilisateur de la<LINE>
-//connexion Wi-Fi Nintendo de cette<LINE>
-//console sur cette carte DS?<END>
+//No compatible access point<LINE>
+//found nearby.<LINE>
+//Please verify your connection<LINE>
+//settings and retry.<LINE>
+//For all support, visit<LINE>
+//the website: support.nintendo.com<END>
 
 <END>
 
@@ -332,40 +249,32 @@
 
 <END>
 
-//Les informations d'utilisateur de la<LINE>
-//connexion Wi-Fi Nintendo de cette<LINE>
-//console ont été sauvegardées<LINE>
-//sur la carte DS. A partir de<LINE>
-//maintenant, utilisez cette console<LINE>
-//pour vous connecter à la connexion<LINE>
-//Wi-Fi Nintendo.<END>
+//The access point isn't<LINE>
+//available. You cannot<LINE>
+//connect. Please<LINE>
+//retry later.<LINE>
+//For all support, visit<LINE>
+//the website: support.nintendo.com<END>
 
 <END>
 
 <END>
 
-<END>
-
-//Les informations d'utilisateur de la<LINE>
-//connexion Wi-Fi Nintendo de cette<LINE>
-//console et de la carte DS ne<LINE>
-//correspondent pas. Impossible<LINE>
-//de se connecter à la connexion<LINE>
-//Wi-Fi Nintendo.<END>
+//Could not connect to the<LINE>
+//Nintendo Wi-Fi Connection.<LINE>
+//Please verify your connection<LINE>
+//settings then retry. For<LINE>
+//all support, visit the<LINE>
+//website: support.nintendo.com<END>
 
 <END>
 
 <END>
 
-//Mettre à jour les informations<LINE>
-//d'utilisateur de la connexion<LINE>
-//Wi-Fi Nintendo sauvegardées<LINE>
-//sur la carte DS? Vous perdrez<LINE>
-//toutes les données utilisées pour<LINE>
-//vous connecter à la connexion<LINE>
-//Wi-Fi Nintendo si vous continuez.<END>
-
-<END>
+//No response. The player<LINE>
+//is not connected to the<LINE>
+//Nintendo Wi-Fi Connection or<LINE>
+//you're not in his friend list.<END>
 
 <END>
 
@@ -375,36 +284,124 @@
 
 <END>
 
-//Se connecter à la connexion<LINE>
-//Wi-Fi Nintendo pour mettre<LINE>
-//à jour les informations<LINE>
-//d'utilisateur de la connexion<LINE>
-//Wi-Fi Nintendo?<END>
+//Communication error.<LINE>
+//For all support, visit the<LINE>
+//website: support.nintendo.com<END>
+
+//An error have occured.<LINE>
+//Could not use the Nintendo<LINE>
+//Wi-Fi Connection. Please turn<LINE>
+//off the console and try again.<END>
 
 <END>
 
 <END>
 
-//Accès à la connexion<LINE>
-//Wi-Fi Nintendo…<LINE>
-//Veuillez patienter…<END>
-
 <END>
 
-//Impossible d'accéder à la<LINE>
-//connexion Wi-Fi Nintendo<LINE>
-//avec ce nom d'utilisateur.<LINE>
-//Veuillez changer votre nom<LINE>
-//d'utilisateur.<END>
+//Your user information of<LINE>
+//Nintendo Wi-Fi Connection<LINE>
+//might have been deleted.<LINE>
+//Verify your Nintendo<LINE>
+//Wi-Fi Connection settigs.<END>
 
 <END>
 
 <END>
 
-//Aucune réponse.<LINE>
-//Déconnexion et retour <LINE>
-//au menu connexion Wi-Fi<LINE>
-//Nintendo.<END>
+<END>
+
+//Connect to Nintendo<LINE>
+//Wi-Fi Connection?<END>
+
+//The Nintendo Wi-Fi Connection<LINE>
+//considers your DS cartridge<LINE>
+//and your console as a whole.<LINE>
+//Connect to the Nintendo<LINE>
+//Wi-Fi Connection saving<LINE>
+//user informations of the<LINE>
+//Nintendo Wi-Fi Connection of this<LINE>
+//console on this DS Cartridge?<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+//The user informations of the<LINE>
+//Nintendo Wi-Fi Connection of this<LINE>
+//console were saved<LINE>
+//on the DS Carteridge. From now<LINE>
+//on, use this console<LINE>
+//to connect to the Nintendo<LINE>
+//Wi-Fi Connection.<END>
+
+<END>
+
+<END>
+
+<END>
+
+//The user informations of the<LINE>
+//Nintendo Wi-Fi Connection of this<LINE>
+//console and the DS Cartridge do<LINE>
+//not match. Could not<LINE>
+//connect to the NIntendo<LINE>
+//Wi-Fi Connection.<END>
+
+<END>
+
+<END>
+
+//Update user informations<LINE>
+//of Nintendo Wi-Fi<LINE>
+//Connection saved<LINE>
+//in your DS Cartridge?If you<LINE>
+//Continue you'll lose all data<LINE>
+//used to connect to the<LINE>
+//Nintendo Wi-Fi Connection.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+//Connect to the Nintendo<LINE>
+//Wi-Fi Connection to<LINE>
+//update user informations<LINE>
+//of Nintendo Wi-Fi Connection?<END>
+
+<END>
+
+<END>
+
+//Accessing Nintendo<LINE>
+//Wi-Fi Connection…<LINE>
+//Please wait…<END>
+
+<END>
+
+//Could not access the<LINE>
+//Nintendo Wi-Fi Connection<LINE>
+//with this ID.<LINE>
+//Please change your ID.<END>
+
+<END>
+
+<END>
+
+//No response.<LINE>
+//Disconnection and returning <LINE>
+//to Nintendo Wi-Fi<LINE>
+//Connection menu.<END>
 
 <END>
 
@@ -430,10 +427,10 @@
 
 //9<END>
 
-//Objets échangés.<LINE>
-//Retour au menu<LINE>
-//de la connexion<LINE>
-//Wi-Fi Nintendo.<END>
+//Objects exchanged.<LINE>
+//Returning to<LINE>
+//Nintendo Wi-Fi<LINE>
+//Connection menu.<END>
 
 <END>
 
@@ -441,34 +438,11 @@
 
 <END>
 
-//Échange d'objets<LINE>
-//annulé.<LINE>
-//Retour au menu de<LINE>
-//la connexion Wi-Fi<LINE>
-//Nintendo.<END>
-
-<END>
-
-<END>
-
-<END>
-
-<END>
-
-//Objets échangés.<LINE>
-//Retour au menu<LINE>
-//Échanger.<END>
-
-<END>
-
-<END>
-
-<END>
-
-//Échange d'objets<LINE>
-//annulé.<LINE>
-//Retour au menu<LINE>
-//Échanger.<END>
+//Objects exchange<LINE>
+//canceled.<LINE>
+//Returning to the<LINE>
+//Nintendo Wi-Fi<LINE>
+//Connection.<END>
 
 <END>
 
@@ -478,10 +452,33 @@
 
 <END>
 
-//Impossible<LINE>
-//d'enregistrer.<LINE>
-//Vérifiez vos<LINE>
-//listes d'amis.<END>
+//Objects exchanged.<LINE>
+//Returning to<LINE>
+//Exchange menu.<END>
+
+<END>
+
+<END>
+
+<END>
+
+//Objects exchange<LINE>
+//canceled.<LINE>
+//Returning to<LINE>
+//Exchange menu.<END>
+
+<END>
+
+<END>
+
+<END>
+
+<END>
+
+//Could not<LINE>
+//register.<LINE>
+//Verify your<LINE>
+//Friend list.<END>
 
 <END>
 
