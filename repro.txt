@@ -1,382 +1,382 @@
 // FILE: repro.str containing 266 strings
 
-//Victoire : 6-0<END>
+//Victory : 6-0<END>
 
-//Avant-centre du champion Nankatsu<END>
+//Center forward of champion Nankatsu<END>
 
-//Victoire : 3-1<END>
+//Victory : 3-1<END>
 
-//Victoire de Tsubasa contre Nitta<END>
+//Victory of Tsubasa against Nitta<END>
 
-//Mur de fer du Quartet d'Otomo !<END>
+//Wall of steel of Otomo's Quartet !<END>
 
-//Incroyable reprise de volée<END>
+//Unbelievable volley recovery<END>
 
-//Reprise de volée : Tir du faucon !<END>
+//Volley recovery : Falcon shoot !<END>
 
-//Victoire : 2-1<END>
+//Victory : 2-1<END>
 
-//Tir en rasoir<END>
+//Razor shoot<END>
 
-//Soda, le tueur de champions<END>
+//Soda, the champions' slayer<END>
 
-//Drive shoot imparfait<END>
+//Imperfect Drive shoot<END>
 
-//Tir en rasoir !<END>
+//Razor shoot !<END>
 
-//Victoire : 3-2<END>
+//Victory : 3-2<END>
 
-//C'est simple, du foot antiaérien !<END>
+//That's simple, some antiaircraft soccer !<END>
 
-//Nouveau Skylab hurricane !<END>
+//New Skylab hurricane !<END>
 
-//En échange de la victoire<END>
+//In exchange of Victory<END>
 
-//Skylab hurricane basse altitude !<END>
+//Low altitude Skylab hurricane !<END>
 
-//Gardien obstiné de Nankatsu !<END>
+//Guardian obstinate of Nankatsu !<END>
 
-//Victoire : 4-3<END>
+//Victory : 4-3<END>
 
-//Sano et Jito, étrange duo !<END>
+//Sano and Jito, strange duo !<END>
 
-//Tir en force !<END>
+//Power shoot !<END>
 
-//La blessure de Tsubasa s'aggrave !<END>
+//Tsubasa's injury is getting worse !<END>
 
 //Backspin !<END>
 
-//C'est fait ! Drive shoot !<END>
+//It's done ! Drive shoot !<END>
 
-//Choc de ténacité !<END>
+//Tenacity impact !<END>
 
-//Buteur de Nankatsu<END>
+//Nankatsu's striker<END>
 
-//Victoire : 3-2<END>
+//Victory : 3-2<END>
 
-//Le premier tacle est une feinte ?<END>
+//The first tackle is a feint ?<END>
 
 //Avalanche Move !<END>
 
-//C'est ça l'esprit de Furano !<END>
+//This is Furano's spirit !<END>
 
-//Belle amitié<END>
+//Beautiful friendship<END>
 
-//Super longue tête<END>
+//Super long head<END>
 
-//Tous à l'attaque !<END>
+//All to attack !<END>
 
-//Le phénix s'envole...<END>
+//The phoenix takes flight...<END>
 
-//Victoire : 4-4<END>
+//Victory : 4-4<END>
 
-//La puissance du Drive shoot<END>
+//Drive shoot power<END>
 
-//Toho marque en premier !<END>
+//Toho score first !<END>
 
-//Envie d'un 3e titre consécutif<END>
+//desire for a 3rd consecutive title<END>
 
-//Il ne faut pas gâcher cette passe<END>
+//We must not waste this pass<END>
 
-//Tiger shot perçant Nankatsu<END>
+//Tiger shot piercing Nankatsu<END>
 
-//Je vais anéantir Nankatsu !<END>
+//I will annihilate Nankatsu !<END>
 
-//Miraculeux Drive shoot<END>
+//Miraculous Drive shoot<END>
 
-//Un éclair ! Tête plongeante !<END>
+//A lightning ! Diving head !<END>
 
-//Éclair croisé<END>
+//Crossed lightning<END>
 
-//Tir pour l'aventure<END>
+//Shoot for adventure<END>
 
-//Vrai foot<END>
+//Real soccer<END>
 
-//Défaite : 1-5<END>
+//Defeat : 1-5<END>
 
 //SGGK Wakabayashi<END>
 
 //Kaiser Schneider<END>
 
-//Fire shot hurlant<END>
+//Yelling Fire shot<END>
 
-//Différence de force<END>
+//Strength Difference<END>
 
-//Victoire : 2-1<END>
+//Victory : 2-1<END>
 
-//Bras-droit en or<END>
+//Golden right arm<END>
 
-//Drive shoot arrêté !<END>
+//Drive shoot stoped !<END>
 
-//Contre-attaque de l'Italie<END>
+//Italy counter-attack<END>
 
-//La paire en or du Japon<END>
+//Japan's golden pair<END>
 
-//Réveil du tigre<END>
+//Awakening of the tigre<END>
 
-//Victoire : 5-4<END>
+//Victory : 5-4<END>
 
-//La paire en or de l'Argentine<END>
+//Argentina golden pair<END>
 
-//Le prodige du ballon rond<END>
+//The round ball prodigy<END>
 
-//Vrai Drive shoot<END>
+//True Drive shoot<END>
 
-//Signal de la contre-attaque !<END>
+//Counter-attack signal !<END>
 
 //Skylab twin shoot !<END>
 
-//Vrai jeu d'équipe<END>
+//True team play<END>
 
-//Preuve de génie<END>
+//Genius Proof<END>
 
-//À l'attaque des buts argentins !<END>
+//Attack of the Argentina goals !<END>
 
-//Le champion de verre est là !<END>
+//The glass champion is here !<END>
 
-//Victoire : 4-4 (5-4)<END>
+//Victory : 4-4 (5-4)<END>
 
-//Le petit footballeur va bien<END>
+//The little soccer player is fine<END>
 
-//Inattendu : Slider shoot !<END>
+//Unexpected : Slider shoot !<END>
 
-//Carton jaune inattendu<END>
+//Unexpected yellow card<END>
 
-//Avantage de l'équipe à domicile<END>
+//Home team advantage<END>
 
-//Vrai but<END>
+//True goal<END>
 
-//Je ne connais que le foot !<END>
+//I know nothing but soccer !<END>
 
-//Attaque Eiffel<END>
+//Eiffel Attack<END>
 
-//Même si mon bras droit y passe...<END>
+//Even if my right arm passes...<END>
 
-//Victoire : 3-2<END>
+//Victory : 3-2<END>
 
-//Document secret de Wakayabashi<END>
+//Wakayabashi's secret document<END>
 
-//Gardien légendaire<END>
+//Legendary guardian<END>
 
-//Intuition d'avant-centre<END>
+//Center forward's Intuition<END>
 
-//Fire shot depuis un angle mort<END>
+//Fire shot from a dead angle<END>
 
-//Géant de fer<END>
+//Steel giant<END>
 
-//Deux paires en or<END>
+//Two golden pairs<END>
 
-//Sens de la page 52<END>
+//Page 52 meaning<END>
 
-//Pourquoi on est sur le terrain<END>
+//Why are we on the field<END>
 
-//Il s'appelle Karl Heinz Schneider<END>
+//He's name is Karl Heinz Schneider<END>
 
-//Au bord du gouffre<END>
+//On the brink<END>
 
-//Capitaine Tsubasa<END>
+//Captain Tsubasa<END>
 
-//Victoire : 3-2<END>
+//Victory : 3-2<END>
 
-//Musashi sans Misugi<END>
+//Musashi without Misugi<END>
 
-//C'est un coup du chapeau<END>
+//It's a hat-trick<END>
 
-//Attaque ultime de Misugi<END>
+//Misugi's ultimate attack<END>
 
-//Prince du terrain<END>
+//Prince of the field<END>
 
-//Le champion de verre vaincu !<END>
+//The glass champion defeated !<END>
 
-//Victoire : 4-0<END>
+//Victory : 4-0<END>
 
-//Courant de combinaisons<END>
+//Stream of combinations<END>
 
-//Hyuga sur le banc de touche ?<END>
+//Hyuga on the bench ?<END>
 
-//Cage au mur de fer<END>
+//Cage on wall of steel<END>
 
-//Petit technicien<END>
+//Little technician<END>
 
-//Victoire : 8-0<END>
+//Victory : 8-0<END>
 
-//Qui est l'avant-centre de Toho ?<END>
+//Who is Toho's center forward ?<END>
 
-//Je vais encore marquer !<END>
+//I will score again !<END>
 
-//Toho sans Hyuga<END>
+//Toho without Hyuga<END>
 
-//Victoire : 2-1<END>
+//Victory : 2-1<END>
 
-//Sawada en danger !<END>
+//Sawada in danger !<END>
 
 //Kamikaze Sliding Squad !<END>
 
-//On reviendra au score !<END>
+//We'll tie the score !<END>
 
-//Jusqu'au retour du capitaine...<END>
+//Until the captain's return...<END>
 
-//Gardien en dehors de la surface<END>
+//Guardian out of surface<END>
 
-//Victoire : 4-3<END>
+//Victory : 4-3<END>
 
-//La puissance du Drive shoot<END>
+//Drive shoot Power<END>
 
-//Il faut marquer un but !<END>
+//We have to score a goal !<END>
 
-//Tir lobé<END>
+//Lobed shoot<END>
 
-//Tremblez ! Un nouveau Wakashimazu<END>
+//Tremble ! A new Wakashimazu<END>
 
-//Peu importe le nombre !<END>
+//Whatever the number !<END>
 
-//La paire en or de Toho<END>
+//Toho's Golden pair<END>
 
-//Génie en herbe<END>
+//Budding Genius<END>
 
-//Tégatana Defense !<END>
+//Tegatana Defense !<END>
 
-//Force cachée de Nankatsu<END>
+//Nankatsu hidden strength<END>
 
-//Bourrasque<END>
+//Squall<END>
 
-//Pourquoi on est sur le terrain<END>
+//Why are we on the field<END>
 
-//Tragique fin<END>
+//Tragic end<END>
 
-//Victoire : 7-0<END>
+//Victory : 7-0<END>
 
-//Avalanche Move, technique secrète<END>
+//Avalanche Move, secret technique<END>
 
-//La tempête Furano arrive !<END>
+//Furnao Tempest arrives !<END>
 
-//Victoire : 4-0<END>
+//Victory : 4-0<END>
 
-//Décision calme<END>
+//Calme decision<END>
 
-//Lien d'amitié<END>
+//Bond of friendship<END>
 
-//Aigle dormant<END>
+//Sleeping Eagle<END>
 
-//Victoire : 2-1<END>
+//Victory : 2-1<END>
 
-//Équipe en or<END>
+//Golden team<END>
 
-//Les joueurs clés en mauvais état<END>
+//Key players are in bad shapes<END>
 
-//Occasion de but manquée !<END>
+//Goal opportunity missed !<END>
 
 //Explosion !<END>
 
-//Frappe rasant le sol<END>
+//Strike skimming the ground<END>
 
-//L'âme de Furano<END>
+//Furano's spirit<END>
 
-//Victoire : 3-2<END>
+//Victory : 3-2<END>
 
-//Faux tacle<END>
+//False tackle<END>
 
 //Avalanche Move !<END>
 
-//Le fruit des efforts<END>
+//the fruit of efforts<END>
 
-//Belle amitié<END>
+//Beautiful friendship<END>
 
-//Super longue tête<END>
+//Super long head<END>
 
-//Vrai travail d'équipe<END>
+//True team play<END>
 
-//Démonstration de force de Furano<END>
+//Furano Strength demonstration<END>
 
-//Pressentiment<END>
+//Presentiment<END>
 
-//Victoire : 3-2<END>
+//Victory : 3-2<END>
 
-//Je vais te rendre la pareille !<END>
+//I will give it back to you !<END>
 
-//Il n'y a que Tsubasa !<END>
+//no one left but Tsubasa !<END>
 
-//Domination des champions<END>
+//Champions' domination<END>
 
-//Rugissement du tigre !<END>
+//Roar of the Tiger !<END>
 
-//Tempête de neige<END>
+//Snowstorm<END>
 
-//Preuve de confiance<END>
+//Proof of confidence<END>
 
-//Pont vers la gloire<END>
+//Bridge to glory<END>
 
-//Victoire : 4-3<END>
+//Victory : 4-3<END>
 
-//La star de l'équipe<END>
+//The Team's star<END>
 
-//Prince du terrain<END>
+//Prince of the field<END>
 
-//Une passe au risque de sa vie<END>
+//A life-risking pass<END>
 
-//Cœur incassable<END>
+//Unbreakable heart<END>
 
-//Victoire : sans Misugi<END>
+//Victory : without Misugi<END>
 
-//Ensemble à l'école primaire<END>
+//All primary school<END>
 
-//Si Misugi n'est pas là...<END>
+//If Misugi isn't here...<END>
 
-//Ligne défensive serrée<END>
+//Tight defensive line<END>
 
-//Encore un but !<END>
+//One more goal !<END>
 
-//Victoire : avec Misugi<END>
+//Victory : with Misugi<END>
 
-//Va-et-vient attaque/défense<END>
+//Reciprocation attack/defense<END>
 
-//Passes rapides<END>
+//Quick passes<END>
 
-//Le piège du hors-jeu de Musashi<END>
+//The offside trap of Musashi<END>
 
-//Tir élégant<END>
+//Elegant shot<END>
 
-//Victoire : 3-2<END>
+//Victory : 3-2<END>
 
 //Meiwa Kamikaze Sliding Squad<END>
 
-//Fierté des joueurs de Musashi<END>
+//Musashi's players pride<END>
 
-//Amis au même esprit<END>
+//Friends with teh same spirit<END>
 
-//Le meilleur est à venir<END>
+//The best is yet to come<END>
 
-//Contre-attaque contrée !<END>
+//Counter-attack countered !<END>
 
-//Le champion est là !<END>
+//The champion is here !<END>
 
-//Victoire : plus d'un but d'écart<END>
+//Victory : more than one goal difference<END>
 
-//Éclatante attaque rapide<END>
+//Dazzling fast attack<END>
 
-//Le champion, Nankatsu<END>
+//The champion, Nankatsu<END>
 
-//Voilà le prince !<END>
+//Here is the prince !<END>
 
-//Duel de champions !<END>
+//Champions' duel !<END>
 
-//Choc de coups spéciaux<END>
+//Special moves clash<END>
 
-//Le ballon a disparu !<END>
+//The ball disapeared !<END>
 
-//Combinaisons élégantes<END>
+//Elegant combinations<END>
 
-//Changement<END>
+//Switch<END>
 
-//Tir du destin<END>
+//Destiny shoot<END>
 
-//Victoire : 5 buts en une mi-temps<END>
+//Victory : 5 goals on one half<END>
 
-//Combat solitaire<END>
+//Solitary battle<END>
 
-//Premier contact<END>
+//First contact<END>
 
-//Remplacement<END>
+//Replacement<END>
 
 //Tsubasa aborde son dernier été<LINE>
 //au collège !<LINE>
@@ -457,7 +457,7 @@
 //Pierre qui révélera son jeu artistique<LINE>
 //face au Japon.<END>
 
-//Le Japon est à une victoire du titre,<LINE>
+//Le Japon est à une Victory du titre,<LINE>
 //mais le voici confronté<LINE>
 //à la plus redoutable des équipes.<LINE>
 //Sauront-ils arrêter le Kaizer,<LINE>
@@ -494,7 +494,7 @@
 //pour ainsi décrocher son billet<LINE>
 //pour le tournoi national ?<END>
 
-//Grâce à sa victoire sur Musashi,<LINE>
+//Grâce à sa Victory sur Musashi,<LINE>
 //Toho accède en national !<LINE>
 //Le premier match pour la conquête<LINE>
 //du titre va commencer !<END>
@@ -650,7 +650,7 @@
 //Une équipe de Shizuoka contre laquelle<LINE>
 //Nankatsu a joué<LINE>
 //dans le tournoi régional.<LINE>
-//Une victoire sans avoir pris un but<LINE>
+//Une Victory sans avoir pris un but<LINE>
 //sera l'idéal. <END>
 
 //Déjouer le Quartet d'Otomo<LINE>
@@ -721,14 +721,14 @@
 //Ne te laisse pas avoir<LINE>
 //par leur milieu de terrain, Pierre,<LINE>
 //ni par leur avant-centre Napoléon,<LINE>
-//et décroche la victoire !<END>
+//et décroche la Victory !<END>
 
 //L'Allemagne est une équipe<LINE>
 //de classe mondiale.<LINE>
 //Les feintes ne seront pas suffisantes<LINE>
 //contre cette équipe,<LINE>
 //et il faudra tout donner<LINE>
-//pour obtenir la victoire !<END>
+//pour obtenir la Victory !<END>
 
 //Ton adversaire est l'Angleterre,<LINE>
 //connue comme le berceau du football !<LINE>
@@ -742,7 +742,7 @@
 //d'Amérique du Sud !<LINE>
 //Attention à leurs attaques rapides,<LINE>
 //et en particulier à leur avant-centre,<LINE>
-//Victorino, et décroche la victoire !<END>
+//Victorino, et décroche la Victory !<END>
 
 //Cette équipe regroupe<LINE>
 //les meilleurs joueurs<LINE>
