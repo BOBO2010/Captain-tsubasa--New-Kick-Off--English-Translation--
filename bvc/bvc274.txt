@@ -1,113 +1,113 @@
 // FILE: bvc274.str containing 54 strings
 
-//Fonce !<END>
+//Go !<END>
 
-//Il arrive !<END>
+//He's coming !<END>
 
-//Prenez ça !<END>
+//Take this !<END>
 
-//Facile !<END>
+//Easy !<END>
 
-//Admire le spectacle !<END>
+//Admire the show !<END>
 
-//Tiens !<END>
+//Take !<END>
 
-//Laisse-moi passer !<END>
+//Let me pass !<END>
 
-//Hors de mon chemin !<END>
+//Out of my way !<END>
 
-//Amène-toi !<END>
+//Bring yourself !<END>
 
-//Je vais t'en empêcher !<END>
+//I won't let you !<END>
 
-//Tu ne me passeras pas !<END>
+//You won't trespass me !<END>
 
-//Admire le spectacle !<END>
+//Admire the show !<END>
 
-//C'est fini !<END>
+//It's over !<END>
 
-//Admire le spectacle !<END>
+//Admire the show !<END>
 
-//Je l'ai !<END>
+//I got it !<END>
 
-//Il arrive !<END>
+//He's coming !<END>
 
-//Je ne laisserai pas ça<LINE>
-//arriver !<END>
+//I won't let this<LINE>
+//happen !<END>
 
-//Je l'ai !<END>
+//I got it !<END>
 
-//Facile !<END>
+//Easy !<END>
 
-//C'est fini !<END>
+//It's over !<END>
 
-//Je ne le laisserai pas entrer !<END>
+//I won't let him in !<END>
 
-//Oui !<END>
+//Yes !<END>
 
 //Cool !<END>
 
-//Qu'est-ce que tu dis de ça ?<END>
+//What do you say of this ?<END>
 
-//Hein, quoi ?<END>
+//Hein, what ?<END>
 
 //!!!<END>
 
-//Non !<END>
+//No !<END>
 
-//Je l'ai !<END>
-
-//Prends ça !<END>
-
-//Aaaarrrrgh !<END>
-
-//C'est pour toi !<END>
-
-//Admire le spectacle !<END>
-
-//Fonce !<END>
-
-//Tu crois pouvoir m'arrêter ?<END>
-
-//Hors de mon chemin !<END>
-
-//Tu ne l'auras pas !<END>
-
-//Tu ne passeras pas !<END>
-
-//Je ne laisserai pas ça<LINE>
-//arriver !<END>
-
-//Aaaarrrrgh !<END>
-
-//Je ne laisserai pas ça<LINE>
-//arriver !<END>
-
-//Je dois l'avoir !<END>
-
-//je dois l'arrêter !<END>
+//I got it !<END>
 
 //Prends ça !<END>
 
-//Tu ne passeras pas !<END>
+//Aaaarrrrgh !<END>
+
+//This is for you !<END>
+
+//Admire the show !<END>
+
+//Go !<END>
+
+//You think you can stop me ?<END>
+
+//Out of my way !<END>
+
+//You won't have it !<END>
+
+//Youw on't pass !<END>
+
+//I won't let this<LINE>
+//happen !<END>
 
 //Aaaarrrrgh !<END>
 
-//je dois l'arrêter !<END>
+//I won't let this<LINE>
+//happen !<END>
 
-//Je ne te laisserai pas marquer !<END>
+//I have to have it !<END>
+
+//I have to stop him !<END>
+
+//Prends ça !<END>
+
+//Youw on't pass !<END>
 
 //Aaaarrrrgh !<END>
 
-//Oui !<END>
+//I have to stop him !<END>
 
-//J'ai réussi !<END>
+//I won't let you score !<END>
+
+//Aaaarrrrgh !<END>
+
+//Yes !<END>
+
+//I did it !<END>
 
 //Ah !<END>
 
-//C'est pas vrai !<END>
+//Unbelievable !<END>
 
 //Grrr....<END>
 
-//Quoi ? C'est pas vrai...<END>
+//What ? That's impossiblei...<END>
 
