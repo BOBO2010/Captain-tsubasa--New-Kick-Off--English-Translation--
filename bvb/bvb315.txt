@@ -12,7 +12,7 @@
 
 //Go !<END>
 
-//Ta chance a tourné !<END>
+//Your chance has turned !<END>
 
 //Get readyi !<END>
 
@@ -108,5 +108,5 @@
 
 //What !<END>
 
-//Quoi ? C'est pas vrai...<END>
+//What ? That's impossible...<END>
 

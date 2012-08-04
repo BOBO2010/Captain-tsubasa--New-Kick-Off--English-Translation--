@@ -10,7 +10,7 @@
 
 //Here we go !<END>
 
-//Tiens, sers-toi de ça !<END>
+//Here, make use of this !<END>
 
 //Let me pass !<END>
 
@@ -108,5 +108,5 @@
 
 //What !<END>
 
-//Quoi ? C'est pas vrai...<END>
+//What ? That's impossible...<END>
 

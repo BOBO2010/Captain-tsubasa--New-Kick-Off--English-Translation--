@@ -108,5 +108,5 @@
 
 //What !<END>
 
-//Quoi ? C'est pas vrai...<END>
+//What ? That's impossible...<END>
 

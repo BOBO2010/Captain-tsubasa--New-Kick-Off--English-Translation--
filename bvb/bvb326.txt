@@ -4,11 +4,11 @@
 
 //Get readyi !<END>
 
-//Admire le travail !<END>
+//Admire the work !<END>
 
 //Take !<END>
 
-//Cours !<END>
+//Run !<END>
 
 //Go !<END>
 
@@ -18,7 +18,7 @@
 
 //Bring yourself !<END>
 
-//Comme je le pensais !<END>
+//As i thought !<END>
 
 //You won't trespass me !<END>
 
@@ -60,7 +60,7 @@
 
 //Here !<END>
 
-//Allez ! S'il te plaît !<END>
+//Come on ! Please !<END>
 
 //I'll let you handle it !<END>
 
@@ -108,5 +108,5 @@
 
 //What !<END>
 
-//Quoi ? C'est pas vrai...<END>
+//What ? That's impossible...<END>
 

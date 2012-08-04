@@ -54,7 +54,7 @@
 
 //No !<END>
 
-//Prends ça !<END>
+//Take this !<END>
 
 //That's it !<END>
 
@@ -108,5 +108,5 @@
 
 //What !<END>
 
-//Quoi ? C'est pas vrai...<END>
+//What ? That's impossible...<END>
 

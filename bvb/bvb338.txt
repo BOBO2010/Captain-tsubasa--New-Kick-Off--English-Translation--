@@ -4,7 +4,7 @@
 
 //Get readyi !<END>
 
-//Ce but est pour moi !<END>
+//This goal is mine !<END>
 
 //Take !<END>
 
@@ -108,5 +108,5 @@
 
 //What !<END>
 
-//Quoi ? C'est pas vrai...<END>
+//What ? That's impossible...<END>
 

@@ -40,7 +40,7 @@
 
 //I got it !<END>
 
-//Je vais arrêter ça !<END>
+//I will stop this !<END>
 
 //Yes !<END>
 
@@ -108,5 +108,5 @@
 
 //What !<END>
 
-//Quoi ? C'est pas vrai...<END>
+//What ? That's impossible...<END>
 

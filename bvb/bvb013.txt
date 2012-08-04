@@ -12,8 +12,7 @@
 
 //Go !<END>
 
-//Je ne te laisserai pas<LINE>
-//le prendre !<END>
+//I won't let you have it !<END>
 
 //Get readyi !<END>
 
@@ -55,9 +54,9 @@
 
 //No !<END>
 
-//Ce n'est pas encore fini !<END>
+//It's not over yet !<END>
 
-//Je vais te mettre un but !<END>
+//I will score on you !<END>
 
 //Here !<END>
 
@@ -69,7 +68,7 @@
 
 //Let me pass !<END>
 
-//Là, c'est ma chance !<END>
+//There, that's my chance !<END>
 
 //You won't have it !<END>
 
@@ -109,5 +108,5 @@
 
 //What !<END>
 
-//Quoi ? C'est pas vrai...<END>
+//What ? That's impossible...<END>
 

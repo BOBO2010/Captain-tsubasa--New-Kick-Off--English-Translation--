@@ -1,6 +1,6 @@
 // FILE: bvb309.str containing 54 strings
 
-//Ce but est pour moi !<END>
+//This goal is mine !<END>
 
 //Get readyi !<END>
 
@@ -108,5 +108,5 @@
 
 //What !<END>
 
-//Quoi ? C'est pas vrai...<END>
+//What ? That's impossible...<END>
 

@@ -12,13 +12,13 @@
 
 //Go !<END>
 
-//Là, c'est ma chance !<END>
+//There, that's my chance !<END>
 
 //Get readyi !<END>
 
 //Bring yourself !<END>
 
-//J'y vais !<END>
+//I'm going in !<END>
 
 //You won't trespass me !<END>
 
@@ -108,5 +108,5 @@
 
 //What !<END>
 
-//Quoi ? C'est pas vrai...<END>
+//What ? That's impossible...<END>
 

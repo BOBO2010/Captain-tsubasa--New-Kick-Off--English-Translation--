@@ -40,7 +40,7 @@
 
 //OK !<END>
 
-//Laisse-moi faire !<END>
+//Let me handle it !<END>
 
 //Yes !<END>
 
