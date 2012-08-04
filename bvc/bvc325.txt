@@ -16,7 +16,7 @@
 
 //Out of my way !<END>
 
-//Tu ne peux pas m'arrêter !<END>
+//You can't stop me !<END>
 
 //I won't let you !<END>
 
@@ -43,7 +43,7 @@
 
 //I won't let him in !<END>
 
-//Ouais, baby !<END>
+//Yeah, baby !<END>
 
 //Cool !<END>
 
@@ -57,13 +57,13 @@
 
 //I got it !<END>
 
-//Prends ça !<END>
+//Take this !<END>
 
 //Aaaarrrrgh !<END>
 
 //This is for you !<END>
 
-//Je compte sur toi !<END>
+//I'm counting on you !<END>
 
 //Go !<END>
 
@@ -87,7 +87,7 @@
 
 //I have to stop him !<END>
 
-//Prends ça !<END>
+//Take this !<END>
 
 //Youw on't pass !<END>
 
@@ -109,5 +109,5 @@
 
 //Grrr....<END>
 
-//What ? That's impossiblei...<END>
+//What ? That's impossible...<END>
 

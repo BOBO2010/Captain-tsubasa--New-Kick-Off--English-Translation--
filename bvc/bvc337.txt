@@ -57,7 +57,7 @@
 
 //I got it !<END>
 
-//Prends ça !<END>
+//Take this !<END>
 
 //Ah !<END>
 
@@ -87,7 +87,7 @@
 
 //I have to stop him !<END>
 
-//Prends ça !<END>
+//Take this !<END>
 
 //Youw on't pass !<END>
 
@@ -109,5 +109,5 @@
 
 //Grrr....<END>
 
-//What ? That's impossiblei...<END>
+//What ? That's impossible...<END>
 
