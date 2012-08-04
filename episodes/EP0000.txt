@@ -12,7 +12,7 @@
 //we find the defending champions,<LINE>
 //Nankatsu Junior High School!<END>
 
-//Nankatsu haven't lose a single game<LINE>
+//Nankatsu haven't lost a single game<LINE>
 //since Tsubasa, their young captain,<LINE>
 //joined their school!<END>
 
@@ -38,23 +38,23 @@
 //We accept the challenge!<END>
 
 //You'll have to go to the finals.<LINE>
-//We'll be waiting for you to crush you !<END>
+//We'll be waiting for you to crush you!<END>
 
 //*smiles*<END>
 
-//What ?!<END>
+//What?!<END>
 
-//A confident smile, hein ?<LINE>
-//Your defeat will make you lose it !<LINE>
-//We will crush you !<LINE>
-//Mark my words, Tsubasa Ozora !<END>
+//A confident smile, hein?<LINE>
+//Your defeat will make you lose it!<LINE>
+//We will crush you!<LINE>
+//Mark my words, Tsubasa Ozora!<END>
 
 //Hey, Tsubasa. A message From Wakabayashi<LINE>
 //arrived this morning.<END>
 
-//Hein ? Wa-Wakabayashi ?<END>
+//Hein? Wa-Wakabayashi?<END>
 
-//What ?<END>
+//What?<END>
 
 //A support message all the way from Germany.<LINE>
 //He wish us good luck<LINE>
