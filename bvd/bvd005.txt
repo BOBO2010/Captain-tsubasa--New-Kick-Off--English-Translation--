@@ -14,11 +14,11 @@
 
 //Let me pass !<END>
 
-//Tu n'es pas plus fort que moi !<END>
+//You aren't stronger than me !<END>
 
 //Bring yourself !<END>
 
-//Dans tes rêves !<END>
+//In your dreams !<END>
 
 //You won't trespass me !<END>
 
@@ -30,7 +30,7 @@
 
 //I got it !<END>
 
-//C'est bon !<END>
+//It's ok !<END>
 
 //Faudra me passer sur le corps !<END>
 
@@ -66,19 +66,19 @@
 
 //I have to have it !<END>
 
-//Tu n'es pas plus fort que moi !<END>
+//You aren't stronger than me !<END>
 
 //Yes !<END>
 
 //You won't have it !<END>
 
-//Dans tes rêves !<END>
+//In your dreams !<END>
 
 //Je vais l'arrêter !<END>
 
 //Aaaarrrrgh !<END>
 
-//Je crois que tu rêves !<END>
+//I think you're dreaming !<END>
 
 //I have to have it !<END>
 
@@ -92,11 +92,11 @@
 
 //I have to stop him !<END>
 
-//Plus rien ne passera !<END>
+//Nothing will pass anymore !<END>
 
 //Aaaarrrrgh !<END>
 
-//Ouaiiiis !<END>
+//Yeaaaah !<END>
 
 //I did it !<END>
 

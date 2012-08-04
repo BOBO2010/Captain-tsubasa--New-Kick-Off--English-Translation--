@@ -14,14 +14,14 @@
 
 //Let me pass !<END>
 
-//Admire le travail !<END>
+//Admire the show !<END>
 
 //Bring yourself !<END>
 
-//Je crois que tu rêves !<END>
+//I think you're dreaming !<END>
 
-//Je ne peux plus laisser<LINE>
-//passer personne !<END>
+//I can't let anyone<LINE>
+//pass anymore !<END>
 
 //Admire the show !<END>
 
@@ -31,9 +31,9 @@
 
 //I got it !<END>
 
-//C'est bon !<END>
+//It's ok !<END>
 
-//Je crois que tu rêves !<END>
+//I think you're dreaming !<END>
 
 //Arrrrgh !<END>
 
@@ -43,7 +43,7 @@
 
 //I have to stop him !<END>
 
-//Ouaiiiis !<END>
+//Yeaaaah !<END>
 
 //Cool !<END>
 
@@ -73,14 +73,14 @@
 
 //You won't have it !<END>
 
-//Je vais t'écraser !<END>
+//I will crush you !<END>
 
-//Ne t'imagine pas que tu vas<LINE>
-//passer !<END>
+//Don't you think that you'll<LINE>
+//pass !<END>
 
 //Aaaarrrrgh !<END>
 
-//Je crois que tu rêves !<END>
+//I think you're dreaming !<END>
 
 //I have to have it !<END>
 
@@ -88,18 +88,18 @@
 
 //Take this !<END>
 
-//Je ne peux plus laisser<LINE>
-//passer personne !<END>
+//I can't let anyone<LINE>
+//pass anymore !<END>
 
 //Aaaarrrrgh !<END>
 
 //I have to stop him !<END>
 
-//Plus rien ne passera !<END>
+//Nothing will pass anymore !<END>
 
 //Aaaarrrrgh !<END>
 
-//Ouaiiiis !<END>
+//Yeaaaah !<END>
 
 //I did it !<END>
 

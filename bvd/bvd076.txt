@@ -14,11 +14,11 @@
 
 //Bouge !<END>
 
-//Je vais te faire dégager !<END>
+//I'll put you out of my way !<END>
 
 //Bring yourself !<END>
 
-//Dans tes rêves !<END>
+//In your dreams !<END>
 
 //You won't trespass me !<END>
 
@@ -30,9 +30,9 @@
 
 //I got it !<END>
 
-//C'est bon !<END>
+//It's ok !<END>
 
-//Oh non, là, tu rêves !<END>
+//Oh no, there, you're dreaming !<END>
 
 //Aaaargh !<END>
 
@@ -42,7 +42,7 @@
 
 //I have to stop him !<END>
 
-//Ouaiiiis !<END>
+//Yeaaaah !<END>
 
 //Cool !<END>
 
@@ -54,7 +54,7 @@
 
 //No !<END>
 
-//Attention devant !<END>
+//Watch out in front !<END>
 
 //Take this !<END>
 
@@ -70,15 +70,15 @@
 
 //Yes !<END>
 
-//Tu me fais perdre mon temps !<END>
+//You are making me lose my time !<END>
 
 //Tu ne feras pas un pas de plus !<END>
 
-//Oh non, là, tu rêves !<END>
+//Oh no, there, you're dreaming !<END>
 
 //Aaaarrrrgh !<END>
 
-//Oh non, là, tu rêves !<END>
+//Oh no, there, you're dreaming !<END>
 
 //I have to have it !<END>
 
@@ -86,17 +86,17 @@
 
 //Take this !<END>
 
-//Tu perds ton temps !<END>
+//You're wasting your time !<END>
 
 //Aaaarrrrgh !<END>
 
 //I got it !<END>
 
-//Tu me fais perdre mon temps !<END>
+//You are making me lose my time !<END>
 
 //Aaaarrrrgh !<END>
 
-//Ouaiiiis !<END>
+//Yeaaaah !<END>
 
 //Je l'ai mis !<END>
 
@@ -104,7 +104,7 @@
 
 //Hein ?<END>
 
-//Comment ?<END>
+//How ?<END>
 
 //What ? That's impossible...<END>
 

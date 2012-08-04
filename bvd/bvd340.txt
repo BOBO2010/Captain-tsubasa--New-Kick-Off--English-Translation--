@@ -8,17 +8,17 @@
 
 //Take !<END>
 
-//Attrape ça !<END>
+//Catch this !<END>
 
 //Go !<END>
 
 //Let me pass !<END>
 
-//Admire le travail !<END>
+//Admire the show !<END>
 
 //Bring yourself !<END>
 
-//Dans tes rêves !<END>
+//In your dreams !<END>
 
 //You won't trespass me !<END>
 
@@ -30,10 +30,10 @@
 
 //I got it !<END>
 
-//C'est bon !<END>
+//It's ok !<END>
 
-//Ne t'imagine pas que tu vas<LINE>
-//passer !<END>
+//Don't you think that you'll<LINE>
+//pass !<END>
 
 //Arrrrgh !<END>
 
@@ -41,9 +41,9 @@
 
 //Bring yourself !<END>
 
-//Je ne te laisserai pas passer !<END>
+//I won't let you pass !<END>
 
-//Ouaiiiis !<END>
+//Yeaaaah !<END>
 
 //Cool !<END>
 
@@ -63,7 +63,7 @@
 
 //This is for you !<END>
 
-//Attrape ça !<END>
+//Catch this !<END>
 
 //I have to have it !<END>
 
@@ -73,15 +73,15 @@
 
 //You won't have it !<END>
 
-//Dans tes rêves !<END>
+//In your dreams !<END>
 
-//Ne t'imagine pas que tu vas<LINE>
-//passer !<END>
+//Don't you think that you'll<LINE>
+//pass !<END>
 
 //Aaaarrrrgh !<END>
 
-//Ne t'imagine pas que tu vas<LINE>
-//passer !<END>
+//Don't you think that you'll<LINE>
+//pass !<END>
 
 //I have to have it !<END>
 
@@ -99,7 +99,7 @@
 
 //Aaaarrrrgh !<END>
 
-//Ouaiiiis !<END>
+//Yeaaaah !<END>
 
 //I did it !<END>
 
