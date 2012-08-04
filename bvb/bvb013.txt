@@ -1,114 +1,113 @@
 // FILE: bvb013.str containing 54 strings
 
-//Fonce !<END>
+//Go !<END>
 
-//Prépare-toi !<END>
+//Get readyi !<END>
 
-//Voilà !<END>
+//There you go !<END>
 
-//Tiens !<END>
+//Take !<END>
 
-//C'est parti !<END>
+//Here we go !<END>
 
-//Fonce !<END>
+//Go !<END>
 
 //Je ne te laisserai pas<LINE>
 //le prendre !<END>
 
-//Prépare-toi !<END>
+//Get readyi !<END>
 
-//Amène-toi !<END>
-
-//Ah !<END>
-
-//Tu ne me passeras pas !<END>
-
-//Admire le spectacle !<END>
-
-//Je l'ai !<END>
-
-//Admire le spectacle !<END>
-
-//Je dois l'avoir !<END>
-
-//Prépare-toi !<END>
-
-//Je vais te le prendre !<END>
+//Bring yourself !<END>
 
 //Ah !<END>
 
-//je dois l'arrêter !<END>
+//You won't trespass me !<END>
 
-//Je l'ai !<END>
+//Admire the show !<END>
 
-//Je vais l'arrêter !<END>
+//I got it !<END>
 
-//Oui !<END>
+//Admire the show !<END>
+
+//I have to have it !<END>
+
+//Get readyi !<END>
+
+//I will take it from you !<END>
+
+//Ah !<END>
+
+//I have to stop him !<END>
+
+//I got it !<END>
+
+//I will to stop him !<END>
+
+//Yes !<END>
 
 //Cool !<END>
 
-//Qu'est-ce que tu dis de ça ?<END>
+//What do you say of this ?<END>
 
 //Oh...<END>
 
 //Argh !<END>
 
-//Non !<END>
+//No !<END>
 
 //Ce n'est pas encore fini !<END>
 
 //Je vais te mettre un but !<END>
 
-//Ici !<END>
+//Here !<END>
 
-//Tu dois marquer !<END>
+//You have to score !<END>
 
-//Je te laisse faire !<END>
+//I'll let you handle it !<END>
 
-//Je dois l'avoir !<END>
+//I have to have it !<END>
 
-//Laisse-moi passer !<END>
+//Let me pass !<END>
 
 //Là, c'est ma chance !<END>
 
-//Tu ne l'auras pas !<END>
+//You won't have it !<END>
 
-//Je ne laisserai pas passer ça !<END>
+//I won't let this pass by !<END>
 
-//Je ne laisserai pas ça<LINE>
-//arriver !<END>
+//I won't let this<LINE>
+//happen !<END>
 
-//je dois l'arrêter !<END>
+//I have to stop him !<END>
 
-//Je ne laisserai pas ça<LINE>
-//arriver !<END>
+//I won't let this<LINE>
+//happen !<END>
 
-//Tu ne l'auras pas !<END>
+//You won't have it !<END>
 
-//je dois l'arrêter !<END>
+//I have to stop him !<END>
 
-//Tu t'arrêtes là !<END>
+//You stop here !<END>
 
-//Tu n'iras pas plus loin !<END>
+//You won't go any further !<END>
 
 //Ah !<END>
 
-//je dois l'arrêter !<END>
+//I have to stop him !<END>
 
-//Je ne peux pas le laisser<LINE>
-//entrer !<END>
+//I can't let him in !<END>
 
-//Je dois  y arriver à temps !<END>
+//I have to get there in time !<END>
 
-//Oui !<END>
+//Yes !<END>
 
-//J'ai réussi !<END>
+//I did it !<END>
 
 //Ah !<END>
 
 //Impossible !<END>
 
-//Quoi !<END>
+//What !<END>
 
 //Quoi ? C'est pas vrai...<END>
 
