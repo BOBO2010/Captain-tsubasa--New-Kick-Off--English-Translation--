@@ -2214,9 +2214,9 @@
 
 //OFFENSE<END>
 
-//コマンド相性（基本）<END>
+//Command compatibility (Basic)<END>
 
-//コマンド相性（ＣＳ）<END>
+//Command compatibility（ＣＳ）<END>
 
 //コマンド相性（トータル）<END>
 
