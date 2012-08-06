@@ -1,840 +1,840 @@
 // FILE: ci_name.str containing 419 strings
 
-//morisaki<END>
+morisaki<END>
 
-//nakazato<END>
+nakazato<END>
 
-//nagano<END>
+nagano<END>
 
-//oda<END>
+oda<END>
 
-//iwami<END>
+iwami<END>
 
-//takasugi<END>
+takasugi<END>
 
-//taki<END>
+taki<END>
 
-//izawa<END>
+izawa<END>
 
-//kisugi<END>
+kisugi<END>
 
-//tsubasa<END>
+tsubasa<END>
 
-//ishizaki<END>
+ishizaki<END>
 
-//okawa<END>
+okawa<END>
 
-//yamamori<END>
+yamamori<END>
 
-//misaki<END>
+misaki<END>
 
-//shimizu<END>
+shimizu<END>
 
-//yamazaki<END>
+yamazaki<END>
 
-//ikeda<END>
+ikeda<END>
 
-//nakajima<END>
+nakajima<END>
 
-//fuji<END>
+fuji<END>
 
-//kaneko<END>
+kaneko<END>
 
-//miyamoto<END>
+miyamoto<END>
 
-//muraida<END>
+muraida<END>
 
-//masuda<END>
+masuda<END>
 
-//okada<END>
+okada<END>
 
-//kanno<END>
+kanno<END>
 
-//noguchi<END>
+noguchi<END>
 
-//sakurai<END>
+sakurai<END>
 
-//kikuta<END>
+kikuta<END>
 
-//ichijo<END>
+ichijo<END>
 
-//yoshikawa<END>
+yoshikawa<END>
 
-//nishio<END>
+nishio<END>
 
-//nakayama<END>
+nakayama<END>
 
-//kawata<END>
+kawata<END>
 
-//hiraoka<END>
+hiraoka<END>
 
-//tadami<END>
+tadami<END>
 
-//nakao<END>
+nakao<END>
 
-//nitta<END>
+nitta<END>
 
-//urabe<END>
+urabe<END>
 
-//kishida<END>
+kishida<END>
 
-//soda<END>
+soda<END>
 
-//yamada<END>
+yamada<END>
 
-//tsuji<END>
+tsuji<END>
 
-//sasaki<END>
+sasaki<END>
 
-//hayashi<END>
+hayashi<END>
 
-//yoshida<END>
+yoshida<END>
 
-//kuramochi<END>
+kuramochi<END>
 
-//nakai<END>
+nakai<END>
 
-//ide<END>
+ide<END>
 
-//mihashi<END>
+mihashi<END>
 
-//onodera<END>
+onodera<END>
 
-//hirano<END>
+hirano<END>
 
-//mori<END>
+mori<END>
 
-//yanagi<END>
+yanagi<END>
 
-//kasuga<END>
+kasuga<END>
 
-//waseda<END>
+waseda<END>
 
-//soga<END>
+soga<END>
 
-//wada<END>
+wada<END>
 
-//akimoto<END>
+akimoto<END>
 
-//miyasato<END>
+miyasato<END>
 
-//wakui<END>
+wakui<END>
 
-//hirahara<END>
+hirahara<END>
 
-//higashino<END>
+higashino<END>
 
-//fushimi<END>
+fushimi<END>
 
-//wakamoto<END>
+wakamoto<END>
 
-//tachibana<END>
+tachibana<END>
 
-//tachibana<END>
+tachibana<END>
 
-//yoshikura<END>
+yoshikura<END>
 
-//koda<END>
+koda<END>
 
-//takeda<END>
+takeda<END>
 
-//nakamura<END>
+nakamura<END>
 
-//murasawa<END>
+murasawa<END>
 
-//aimoto<END>
+aimoto<END>
 
-//shioda<END>
+shioda<END>
 
-//tamai<END>
+tamai<END>
 
-//ono<END>
+ono<END>
 
-//daimaru<END>
+daimaru<END>
 
-//jito<END>
+jito<END>
 
-//sano<END>
+sano<END>
 
-//hatakeyama<END>
+hatakeyama<END>
 
-//akizawa<END>
+akizawa<END>
 
-//noda<END>
+noda<END>
 
-//soda<END>
+soda<END>
 
-//takeno<END>
+takeno<END>
 
-//nagaoka<END>
+nagaoka<END>
 
-//morisue<END>
+morisue<END>
 
-//nakajo<END>
+nakajo<END>
 
-//himeji<END>
+himeji<END>
 
-//oda<END>
+oda<END>
 
-//matsuyama<END>
+matsuyama<END>
 
-//kato<END>
+kato<END>
 
-//kondo<END>
+kondo<END>
 
-//matsuda<END>
+matsuda<END>
 
-//sase<END>
+sase<END>
 
-//honda<END>
+honda<END>
 
-//wakamatsu<END>
+wakamatsu<END>
 
-//kaneda<END>
+kaneda<END>
 
-//nakagawa<END>
+nakagawa<END>
 
-//yamamuro<END>
+yamamuro<END>
 
-//wakashimazu<END>
+wakashimazu<END>
 
-//furuta<END>
+furuta<END>
 
-//takashima<END>
+takashima<END>
 
-//koike<END>
+koike<END>
 
-//imai<END>
+imai<END>
 
-//kawabe<END>
+kawabe<END>
 
-//matsuki<END>
+matsuki<END>
 
-//shimano<END>
+shimano<END>
 
-//sorimachi<END>
+sorimachi<END>
 
-//hyuga<END>
+hyuga<END>
 
-//sawada<END>
+sawada<END>
 
-//higashi<END>
+higashi<END>
 
-//moriyama<END>
+moriyama<END>
 
-//mukai<END>
+mukai<END>
 
-//kido<END>
+kido<END>
 
-//sano<END>
+sano<END>
 
-//suzuki<END>
+suzuki<END>
 
-//yoshida<END>
+yoshida<END>
 
-//takizawa<END>
+takizawa<END>
 
-//inoue<END>
+inoue<END>
 
-//misugi<END>
+misugi<END>
 
-//nishiyama<END>
+nishiyama<END>
 
-//ichinose<END>
+ichinose<END>
 
-//honma<END>
+honma<END>
 
-//sanada<END>
+sanada<END>
 
-//seki<END>
+seki<END>
 
-//date<END>
+date<END>
 
-//kawai<END>
+kawai<END>
 
-//moriya<END>
+moriya<END>
 
-//takeuchi<END>
+takeuchi<END>
 
-//arita<END>
+arita<END>
 
-//hamaguchi<END>
+hamaguchi<END>
 
-//tanioka<END>
+tanioka<END>
 
-//kakimoto<END>
+kakimoto<END>
 
-//takita<END>
+takita<END>
 
-//ino<END>
+ino<END>
 
-//suga<END>
+suga<END>
 
-//takahashi<END>
+takahashi<END>
 
-//omori<END>
+omori<END>
 
-//kiyosaki<END>
+kiyosaki<END>
 
-//murata<END>
+murata<END>
 
-//mizuno<END>
+mizuno<END>
 
-//iwamoto<END>
+iwamoto<END>
 
-//makabe<END>
+makabe<END>
 
-//miyasaka<END>
+miyasaka<END>
 
-//ito<END>
+ito<END>
 
-//sakuraba<END>
+sakuraba<END>
 
-//akashi<END>
+akashi<END>
 
-//suzukawa<END>
+suzukawa<END>
 
-//sawaki<END>
+sawaki<END>
 
-//hori<END>
+hori<END>
 
-//suenaga<END>
+suenaga<END>
 
-//narita<END>
+narita<END>
 
-//enomoto<END>
+enomoto<END>
 
-//sakamoto<END>
+sakamoto<END>
 
-//takagi<END>
+takagi<END>
 
-//ishii<END>
+ishii<END>
 
-//nagano<END>
+nagano<END>
 
-//kawagoe<END>
+kawagoe<END>
 
-//murasawa<END>
+murasawa<END>
 
-//iguchi<END>
+iguchi<END>
 
-//fukayama<END>
+fukayama<END>
 
-//shibata<END>
+shibata<END>
 
-//tokunaga<END>
+tokunaga<END>
 
-//nagano<END>
+nagano<END>
 
-//hamasaki<END>
+hamasaki<END>
 
-//kashiwagi<END>
+kashiwagi<END>
 
-//tsujimoto<END>
+tsujimoto<END>
 
-//takeda<END>
+takeda<END>
 
-//hosoya<END>
+hosoya<END>
 
-//uemura<END>
+uemura<END>
 
-//kamata<END>
+kamata<END>
 
-//yoshinaga<END>
+yoshinaga<END>
 
-//matsumoto<END>
+matsumoto<END>
 
-//shimakawa<END>
+shimakawa<END>
 
-//fukamizu<END>
+fukamizu<END>
 
-//kadota<END>
+kadota<END>
 
-//yamazato<END>
+yamazato<END>
 
-//katsumura<END>
+katsumura<END>
 
-//ishibe<END>
+ishibe<END>
 
-//urushibata<END>
+urushibata<END>
 
-//shimomoto<END>
+shimomoto<END>
 
-//hayashibara<END>
+hayashibara<END>
 
-//goto<END>
+goto<END>
 
-//itaniwa<END>
+itaniwa<END>
 
-//takei<END>
+takei<END>
 
-//ishida<END>
+ishida<END>
 
-//tobe<END>
+tobe<END>
 
-//kakimoto<END>
+kakimoto<END>
 
-//yagi<END>
+yagi<END>
 
-//nishihama<END>
+nishihama<END>
 
-//mikami<END>
+mikami<END>
 
-//kusakawa<END>
+kusakawa<END>
 
-//arai<END>
+arai<END>
 
-//kubo<END>
+kubo<END>
 
-//iyo<END>
+iyo<END>
 
-//watari<END>
+watari<END>
 
-//igarashi<END>
+igarashi<END>
 
-//yasuda<END>
+yasuda<END>
 
-//komatsu<END>
+komatsu<END>
 
-//mizuta<END>
+mizuta<END>
 
-//shimada<END>
+shimada<END>
 
-//ryoube<END>
+ryoube<END>
 
-//araki<END>
+araki<END>
 
-//iwata<END>
+iwata<END>
 
-//matsuura<END>
+matsuura<END>
 
-//rokuhara<END>
+rokuhara<END>
 
-//kurihara<END>
+kurihara<END>
 
-//koizumi<END>
+koizumi<END>
 
-//shibuya<END>
+shibuya<END>
 
-//terada<END>
+terada<END>
 
-//matsuzaka<END>
+matsuzaka<END>
 
-//adachi<END>
+adachi<END>
 
-//sekine<END>
+sekine<END>
 
-//suehiro<END>
+suehiro<END>
 
-//kanda<END>
+kanda<END>
 
-//iijima<END>
+iijima<END>
 
-//ishizuka<END>
+ishizuka<END>
 
-//takeshita<END>
+takeshita<END>
 
-//yazawa<END>
+yazawa<END>
 
-//rinpo<END>
+rinpo<END>
 
-//shimomura<END>
+shimomura<END>
 
-//osawa<END>
+osawa<END>
 
-//rokujo<END>
+rokujo<END>
 
-//akechi<END>
+akechi<END>
 
-//rikimoto<END>
+rikimoto<END>
 
-//nagase<END>
+nagase<END>
 
-//kawasaki<END>
+kawasaki<END>
 
-//okugawa<END>
+okugawa<END>
 
-//hirata<END>
+hirata<END>
 
-//sagawa<END>
+sagawa<END>
 
-//morita<END>
+morita<END>
 
-//ikuta<END>
+ikuta<END>
 
-//tsuchiya<END>
+tsuchiya<END>
 
-//aso<END>
+aso<END>
 
-//umeda<END>
+umeda<END>
 
-//onuki<END>
+onuki<END>
 
-//kuraki<END>
+kuraki<END>
 
-//nakanishi<END>
+nakanishi<END>
 
-//ikuno<END>
+ikuno<END>
 
-//nishinari<END>
+nishinari<END>
 
-//sumiyoshi<END>
+sumiyoshi<END>
 
-//tsurumi<END>
+tsurumi<END>
 
-//taisho<END>
+taisho<END>
 
-//fukushima<END>
+fukushima<END>
 
-//minato<END>
+minato<END>
 
-//konohana<END>
+konohana<END>
 
-//suminoe<END>
+suminoe<END>
 
-//asahi<END>
+asahi<END>
 
-//abeno<END>
+abeno<END>
 
-//yodogawa<END>
+yodogawa<END>
 
-//joto<END>
+joto<END>
 
-//maki<END>
+maki<END>
 
-//kasama<END>
+kasama<END>
 
-//saito<END>
+saito<END>
 
-//kamishiro<END>
+kamishiro<END>
 
-//shiga<END>
+shiga<END>
 
-//aoi<END>
+aoi<END>
 
-//hamada<END>
+hamada<END>
 
-//sugiyama<END>
+sugiyama<END>
 
-//shizukawa<END>
+shizukawa<END>
 
-//harada<END>
+harada<END>
 
-//iwashita<END>
+iwashita<END>
 
-//kijima<END>
+kijima<END>
 
-//akasaka<END>
+akasaka<END>
 
-//tokita<END>
+tokita<END>
 
-//lindt<END>
+lindt<END>
 
-//gongels<END>
+gongels<END>
 
-//harness<END>
+harness<END>
 
-//maier<END>
+maier<END>
 
-//kaltz<END>
+kaltz<END>
 
-//immel<END>
+immel<END>
 
-//briegel<END>
+briegel<END>
 
-//schneider<END>
+schneider<END>
 
-//klaus<END>
+klaus<END>
 
-//jala<END>
+jala<END>
 
-//wakabayashi<END>
+wakabayashi<END>
 
-//richard<END>
+richard<END>
 
-//robson<END>
+robson<END>
 
-//frank<END>
+frank<END>
 
-//tom<END>
+tom<END>
 
-//sam<END>
+sam<END>
 
-//jonathan<END>
+jonathan<END>
 
-//david<END>
+david<END>
 
-//steve<END>
+steve<END>
 
-//dean<END>
+dean<END>
 
-//joe<END>
+joe<END>
 
-//wright<END>
+wright<END>
 
-//kevin<END>
+kevin<END>
 
-//henry<END>
+henry<END>
 
-//cabin<END>
+cabin<END>
 
-//gonzalez<END>
+gonzalez<END>
 
-//daniel<END>
+daniel<END>
 
-//rodrigo<END>
+rodrigo<END>
 
-//miguel<END>
+miguel<END>
 
-//leonardo<END>
+leonardo<END>
 
-//joaquin<END>
+joaquin<END>
 
-//raul<END>
+raul<END>
 
-//kain<END>
+kain<END>
 
-//victorino<END>
+victorino<END>
 
-//junior<END>
+junior<END>
 
-//renato<END>
+renato<END>
 
-//viktor<END>
+viktor<END>
 
-//jojinho<END>
+jojinho<END>
 
-//denilson<END>
+denilson<END>
 
-//dino<END>
+dino<END>
 
-//tardelli<END>
+tardelli<END>
 
-//marino<END>
+marino<END>
 
-//federico<END>
+federico<END>
 
-//francesco<END>
+francesco<END>
 
-//gentile<END>
+gentile<END>
 
-//conti<END>
+conti<END>
 
-//matteo<END>
+matteo<END>
 
-//golbate<END>
+golbate<END>
 
-//torino<END>
+torino<END>
 
-//andrea<END>
+andrea<END>
 
-//diaz<END>
+diaz<END>
 
-//pascal<END>
+pascal<END>
 
-//gartoni<END>
+gartoni<END>
 
-//sembello<END>
+sembello<END>
 
-//passaro<END>
+passaro<END>
 
-//gareja<END>
+gareja<END>
 
-//galvan<END>
+galvan<END>
 
-//ruggeri<END>
+ruggeri<END>
 
-//jeytes<END>
+jeytes<END>
 
-//pulse<END>
+pulse<END>
 
-//braun<END>
+braun<END>
 
-//napoleon<END>
+napoleon<END>
 
-//pierre<END>
+pierre<END>
 
-//amolo<END>
+amolo<END>
 
-//degaulle<END>
+degaulle<END>
 
-//bravo<END>
+bravo<END>
 
-//rust<END>
+rust<END>
 
-//beljels<END>
+beljels<END>
 
-//ferrer<END>
+ferrer<END>
 
-//georges<END>
+georges<END>
 
-//marcel<END>
+marcel<END>
 
-//bossi<END>
+bossi<END>
 
-//margus<END>
+margus<END>
 
-//schneider<END>
+schneider<END>
 
-//schester<END>
+schester<END>
 
-//kaltz<END>
+kaltz<END>
 
-//muller<END>
+muller<END>
 
-//hardwich<END>
+hardwich<END>
 
-//maier<END>
+maier<END>
 
-//max<END>
+max<END>
 
-//magath<END>
+magath<END>
 
-//myleus<END>
+myleus<END>
 
-//hein<END>
+hein<END>
 
-//kitano<END>
+kitano<END>
 
-//tasaka<END>
+tasaka<END>
 
-//imaoka<END>
+imaoka<END>
 
-//itahara<END>
+itahara<END>
 
-//otsuka<END>
+otsuka<END>
 
-//sasaoka<END>
+sasaoka<END>
 
-//nakazaki<END>
+nakazaki<END>
 
-//nagao<END>
+nagao<END>
 
-//hojo<END>
+hojo<END>
 
-//enoshima<END>
+enoshima<END>
 
-//sugata<END>
+sugata<END>
 
-//nose<END>
+nose<END>
 
-//torii<END>
+torii<END>
 
-//maezawa<END>
+maezawa<END>
 
-//iwasaki<END>
+iwasaki<END>
 
-//yamane<END>
+yamane<END>
 
-//kitamoto<END>
+kitamoto<END>
 
-//higo<END>
+higo<END>
 
-//sakuragi<END>
+sakuragi<END>
 
-//nakatsu<END>
+nakatsu<END>
 
-//bando<END>
+bando<END>
 
-//matsudaira<END>
+matsudaira<END>
 
-//masaoka<END>
+masaoka<END>
 
-//nomoto<END>
+nomoto<END>
 
-//minami<END>
+minami<END>
 
-//kohinata<END>
+kohinata<END>
 
-//furuhata<END>
+furuhata<END>
 
-//kosakai<END>
+kosakai<END>
 
-//tsukada<END>
+tsukada<END>
 
-//inamoto<END>
+inamoto<END>
 
-//hatano<END>
+hatano<END>
 
-//tomiyama<END>
+tomiyama<END>
 
-//kuramoto<END>
+kuramoto<END>
 
-//tani<END>
+tani<END>
 
-//obata<END>
+obata<END>
 
-//baba<END>
+baba<END>
 
-//funaki<END>
+funaki<END>
 
-//kuribayashi<END>
+kuribayashi<END>
 
-//usami<END>
+usami<END>
 
-//izumi<END>
+izumi<END>
 
-//tomochika<END>
+tomochika<END>
 
-//ichinomiya<END>
+ichinomiya<END>
 
-//ishimoto<END>
+ishimoto<END>
 
-//nosaka<END>
+nosaka<END>
 
-//amemiya<END>
+amemiya<END>
 
-//higashijima<END>
+higashijima<END>
 
-//maekawa<END>
+maekawa<END>
 
-//morisawa<END>
+morisawa<END>
 
-//kohatsu<END>
+kohatsu<END>
 
-//nishihara<END>
+nishihara<END>
 
-//sendo<END>
+sendo<END>
 
-//hashida<END>
+hashida<END>
 
-//horibe<END>
+horibe<END>
 
-//sada<END>
+sada<END>
 
-//jikumaru<END>
+jikumaru<END>
 
-//sudo<END>
+sudo<END>
 
-//momoi<END>
+momoi<END>
 
-//otaki<END>
+otaki<END>
 
-//kojima<END>
+kojima<END>
 
-//abe<END>
+abe<END>
 
-//kobayashi<END>
+kobayashi<END>
 
-//sato<END>
+sato<END>
 
-//arai<END>
+arai<END>
 
-//daigo<END>
+daigo<END>
 
-//yamamoto<END>
+yamamoto<END>
 
-//ogura<END>
+ogura<END>
 
-//chiba<END>
+chiba<END>
 
-//ikehata<END>
+ikehata<END>
 
-//fukushi<END>
+fukushi<END>
 
-//asano<END>
+asano<END>
 
-//roberto<END>
+roberto<END>
 
-//basarelo<END>
+basarelo<END>
 
