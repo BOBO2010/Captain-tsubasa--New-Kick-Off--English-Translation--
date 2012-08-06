@@ -1,755 +1,755 @@
 // FILE: repro.str containing 266 strings
 
-//Victory : 6-0<END>
+Victory : 6-0<END>
 
-//Center forward of champion Nankatsu<END>
+Center forward of champion Nankatsu<END>
 
-//Victory : 3-1<END>
+Victory : 3-1<END>
 
-//Victory of Tsubasa against Nitta<END>
+Victory of Tsubasa against Nitta<END>
 
-//Wall of steel of Otomo's Quartet !<END>
+Wall of steel of Otomo's Quartet !<END>
 
-//Unbelievable volley recovery<END>
+Unbelievable volley recovery<END>
 
-//Volley recovery : Falcon shoot !<END>
+Volley recovery : Falcon shoot !<END>
 
-//Victory : 2-1<END>
+Victory : 2-1<END>
 
-//Razor shoot<END>
+Razor shoot<END>
 
-//Soda, the champions' slayer<END>
+Soda, the champions' slayer<END>
 
-//Imperfect Drive shoot<END>
+Imperfect Drive shoot<END>
 
-//Razor shoot !<END>
+Razor shoot !<END>
 
-//Victory : 3-2<END>
+Victory : 3-2<END>
 
-//That's simple, some antiaircraft soccer !<END>
+That's simple, some antiaircraft soccer !<END>
 
-//New Skylab hurricane !<END>
+New Skylab hurricane !<END>
 
-//In exchange of Victory<END>
+In exchange of Victory<END>
 
-//Low altitude Skylab hurricane !<END>
+Low altitude Skylab hurricane !<END>
 
-//Guardian obstinate of Nankatsu !<END>
+Guardian obstinate of Nankatsu !<END>
 
-//Victory : 4-3<END>
+Victory : 4-3<END>
 
-//Sano and Jito, strange duo !<END>
+Sano and Jito, strange duo !<END>
 
-//Power shoot !<END>
+Power shoot !<END>
 
-//Tsubasa's injury is getting worse !<END>
+Tsubasa's injury is getting worse !<END>
 
-//Backspin !<END>
+Backspin !<END>
 
-//It's done ! Drive shoot !<END>
+It's done ! Drive shoot !<END>
 
-//Tenacity impact !<END>
+Tenacity impact !<END>
 
-//Nankatsu's striker<END>
+Nankatsu's striker<END>
 
-//Victory : 3-2<END>
+Victory : 3-2<END>
 
-//The first tackle is a feint ?<END>
+The first tackle is a feint ?<END>
 
-//Avalanche Move !<END>
+Avalanche Move !<END>
 
-//This is Furano's spirit !<END>
+This is Furano's spirit !<END>
 
-//Beautiful friendship<END>
+Beautiful friendship<END>
 
-//Super long head<END>
+Super long head<END>
 
-//All to attack !<END>
+All to attack !<END>
 
-//The phoenix takes flight...<END>
+The phoenix takes flight...<END>
 
-//Victory : 4-4<END>
+Victory : 4-4<END>
 
-//Drive shoot power<END>
+Drive shoot power<END>
 
-//Toho score first !<END>
+Toho score first !<END>
 
-//desire for a 3rd consecutive title<END>
+desire for a 3rd consecutive title<END>
 
-//We must not waste this pass<END>
+We must not waste this pass<END>
 
-//Tiger shot piercing Nankatsu<END>
+Tiger shot piercing Nankatsu<END>
 
-//I will annihilate Nankatsu !<END>
+I will annihilate Nankatsu !<END>
 
-//Miraculous Drive shoot<END>
+Miraculous Drive shoot<END>
 
-//A lightning ! Diving head !<END>
+A lightning ! Diving head !<END>
 
-//Crossed lightning<END>
+Crossed lightning<END>
 
-//Shoot for adventure<END>
+Shoot for adventure<END>
 
-//Real soccer<END>
+Real soccer<END>
 
-//Defeat : 1-5<END>
+Defeat : 1-5<END>
 
-//SGGK Wakabayashi<END>
+SGGK Wakabayashi<END>
 
-//Kaiser Schneider<END>
+Kaiser Schneider<END>
 
-//Yelling Fire shot<END>
+Yelling Fire shot<END>
 
-//Strength Difference<END>
+Strength Difference<END>
 
-//Victory : 2-1<END>
+Victory : 2-1<END>
 
-//Golden right arm<END>
+Golden right arm<END>
 
-//Drive shoot stoped !<END>
+Drive shoot stoped !<END>
 
-//Italy counter-attack<END>
+Italy counter-attack<END>
 
-//Japan's golden pair<END>
+Japan's golden pair<END>
 
-//Awakening of the tigre<END>
+Awakening of the tigre<END>
 
-//Victory : 5-4<END>
+Victory : 5-4<END>
 
-//Argentina golden pair<END>
+Argentina golden pair<END>
 
-//The round ball prodigy<END>
+The round ball prodigy<END>
 
-//True Drive shoot<END>
+True Drive shoot<END>
 
-//Counter-attack signal !<END>
+Counter-attack signal !<END>
 
-//Skylab twin shoot !<END>
+Skylab twin shoot !<END>
 
-//True team play<END>
+True team play<END>
 
-//Genius Proof<END>
+Genius Proof<END>
 
-//Attack of the Argentina goals !<END>
+Attack of the Argentina goals !<END>
 
-//The glass champion is here !<END>
+The glass champion is here !<END>
 
-//Victory : 4-4 (5-4)<END>
+Victory : 4-4 (5-4)<END>
 
-//The little soccer player is fine<END>
+The little soccer player is fine<END>
 
-//Unexpected : Slider shoot !<END>
+Unexpected : Slider shoot !<END>
 
-//Unexpected yellow card<END>
+Unexpected yellow card<END>
 
-//Home team advantage<END>
+Home team advantage<END>
 
-//True goal<END>
+True goal<END>
 
-//I know nothing but soccer !<END>
+I know nothing but soccer !<END>
 
-//Eiffel Attack<END>
+Eiffel Attack<END>
 
-//Even if my right arm passes...<END>
+Even if my right arm passes...<END>
 
-//Victory : 3-2<END>
+Victory : 3-2<END>
 
-//Wakayabashi's secret document<END>
+Wakayabashi's secret document<END>
 
-//Legendary guardian<END>
+Legendary guardian<END>
 
-//Center forward's Intuition<END>
+Center forward's Intuition<END>
 
-//Fire shot from a dead angle<END>
+Fire shot from a dead angle<END>
 
-//Steel giant<END>
+Steel giant<END>
 
-//Two golden pairs<END>
+Two golden pairs<END>
 
-//Page 52 meaning<END>
+Page 52 meaning<END>
 
-//Why are we on the field<END>
+Why are we on the field<END>
 
-//He's name is Karl Heinz Schneider<END>
+He's name is Karl Heinz Schneider<END>
 
-//On the brink<END>
+On the brink<END>
 
-//Captain Tsubasa<END>
+Captain Tsubasa<END>
 
-//Victory : 3-2<END>
+Victory : 3-2<END>
 
-//Musashi without Misugi<END>
+Musashi without Misugi<END>
 
-//It's a hat-trick<END>
+It's a hat-trick<END>
 
-//Misugi's ultimate attack<END>
+Misugi's ultimate attack<END>
 
-//Prince of the field<END>
+Prince of the field<END>
 
-//The glass champion defeated !<END>
+The glass champion defeated !<END>
 
-//Victory : 4-0<END>
+Victory : 4-0<END>
 
-//Stream of combinations<END>
+Stream of combinations<END>
 
-//Hyuga on the bench ?<END>
+Hyuga on the bench ?<END>
 
-//Cage on wall of steel<END>
+Cage on wall of steel<END>
 
-//Little technician<END>
+Little technician<END>
 
-//Victory : 8-0<END>
+Victory : 8-0<END>
 
-//Who is Toho's center forward ?<END>
+Who is Toho's center forward ?<END>
 
-//I will score again !<END>
+I will score again !<END>
 
-//Toho without Hyuga<END>
+Toho without Hyuga<END>
 
-//Victory : 2-1<END>
+Victory : 2-1<END>
 
-//Sawada in danger !<END>
+Sawada in danger !<END>
 
-//Kamikaze Sliding Squad !<END>
+Kamikaze Sliding Squad !<END>
 
-//We'll tie the score !<END>
+We'll tie the score !<END>
 
-//Until the captain's return...<END>
+Until the captain's return...<END>
 
-//Guardian out of surface<END>
+Guardian out of surface<END>
 
-//Victory : 4-3<END>
+Victory : 4-3<END>
 
-//Drive shoot Power<END>
+Drive shoot Power<END>
 
-//We have to score a goal !<END>
+We have to score a goal !<END>
 
-//Lobed shoot<END>
+Lobed shoot<END>
 
-//Tremble ! A new Wakashimazu<END>
+Tremble ! A new Wakashimazu<END>
 
-//Whatever the number !<END>
+Whatever the number !<END>
 
-//Toho's Golden pair<END>
+Toho's Golden pair<END>
 
-//Budding Genius<END>
+Budding Genius<END>
 
-//Tegatana Defense !<END>
+Tegatana Defense !<END>
 
-//Nankatsu hidden strength<END>
+Nankatsu hidden strength<END>
 
-//Squall<END>
+Squall<END>
 
-//Why are we on the field<END>
+Why are we on the field<END>
 
-//Tragic end<END>
+Tragic end<END>
 
-//Victory : 7-0<END>
+Victory : 7-0<END>
 
-//Avalanche Move, secret technique<END>
+Avalanche Move, secret technique<END>
 
-//Furnao Tempest arrives !<END>
+Furnao Tempest arrives !<END>
 
-//Victory : 4-0<END>
+Victory : 4-0<END>
 
-//Calme decision<END>
+Calme decision<END>
 
-//Bond of friendship<END>
+Bond of friendship<END>
 
-//Sleeping Eagle<END>
+Sleeping Eagle<END>
 
-//Victory : 2-1<END>
+Victory : 2-1<END>
 
-//Golden team<END>
+Golden team<END>
 
-//Key players are in bad shapes<END>
+Key players are in bad shapes<END>
 
-//Goal opportunity missed !<END>
+Goal opportunity missed !<END>
 
-//Explosion !<END>
+Explosion !<END>
 
-//Strike skimming the ground<END>
+Strike skimming the ground<END>
 
-//Furano's spirit<END>
+Furano's spirit<END>
 
-//Victory : 3-2<END>
+Victory : 3-2<END>
 
-//False tackle<END>
+False tackle<END>
 
-//Avalanche Move !<END>
+Avalanche Move !<END>
 
-//the fruit of efforts<END>
+the fruit of efforts<END>
 
-//Beautiful friendship<END>
+Beautiful friendship<END>
 
-//Super long head<END>
+Super long head<END>
 
-//True team play<END>
+True team play<END>
 
-//Furano Strength demonstration<END>
+Furano Strength demonstration<END>
 
-//Presentiment<END>
+Presentiment<END>
 
-//Victory : 3-2<END>
+Victory : 3-2<END>
 
-//I will give it back to you !<END>
+I will give it back to you !<END>
 
-//no one left but Tsubasa !<END>
+no one left but Tsubasa !<END>
 
-//Champions' domination<END>
+Champions' domination<END>
 
-//Roar of the Tiger !<END>
+Roar of the Tiger !<END>
 
-//Snowstorm<END>
+Snowstorm<END>
 
-//Proof of confidence<END>
+Proof of confidence<END>
 
-//Bridge to glory<END>
+Bridge to glory<END>
 
-//Victory : 4-3<END>
+Victory : 4-3<END>
 
-//The Team's star<END>
+The Team's star<END>
 
-//Prince of the field<END>
+Prince of the field<END>
 
-//A life-risking pass<END>
+A life-risking pass<END>
 
-//Unbreakable heart<END>
+Unbreakable heart<END>
 
-//Victory : without Misugi<END>
+Victory : without Misugi<END>
 
-//All primary school<END>
+All primary school<END>
 
-//If Misugi isn't here...<END>
+If Misugi isn't here...<END>
 
-//Tight defensive line<END>
+Tight defensive line<END>
 
-//One more goal !<END>
+One more goal !<END>
 
-//Victory : with Misugi<END>
+Victory : with Misugi<END>
 
-//Reciprocation attack/defense<END>
+Reciprocation attack/defense<END>
 
-//Quick passes<END>
+Quick passes<END>
 
-//The offside trap of Musashi<END>
+The offside trap of Musashi<END>
 
-//Elegant shot<END>
+Elegant shot<END>
 
-//Victory : 3-2<END>
+Victory : 3-2<END>
 
-//Meiwa Kamikaze Sliding Squad<END>
+Meiwa Kamikaze Sliding Squad<END>
 
-//Musashi's players pride<END>
+Musashi's players pride<END>
 
-//Friends with teh same spirit<END>
+Friends with teh same spirit<END>
 
-//The best is yet to come<END>
+The best is yet to come<END>
 
-//Counter-attack countered !<END>
+Counter-attack countered !<END>
 
-//The champion is here !<END>
+The champion is here !<END>
 
-//Victory : more than one goal difference<END>
+Victory : more than one goal difference<END>
 
-//Dazzling fast attack<END>
+Dazzling fast attack<END>
 
-//The champion, Nankatsu<END>
+The champion, Nankatsu<END>
 
-//Here is the prince !<END>
+Here is the prince !<END>
 
-//Champions' duel !<END>
+Champions' duel !<END>
 
-//Special moves clash<END>
+Special moves clash<END>
 
-//The ball disapeared !<END>
+The ball disapeared !<END>
 
-//Elegant combinations<END>
+Elegant combinations<END>
 
-//Switch<END>
+Switch<END>
 
-//Destiny shoot<END>
+Destiny shoot<END>
 
-//Victory : 5 goals on one half<END>
+Victory : 5 goals on one half<END>
 
-//Solitary battle<END>
+Solitary battle<END>
 
-//First contact<END>
+First contact<END>
 
-//Replacement<END>
+Replacement<END>
 
-//Tsubasa aborde son dernier été<LINE>
-//au collège !<LINE>
-//Pour espérer obtenir<LINE>
-//leur troisième titre consécutif,<LINE>
-//gagner le premier match<LINE>
-//est impératif !<END>
+Tsubasa spends his last summer<LINE>
+in college !<LINE>
+Hoping to obtain<LINE>
+their 3rd consecutive title,<LINE>
+they must win the first<LINE>
+match of the tourney !<END>
 
-//Un défi contre d'anciens équipiers<LINE>
-//du Nankatsu SC comme Urabé !<LINE>
-//Est-ce que Nankatsu pourra résister<LINE>
-//aux attaques concentrées autour<LINE>
-//du Tir du faucon de Nitta?<END>
+A challenge against former teammates<LINE>
+of Nankatsu SC like Urabe !<LINE>
+Will Nankatsu resist<LINE>
+Nitta's concentrated attacks<LINE>
+around the Falcon Shoot?<END>
 
-//Le 1er adversaire de Nankatsu pour le<LINE>
-//national sera Azumaichi Junior<LINE>
-//High, l'équipe représentant Osaka<LINE>
-//après avoir battu Naniwa Junior High !<LINE>
-//Souda, le tueur de champions, fera<LINE>
-//tout pour empêcher Tsubasa de réaliser<LINE>
-//son objectif !<END>
+Nankatsu's 1st adversary for the<LINE>
+nationals will be Azumaichi Junior<LINE>
+High, the team representing Osaka<LINE>
+after beating Naniwa Junior High !<LINE>
+Souda, the champions' slayer, will<LINE>
+do everything to stop tsubasa from<LINE>
+reaching his objective !<END>
 
-//Les frères Tachibana reviennent<LINE>
-//avec plus d'un tour dans leur sac !<LINE>
-//Est-ce que Nankatsu saura se défaire<LINE>
-//de leurs mid-air moves aériens ?<END>
+The Tachibana brothers are back with<LINE>
+more than one trick up their sleeves !<LINE>
+Will Nankatsu dispose<LINE>
+of their aero mid-air moves ?<END>
 
-//Surprise du tournoi, l'équipe<LINE>
-//Hirado Junior High s'est hissée<LINE>
-//à ce stade de la compétition<LINE>
-//de par leur potentiel encore inconnu.<LINE>
-//Quel genre de jeu nous réserve le duo<LINE>
-//de l'avant-centre Sano<LINE>
-//et le défenseur Jito ?<END>
+Surprise of the tournament, team<LINE>
+Hirado Junior High has climbed<LINE>
+to this level of the competition<LINE>
+with their still unknown potential.<LINE>
+What type of game will the duo,<LINE>
+Sano the forward center and Jito<LINE>
+the defender will provide us with ?<END>
 
-//Dans les demi-finales, Nankatsu<LINE>
-//se verra opposer à Furano Junior High.<LINE>
-//Cette équipe s'est hissée jusqu'à ce<LINE>
-//stade de la compétition en développant<LINE>
-//un jeu d'équipe sans égal.<LINE>
-//Le duel entre les deux capitaines<LINE>
-//floqués du nº 10 va commencer !<END>
+In the Semifinals, Nankatsu<LINE>
+will face Furano Junior High.<LINE>
+This team climbed up to this<LINE>
+level of the competition developing<LINE>
+an unequal team play.<LINE>
+The duel between the two captains<LINE>
+flocked with nº 10 will begin !<END>
 
-//Toho est déterminée à battre<LINE>
-//son adversaire Nankatsu qui vise<LINE>
-//son troisième titre consécutif,<LINE>
-//et ainsi remporter<LINE>
-//son premier championnat.<LINE>
-//Laquelle des 2 équipes l'emportera ?<END>
+Toho is determined on defeating<LINE>
+it's adversary Nankatsu, which aims<LINE>
+for a 3rd consécutive title,<LINE>
+and take it's<LINE>
+1st championship.<LINE>
+Which team will get out victorious ?<END>
 
-//L'histoire d'une rencontre entre<LINE>
-//Shingo Aoi, jeune joueur d'une<LINE>
-//école inconnue qui porte sur ses<LINE>
-//épaules le futur du football japonais, <LINE>
-//et Tsubasa Ozora.<END>
+The tale of the encounter of<LINE>
+Shingo Aoi, young player of<LINE>
+an unknown school who lifts on his shoulders<LINE>
+the future of the japanese soccer, <LINE>
+and Tsubasa Ozora.<END>
 
-//La tournée européenne commence,<LINE>
-//et le premier adversaire du Japon<LINE>
-//est une sélection de joueurs<LINE>
-//du championnat allemand incluant<LINE>
-//leur ex-coéquipier Wakabayashi !<END>
+The European tour begins,<LINE>
+and teh first adversary against Japan<LINE>
+is a selection of players<LINE>
+of the german championship including<LINE>
+their ex-teammate Wakabayashi !<END>
 
-//La première équipe à se dresser<LINE>
-//devant le Japon dans le French<LINE>
-//International Junior Youth Tournament<LINE>
-//est l'Italie, dont le gardien Gino<LINE>
-//est connu pour sa défense parfaite.<END>
+The first team to go out<LINE>
+against Japan in the French<LINE>
+International Junior Youth Tournament<LINE>
+is Italy, whose GK Gino<LINE>
+is known for his perfect defense.<END>
 
-//L'Argentine menée par Fan Diaz,<LINE>
-//un surdoué du ballon, affronte<LINE>
-//le Japon et son prodige Tsubasa Ozora.<LINE>
-//Le duel entre ces deux génies<LINE>
-//peut commencer !<END>
+Led by Fan Diaz,<LINE>
+a gifted player, Argentina faces<LINE>
+Japan and it's prodigy Tsubasa Ozora.<LINE>
+The duel between thse two geniuses<LINE>
+can begin !<END>
 
-//Pays organisateur de ce tournoi,<LINE>
-//la France a réuni<LINE>
-//ses meilleurs joueurs, parmi lesquels<LINE>
-//Pierre qui révélera son jeu artistique<LINE>
-//face au Japon.<END>
+The tournament host country,<LINE>
+France reunited it's best<LINE>
+players, inculding<LINE>
+Pierre who will reveal his artistic play<LINE>
+against Japan.<END>
 
-//Le Japon est à une Victory du titre,<LINE>
-//mais le voici confronté<LINE>
-//à la plus redoutable des équipes.<LINE>
-//Sauront-ils arrêter le Kaizer,<LINE>
-//Schneider, et venir à bout<LINE>
-//du renommé gardien Muller ?<END>
+Japan is a victory close to the title,<LINE>
+but here he is standing against<LINE>
+the most strongest team of all.<LINE>
+Will they be able to stop the Kaizer,<LINE>
+Schneider, and overcome<LINE>
+the legendary GK Muller ?<END>
 
-//DUMMY_F<END>
+DUMMY_F<END>
 
-//DUMMY_F<END>
+DUMMY_F<END>
 
-//DUMMY_F<END>
+DUMMY_F<END>
 
-//DUMMY_F<END>
+DUMMY_F<END>
 
-//DUMMY_F<END>
+DUMMY_F<END>
 
-//DUMMY_F<END>
+DUMMY_F<END>
 
-//DUMMY_F<END>
+DUMMY_F<END>
 
-//DUMMY_F<END>
+DUMMY_F<END>
 
-//DUMMY_F<END>
+DUMMY_F<END>
 
-//DUMMY_F<END>
+DUMMY_F<END>
 
-//DUMMY_F<END>
+DUMMY_F<END>
 
-//Pour la troisième année consécutive,<LINE>
-//Toho accède sans forcer<LINE>
-//à la finale régionale !<LINE>
-//Toho battra-t-il son adversaire<LINE>
-//mené par le prodigieux Jun Misugi,<LINE>
-//pour ainsi décrocher son billet<LINE>
-//pour le tournoi national ?<END>
+For the 3rd consecutive time,<LINE>
+Toho access the regional finals<LINE>
+without breaking a sweat !<LINE>
+Will Toho defeat their adversary<LINE>
+led by the prodigy Jun Misugi,<LINE>
+and to win their ticket<LINE>
+to the national tournament?<END>
 
-//Grâce à sa Victory sur Musashi,<LINE>
-//Toho accède en national !<LINE>
-//Le premier match pour la conquête<LINE>
-//du titre va commencer !<END>
+Thanks to their victory on Musashi,<LINE>
+Toho access the nationals !<LINE>
+The first match for the title<LINE>
+conquest will now begin !<END>
 
-//Toho aborde son deuxième match<LINE>
-//du tournoi sans Hyuga,<LINE>
-//exclu par l'entraîneur Kitazumé.<LINE>
-//Pourront-ils gagner<LINE>
-//sans leur champion ?<LINE>
-//Comment Hyuga va-t-il réagir ?<END>
+Toho takes on the 2nd match<LINE>
+of the tournament without Hyuga,<LINE>
+excluded by coach Kitazume.<LINE>
+Could they win<LINE>
+without their champion ?<LINE>
+How Hyuga will react ?<END>
 
-//En demi-finale du tournoi national,<LINE>
-//Toho affrontera Meiwa-Higashi<LINE>
-//composé d'anciens équipiers de Hyuga,<LINE>
-//Sawa et Wakashimazu.<LINE>
-//Comment l'équipe de Toho<LINE>
-//menée par Sawada va-t-elle s'y prendre<LINE>
-//contre Meiwa-Higashi ?<END>
+In the semifinals of the nationals,<LINE>
+Toho faces Meiwa-Higashi<LINE>
+composed of former teammats of Hyuga,<LINE>
+Sawa et Wakashimazu.<LINE>
+How Toho<LINE>
+led by Sawada will take it<LINE>
+against Meiwa-Higashi ?<END>
 
-//La finale opposera à nouveau Toho<LINE>
-//au champion Nankatsu Junior High<LINE>
-//mené par Tsubasa,<LINE>
-//qui vise son 3ème titre consécutif !<LINE>
-//C'est l'occasion pour Toho<LINE>
-//de remporter son premier titre<LINE>
-//et mettre fin au règne de Nankatsu !<END>
+The finals will put Toho against<LINE>
+the champion Nankatsu Junior High<LINE>
+led by Tsubasa,<LINE>
+whose aiming for a 3rd consecutive title !<LINE>
+It's the shot for Toho<LINE>
+to claim theiur first title<LINE>
+and end the reign Nankatsu !<END>
 
-//Le titre de Hokkaido Regional est à<LINE>
-//portée de main de Furano Junior High.<LINE>
-//Avec un jeu d'équipe bien huilé,<LINE>
-//ils visent une place<LINE>
-//pour le tournoi national !<END>
+The Hokkaido Regionals' title is close<LINE>
+to be obtained by Furano Junior High.<LINE>
+With a greased team play,<LINE>
+They're aiming a place<LINE>
+in the national tounament !<END>
 
-//Après avoir remporté<LINE>
-//le Hokkaido Regional,<LINE>
-//Furano Junior High battra-t-il<LINE>
-//l'équipe de Suwa Junior High,<LINE>
-//son premier adversaire<LINE>
-//dans le national ?<END>
+After winning<LINE>
+thee Hokkaido Regional,<LINE>
+will Furano Junior High defeat<LINE>
+Suwa Junior High team,<LINE>
+their 1st adversary<LINE>
+in the nationals ?<END>
 
-//Furano affrontera Minamiuwa<LINE>
-//en quart de finale.<LINE>
-//Encore un match et ils seront opposés<LINE>
-//à Nankatsu.<LINE>
-//Furano pourra-t-il continuer<LINE>
-//sur sa lancée ?<END>
+Furano will face Minamiuwa<LINE>
+in the quarterfinals.<LINE>
+One match left before opposing<LINE>
+Nankatsu team.<LINE>
+Could Furano continue<LINE>
+it's momentum ?<END>
 
-//C'est le moment de vérité !<LINE>
-//Les voilà opposés à Nankatsu<LINE>
-//et leur puissant jeu d'équipe !<LINE>
-//Parviendront-ils à décrocher<LINE>
-//leur ticket pour la finale ?<END>
+It's the moment of truth !<LINE>
+Here they are opposing Nankatsu<LINE>
+and their undefeatable team play !<LINE>
+Will they be able to win<LINE>
+their ticket to the finals ?<END>
 
-//Le titre est à portée de main !<LINE>
-//Furano affronte la redoutable équipe<LINE>
-//de Toho.<LINE>
-//Le destin a réuni Matsuyama et Hyuga<LINE>
-//dans cette bataille pour le titre !<END>
+The title is so close !<LINE>
+Furano faces the dreadful team<LINE>
+Toho.<LINE>
+The destiny reunited Matsuyama et Hyuga<LINE>
+in this battle for the title !<END>
 
-//Toho domine<LINE>
-//Musashi Junior High, et contraint<LINE>
-//Jun Misugi, le Prince du terrain,<LINE>
-//à revenir sur le terrain<LINE>
-//après deux années d'absence<LINE>
-//pour aider à renverser la situation !<END>
+Toho dominates<LINE>
+Musashi Junior High, and forces<LINE>
+Jun Misugi, the Prince of the field,<LINE>
+to get back to the ground<LINE>
+after two years of absence<LINE>
+to help reverse the situation !<END>
 
-//Musashi Junior High décide<LINE>
-//de préserver Misugi pour ce match.<LINE>
-//Seront-ils capables de l'emporter<LINE>
-//sans Misugi sur le terrain ?<END>
+Musashi Junior High decides<LINE>
+to preserve Misugi for this match.<LINE>
+Will they be able to win<LINE>
+without Misugi on the field ?<END>
 
-//Est-ce que Musashi ne repose que sur<LINE>
-//les épaules de Misugi ? C'est en tout<LINE>
-//cas ce qu'affirme l'équipe de Konishi<LINE>
-//Junior High qui pense gagner<LINE>
-//facilement sans Misugi sur le terrain.<END>
+Does Musashi always base on Misugi ?<LINE>
+Affirmed in all cases<LINE>
+by team Konishi Junior High<LINE>
+whose thinking to win<LINE>
+easely without Misugi on the field.<END>
 
-//"On était censés battre Hyuga !"<LINE>
-//Meiwa-Higashi a rassemblé<LINE>
-//les meilleurs éléments qui composaient<LINE>
-//anciennement l'équipe de Meiwa FC,<LINE>
-//et va maintenant attaquer Musashi !<END>
+"We were supposed to beat Hyuga !"<LINE>
+Meiwa-Higashi gathered<LINE>
+the best elements whome formaly<LINE>
+composed Meiwa FC team,<LINE>
+and will now strike Musashi !<END>
 
-//La finale opposera les deux prodiges<LINE>
-//Misugi et Tsubasa !<LINE>
-//Misugi arrivera-t-il à prendre<LINE>
-//sa revanche sur Tsubasa<LINE>
-//qui l'avait battu il y a trois ans ?<END>
+The finals will pit the two prodigies<LINE>
+Misugi et Tsubasa !<LINE>
+Will Misugi be able to take<LINE>
+revenge on Tsubasa<LINE>
+who defeated him 3 years before ?<END>
 
-//Joue un match amical contre <LINE>
-//une équipe spécialisée<LINE>
-//dans les passes.<END>
+Play an amical match against<LINE>
+a team specilazied<LINE>
+in passing.<END>
 
-//Joue un match amical contre<LINE>
-//une équipe spécialisée<LINE>
-//dans les interceptions.<END>
+Play an amical match against<LINE>
+a team specilazied<LINE>
+in interception.<END>
 
-//Joue un match amical contre<LINE>
-//une équipe de niveau<LINE>
-//égal.<END>
+Play an amical match against<LINE>
+a team with<LINE>
+an equal level.<END>
 
-//Joue un match amical contre<LINE>
-//une équipe spécialisée<LINE>
-//dans les blocages.<END>
+Play an amical match against<LINE>
+a team specilazied<LINE>
+in blocking.<END>
 
-//Joue un match amical contre<LINE>
-//une équipe spécialisée<LINE>
-//dans les tirs.<END>
+Play an amical match against<LINE>
+a team specilazied<LINE>
+in shooting.<END>
 
-//DUMMY_F<END>
+DUMMY_F<END>
 
-//DUMMY_F<END>
+DUMMY_F<END>
 
-//DUMMY_F<END>
+DUMMY_F<END>
 
-//DUMMY_F<END>
+DUMMY_F<END>
 
-//<LINE>
-//Nankatsu Junior High mené par Tsubasa<LINE>
-//Ozora va tenter de gagner son 3e<LINE>
-//titre consécutif !<END>
+<LINE>
+Led by Tsubasa OzaruNankatsu Junior High<LINE>
+will attempt to win it's 3rd<LINE>
+consecutive title !<END>
 
-//Sélectionnés du National Junior High<LINE>
-//School Tournament, Tsubasa et les<LINE>
-//joueurs de Japan's National Junior<LINE>
-//Youth vont conquérir le French<LINE>
-//International Jr. Youth Tournament !<END>
+Selected from the National Junior High<LINE>
+School Tournament, Tsubasa and the<LINE>
+players of Japan's National Junior<LINE>
+Youth will conquer the French<LINE>
+International Jr. Youth Tournament !<END>
 
-//Finaliste depuis 2 années de suite,<LINE>
-//un nouveau Toho se prépare<LINE>
-//à prendre sa revanche sur Nankatsu<LINE>
-//et à remporter leur premier tournoi !<END>
+Finalist for 2 consecutive years,<LINE>
+a new Toho prepares<LINE>
+to take revenge on Nankatsu<LINE>
+and to win their first tounament !<END>
 
-//Venu de Hokkaido, Furano Junior High,<LINE>
-//réputé pour son jeu d'équipe parfait,<LINE>
-//est prête à déferler sur le tournoi<LINE>
-//sous la houlette de Matsuyama !<END>
+Coming from Hokkaido, Furano Junior High,<LINE>
+known for it's perfect team play,<LINE>
+is ready to surge on the tournament<LINE>
+under the lead of Matsuyama !<END>
 
-//Après 2 ans de rééducation, Misugi,<LINE>
-//le Prince du terrain, revient sur<LINE>
-//les terrains. Assistera-t-on à nouveau<LINE>
-//à un duel entre Tsubasa et lui ?<END>
+After 2 years of re-education, Misugi,<LINE>
+The Prince of the field, comes back<LINE>
+to the ground. Will we assist again<LINE>
+to a confrontation between Tsubasa and him ?<END>
 
-//Tu as rejoint la célèbre équipe de<LINE>
-//Nankatsu ! Deviens le capitaine qui<LINE>
-//saura surpasser les talents de ton<LINE>
-//coéquipier Tsubasa Ozora !<END>
+You have joined the legendary team of<LINE>
+Nankatsu ! Become captain who<LINE>
+will surpass your teammate's,<LINE>
+Tsubasa Ozora, talents !<END>
 
-//Joue un match amical.<END>
+Play an amical match.<END>
 
-//TOUT POUR MARQUER<END>
+ANYTHING TO SCORE<END>
 
-//Une équipe de Shizuoka contre laquelle<LINE>
-//Nankatsu a joué<LINE>
-//dans le tournoi régional.<LINE>
-//Une Victory sans avoir pris un but<LINE>
-//sera l'idéal. <END>
+A team from Shizuoka against which<LINE>
+Nankatsu played<LINE>
+in the regional tournament.<LINE>
+A clean victory, without a single goal<LINE>
+against you would be great.<END>
 
-//Déjouer le Quartet d'Otomo<LINE>
-//composé d'anciens équipiers<LINE>
-//de Nankatsu SC comme Urabé, Nakayama,<LINE>
-//Kishida et Nishio, est impératif !<LINE>
-//Il faudra aussi garder un œil<LINE>
-//sur les contre-attaques de Nitta<LINE>
-//et son Tir du faucon !<END>
+Thwart Otomo's Quartet<LINE>
+composed of former teammates<LINE>
+from Nankatsu SC like Urabe, Nakayama,<LINE>
+Kishida and Nishio, is imperative !<LINE>
+You'll have to keep an eye<LINE>
+on Nitta's counter-attacks<LINE>
+and his Falcon Shoot !<END>
 
-//Le prochain adversaire est<LINE>
-//le représentant d'Osaka,<LINE>
-//Azumaichi Junior High !<LINE>
-//L'équipe joue autour de son capitaine<LINE>
-//et défenseur Souda.<LINE>
-//Fais très attention à ses tirs<LINE>
-//et ses tacles surnommés "Rasoirs" !<END>
+The next adversary is<LINE>
+the representative of Osaka,<LINE>
+Azumaichi Junior High !<LINE>
+The team play around their captain<LINE>
+and defender Souda.<LINE>
+Watch out for his shoots<LINE>
+and his tackles labeled "Razors" !<END>
 
-//Le prochain match se jouera<LINE>
-//contre les représentants d'Akita,<LINE>
-//Hanawa Junior High.<LINE>
-//Sauras-tu venir à bout<LINE>
-//de l'extraordinaire jeu aérien des<LINE>
-//jumeaux Tachibana, Masao et Kazuo ?<END>
+The next match will be played<LINE>
+against teh representative of Akita,<LINE>
+Hanawa Junior High.<LINE>
+Can you overcome the extraordinary<LINE>
+aero play of the<LINE>
+Tachibana Twins, Masao and Kazuo ?<END>
 
-//Hirado Junior High, représentant de<LINE>
-//Nagasaki, est le prochain adversaire.<LINE>
-//Fais attention à ne pas te laisser<LINE>
-//surprendre par les combinaisons du<LINE>
-//puissant Jito et de l'agile Sano !<END>
+Hirado Junior High, representative of<LINE>
+Nagasaki, is your next adversary.<LINE>
+Be careful not to let yourself<LINE>
+surprised by the powerful combinations<LINE>
+of Jito and from the agile Sano !<END>
 
-//Les représentants de Hokkaido,<LINE>
-//Furano Junior High, menés par<LINE>
-//leur capitaine Matsuyama, sont connus<LINE>
-//pour leur excellent jeu d'équipe.<LINE>
-//Attention à leur avalanche offensive !<LINE>
-//Ils sont égalemement très coriaces<LINE>
-//en seconde mi-temps !<END>
+The representative of Hokkaido,<LINE>
+Furano Junior High, led by<LINE>
+their captain Matsuyama, are known<LINE>
+for their excellent team play.<LINE>
+Watch out for their defensive avalanche!<LINE>
+They are also really tough<LINE>
+in the second half !<END>
 
-//Kojiro Hyuga, le tigre féroce,<LINE>
-//mène cette redoutable équipe<LINE>
-//ayant partagé le titre au Junior High<LINE>
-//School Tournament avec Nankatsu.<LINE>
-//Elle dispose d'éléments<LINE>
-//de la All Japan Team comme Sawada,<LINE>
-//Wakashimazu et Sorimachi.<END>
+Kojiro Hyuga, the ferocious tiger,<LINE>
+Lead this dreadful team<LINE>
+having shared the title in Junior High<LINE>
+School Tournament with Nankatsu.<LINE>
+It contains elements<LINE>
+of the All Japan Team like Sawada,<LINE>
+Wakashimazu and Sorimachi.<END>
 
-//Le FC Allemagne regroupe<LINE>
-//le dangereux avant-centre Schneider,<LINE>
-//le milieu de terrain Karltz,<LINE>
-//et le gardien Wakabayashi.<LINE>
-//Sauras-tu faire face<LINE>
-//à cette équipe de classe mondiale ?<END>
+The FC Germany includes<LINE>
+the dangerous center forward Schneider,<LINE>
+the center field Karltz,<LINE>
+and the GK Wakabayashi.<LINE>
+Can you face<LINE>
+this world-class team ?<END>
 
-//C'est un match contre l'Italie,<LINE>
-//l'équipe connue comme étant<LINE>
-//la plus défensive.<LINE>
-//Pourras-tu l'emporter face<LINE>
-//au Perfect Keeper Gino Hernandez ?<END>
+It's a match against Italy,<LINE>
+this team known for<LINE>
+it's legendary defensive skills.<LINE>
+Can you win against<LINE>
+the Perfect Keeper Gino Hernandez ?<END>
 
-//Te voilà confronter à l'Argentine<LINE>
-//et au célèbre Diaz, un prodige du<LINE>
-//ballon de ces dix dernières années !<END>
+Here you are standing against Argentina<LINE>
+and the famous Diaz, a prodigy of<LINE>
+soccer for the last 10 years !<END>
 
-//Le compétiteur suivant est la France,<LINE>
-//dont on dit que le style de jeu<LINE>
-//élégant captive les foules !<LINE>
-//Ne te laisse pas avoir<LINE>
-//par leur milieu de terrain, Pierre,<LINE>
-//ni par leur avant-centre Napoléon,<LINE>
-//et décroche la Victory !<END>
+The next competitive is France,<LINE>
+which is said to have an elegant style<LINE>
+game, capting the crowds !<LINE>
+Don't let your guard down<LINE>
+against their middle fielder, Pierre,<LINE>
+nor their forward center Napoléon,<LINE>
+and take the victory !<END>
 
-//L'Allemagne est une équipe<LINE>
-//de classe mondiale.<LINE>
-//Les feintes ne seront pas suffisantes<LINE>
-//contre cette équipe,<LINE>
-//et il faudra tout donner<LINE>
-//pour obtenir la Victory !<END>
+Germany is a world-class<LINE>
+team.<LINE>
+The feints will not be enough<LINE>
+against this team,<LINE>
+and you'll have to give everything<LINE>
+to obtain the victory !<END>
 
-//Ton adversaire est l'Angleterre,<LINE>
-//connue comme le berceau du football !<LINE>
-//Prends garde à leurs attaques<LINE>
-//par les ailes, lancées depuis<LINE>
-//une défense efficace et centrée<LINE>
-//autour de leur capitaine Robson.<END>
+Your adversary is England,<LINE>
+Known as the cradle of soccer!<LINE>
+Watch out for their attacks<LINE>
+by the wings, launched from<LINE>
+an effective and centralized defense<LINE>
+around their captain Robson.<END>
 
-//Le match suivant est contre l'Uruguay,<LINE>
-//une des meilleures équipes<LINE>
-//d'Amérique du Sud !<LINE>
-//Attention à leurs attaques rapides,<LINE>
-//et en particulier à leur avant-centre,<LINE>
-//Victorino, et décroche la Victory !<END>
+The next match is against Uruguay,<LINE>
+one of the most magnificent teams<LINE>
+of South America !<LINE>
+Watch out for their fast attacks,<LINE>
+and specifically their center forward,<LINE>
+Victorino, and take the victory !<END>
 
-//Cette équipe regroupe<LINE>
-//les meilleurs joueurs<LINE>
-//sélectionnés par Yoichi Takahashi,<LINE>
-//le créateur de "Captain Tsubasa" !<LINE>
-//Penses-tu vraiment pouvoir gagner<LINE>
-//contre celle-ci ?<END>
+This team includes<LINE>
+the best players<LINE>
+selected by Yoichi Takahashi,<LINE>
+the creator of "Captain Tsubasa" !<LINE>
+Can you really take the<LINE>
+ultimate win with your team ?<END>
 
 <END>
 
