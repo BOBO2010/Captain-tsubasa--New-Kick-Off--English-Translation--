@@ -943,11 +943,11 @@
 
 //Power defense<END>
 
-//Dribble on lign<END>
+//Dribble on line<END>
 
-//Super long head<END>
+//Super long header<END>
 
-//Jet head<END>
+//Jet header<END>
 
 //Goal no matter what<END>
 
@@ -961,7 +961,7 @@
 
 //Face down bicycle<END>
 
-//Drive shoot<END>
+//Drive shot<END>
 
 //Drive overhead<END>
 
@@ -973,7 +973,7 @@
 
 //Otomo's Quartet<END>
 
-//Hawk shoot<END>
+//Hawk shot<END>
 
 //Speedy<END>
 
@@ -983,7 +983,7 @@
 
 //Prince of the field<END>
 
-//Glass shoot<END>
+//Glass shot<END>
 
 //Winged interception<END>
 
@@ -991,37 +991,37 @@
 
 //Forced dribble<END>
 
-//Technical Dribble<END>
+//Technical dribble<END>
 
-//Kamikaze shoot<END>
+//Kamikaze shot<END>
 
 //Kamikaze check<END>
 
-//Razoz pass<END>
+//Razor pass<END>
 
-//Razor shoot<END>
+//Razor shot<END>
 
 //Snake block<END>
 
 //Razor tackle<END>
 
-//Skylab shoot<END>
+//Skylab shot<END>
 
 //Skylab cut<END>
 
-//Triangle shoot<END>
+//Triangle shot<END>
 
-//Skylab twin shoot<END>
+//Skylab twin shot<END>
 
 //Backspin pass<END>
 
-//Shoot strength<END>
+//Shot strength<END>
 
 //Dribble strength<END>
 
 //Like a feather<END>
 
-//Surprise head<END>
+//Surprise header<END>
 
 //Quick setting<END>
 
@@ -1091,11 +1091,11 @@
 
 //Shot in the air<END>
 
-//Canon shoot<END>
+//Canon shot<END>
 
 //Elegant dribble<END>
 
-//Slider shoot<END>
+//Slider shot<END>
 
 //elegant tackle<END>
 
@@ -1103,7 +1103,7 @@
 
 //Napalm head<END>
 
-//Napalm shoot<END>
+//Napalm shot<END>
 
 //Mirage dribble<END>
 
@@ -1121,7 +1121,7 @@
 
 //Hedgehog dribble<END>
 
-//Lobbing shoot<END>
+//Lobbing shot<END>
 
 //Steel giant<END>
 
@@ -1133,21 +1133,21 @@
 
 //Lightning switch<END>
 
-//Laser shoot<END>
+//Laser shot<END>
 
 //Super reaction<END>
 
 //Open fire<END>
 
-//Twin shoot<END>
+//Twin shot<END>
 
-//Twin shoot<END>
+//Twin shot<END>
 
-//Twin shoot<END>
+//Twin shot<END>
 
-//Twin shoot<END>
+//Twin shot<END>
 
-//Twin shoot<END>
+//Twin shot<END>
 
 //Golden pair<END>
 
@@ -1702,7 +1702,7 @@
 //Increases "Shoot".<END>
 
 //Decrease consumption<LINE>
-//of Blance Gauge<END>
+//of Balance Gauge<END>
 
 //Strongly increase<LINE>
 //"Strength".<END>
@@ -1726,7 +1726,7 @@
 //"Shoot".<END>
 
 //Strongly decrease<LINE>
-//consumption of Blance Gauge.<END>
+//consumption of Balance Gauge.<END>
 
 //Increases "Strength" and<LINE>
 //"Shoot".<END>
@@ -1990,7 +1990,7 @@
 //and "Shoot".<END>
 
 //Allow super<LINE>
-//powerful shoots.<END>
+//powerful shots.<END>
 
 //Penetrate adversary<LINE>
 //defenses.<END>
@@ -2002,7 +2002,7 @@
 //Balance sens.<END>
 
 //Allow super<LINE>
-//powerful shoots.<END>
+//powerful shots.<END>
 
 //Penetrate adversary<LINE>
 //defenses.<END>
@@ -2010,7 +2010,7 @@
 //Allow very<LINE>
 //close passes.<END>
 
-//Allow you to<LINE>
+//Allows you to<LINE>
 //play longer.<END>
 
 //Strongly increase success<LINE>
@@ -2036,7 +2036,7 @@
 
 //Makes you want to outflank on<LINE>
 //the right wing. Allow usage of<LINE>
-//"Dribble on the lign".<END>
+//"Dribble on the line".<END>
 
 //Grant huge courage.<LINE>
 //Allow usage of "Super<LINE>
@@ -2097,7 +2097,7 @@
 //of "Hawk shoot".<END>
 
 //Makes you faster,<LINE>
-//allow usage<LINE>
+//allows usage<LINE>
 //of "Speedy".<END>
 
 //Allows you to take<LINE>
@@ -2112,72 +2112,72 @@
 
 //Grabts you a prince's<LINE>
 //imposing.<LINE>
-//Allow usage of<LINE>
+//Allows usage of<LINE>
 //"Prince of the field".<END>
 
 //Once you wear them, these<LINE>
 //spikes gives you a big<LINE>
-//determination. Allow<LINE>
+//determination. Allows<LINE>
 //usage of "Glass shoot".<END>
 
 //Makes you faster than sound,<LINE>
 //and allow usage<LINE>
 //of "Winged Interception".<END>
 
-//Allow stronger<LINE>
+//Allows stronger<LINE>
 //heads,<LINE>
 //and usage<LINE>
 //of "Strength head".<END>
 
 //Makes you stronger,<LINE>
-//and allow usage<LINE>
+//and allows usage<LINE>
 //of "Forced Dribble".<END>
 
 //Increases your technique,<LINE>
-//and allow usage<LINE>
+//and allows usage<LINE>
 //of "Technique Dribble".<END>
 
 //Makes you want to hit<LINE>
 //the ball.<LINE>
-//Allow usage of<LINE>
+//Allows usage of<LINE>
 //"Kamikaze sliding".<END>
 
 //Grants Meiwa FC<LINE>
 //Players' experience.<LINE>
-//Allow usage of<LINE>
+//Allows usage of<LINE>
 //"Kamikaze sliding".<END>
 
 //Twist ball trajectory.<LINE>
-//Allow usage of<LINE>
+//Allows usage of<LINE>
 //"Razor Pass".<END>
 
-//Allow Sharp shooting,<LINE>
+//Allows Sharp shooting,<LINE>
 //and usage<LINE>
-//of "Razor Shooting".<END>
+//of "Razor Shot".<END>
 
 //Gives the tenacity<LINE>
 //of a snake.<LINE>
-//Allow usage of<LINE>
+//Allows usage of<LINE>
 //"Snake block".<END>
 
 //Shinguards Making it<LINE>
-//easier against à champion.<LINE>
-//Allow usage<LINE>
+//easier against a champion.<LINE>
+//Allows usage<LINE>
 //of "Razor tackling".<END>
 
 //Gives the desire<LINE>
 //to jump up the air.<LINE>
-//Allow usage of<LINE>
+//Allows usage of<LINE>
 //"Triangle shoot".<END>
 
-//Allow set an effect<LINE>
+//Allows to set an effect<LINE>
 //on the ball,<LINE>
 //and usage<LINE>
 //of "Backspin pass".<END>
 
 //A huge force emanates<LINE>
 //from these crampons.<LINE>
-//Allow usage of<LINE>
+//Allows usage of<LINE>
 //"forced Shooting".<END>
 
 //Grants a strong feeling<LINE>
